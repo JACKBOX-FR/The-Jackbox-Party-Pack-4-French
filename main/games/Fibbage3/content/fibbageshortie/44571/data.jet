@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parcs aquatiques, gymnases, banques, musées, tables de ping-pong, salles de jeux vidéo, sièges sociaux, salons de massage, statues, magasins de jouets, tours de guet, arènes de paintball, points d'accès Wi-Fi, grottes d'hommes, bunkers, pubs irlandais, téléphones, Taco Bells ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Militaire finlandais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "saunas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L’armée finlandaise est unique en ce sens qu’elle fournit à ses troupes des <BLANK> mobiles. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sauna, salles de sauna, tentes de sauna ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je blâme le complexe industriel des saunas. ",
+      "t": "A",
+      "v": "591527_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'armée finlandaise est unique en ce sens qu'elle fournit à ses troupes des <BLANK> mobiles. ",
+      "t": "A",
+      "v": "591524_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

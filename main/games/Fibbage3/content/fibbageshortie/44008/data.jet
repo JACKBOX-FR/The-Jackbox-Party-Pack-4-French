@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bibles, pièces de Shakespeare, pudding du Yorkshire, trousses de premiers secours, lait en poudre, pommade contre les poux de crabe, boîtes à biscuits, pierres, colliers de chiens de garde, chauves-souris de cricket, bovins britanniques importés, rouleaux de papier toilette, BMW, harengs, lettres de la maison, cordes de corde, rations d'alcool, matelas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "S'échapper ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jeux de monopole ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la Seconde Guerre mondiale, les Britanniques ont aidé leurs soldats capturés à s'échapper des camps de prisonniers allemands en cachant des boussoles, des dossiers et des cartes à l'intérieur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "monopole,monnopoly,monoppoly,monply,jeux de société,jeux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le plus difficile était de transporter suffisamment d'eau potable dans ce petit dé à coudre. ",
+      "t": "A",
+      "v": "575546_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant la Seconde Guerre mondiale, les Britanniques ont aidé leurs soldats capturés à s'échapper des camps de prisonniers allemands en cachant des boussoles, des dossiers et des cartes à l'intérieur de <BLANK>. ",
+      "t": "A",
+      "v": "575543_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

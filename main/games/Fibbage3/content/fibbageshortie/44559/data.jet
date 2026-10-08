@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je l'ai détesté, Je l'ai vu en premier, J'ai vendu la salle, J'ai vomi, j'ai tout regardé, Je pourrais tout citer, Je pourrais faire un meilleur film, organiser une projection avancée, Je me suis marié lors d'une projection, Je l'ai projeté lors d'un mariage, Je l'ai vu à Halloween, je suis devenu un vampire, j'ai vu un fantôme, j'ai tué un loup-garou, j'ai maudit le film, j'ai boycotté le film, je portais un costume de squelette, je pouvais deviner la fin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cascades de films ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Mort de peur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le réalisateur William Castle a fait la publicité de son film <i>Macabre</i> en offrant 1 000 $ à tout membre du public qui <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mort, teint, mort de frite, le film a tué, mort en le regardant, mort de frite ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le réalisateur William Castle a fait la publicité de son film <i>Macabre</i> en offrant 1 000 $ à tout membre du public qui <BLANK>. ",
+      "t": "A",
+      "v": "591164_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

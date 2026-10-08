@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Écosse : c'est surtout de la boisson,Écosse : non, vous pensez à l'Irlande,Vous aimerez les châteaux ?,Le berceau du golf,Nous avons Sean Connery,Îles d'aventure,Un kilt plein de possibilités,Écosse : Il ne peut y en avoir qu'un,Il n'y a pas de pays comme celui-là,Où est l'audace,La maison de Scrige McDuck,Loch Stock and Barrel,Où les robes sont des pantalons !,Ce son terrible est cornemuse, maintenant avec les lutins, aucun brave n'est arrivé, sortez, surveillez-vous bub ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Slogans écossais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bienvenue en Ecosse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2007, l'Écosse a dépensé 125 000 £ pour une nouvelle campagne touristique. Le résultat fut le slogan séduisant : « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bienvenue en Ecosse !,Bienvenue en Ecosse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vaut chaque centime. ",
+      "t": "A",
+      "v": "688242_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2007, l'Écosse a dépensé 125 000 livres pour une nouvelle campagne touristique. Le résultat fut le slogan séduisant : « <BLANK> ».",
+      "t": "A",
+      "v": "688239_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bébés|tout-petits,chuchotements|cris,nourriture|eau,câlins|poignées de main,contact visuel|rires,poignarder|tirer sur des clients,pleurs|un sentiment de malheur,petit déjeuner|dîner,amour|pulsions biologiques,Action de grâces|Noël,sous-vêtements serrés|pantalons révélateurs,leurs parents|proches,les actualités|médias sociaux,internet|jeux vidéo,Oklahoma|Arkansas,caresses étranges chiens|chats,la salle de bain|la salle de repos,les bordels|les maisons de mauvaise réputation ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Guides des employés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "hamburgers|frites ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une version 2013 du site Web de ressources pour les employés de McDonalds a fait la une des journaux en recommandant aux travailleurs d'éviter <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "frites|hamburgers,hamburgers|frites,frites|hamburgers,cheeseburgers|frites,frites|cheeseburgers,frites|cheeseburgers,cheeseburgers|frites ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils ont recommandé des options plus saines. ",
+      "t": "A",
+      "v": "607537_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une version 2013 du site Web de ressources pour les employés de McDonalds a fait la une des journaux en recommandant aux travailleurs d'éviter <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "607534_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

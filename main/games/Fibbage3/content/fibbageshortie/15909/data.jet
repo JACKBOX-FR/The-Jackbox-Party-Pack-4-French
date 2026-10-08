@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Walmart, Home Depot, Burger King, Disney World, 7-11, Bed Bath & Beyond, Taco Bell, Baby Gap, Radio Shack, Rob Schneider, Target, The FBI, McDonald's, Dave and Buster's, Old Country Buffet, Bed Bath et Beyond, Denny's, Lenscrafters ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Demande de chou frisé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pizza Hut ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant qu'il ne devienne une grande tendance gastronomique en 2013, le plus gros acheteur de chou frisé était, étonnamment, <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils l'ont utilisé comme décoration sur les bars à salades. ",
+      "t": "A",
+      "v": "352001_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant qu'il ne devienne une grande tendance gastronomique en 2013, le plus gros acheteur de chou frisé était, étonnamment, <BLANK>. ",
+      "t": "A",
+      "v": "351998_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

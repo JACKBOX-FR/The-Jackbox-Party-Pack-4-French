@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le Premier ministre, une publicité pour Tim Hortons, Marcus Welby MD, Star Wars, un documentaire sur Star Trek, Star Trek canadien, des rats mâchant un câble, Lost in Space, un météore frappant l'antenne, une publicité pour l'Agence spatiale canadienne, des fans de Doctor Who détournant le signal, une fausse invasion extraterrestre, une fille de 2 ans chantant, le hockey, la découverte de Pluton, l'anniversaire de Leonard Nimoy, un spécial sur Roswell, My Goldfish is Mal ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ô Canada ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "l'alunissage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Quinze personnes à Ottawa se sont plaintes à leur chaîne de télévision locale lorsqu'une diffusion de <i>Star Trek</i> a été interrompue par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "alunissage, Apollo 11, l'alunissage d'Apollo, le premier homme sur la lune ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Qui a envie de voir quelqu'un aller hardiment là où personne n'est allé auparavant alors qu'il peut regarder Star Trek ? ",
+      "t": "A",
+      "v": "574538_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Croyez-le ou non, 15 personnes à Ottawa se sont plaintes à leur chaîne de télévision locale lorsqu'une diffusion de <i>Star Trek</i> a été interrompue par <BLANK>. ",
+      "t": "A",
+      "v": "574535_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

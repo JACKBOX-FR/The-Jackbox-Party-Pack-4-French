@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "brosse à dents, cuisine, télévision, thé glacé, tasse à café, frisbee, télévision, volant, livre de mots croisés, luffa de douche, cuillère à soupe, marteau à crabe, pinceau, trancheuse à pizza, alliance, crayon fantaisie, montre, rasoir électrique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grand et responsable ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "iPhone ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "San Antonio Spur Matt Bonner a souffert d'un coude enflé parce que, selon lui, son <BLANK> était trop gros. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "téléphone, téléphone portable, téléphone portable, téléphone portable, mobile ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Apparemment, envoyer des SMS d'une seule main était une contrainte. La vie est dure. ",
+      "t": "A",
+      "v": "566008_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]San Antonio Spur Matt Bonner a souffert d'un coude enflé parce que, selon lui, son <BLANK> était trop gros. ",
+      "t": "A",
+      "v": "566005_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

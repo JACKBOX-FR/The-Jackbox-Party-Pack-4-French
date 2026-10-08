@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "riz|les toilettes,verre brisé|la piste,pommes de terre|un cockpit,sable|classe affaires,crackers|sa bouche,poulet|sa salade végétarienne,une balle de baseball|les poubelles,une photo de chèvres|le compartiment supérieur, lotion pour les mains|les cheveux du capitaine, sur ses genoux, sur un trois points|le panier, un petit chien|son bagage à main, une coupe|son oreiller, son ordinateur portable|le sèche-mains, le sel|les yeux du pilote, en bas d'elle rimes folles|le micro,les serviettes|siège 34E,son billet|première classe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "passagers superstitieux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pièces de monnaie|le moteur de l'avion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une passagère superstitieuse sur un vol en provenance de Shanghai a fini par retarder le décollage après avoir jeté <BLANK> dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pièces|le moteur,pièces|le moteur d'avion,monnaie|le moteur,monnaie|le moteur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce n'est pas comme ça qu'on commande un verre. Ils n'acceptent que les CARTES DE CRÉDIT jetées dans le moteur. ",
+      "t": "A",
+      "v": "672928_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une passagère superstitieuse sur un vol en provenance de Shanghai a fini par retarder le décollage après avoir jeté <BLANK> dans <BLANK>. ",
+      "t": "A",
+      "v": "672925_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Bonne lecture !! ",
+      "t": "A",
+      "v": "672550_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "On sent l'excitation !! ",
+      "t": "A",
+      "v": "672551_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est LA meilleure chose à lire sur les toilettes ?!! ",
+      "t": "A",
+      "v": "672548_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Personnellement, j'ai besoin de quelque chose d'au moins quelques centaines de pages ",
+      "t": "A",
+      "v": "672541_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "La meilleure chose à lire sur les toilettes ",
+      "t": "A",
+      "v": "672534_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Ça me donne envie d'aller aux toilettes maintenant !! ",
+      "t": "A",
+      "v": "672549_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Blague totale de papa. ",
+      "t": "A",
+      "v": "676755_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Père sait mieux !! ",
+      "t": "A",
+      "v": "676756_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est LE nouveau nom que nous allons tous utiliser désormais chaque fois que nous parlons à nos pères ?! ",
+      "t": "A",
+      "v": "676753_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Et quel que soit le gagnant, chacun doit commencer à appeler son propre père ainsi. ",
+      "t": "A",
+      "v": "676746_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Meilleur substitut au nom « Papa » ",
+      "t": "A",
+      "v": "676739_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Papa aime !! ",
+      "t": "A",
+      "v": "676754_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

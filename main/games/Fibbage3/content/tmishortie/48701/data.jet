@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la plongée en apnée, la nourriture, la randonnée, le complexe, la plage, ne rien faire, rattraper ses e-mails ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Quel a été le point fort de vos dernières vacances ? ",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le point culminant des dernières vacances de <PLAYER> a été <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le point culminant des dernières vacances de <PLAYER> a été <BLANK> ",
+      "t": "A",
+      "v": "694902_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

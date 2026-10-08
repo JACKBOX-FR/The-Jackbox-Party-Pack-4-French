@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le Dalaï Lama, Le président, Le dirigeant de son propre pays, Un seigneur de guerre extraterrestre, L'inventeur d'Internet, Un voyageur temporel, Un pharaon égyptien, Le duc d'Essex, le fils de Bigfoot, Le roi de l'Atlantide, Johnny Carson réincarné, Propriétaire de télévision, Un Schtroumpf, l'héritier de la fortune des Skittles, Le frère perdu de Conan O'Brien, Une fée, l'inventeur de la Matrice, Un sorcier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les gars du Kansas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le pape ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous demandez à David Bawden, ce n’est pas seulement un gars de Belvue, au Kansas ; il est aussi <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Le vrai pape, le pape Michel, le pape ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le pape Michel Ier a été élu par un petit groupe de fidèles, dont ses parents. ",
+      "t": "A",
+      "v": "643200_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous demandez à David Bawden, ce n'est pas seulement un gars de Belvue, Kansas, il est aussi <VIERGE>. ",
+      "t": "A",
+      "v": "643197_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

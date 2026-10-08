@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "récréation, sauter à l'intérieur, films en classe, déodorant, voitures cool, sautes d'humeur, salle d'étude, Doritos, rock and roll, douches de gym, chewing-gum, envoyer des SMS à vos amis « quoi de neuf ? », danser, dire « cool », grimaces, bandes dessinées, non. 3 crayons, musique country ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eau chaude islandaise ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pizza à l'ananas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Face à la pression des lycéens, le président islandais, Gudni Johannesson, a annoncé publiquement sur Facebook qu’il n’interdirait pas <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pizza, pizza à l'ananas ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Controverse ! Face à la pression des lycéens, le président islandais, Gudni Johannesson, a annoncé publiquement sur Facebook qu’il n’interdirait pas <BLANK>. ",
+      "t": "A",
+      "v": "565395_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

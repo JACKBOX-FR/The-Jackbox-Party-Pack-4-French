@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "morceaux de pneu, Vicks VapoRub, frites frisées, coupons expirés, farce d'ours en peluche, encre invisible, terreau, os de poulet, feux d'artifice, peaux de banane, pièces de canapé en cuir, billes, pommes de terre, bacon, or pirate, vodka, mauvaises vibrations, fourrure d'ours ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rappels ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "balles de golf ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une marque de pommes de terre rissolées surgelées a été rappelée en 2017 parce qu'on pensait qu'elles étaient contaminées par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "balles de golf, matériaux pour balles de golf, matière de balle de golf, morceaux de balle de golf, morceaux de balle de golf ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ou plus précisément : « matériaux étrangers liés aux balles de golf ». ",
+      "t": "A",
+      "v": "597883_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ce qui doit être une première, une marque de pommes de terre rissolées surgelées a été rappelée en 2017 parce qu'on pensait qu'elles étaient contaminées par <BLANK>. ",
+      "t": "A",
+      "v": "597880_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

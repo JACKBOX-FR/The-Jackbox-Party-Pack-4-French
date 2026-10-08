@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pot de fleur, oiseau faible, boomerang, bague en diamant, tasse en cuivre, bûche enflammée, journal, bouilloire à thé, ballon de football, pot d'ail, os, gros rocher, uniforme scolaire, livre, femme de ménage, violon, grand-père, jambe en bois ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heev Hogh ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pomme de terre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un sage dicton russe sur les affaires de cœur se traduit par « L’amour n’est pas un <BLANK> ; vous ne pouvez pas simplement le jeter par la fenêtre. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Que diriez-vous d'un Fibbage russe ? ",
+      "t": "A",
+      "v": "565091_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le gros point à retenir ici est que c'est totalement cool de jeter des pommes de terre par la fenêtre. ",
+      "t": "A",
+      "v": "565089_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un sage dicton russe sur les affaires de cœur se traduit par \"L'amour n'est pas un <BLANK> ; vous ne pouvez pas simplement le jeter par la fenêtre.\" ",
+      "t": "A",
+      "v": "565086_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préservatifs, cartes d'excuses, leurs grands-parents, musique de Michael Bolton, services de ménage, abonnements à des sites pornographiques, gomme, leur patron, pastrami, pilules d'amélioration masculine, chaussettes, antidépresseurs, lotion, bougies parfumées, draps, Nutella, tapis, location de films ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "journée d'amour sexy ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "leur animal de compagnie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon certaines statistiques étranges fournies par le moteur de recherche Bing, en 2016, une personne moyenne a dépensé 26 $ en <BLANK> pour la Saint-Valentin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "leurs animaux de compagnie,un animal de compagnie,des animaux de compagnie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et cela a très probablement conduit à de lourdes caresses. ",
+      "t": "A",
+      "v": "562833_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon certaines statistiques étranges fournies par le moteur de recherche Bing, en 2016, une personne moyenne a dépensé 26 $ en <BLANK> pour la Saint-Valentin. ",
+      "t": "A",
+      "v": "562830_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

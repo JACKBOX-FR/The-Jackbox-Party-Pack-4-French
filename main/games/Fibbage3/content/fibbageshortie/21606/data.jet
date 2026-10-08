@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "masseuse de pieds personnelle, coupe-moustache, lecteur d'histoires en chef au coucher, gardien de blaireau, complimenteur général, arracheur de cheveux, narrateur itinérant, porte-sac d'épicerie humain, père, meilleur ami, lave-toupet, faux conjoint, hype man, peigneur de barbe, ami qui n'est pas aussi cool que lui, bouffon de la cour, thérapeute, préposé au micro-ondes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Concours Facebook ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "corps double ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, l'homme politique mexicain Renato Tronco Gomez a offert au gagnant d'un concours sur Facebook l'honneur unique de lui servir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "remplacer, sosie, dupliquer, double, jumeau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Doit avoir au moins cinq ans d'expérience en ressemblant exactement à Renato Tronco Gomez. ",
+      "t": "A",
+      "v": "409331_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, l'homme politique mexicain Renato Tronco Gomez a offert au gagnant d'un concours sur Facebook l'honneur unique de lui servir de <BLANK>. ",
+      "t": "A",
+      "v": "409328_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Je devrais le dire à voix haute maintenant... mais je ne le ferai pas !! ",
+      "t": "A",
+      "v": "672670_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Mot!!! ",
+      "t": "A",
+      "v": "672671_1f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est le mot le plus amusant à dire parmi les PG ?!! ",
+      "t": "A",
+      "v": "672668_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Nous devons avoir QUELQUES contenus qui soient lisibles dans la version familiale. ",
+      "t": "A",
+      "v": "672661_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Le mot le plus amusant à dire selon la classification PG ",
+      "t": "A",
+      "v": "672654_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Bon plaisir propre !! ",
+      "t": "A",
+      "v": "672669_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

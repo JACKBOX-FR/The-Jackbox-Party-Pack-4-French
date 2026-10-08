@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrasser le sol, planter un cactus, manger une cuillerée, sauter dessus, l'utiliser comme garniture de coupe glacée, demander à ton voisin, le mélanger avec du Fanta, voir comment il réagit à la musique, le faire cuire pendant 20 minutes, le rechercher sur Google, le demander, le frotter sur ta peau, le mettre dans un sac, planter des fleurs et voir si elles poussent, envoyer une photo par SMS au gouvernement local, l'utiliser comme poudre de mélange de lait au chocolat, verser du RC Cola dessus, je lui crie dessus ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enterrer les sous-vêtements ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Conseil de conservation des sols du Canada a mené une étrange campagne en avril 2017 affirmant que vous pouvez tester la qualité de votre sol simplement en <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "enterrer vos sous-vêtements,enterrer une paire de sous-vêtements,utiliser des sous-vêtements,enterrer des sous-vêtements en coton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les sous-vêtements devraient se décomposer rapidement. En supposant que vous consommez suffisamment de fibres... ",
+      "t": "A",
+      "v": "670899_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Conseil de conservation des sols du Canada a mené une étrange campagne en avril 2017 affirmant que vous pouvez tester la qualité de votre sol simplement en <VIDE>. ",
+      "t": "A",
+      "v": "670896_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

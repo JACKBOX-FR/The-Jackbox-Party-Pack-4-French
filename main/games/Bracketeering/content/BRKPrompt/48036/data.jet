@@ -1,0 +1,124 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Nom puissant !! ",
+      "t": "A",
+      "v": "675483_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est LE meilleur nom à inventer si vous n’êtes pas vraiment sur la liste des invités ?! ",
+      "t": "A",
+      "v": "675481_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Le mien est généralement Plus One. Monsieur Plus Un. ",
+      "t": "A",
+      "v": "675474_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Le meilleur nom à inventer quand on sait qu’on n’est pas vraiment sur la liste des invités ",
+      "t": "A",
+      "v": "675467_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Quelqu’un entre dans le salon VIP !! ",
+      "t": "A",
+      "v": "675482_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

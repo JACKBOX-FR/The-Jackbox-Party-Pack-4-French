@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tout aussi bizarre, un chat qui dort dans un rayon de soleil, 3 mètres de haut et fou, le fils de Will Smith, un perroquet farfelu, un chêne puissant, assez énervé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Si vous vous réincarnez, dans la prochaine vie, vous serez probablement <VIDE>. ",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si <PLAYER> se réincarne, dans sa prochaine vie, il sera probablement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si <PLAYER> se réincarne, dans sa prochaine vie, il sera probablement <BLANK>. ",
+      "t": "A",
+      "v": "622735_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

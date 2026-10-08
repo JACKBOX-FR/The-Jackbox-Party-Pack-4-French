@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sammy Hagar, chats, poulets, personnes âgées, Angela Merkel, orphelins, téléphones portables, Heidi Klum, détenus, pieds, robots, télépathie, personnes nues, nains, les uns les autres, batteurs d'œufs, insectes, chiens d'assistance ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Essayez de vous détendre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "serpents ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le salon Haar Mode Team en Allemagne offre à ses clients la rare opportunité de se faire masser par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "serpent, python, pythons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Indiana Jones lui a attribué une étoile sur Yelp. ",
+      "t": "A",
+      "v": "574568_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Besoin de vous détendre ? Le salon Haar Mode Team en Allemagne offre à ses clients la rare opportunité de se faire masser par <BLANK>. ",
+      "t": "A",
+      "v": "574565_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

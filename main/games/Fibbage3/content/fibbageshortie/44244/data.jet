@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "profils Facebook, noms stupides, habitudes d'envoi de SMS, mots croisés, utilisation d'emoji, sourires tordus, dictionnaires obsolètes, sentiment de droit, charnières de porte qui grincent, oreilles velues, problèmes de sorcières, vampirisme, cauchemars, mauvaise cuisine, mauvaises manières, pieds palmés, mensonges habituels, dépendance à la discothèque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Corrigé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tatouages mal orthographiés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, l’Institut Caro y Cuervo, un centre éducatif colombien, a proposé de réparer le <BLANK> des gens. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tatouages, tatouages avec fautes de frappe, fautes de frappe, fautes de frappe dans leurs tatouages ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si c'était moi, je tatouerais simplement une ligne rouge ondulée sous la faute de frappe. ",
+      "t": "A",
+      "v": "582479_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, l'Institut Caro y Cuervo, un centre éducatif colombien, a proposé de réparer le <BLANK> des gens. ",
+      "t": "A",
+      "v": "582476_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

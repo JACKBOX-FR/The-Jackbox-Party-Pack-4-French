@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sunglasses Hut, le Pentagone, State Farm, le consulat du Paraguay, Radio Shack, Carl's Jr, Applebees, le zoo de San Diego, le Hard Rock Cafe, 24 Hour Fitness, ces kiosques du centre commercial qui vendent des hélicoptères jouets, le Vatican, les fermes de poivre, la boutique de cadeaux Petrified Forest, dollar general, The Home Shopping Network, le bureau de poste, le Smithsonian ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mauvais cadeaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Domino's ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 2017, les fiancés peuvent désormais s'inscrire pour recevoir des cadeaux sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "dominos, dominos, dominos ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parfait pour le couple qui a déjà arrêté d'essayer. ",
+      "t": "A",
+      "v": "563683_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les cadeaux de mariage ne doivent pas nécessairement être conventionnels : depuis 2017, les fiancés peuvent désormais s'inscrire pour recevoir des cadeaux sur <BLANK>. ",
+      "t": "A",
+      "v": "563680_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "quitter le pays, des fonds de retraite, un travail bénévole, des réductions pour les seniors, visiter une maison de retraite, des vacances payées, jouer dans une équipe de hockey, une nouvelle pièce d'identité, un remboursement d'impôt, une rencontre, divorcer, lui donner procuration, une visite personnelle de sa maison, sortir du réseau, se mettre au tricot, changer de nom, rejoindre son équipe de basket-ball, un peu de paix et de tranquillité pour une fois ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Premier ministre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un message d'anniversaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous êtes un Canadien âgé de 65 ans ou plus, vous devez donner au premier ministre un préavis d’au moins six semaines si vous souhaitez <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un message d'anniversaire formel, une carte d'anniversaire, une carte d'anniversaire, un message d'anniversaire, une carte de joyeux anniversaire, un message de joyeux anniversaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et il a besoin d'un préavis de 12 semaines si vous l'invitez à un karaoké. ",
+      "t": "A",
+      "v": "401108_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous êtes un Canadien âgé de 65 ans ou plus, vous devez donner au premier ministre un préavis d'au moins six semaines si vous souhaitez <BLANK>. ",
+      "t": "A",
+      "v": "401105_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

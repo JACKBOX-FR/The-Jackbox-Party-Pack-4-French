@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "accoucher, étrangler un homme, voler le traîneau du Père Noël, chevaucher un cadavre, kidnapper un bébé ours, gâcher Thanksgiving, faire pipi sur une robe de mariée, faire l'amour avec un muffin, se faire traîner en enfer, se faire avaler par un ver, regarder une femme se déshabiller, penser à mourir, mourir lentement d'un poison, monter sur un tapis magique, exploser d'une palourde, revenir à la vie, braquer un magasin d'alcool, faire du pain ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des singes ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "monter un poisson-chat ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette figurine japonaise représente deux singes alors qu'ils <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "asseyez-vous sur un poisson-chat, montez un poisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "648442_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "648465_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette figurine japonaise représente deux singes alors qu'ils <VIDE>. ",
+      "t": "A",
+      "v": "648437_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

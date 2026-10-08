@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diamants, Berceuses, Peinture, Chewing-gum, Rouge à lèvres, Porc, Argile, Feuilles séchées, Canneberges, avions, vieilles chaussettes, Hélium, Essence, Crème, cure-pipes, Algues, noyaux de pêches, bouteilles en verre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grands projets ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Glace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Geoffrey Pyke était un inventeur militaire, surtout célèbre pour son étrange proposition de construire des porte-avions à partir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "glace et sable, glace et sciure, sciure et glace, sable et glace, sable gelé, sciure congelée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela ne fonctionnera en aucun cas. ",
+      "t": "A",
+      "v": "644970_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Geoffrey Pyke était un inventeur militaire, surtout célèbre pour son étrange proposition de construire des porte-avions à partir de <BLANK>. ",
+      "t": "A",
+      "v": "644967_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préservatif, grande gueule, rétrécissement, impuissance, mecs sexy, castration, grossesse, mariage, rapide, diarrhée, personne laide, œufs, flirt, manscaping, baisers français, étudier, sexe oral, être célibataire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vieil anglais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "crépuscule ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "« Cockshut » est simplement un mot en vieil anglais signifiant « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "soir, crépuscule ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'aimais les livres de Cockshut, mais tout était en mauvaise posture après Cockshut : New Moon. ",
+      "t": "A",
+      "v": "609100_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]« Cockshut » est simplement un vieux mot anglais signifiant <VIERGE>. ",
+      "t": "A",
+      "v": "609097_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

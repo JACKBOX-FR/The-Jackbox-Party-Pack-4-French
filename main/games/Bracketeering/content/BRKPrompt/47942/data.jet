@@ -1,0 +1,125 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Wow, je suppose que jongler POURRAIT être cool !! ",
+      "t": "A",
+      "v": "672974_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "J'ai vraiment envie de voir quelqu'un jongler avec ça !! ",
+      "t": "A",
+      "v": "672975_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est LA chose la plus cool avec laquelle jongler ?!! ",
+      "t": "A",
+      "v": "672972_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Je sais que c'est exagéré mais peut-être... quelque chose... pourrait être cool à jongler ? ",
+      "t": "A",
+      "v": "672965_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "La chose la plus cool à jongler ",
+      "t": "A",
+      "v": "672958_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "En fait, cela m'a donné envie de jongler !! ",
+      "t": "A",
+      "v": "672973_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

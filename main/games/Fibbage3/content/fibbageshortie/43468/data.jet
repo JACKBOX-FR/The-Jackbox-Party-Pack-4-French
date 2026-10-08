@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poupées, fantômes, téléphones portables bien-aimés, bijoux spirituels, déchets radioactifs, capsules temporelles, ampoules non recyclables, lunettes d'opéra, vieux ordinateurs, chauves-souris sauvages enragées, piles usagées, preuves de police, vieux pulls, capteurs d'eau souterraine, robes de mariée, bonbons d'Halloween contaminés, rations d'urgence, produits américains. Codes nucléaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cercueils uniques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "membres coupés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Hoegh Industries de Gladstone, Michigan, produit des cercueils pour animaux de compagnie de qualité depuis 1966. Curieusement, leurs cercueils sont également utilisés pour l'enterrement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "membres amputés,bras et jambes sectionnés,bras et jambes,bras,jambes,parties du corps sectionnées,parties du corps,parties du corps humain,parties amputées ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils ont vraiment une longueur d'avance sur la concurrence. ",
+      "t": "A",
+      "v": "562983_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Hoegh Industries de Gladstone, Michigan produit des cercueils pour animaux de compagnie de qualité depuis 1966. Curieusement, leurs cercueils sont également utilisés pour l'enterrement <BLANK>. ",
+      "t": "A",
+      "v": "562980_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

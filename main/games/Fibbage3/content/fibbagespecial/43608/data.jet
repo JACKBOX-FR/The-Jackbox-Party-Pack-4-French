@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "trou du cul, maison, esprit, pain, sac de signe de dollar, nez, conscience, thé, gant, cœur, carte, fusible, string, pénis, mère, hangar, coffre-fort, réputation ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Weeth le Berning ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chapeau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La manière russe de dire « Un esprit coupable se trahit » se traduit par « Le <BLANK> d’un voleur brûle ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566085_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les criminels russes doivent être faciles à repérer ",
+      "t": "A",
+      "v": "566083_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La façon russe de dire « Un esprit coupable se trahit » se traduit par « Le <BLANK> d'un voleur brûle ». ",
+      "t": "A",
+      "v": "566080_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

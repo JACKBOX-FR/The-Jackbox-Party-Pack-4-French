@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "soi, croûtes, chien, amygdales, fesses, prises de courant, papa, nombril, toilettes, narine, oncle, oreilles, personnel de l'hôtel, serpent, nounou, 401k, petit ami, cartes de baseball ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais contact ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les sourcils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parmi les conseils donnés à l'actrice de <i>Game of Thrones</i> Emilia Clarke par sa mère, il y avait \"Ne vous droguez pas, n'ayez pas de relations sexuelles et ne touchez pas votre <BLANK>\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sourcil,sourcils,sourcil ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Maintenant QUE je pouvais croire, cela pourrait conduire à la cécité. ",
+      "t": "A",
+      "v": "565808_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Parmi les conseils donnés à l'actrice de <i>Game of Thrones</i> Emilia Clarke par sa mère, il y avait \"Ne vous droguez pas, n'ayez pas de relations sexuelles et ne touchez pas votre <BLANK>.\" ",
+      "t": "A",
+      "v": "565805_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

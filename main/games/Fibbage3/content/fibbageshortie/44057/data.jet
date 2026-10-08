@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gâteau au chocolat, cornichon, poptars, clous de girofle, guimauves, longes de porc, caramel, cantalope, abeilles, wasabi, poisson perroquet, pâtes, couscous, crevettes, myrtilles, crème glacée, secrets, purée de pommes de terre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des hamburgers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les coupes de Reese ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, la chaîne WORKS Gourmet Burger au Canada a lancé le burger PBC qui contient du bacon, des lanières d'oignon croustillantes et une galette farcie de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Coupe au beurre de cacahuète Reese,Coupes au beurre de cacahuète Reese,Beurre de cacahuète,Coupes au beurre de cacahuète ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et après l'avoir mangé, vous serez rempli de regret. ",
+      "t": "A",
+      "v": "577076_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, la chaîne WORKS Gourmet Burger au Canada a lancé le burger PBC qui contient du bacon, des lanières d'oignon croustillantes et une galette farcie de <BLANK>. ",
+      "t": "A",
+      "v": "577073_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

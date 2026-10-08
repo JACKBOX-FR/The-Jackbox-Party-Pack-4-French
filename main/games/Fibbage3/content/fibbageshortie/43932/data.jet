@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "consulter leurs e-mails, lire Harry Potter, vendre des bougies d'encens, un chien surdimensionné, un garçon de quatre ans, un clown de cirque, une tortue de mer, un marchand de glaces, se présenter à la présidence, un jongleur, un chat noir, un pantalon, habillé en licorne, un imitateur de Spider-Man, un fan des Cubs, un chimpanzé avec un chapeau de cowboy, manger un hot-dog, une bouteille de shampoing ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Petites nations insulaires ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une noix de coco ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, la police des Maldives a arrêté un suspect pour avoir flâné près d'un bureau de vote, soupçonné de magie noire. Le suspect en question était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "noix de coco, noix de coco, une noix de coco ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La noix de coco a été interrogée pendant des heures mais elle ne craquait toujours pas. (SFX : rimshot) ",
+      "t": "A",
+      "v": "573394_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, la police des Maldives a arrêté un suspect pour avoir flâné près d'un bureau de vote, soupçonné de magie noire. Le suspect en question était <VIERGE>. ",
+      "t": "A",
+      "v": "573391_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

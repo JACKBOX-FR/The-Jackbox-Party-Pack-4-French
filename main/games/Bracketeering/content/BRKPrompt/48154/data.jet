@@ -1,0 +1,156 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Meilleure partie du corps à remplacer par une version robotique ",
+      "t": "A",
+      "v": "678888_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "J'embrasse notre futur moi technologiquement avancé !!! ",
+      "t": "A",
+      "v": "678901_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est la partie corporelle la plus optimale à remplacer par une version robotique ?! ",
+      "t": "A",
+      "v": "678898_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Celui-ci s’adresse à tous les cyborgs !! ",
+      "t": "A",
+      "v": "678891_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez n’importe quelle partie du corps ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Domo Arigatto !! ",
+      "t": "A",
+      "v": "678900_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez n’importe quelle partie du corps ",
+      "t": "A",
+      "v": "678884_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Mettez-le sur mon corps maintenant !!! ",
+      "t": "A",
+      "v": "678899_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

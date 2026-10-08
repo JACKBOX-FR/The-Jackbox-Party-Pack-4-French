@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cuillères, chaises, stylos, échantillons de tapis, indices sur ses crimes ignobles, pièces de puzzle, Luftballons, bouteilles de bière sur un mur, tests d'orthographe qu'il a réussi, raisons pour lesquelles Ringo est le meilleur Beatle, fleurs mortes, cartes de rétablissement, cupcakes, copies de Blade Runner en VHS, meules de fromage, lettres qu'il a écrites au Père Noël, messages texte qu'il n'a jamais envoyés, mèches de cheveux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "99 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pastèques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous voulez reconquérir un ex, ne suivez peut-être pas l’exemple d’un étudiant de l’Université du Henan en Chine. Il a présenté à son ancienne petite amie 99 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pastèques, pastèque, melons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oui, cette décision ne fonctionne que si votre ex est Galllagher. ",
+      "t": "A",
+      "v": "673104_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous voulez reconquérir un ex, ne suivez peut-être pas l'exemple d'un étudiant de l'Université du Henan en Chine. Il a présenté à son ancienne petite amie 99 <VIERGE>. ",
+      "t": "A",
+      "v": "673101_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

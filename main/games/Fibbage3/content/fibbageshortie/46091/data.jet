@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des beignets, faire des bulles, faire du hoola hoop, répéter son baratin, aider une vieille femme, faire du roller, acheter des biscuits aux éclaireuses, émettre des billets, donner à des œuvres caritatives, jouer à la marelle, changer d'uniforme de Starbucks, nourrir des rats, se raser la tête, monter une pièce de théâtre, faire une routine de mime, signer des autographes, peindre un paysage, chercher son chien ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "images de sécurité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire des étirements ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Juste avant de cambrioler un Dunkin Donuts de Philadelphie en avril 2017, des images d'une caméra de sécurité ont filmé un criminel en train de faire quelque chose d'étrange. Il était <VIDE> sur le parking. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "s'étirer, faire de l'exercice, faire des exercices ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les autorités se sont montrées méfiantes dès qu'elles ont vu quelqu'un qui exerce entrer dans Dunkin Donuts. ",
+      "t": "A",
+      "v": "634656_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Juste avant de cambrioler un Dunkin Donuts de Philadelphie en avril 2017, des images d'une caméra de sécurité ont surpris un criminel en train de faire quelque chose d'étrange. Il était <VIDE> sur le parking. ",
+      "t": "A",
+      "v": "634653_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sweet Caroline, Ice Ice Baby, Je survivrai, N'arrêtez pas de croire, Love Shack, Cascades, Éclipse totale du cœur, Wonderwall, Y.M.C.A., Tequilla, Vin de fraise, Bougez, Roulez dans les profondeurs, MMMBop, Baiser d'une rose, Margaritaville, Dites mon nom, Femme naturelle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Karaoké mortel ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "À ma manière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous chantez au karaoké aux Philippines, vous voudrez peut-être éviter la chanson qui a entraîné au moins une demi-douzaine de meurtres ; sinon vous pourriez être la dernière victime des meurtres <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "« À ma manière » ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suppose que Nickelback n'a pas atteint le Pacific Rim. ",
+      "t": "A",
+      "v": "562137_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque vous chantez au karaoké aux Philippines, vous voudrez peut-être éviter la chanson qui a entraîné au moins une demi-douzaine de meurtres ; sinon vous pourriez être la dernière victime des meurtres <i><BLANK></i>. ",
+      "t": "A",
+      "v": "562134_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

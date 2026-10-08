@@ -1,0 +1,126 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Je suis juste excité que nous parlions d'animaux !! ",
+      "t": "A",
+      "v": "666908_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Une douce action animale ! ",
+      "t": "A",
+      "v": "666910_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Compétition animalière féroce ! ",
+      "t": "A",
+      "v": "666909_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel animal mérite le titre de « le plus cool » ?! ",
+      "t": "A",
+      "v": "666906_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "J'ai hâte de découvrir quels animaux atteignent le statut de « vraiment cool ». ",
+      "t": "A",
+      "v": "666899_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "L'animal le plus cool ",
+      "t": "A",
+      "v": "666892_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "C’est une putain de victoire ! ",
+      "t": "A",
+      "v": "666907_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Twinkies, étouffement léger, drame, champignons magiques, miel enrichi en méthamphétamine, chair humaine, porno panda, EDM, émissions de téléréalité, téléphones intelligents, boissons énergisantes, coupe de cheveux, spandex, lotion, French New Wave, s'mores, Dance Dance Revolution, venin de porc-épic ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ours ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "souffler du carburéacteur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les ours vivant dans la réserve naturelle de Kronotsky en Russie ont développé une dépendance inattendue à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Carburéacteur, essence soufflée, gaz soufflé, essence, kérosène ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](ala Smokey l'ours) Vous seul pouvez m'empêcher de me droguer. ",
+      "t": "A",
+      "v": "600701_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les ours vivant dans la réserve naturelle de Kronotsky en Russie ont développé une dépendance inattendue à <BLANK>. ",
+      "t": "A",
+      "v": "600698_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

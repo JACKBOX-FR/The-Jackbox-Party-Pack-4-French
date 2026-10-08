@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "délicieux,pour les lâches,un médicament,un légume,anti-russe,illégal,sans danger pour les tout-petits,de la lune,magique,une boisson diététique,bon pour le cerveau,en voie de disparition,interdit sur les bateaux,cause la dépression,qu'y a-t-il pour le dîner,plus sain que l'exercice,le nouveau président,la boisson nationale ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bière moi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "alcool ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, le gouvernement russe a officiellement déclaré que la bière était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "alcoolique, alcool ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jusqu'alors, les Russes le traitaient essentiellement comme une boisson gazeuse. ",
+      "t": "A",
+      "v": "584675_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, le gouvernement russe a officiellement déclaré que la bière était <VIERGE>. ",
+      "t": "A",
+      "v": "584672_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

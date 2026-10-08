@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beurre de cacahuète et fromage, pommes et steak, citrons et mayonnaise, glace et frites, croustilles et sandwichs, cacahuètes et Dr. Pepper, ketchup et yaourt ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Quels sont les deux aliments étranges que vous aimez combiner ? ",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les deux aliments étranges que <PLAYER> adore combiner sont <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les deux aliments étranges que <PLAYER> adore combiner sont <BLANK>. ",
+      "t": "A",
+      "v": "690886_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

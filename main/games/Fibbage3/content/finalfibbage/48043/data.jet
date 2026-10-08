@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pets|faire un son,dents de bébé|tomber,pouces|plier,pieds|sueur,coudes|travail,ongles|pousser,chansons|jouer à la radio,maman|soins,couleurs|courir,yeux|clignoter,chiens|chasse,paupières|séparer,cellules cérébrales|dormir,coupures|saigner,opinions|compte,sons vocaux|écho,poils de moustache|tourner gris, frères et sœurs | souviens-toi de toi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gènes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aisselles|puant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous faites partie des deux pour cent de personnes porteuses du gène ABCC11, alors votre <VIERGE> ne sera pas <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "aisselles|odeur, fosses|puanteur, fosses|odeur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous êtes snobs et vos gènes fantaisistes. Je te le montrerai un jour. (poing serré) Je vais tout vous montrer ! ",
+      "t": "A",
+      "v": "675657_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous faites partie des deux pour cent de personnes porteuses du gène ABCC11, alors votre <BLANK> ne le fait pas <BLANK>. ",
+      "t": "A",
+      "v": "675654_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

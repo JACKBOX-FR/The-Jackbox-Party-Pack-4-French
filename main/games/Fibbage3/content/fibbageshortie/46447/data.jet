@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des séquoias, des boules à neige, des os de poulet, du feu, un murmure, la lumière des étoiles, des nuages littéraux, du Kingachrome, des cassettes VHS... mais PLUS GRANDS !, des poils d'âne, des biscuits de fortune, du pollen d'abeille, LA LUNE !, des super livres, votre cerveau et souvenez-vous-en de factice !, du chocolat, des calendriers d'une page par jour, un sac en plastique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stockage des données ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "diamants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des chercheurs du City College de New York ont découvert une nouvelle méthode pour stocker des données pendant de longues périodes : placer les données dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un diamant, un diamant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Personnellement, je stocke toutes mes questions Fibbage sur ce disque Zip haut de gamme. (SFX : vieux ordinateur en panne) Oooo... Eh bien, je vais juste inventer le suivant. ",
+      "t": "A",
+      "v": "644850_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Des chercheurs du City College de New York ont ​​découvert une nouvelle méthode pour stocker des données pendant de longues périodes : placer les données dans <BLANK>. ",
+      "t": "A",
+      "v": "644847_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

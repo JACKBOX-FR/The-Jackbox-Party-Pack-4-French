@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "massage, cadeau de Hanoukka, cours de théâtre, recette de pain aux bananes, scénario, compliment, cadeau de Saint-Valentin, tarte aux pommes, pass de football, bol de soupe poulet et nouilles, mixtape, tweet, livraison de pizza, bonnet de Noel, cours de yoga, farce, communiqué de presse, prêt immobilier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pères Noël du centre commercial ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "conseils de vie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Olivia Wilde a tweeté : « Sans blague, le meilleur <BLANK> que j'ai jamais reçu venait d'un centre commercial Santa. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "00h12<br />13 décembre 2016 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@oliviawilde ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "conseils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En décembre 2016, Olivia Wilde a tweeté : « Sans blague, le meilleur <BLANK> que j'ai jamais reçu venait du Père Noël d'un centre commercial. »",
+      "t": "A",
+      "v": "667974_2",
+      "n": "QuestionAudio"
+    }
+  ]
+}

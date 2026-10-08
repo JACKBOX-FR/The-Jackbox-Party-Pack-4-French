@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "coca|pepsi,vivre|mourir,10 câlins|1 bisou,frites|rondelles d'oignon,le double gauche|le double droit,mambo|tango,coup de pied|crier,se conformer|résister,voter|mourir,dis|dat,ketchup|moutarde,chaussettes noires|blanches,6|peut-être 7 high fives,avoir peur|effrayé,mentir|dire la vérité,le steak|le plat de poulet,un iphone|un android,pour regarder une comédie|un film d'action ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Décisions Décisions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "papier toilette rouge|papier toilette bleu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il existe en Corée une légende urbaine effrayante à propos du fantôme malveillant « Aka Manto ». Avant de vous tuer, il vous demandera simplement si vous voulez <BLANK> ou <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "papier toilette rouge|bleu,papier rouge|papier bleu,bleu|papier toilette rouge,papier bleu|papier rouge,papier toilette bleu|papier toilette rouge ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Tant que ce n'est pas ce que ces ours utilisent. ",
+      "t": "A",
+      "v": "673865_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il existe une légende urbaine effrayante en Corée à propos du fantôme malveillant « Aka Manto ». Avant de vous tuer, il vous demandera simplement si vous voulez <BLANK> ou <BLANK>. ",
+      "t": "A",
+      "v": "673862_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

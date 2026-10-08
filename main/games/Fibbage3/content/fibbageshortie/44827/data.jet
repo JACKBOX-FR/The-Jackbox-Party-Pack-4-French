@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ses chansons,une chanson de Wiggles,off key,à l'envers,avec auto-tune,une chanson des Spice Girls,Smash Mouth,en suédois,en se gargarisant,avec un mannequin de ventriloque,dans une octave très haute,comme Donald Duck,du charabia,de la musique country,par le nez,sur cassette,une berceuse,disco ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bouh ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "L'hymne national de l'Allemagne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le musicien de rock anglais Pete Doherty a été hué hors de la scène lors d'un concert en Allemagne pour avoir chanté <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "leur hymne national, l'hymne national, l'hymne national allemand ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les deux premiers versets sont interdits en Allemagne en raison de leur association avec le parti nazi. ",
+      "t": "A",
+      "v": "598423_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le musicien de rock anglais Pete Doherty a été hué hors de la scène lors d'un concert en Allemagne pour avoir chanté <BLANK>. ",
+      "t": "A",
+      "v": "598420_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'amour dans les rues, d'énormes feux de joie, des gâteaux de caca, de la poterie, des amis imaginaires, des bannières respectueuses, des enfants moches, des cartes de vœux méchantes, du mauvais art, des bébés tiennent des pancartes, des chevaux s'habillent comme des vaches, des montagnes sans déchets, un petit-déjeuner pour tout le monde, des bulles dans les fontaines, des bougies qui sentent le pipi, des peintures insultantes, de très mauvaises blagues, des marionnettes obscènes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Miracles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bonhommes de neige pornographiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Miracle de 1511 était un festival à Bruxelles, en Belgique, où les citoyens manifestaient leur mécontentement à l'égard du gouvernement en faisant <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bonhommes de neige, bonhommes de neige, bonhommes de neige tordus, bonhommes de neige nus, bonhommes de neige obscènes, bonhommes de neige sales ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ne demandez pas où ils ont coincé la carotte. ",
+      "t": "A",
+      "v": "560913_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Miracle de 1511 était un festival à Bruxelles, en Belgique, où les citoyens affichaient leur mécontentement à l'égard du gouvernement en faisant <VIDE>. ",
+      "t": "A",
+      "v": "560910_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

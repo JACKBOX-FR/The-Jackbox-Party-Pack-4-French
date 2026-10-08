@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "breakdance, animer un talk-show, chasser des chiens, jongler avec le feu, diriger la circulation, crier sur une marionnette, lancer des coupons KFC, faire des s'mores, lancer du caber, défier les gens dans des batailles de rap, lancer des fléchettes, construire un fort d'oreillers, écraser des pastèques, jouer en tant que Mega Man, offrir des câlins gratuits, vendre du fudge amish, pratiquer la comédie stand-up, lécher des voitures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crime de rue ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger des crêpes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, la police de Lakewood, en Floride, a été appelée au sujet d'un homme qui se trouvait <BLANK> dans une rue animée. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "manger une crêpe,pnck,pan cake,manger ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le vrai crime était qu'il utilisait du sirop LITE. ",
+      "t": "A",
+      "v": "574628_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, la police de Lakewood, en Floride, a été appelée au sujet d'un homme qui se trouvait <VIDE> dans une rue animée. ",
+      "t": "A",
+      "v": "574625_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Épicerie | Végétalien, Chaussure | Pantoufle, Livre | Nerd, Jardin | Radis, Art | Sculpture, Auto | Silencieux, Bonbons | Bonbons au maïs, Costume | Maman, Magasin | Bandit, Matelas | Sieste, Mart | Boutique, Quincaillerie | Wingnut, Il y a quatre et vingt ans, Jerk | Tête stupide, Animal de compagnie | Gecko, Fourniture de restaurant | Immersion Mixeur, Musique | Hipster, Big Box | Taille familiale ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bandits ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dollar|Grand-père ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En décembre 2016, le FBI a commencé à traquer un criminel qu'il appelait le « <BLANK> Store <BLANK> Bandit ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Dollar|Grand-père ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pourquoi tous les crimes ne peuvent-ils pas être aussi amusants ? ",
+      "t": "A",
+      "v": "668367_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En décembre 2016, le FBI a commencé à traquer un criminel qu'il appelait le « <BLANK> Store <BLANK> Bandit ». ",
+      "t": "A",
+      "v": "668364_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

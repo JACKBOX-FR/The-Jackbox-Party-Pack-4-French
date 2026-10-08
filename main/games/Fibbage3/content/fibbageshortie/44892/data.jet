@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Noodles & Co., magasin de chapeaux, magasin de musique, magasin de fournitures de luminaires, concession BMW, bureau de poste, magasin de chaussures, hotline to Heaven, stand de petits pains au porc, kiosque de bretzels, coopérative de crédit, centre de villégiature, visites architecturales, location de popemobile, ligne de vêtements, stand de bananes, salon de coiffure, librairie d'occasion ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pape Inc. ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "laverie automatique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 2017, le pape François a fait la une des journaux en ouvrant son propre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "blanchisserie,service de blanchisserie,tapis de blanchisserie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]« Pope Francis' Laundy » est une laverie gratuite pour les sans-abri de Rome. ",
+      "t": "A",
+      "v": "600191_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En avril 2017, le pape François a fait la une des journaux en ouvrant son propre <BLANK>. ",
+      "t": "A",
+      "v": "600188_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

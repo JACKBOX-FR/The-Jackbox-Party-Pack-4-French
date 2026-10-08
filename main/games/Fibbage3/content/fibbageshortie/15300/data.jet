@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dispositif de flottaison, parachute, chaussure, yamaka, sac à main, gilet pare-balles, chaussette, défibrillateur, téléphone, casque VR, sac à dos, caméra espion, mallette, boombox, bol de céréales, mégaphone, grenade, distributeur de bière ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Utilisations alternatives du soutien-gorge ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "masque à gaz ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Dr Elena Bodnar a inventé un soutien-gorge qui peut également être utilisé comme <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour des raisons de sécurité, veuillez sécuriser votre propre soutien-gorge avant d'aider les autres. ",
+      "t": "A",
+      "v": "338185_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dr. Elena Bodnar a inventé un soutien-gorge qui peut également être utilisé comme <BLANK>. ",
+      "t": "A",
+      "v": "338182_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je me suis réveillé comme ça, TMI, Toujours dix minutes de retard, je sais, n'est-ce pas ?, Suck It Haters, Je m'excuse toujours, Cette odeur, c'est moi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Quel serait le titre de votre autobiographie ? ",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de l’autobiographie de <PLAYER> serait <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de l'autobiographie de <PLAYER> serait <BLANK> ",
+      "t": "A",
+      "v": "694070_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

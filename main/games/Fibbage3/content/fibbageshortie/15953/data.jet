@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "câlin, coupe de cheveux, affiche de Wayne's World, affiche signée d'Austin Powers, messagerie vocale amusante, high five, prière, billet pour SNL, boîte à lunch Shrek, ukelele, millions de dollars, autographe de Dana Carvey, high-five, petit prêt, concert, balade sur le dos, compliment, bouteille de ketchup ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Derniers voeux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Poupée Mini-Moi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La dernière lettre envoyée par le guitariste des Beatles, George Harrison, était au comédien Mike Myers, dans laquelle il lui demandait un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mini-moi, minime, poupée minime, figurine d'action minime, figurine d'action mini-moi, jouet mini-moi, jouet minime, poupée mini moi, figurine d'action mini-moi, jouet mini-moi ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Malheureusement, il n'a pas vécu assez longtemps pour voir The Love Guru. ",
+      "t": "A",
+      "v": "352947_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La dernière lettre envoyée par le guitariste des Beatles, George Harrison, était au comédien Mike Myers, dans laquelle il lui demandait un <VIERGE>. ",
+      "t": "A",
+      "v": "352944_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des sculptures de présidents américains, une mare aux canards, des pygargues à tête blanche, des concerts, des isoloirs, des discours politiques, des buffles, une tour de radiodiffusion NPR, des spectacles de marionnettes, une église, des courses de chevaux, une grande roue, un bureau de la NSA, un bureau de poste, du maïs génétiquement modifié, une statue de Lincoln, du jazz 24 heures sur 24, une machine à pop-corn ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Abris taxables ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les abeilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'icône pop Jon Bon Jovi a évité de payer de lourdes taxes sur son manoir du New Jersey en ayant <BLANK> sur sa propriété. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les abeilles,abeilles,ruches,ruche ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les abeilles ont techniquement fait de lui un agriculteur. Parce que c'est un Beeboy. Il monte sur une abeille en acier. ",
+      "t": "A",
+      "v": "405507_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'icône pop Jon Bon Jovi a évité de payer de lourdes taxes sur son manoir du New Jersey en ayant <BLANK> sur sa propriété. ",
+      "t": "A",
+      "v": "405504_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

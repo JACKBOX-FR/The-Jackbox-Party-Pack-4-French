@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mayonnaise et steak, queso et fromage américain, beignets et jambon, pousses et concombres, pepperoni et saucisses, fromage ranch et bleu, pain et pain ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Si vous aviez un sandwich à votre nom, quels seraient les deux ingrédients principaux ?",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si <PLAYER> avait un sandwich nommé en son honneur, les deux ingrédients principaux seraient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si cette personne avait un sandwich portant son nom, les deux ingrédients principaux seraient <BLANK>. ",
+      "t": "A",
+      "v": "696242_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

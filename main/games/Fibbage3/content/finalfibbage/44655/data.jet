@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lancer | enfants, manger | queue, construire | pistolet, être | le pire ennemi, avaler | tête, expulser | mines terrestres, pilote | sous-marin, exploser | cerveau, perdre | clés, vomir | estomac, écrire | volonté, projeter | cauchemars, vaporiser | pipi, manger | caca, faire | poison, fondre | yeux, grandir | pistolet, enflammer | pets ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grenouille d'horreur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "casser|os ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Soyez doux avec la « grenouille d’horreur » d’Afrique centrale. Lorsqu'il est menacé, il peut <BLANK> son propre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "casser|os,faire|griffes,briser|os,casser|orteils,casser|orteil ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les scientifiques disent qu'il fait de petites griffes avec les os de ses orteils cassés, mais je pense que c'est juste après l'argent de l'assurance. ",
+      "t": "A",
+      "v": "593516_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Soyez doux avec la « grenouille d'horreur » d'Afrique centrale. Lorsqu'il est menacé, il peut <BLANK> son propre <BLANK>. ",
+      "t": "A",
+      "v": "593513_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

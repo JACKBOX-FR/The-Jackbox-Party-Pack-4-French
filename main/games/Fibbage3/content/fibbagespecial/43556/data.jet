@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "maïs, douleur, buissons, hamburgers, tacos, trempette au fromage nacho, blé, crème glacée, bonbons, tomates, écorce, pain, fraises, amandes, menthe, charbon, petits pains à hot dog, foin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Votez Iz Booshel? ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tu veux faire connaissance avec quelqu'un ? Comme disent les Russes : « Vous reconnaîtrez une personne lorsque vous mangerez un boisseau de <BLANK> avec elle. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Je ne pense pas qu'un « boisseau » soit le terme correct ici. ",
+      "t": "A",
+      "v": "570927_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Et maintenant, un mensonge venant de pays étrangers... ",
+      "t": "A",
+      "v": "565141_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parce qu'alors vous pouvez créer des liens contre l'hypertension. ",
+      "t": "A",
+      "v": "565139_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tu veux faire connaissance avec quelqu'un ? Comme disent les Russes : « Vous reconnaîtrez une personne lorsque vous mangerez un boisseau de <BLANK> avec elle. » ",
+      "t": "A",
+      "v": "565136_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

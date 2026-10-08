@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "prisonniers politiques, comédiens auditionnant pour SNL, hackers, dictateurs en herbe, visiteurs en Corée du Nord, artistes dragueurs, toiletteurs d'animaux, ses ennemis, assassins, barbiers, diplômés universitaires, jardiniers, futurs présidents américains, jeunes couples, parents occupés, patineurs artistiques, robots se faisant passer pour des humains, chasseurs de gros gibier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Lecture obligatoire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cinéastes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu’il n’était pas occupé à diriger la Corée du Nord, Kim Jong Il a écrit et publié un livre de conseils judicieux pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cinéastes,cinéastes,films,film,réalisateurs,réalisation ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a dit que le travail de la caméra est de dire des vérités : par exemple, l'amour est aveugle et le chef suprême mesure 6 pieds 8 pouces et est aussi fort que 11 Hulk Hogans. ",
+      "t": "A",
+      "v": "591437_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Quand il n'était pas occupé à être dictateur de la Corée du Nord, Kim Jong Il a écrit et publié un livre de conseils judicieux pour <BLANK>. ",
+      "t": "A",
+      "v": "591434_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

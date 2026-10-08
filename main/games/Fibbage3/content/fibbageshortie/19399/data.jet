@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pains de savon utilisés, bière, beurre de porc, ingrédients hantés, lait de cafard, intestins de poisson, ses larmes, crottes de bébé, cérumen, peluches de nombril, pâte à modeler, insectes morts, shampoing, fumier, crème glacée, crachat de cheval, cendres de son mari, morve ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Docteur Yaourt ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ses bactéries vaginales ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cecilia Westbrook, doctorante à l'Université du Wisconsin, a fait la une des journaux avec une expérience inhabituelle consistant à préparer du yaourt avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bactéries vaginales,son vagin,sa chatte,levure vaginale,sa levure vaginale ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Résoudre le mystère de la raison pour laquelle elle n'arrêtait pas de verser du granola dans son pantalon. ",
+      "t": "A",
+      "v": "384872_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cecilia Westbrook, doctorante à l'Université du Wisconsin, a fait la une des journaux avec une expérience inhabituelle consistant à préparer du yaourt avec <BLANK>. ",
+      "t": "A",
+      "v": "384869_3 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

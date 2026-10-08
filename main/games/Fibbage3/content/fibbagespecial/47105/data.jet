@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une vie, une tente, jouer de l'air guitar, l'air confus, ma mère, un gars cool avec une coupe de cheveux, un étudiant en arts libéraux, un cône de signalisation, une petite pyramide ronde, un homme qui n'a aucune idée de ce qui se passe, un gars qui est mauvais à cache-cache, une mascotte de badminton, un homme avec des doigts bizarres, un homme qui aime vraiment ces gobelets en papier coniques, un homme qui se transforme en pomme de terre, un homme qui n'a jamais fait un high five à une autre personne, le père Noël, un cousin inquiétant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rôles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un monstre parapluie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon The Met, cette pièce s'appelle <i>Acteur non identifié dans le rôle de <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un parapluie, un parapluie monstre, un parapluie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "653237_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "653260_1",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon le Metropolitan Museum of Art, cette pièce de la période Edo s'appelle <i>Acteur non identifié dans le rôle de <BLANK></i>. ",
+      "t": "A",
+      "v": "653232_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

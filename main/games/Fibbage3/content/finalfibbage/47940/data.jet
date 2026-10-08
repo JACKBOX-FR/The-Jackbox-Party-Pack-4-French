@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tondeuses à gazon | chèvres, jets | gros oiseaux, broyeurs d'ordures | aboiements de chiens, ambulances | chevaux, gens | violons, banjos | guitares, bébés | hochets, enterrements de vie de jeune fille | Beethoven, conjoints | eau courante, moteurs | bruits de bouche qui imitent les moteurs, construction | cloches de traîneau, déception de vos parents | mots d'approbation, musique punk forte | berceuses, fans de sport tapageurs | triste fans de sport, l'hymne national|musique ACDC,orages|vagues apaisantes,écoliers|adultes aux manières douces,téléphones portables qui sonnent|une petite souris ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pollution sonore ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "klaxons de voiture|coins de canard ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La pollution sonore peut constituer un problème sérieux, c'est pourquoi des chercheurs d'une université de Corée du Sud suggèrent de remplacer le son de <BLANK> par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "klaxons de voiture|sons de canard,klaxons de voiture|coins de canard,un klaxon de voiture|coins de canard ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La pollution sonore peut être un problème sérieux, c'est pourquoi des chercheurs d'une université de Corée du Sud suggèrent de remplacer le son de <BLANK> par <BLANK>. ",
+      "t": "A",
+      "v": "672893_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

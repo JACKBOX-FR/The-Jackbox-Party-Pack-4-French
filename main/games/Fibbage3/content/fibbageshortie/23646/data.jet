@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boire de l'urine de bébé, manger du thon périmé, se gargariser avec du venin de cobra, se doucher dans du lait de tigre, nager dans un liquide symbiotique, inhaler de l'urine de girafe, se frotter avec de l'essence, goûter de la vodka, faire du sumac empoisonné en purée, renifler de la lessive, écouter des blancs d'œufs, s'injecter du Coca-Cola dans ses veines, tricoter des couvertures de chanvre, baratter du beurre, lécher de la bouse d'éléphant, couper des coupons pour l'eau de Javel, faire du deltaplane nu, regarder Darkwing Duck ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Routines de beauté du dictateur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se baigner dans le sang des dauphins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parce qu'il pensait que cela le gardait jeune, le dictateur birman Ne Win <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tremper dans le sang des dauphins, tremper dans le sang des dauphins, se baigner dans le sang des dauphins, se baigner dans le sang des dauphins, se baigner dans le sang des dauphins, sang des dauphins, sang des dauphins, sang des dauphins, sang des dauphins, sang des dauphins, sang des dauphins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le sang de Dolphin ne vous rajeunit pas, mais il fait un Bloody Mary méchant. (SFX sirotant des sons) ",
+      "t": "A",
+      "v": "415915_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Parce qu'il pensait que cela le gardait jeune, le dictateur birman Ne Win <VIDE>. ",
+      "t": "A",
+      "v": "415912_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

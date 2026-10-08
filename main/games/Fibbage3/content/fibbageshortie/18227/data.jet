@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aller kart, drone, planche de surf, kayak, vélo DMX, plongeoir, half pipe, voiturette de golf, scooter, bateau rapide, monocycle, chien, planche à neige, deltaplane, traîneau, radeau, requin, camion ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "poussettes extrêmes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "longboard ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La société de poussettes Quinny fabrique une poussette extrême fixée au sommet d'un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "planche à roulettes, planche à roulettes, planche longue ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est parfait pour ce parent qui ne devrait pas en être un. ",
+      "t": "A",
+      "v": "375875_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La société de poussettes Quinny fabrique une poussette extrême fixée au sommet d'un <BLANK>. ",
+      "t": "A",
+      "v": "375872_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

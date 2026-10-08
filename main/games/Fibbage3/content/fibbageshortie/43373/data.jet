@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un os de T-Rex, un pistolet, une lampe de génie, une poupée rare, un calcul rénal, un très vieux hot-dog, un œuf de Fabergé, un coupe-cigare d'Hitler, une météorite, un œuf d'oie pétrifié, des crottes fossilisées, une tige d'uranium, un morceau d'or, une Barbie, le diamant Hope, une caméra espion de la CIA, une dent de baleine, une poupée Bratz ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Craquer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une grenade à main ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme du Shaanxi, en Chine, a été choqué de découvrir que la chose qu'il utilisait comme casse-noix était en réalité <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "grenade,grenade à main,bombe,explosif,un explosif,une bombe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parfait pour casser beaucoup de noix et tout ce qui se passe dans un rayon de 50 pieds. ",
+      "t": "A",
+      "v": "561613_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un homme du Shaanxi, en Chine, a été choqué de découvrir que la chose qu'il utilisait comme casse-noix était en fait <VIERGE>. ",
+      "t": "A",
+      "v": "561610_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

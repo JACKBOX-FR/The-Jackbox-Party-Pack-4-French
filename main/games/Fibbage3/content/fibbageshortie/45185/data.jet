@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mary Kate et Ashley Olsen, Bob Saget, John Goodman, Cher, Jay Leno, Tom Selleck, Bill Murray, Big Bird, un jongleur inconnu, les Backstreet Boys, un shérif d'une petite ville, Adam Sandler, Don Knotts, Donald Trump, Dolly Parton, Chevy Chase, Michael Jackson, Shaquille O'Neal ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Heure du film ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Franck Sinatra ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant que Bruce Willis ne soit désigné, le premier acteur à se voir proposer le rôle principal dans <i>Die Hard</i> était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sinatra ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était basé sur un roman et l'homme de 73 ans avait acquis le droit de premier refus des décennies auparavant. Quel dommage. ",
+      "t": "A",
+      "v": "607993_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant d'être attribué à Bruce Willis, le premier acteur à se voir proposer le rôle principal dans <i>Die Hard</i> était <BLANK>. ",
+      "t": "A",
+      "v": "607990_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

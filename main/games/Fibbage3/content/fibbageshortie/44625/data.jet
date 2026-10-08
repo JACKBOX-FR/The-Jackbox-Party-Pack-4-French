@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "50 Nuances de Grey, DMV, papier toilette, musique d'attente, mayonnaise, style jazz, sitcom CBS, pantalon kaki, vie, caméra de coloscopie, piège à souris, vasectomie, guillotine, souche de paludisme, NPR, Batman, siège de toilette, paire de Crocs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bill Gates ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "préservatif ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, la Fondation Bill & Melinda Gates a offert 100 000 $ à quelqu'un pour inventer un <BLANK> plus agréable. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "contraceptif ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La raison de cette offre était de vous faire penser à Bill Gates pendant que vous faites l'amour. ",
+      "t": "A",
+      "v": "592880_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, la Fondation Bill & Melinda Gates a offert 100 000 $ à quelqu'un pour inventer un <BLANK> plus agréable. ",
+      "t": "A",
+      "v": "592877_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

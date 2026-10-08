@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "célibataire, sur toi, chauvin, en moi-même, triste, un éructeur, te supplie, un cul qui pue, te juge, un fan de Star Wars, donc fauché, pas partant, vomissant, pétant une tempête, vraiment seul, une machine à danser, toutes sortes de beaux, un connard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aucune infraction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "AaronCarter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Aaron Carter a tweeté : « Ne vous offensez pas, mesdames, mais je suis <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "19h58<br />30 août 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@AaronCarter ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Aaron Carter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Euh oh, nouvelle célébrité... ",
+      "t": "A",
+      "v": "564062_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sérieusement, ne vous offensez pas. ",
+      "t": "A",
+      "v": "564060_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En août 2012, Aaron Carter a tweeté : « Ne vous offensez pas, mesdames, mais je suis <VIDE>. » ",
+      "t": "A",
+      "v": "564057_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

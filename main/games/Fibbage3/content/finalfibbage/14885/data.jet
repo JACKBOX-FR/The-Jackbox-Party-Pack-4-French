@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Amour | Chien, Mademoiselle | Travail, Connaître | Voisin, Comme | Parents, Manger | Verts, Besoin | Reins, Mademoiselle | Grand-mère, Apprécier | Cerveau, Lutte | Pi g,Boire|Tristesses,Comme|Visage,Regard|Âge,Croyer|Sénateur,Vouloir|Vie,Vouloir|Prix,Brûler|Toast,Satisfaire|Partenaire,Dormir|Vie Absent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Johnny Carson ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Confiance|Femme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "De 1957 à 1962, Johnny Carson a animé un jeu télévisé intitulé <i>Do You <BLANK> Your <BLANK> ?</i> ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Carson a divorcé trois fois. ",
+      "t": "A",
+      "v": "329699_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]De 1957 à 1962, Johnny Carson a animé un jeu télévisé intitulé <i>Do You <BLANK> Your <BLANK> ?</i> ",
+      "t": "A",
+      "v": "329696_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

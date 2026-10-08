@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Écossais, cordonniers, rouleaux de bretzel, vampires, comptables, olympiens, marionnettes, capitalistes, garçons de jazz, salamandres, enfants nommés Jimmy, petits pains au porc, rediffusions d'amis, gaufres, coureurs olympiques, bars que je crache, suites, antibiotiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tweets de Lynch ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "des écureuils heureux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le réalisateur de <i>Twin Peaks</i>, David Lynch, a tweeté : \"Chers amis Twitter, les <BLANK> fonctionnent rapidement et gratuitement.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11h09<br />3 juillet 2013 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@DAVID_LYNCH ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "écureuils, écureuil heureux, écureuil ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "667144_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En juillet 2013, le réalisateur de <i>Twin Peaks</i>, David Lynch, a tweeté : « Chers amis Twitter, les <BLANK> fonctionnent rapidement et gratuitement. » ",
+      "t": "A",
+      "v": "667139_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

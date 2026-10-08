@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voitures, sous-vêtements, avions, observateurs de défilés, baignoires, employés de banque, cabanes dans les arbres, observateurs de tornades, chiens, astronautes, oiseaux, proctologues, aveugles, observateurs d'oiseaux, réservoirs, voyeurs, poissons, égouts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "périscopes brevetés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cercueils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1908, George Willems a inventé et breveté un périscope pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tombes, morts, cimetières, cimetières, cimetières, cadavres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était aux proches de vérifier si vous étiez enterré vivant. Bien sûr, nous utilisons désormais uniquement des téléphones portables. ",
+      "t": "A",
+      "v": "329011_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1908, George Willems a inventé et breveté un périscope pour <BLANK>. ",
+      "t": "A",
+      "v": "329008_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

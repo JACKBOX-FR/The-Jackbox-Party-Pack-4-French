@@ -1,0 +1,126 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Cela ferait des dégâts ! ",
+      "t": "A",
+      "v": "668647_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Oooh ! Quelle coupure ! ",
+      "t": "A",
+      "v": "668648_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est LA chose la plus cool à mettre dans un mixeur juste pour s'amuser ?! ",
+      "t": "A",
+      "v": "668645_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "C'est exactement comme ça que mon père est mort ! ",
+      "t": "A",
+      "v": "668638_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Le truc le plus cool à mettre dans un mixeur juste pour voir ce qui se passerait ",
+      "t": "A",
+      "v": "668631_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Mélange fantastique ! ",
+      "t": "A",
+      "v": "668646_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "Quelqu'un s'est fait réduire en purée ! ",
+      "t": "A",
+      "v": "668650_0f",
+      "n": "Win4Audio"
+    }
+  ]
+}

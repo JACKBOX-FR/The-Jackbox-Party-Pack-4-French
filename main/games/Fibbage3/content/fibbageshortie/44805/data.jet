@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bouches d'incendie, Vikings, College Boys, Les Indigo Girls, Les Spice Girls, One Direction, Voitures rapides, Vers, Vampires, Hommes de petite taille, Hommes chauves, Femmes avec des poils sur le visage, Femmes britanniques, Chats, Paul Rudd, Jennifer Lawrence, Joueurs de rugby, Porkins de Star Wars ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Attraction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gorilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La politicienne écossaise Gisela Allen a déclaré en 2017 qu'elle se sentait extrêmement attirée par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Goriilas,Gorillaz,Gérilles,singes,singes,singe,un gorille ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Citation : « Quand je vais dans un zoo et que je vois un gorille, mes hormones deviennent complètement folles. » Alors... maintenant tu le sais. ",
+      "t": "A",
+      "v": "597733_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La politicienne écossaise Gisela Allen a déclaré en 2017 qu'elle se sentait extrêmement attirée par <BLANK>. ",
+      "t": "A",
+      "v": "597730_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

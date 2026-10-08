@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "calligraphie, boxe, voyage dans le temps, rodéo, frénésie alimentaire, cerf-volant, spéléologie, météo, comptage de cartes, bûcheron, chant d'opéra, chasse à la baleine, poterie, fabrication de perruques, marche rapide, gars nommés Ben, lasso, robotique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La renommée de Franklin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Natation ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En l'honneur de l'une de ses réalisations les moins connues, Ben Franklin a été intronisé en 1968 au Temple de la renommée internationale <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Nager ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Quand j'étais adolescent, Franklin a inventé un type de palmes de natation… tandis que quand j'étais adolescent, j'ai été banni de la piscine publique. ",
+      "t": "A",
+      "v": "585515_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En l'honneur de l'une de ses réalisations les moins connues, Ben Franklin a été intronisé en 1968 au Temple de la renommée internationale <BLANK>. ",
+      "t": "A",
+      "v": "585512_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mamelons, goûts des conjoints, ongles des pieds, poils du nez, empreintes de chevilles, sens de l'humour, allergies, envies de tuer, stratégies de jeux de société, odeur corporelle, fertilité, capacité de cuisine, problèmes dentaires, ambitions de carrière, capacité de tir à l'arc, techniques de baiser, secrets, enfants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jumeaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "convictions politiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, Cary Funk du Pew Research Center a publié les résultats d'une étude intéressante portant sur près de 8 000 jumeaux dans l'espoir de voir s'ils avaient un <BLANK> identique. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "politique, croyances, morale, valeurs, affiliations politiques, opinions politiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Il s'avère que les jumeaux partagent généralement des opinions politiques, mais ils ne les expriment qu'avec une ESP effrayante. ",
+      "t": "A",
+      "v": "668037_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, Cary Funk du Pew Research Center a publié les résultats d'une étude intéressante portant sur près de 8 000 jumeaux dans l'espoir de voir s'ils avaient un <BLANK> identique. ",
+      "t": "A",
+      "v": "668034_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

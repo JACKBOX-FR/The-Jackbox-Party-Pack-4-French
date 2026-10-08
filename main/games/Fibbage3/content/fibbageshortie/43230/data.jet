@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des crabes, de la dyslexie, un frère quelque part, oublié de prendre des médicaments, ta fermeture éclair baissée, conduit pendant ton sommeil, un clown debout derrière toi, mangé de la nourriture périmée, une dissertation à rendre bientôt, tué quelqu'un, le succès, un sosie, un chien enragé s'approche de toi, a laissé la cuisinière allumée, un sens de la mode terrible, volé à l'étalage par accident, trompé sur tes impôts, un extraterrestre à l'intérieur de toi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mots norvégiens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "j'ai fait quelque chose de stupide en étant ivre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mot norvégien « fylleangst » décrit la peur que vous pourriez avoir <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "a dit quelque chose de stupide en étant ivre, a agi de manière stupide en étant ivre, s'est saoulé et a fait quelque chose de stupide ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nous n'avons pas besoin de ce mot aux États-Unis. Nous SAVONS que nous avons fait quelque chose de stupide en étant ivre. ",
+      "t": "A",
+      "v": "558798_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le mot norvégien « fylleangst » décrit la peur que vous pourriez avoir <BLANK>. ",
+      "t": "A",
+      "v": "558795_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "acier inoxydable, aiguilles de pin, dents de requin, pattes de chenille, jambon confit, foin frais, mèches de bougies, piquants de porc-épic, ivoire, fleurons de brocoli, écailles de poisson, paillis de bois, plumes de poulet, épis de maïs, coquilles d'arachide, ailes de papillon de nuit, pâtes séchées, petits cailloux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "brosses à dents ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poils de porc ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant l’invention de la brosse à dents moderne en 1938, les poils des brosses à dents étaient fabriqués à partir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Porc, cheveux, poils d'animaux, fourrure d'animaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous pouvez encore acheter des brosses à dents en poils de porc aujourd'hui, ou simplement vous frotter le visage sur un cochon après chaque repas. ",
+      "t": "A",
+      "v": "609578_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant l'invention de la brosse à dents moderne en 1938, les poils des brosses à dents étaient fabriqués à partir de <BLANK>. ",
+      "t": "A",
+      "v": "609575_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

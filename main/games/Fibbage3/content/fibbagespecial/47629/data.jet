@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un hélicoptère, Dieu, Bons nageurs, Un plus grand bateau, des requins amicaux, Batman, Des pêcheurs, Un deuxième meilleur titanic, FEMA, Sirènes, Leonardo DiCaprio, Moi, Un faucon géant, Vikings, Panneaux solaires, lance-flammes, capitalisme, Liniment chaud glacial ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Erreurs titanesques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le réchauffement climatique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jose Conseco a tweeté à l'occasion du 100e anniversaire du naufrage du Titanic : \"<BLANK> aurait pu sauver le Titanic. C'est triste à dire.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "23h35<br />14 avril 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@JoseCanseco ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Réchauffement climatique, réchauffement climatique, réchauffement climatique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "664243_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je déteste faire de la politique, mais je ne crois pas au Titanic. ",
+      "t": "A",
+      "v": "664241_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Jose Conseco a tweeté à l'occasion du 100e anniversaire du naufrage du Titanic : \"<BLANK> aurait pu sauver le Titanic. C'est triste à dire.\" ",
+      "t": "A",
+      "v": "664238_3 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

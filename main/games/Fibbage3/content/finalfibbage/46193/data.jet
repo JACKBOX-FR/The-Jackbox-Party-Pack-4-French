@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sperme | mères porteuses, hauts de bikini | singes, bonbons | bébés, œufs de dinosaures | le passé, péchés | démons, épisodes de Doctor Who | les années 1960, blagues | comédiens fauchés, sang | gardiens de zoo, hamburgers | le Hamburglar, insectes | appartements de Boston, histoires effrayantes | détenus, pilules inutilisées | seniors, bon karma | gens chanceux, laine | malades moutons, paillettes | matelas, bijoux | scènes de crime, vos affaires | chez votre ex, accessoires | émissions de télévision ratées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Petits boulots ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "navires volés|pirates ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "VessEx est une entreprise particulièrement spécialisée. Il collecte <BLANK> à partir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "navires|pirates,biens volés|pirates,navires|voleurs,navires volés|voleurs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]VessEx est une entreprise particulièrement spécialisée. Il collecte <BLANK> à partir de <BLANK>. ",
+      "t": "A",
+      "v": "637736_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

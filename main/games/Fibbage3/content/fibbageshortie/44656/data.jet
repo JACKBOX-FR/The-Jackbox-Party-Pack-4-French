@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "reçu un t-shirt gratuit, s'est cogné la tête à plusieurs reprises, a regardé un film, s'est senti mal à l'aise, a mangé des petits pois, a été hyperventilé, a été blessé, a cassé un œuf, a touché de l'herbe à puce, a écouté de la musique forte, a mangé de la mayonnaise périmée, a regardé un écran trop longtemps, a appelé quelqu'un votre ami, a pris l'avion, est resté éveillé après 22 heures, a médité dans un silence total, a inhalé de l'hélium, a oublié le nom de quelqu'un ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mots effrayants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mangé de la glace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La « ganglionévralgie sphénopalatine » peut ressembler à une affection potentiellement mortelle, mais vous en avez probablement déjà souffert si vous en avez déjà eu <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "J'ai mangé de la glace, j'ai eu le cerveau gelé, j'ai mangé quelque chose de froid, j'ai bu quelque chose de froid ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est le terme technique pour geler le cerveau. Et c’est pourquoi je fais mijoter doucement ma glace avant de la manger. ",
+      "t": "A",
+      "v": "593576_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La « ganglionévralgie sphénopalatine » peut ressembler à une affection potentiellement mortelle, mais vous l'avez probablement déjà souffert si vous l'avez déjà fait <BLANK>. ",
+      "t": "A",
+      "v": "593573_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chapeaux de cowboy | épouser d'autres chapeaux de cowboy, serveuses | utiliser la salle de bain, Texans | tirer sur la lune, les lumières du vendredi soir | devenir réels, les Spice Girls | acheter un ranch de bétail, restaurants | servir de la viande de tatou, mineurs | boire jusqu'à six bières, nudistes | troupeau de bétail, politiciens | être vraiment stupides, médecins | être également nus, étudiants | arrêter de payer des prêts étudiants, Waffle House | servir des crêpes, plate-forme pétrolière les travailleurs|se marient avec des plates-formes pétrolières,les boucles de ceinture|sont faits d'uranium,les Cowboys de Dallas|faites un don à sa campagne,les postiers|lisez votre courrier,les strip-teaseuses|enlevez tout,un sous-sol soit ajouté|l'Alamo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Règle 81.35 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "astronautes|votez depuis l'espace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1997, le gouverneur du Texas, George W. Bush, a signé un projet de loi populaire, la Règle 81.35. Cela permettait à <BLANK> de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "astronautes|votez,astronautes|votez tôt ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1997, le gouverneur du Texas, George W. Bush, a signé un projet de loi populaire, la règle 81.35. Cela permettait à <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "677380_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pistolet, tuyau, drapeau blanc, lettre, perruque, jambe tirée, thé, pantalon, flèche, chaussure, perroquet, fausse taupe, canon, chemise, baignoire, chaise de bureau, stylo, violon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cessez-le-feu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au cours d’une bataille majeure de la guerre d’indépendance, George Washington a ordonné un cessez-le-feu afin de restituer le <BLANK> d’un général britannique. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "animal de compagnie, chien de compagnie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et selon l'affiche du chien disparu, la récompense était l'indépendance. ",
+      "t": "A",
+      "v": "374354_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au cours d'une bataille majeure de la guerre d'indépendance, George Washington a ordonné un cessez-le-feu afin de restituer le <BLANK> d'un général britannique. ",
+      "t": "A",
+      "v": "374351_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

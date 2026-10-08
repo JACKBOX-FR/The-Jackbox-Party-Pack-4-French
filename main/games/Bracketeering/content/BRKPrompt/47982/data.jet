@@ -1,0 +1,127 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Calme intérieur !!!! ",
+      "t": "A",
+      "v": "674255_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Dharma puissant ! ",
+      "t": "A",
+      "v": "674257_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Secoue ton Bouddha !!! ",
+      "t": "A",
+      "v": "674256_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est le meilleur nom pour une nouvelle pose de yoga ?! ",
+      "t": "A",
+      "v": "674253_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Namasté ",
+      "t": "A",
+      "v": "674246_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Meilleur nom pour une nouvelle pose de yoga ",
+      "t": "A",
+      "v": "674239_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Tu es mon gourou !! ",
+      "t": "A",
+      "v": "674254_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "Cela a aligné mon chakra !!! ",
+      "t": "A",
+      "v": "674258_0f",
+      "n": "Win4Audio"
+    }
+  ]
+}

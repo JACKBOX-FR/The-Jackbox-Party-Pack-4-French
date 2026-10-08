@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Meilleur article à offrir aux friandises au lieu de bonbons ",
+      "t": "A",
+      "v": "688658_0",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Chose qui ferait le plus génial des horcruxes ",
+      "t": "A",
+      "v": "688659_0",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "N'importe quel petit objet ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "N'importe quel petit objet ",
+      "t": "A",
+      "v": "688654_0",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "Très probablement, il sera exprimé par Gilbert Gottfried dans un film Pixar ",
+      "t": "A",
+      "v": "688660_0",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win0Audio"
+    }
+  ]
+}

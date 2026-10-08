@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un scénario The Purge, des machines à voyager dans le temps, une quête de vision, l'accès à la zone 51, baiser, de l'argent liquide, un million de vœux supplémentaires, aller dans l'espace, Brad et Jen se remettre ensemble, leurs propres albums de rap, des voyages en Corée du Nord, des apparitions au cinéma d'Adam Sandler, des cours de NASCAR, des voyages en haute mer, des cours de jonglerie, fumer de la marijuana, commettre du cannibalisme, des cours de français ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Faites un autre vœu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voyages de chasse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1999, la fondation Make-A-Wish a imposé une nouvelle restriction aux vœux. L'organisation a officiellement interdit aux enfants de demander <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chasser, chasser, chasser des animaux, chasser des animaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1999, la fondation Make-A-Wish a imposé une nouvelle restriction aux vœux. L'organisation a officiellement interdit aux enfants de demander <BLANK>. ",
+      "t": "A",
+      "v": "652091_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

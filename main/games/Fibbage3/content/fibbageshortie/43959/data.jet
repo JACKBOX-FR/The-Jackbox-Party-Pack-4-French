@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tigre de compagnie, Sandwich spam, Paire de sous-vêtements, Bol de pop-corn, Zune, Affiche Duran Duran, Flaming Hot Cheetos, Chaussons de ballet, Bulles de bain, Veste camouflage, Gilet en jean, Corset, Mélisse, âme, Manteau de vison, Boisseau de pommes, Clarinette, Cornemuse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Encore la Floride ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Boîte de crevettes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce n’est jamais facile de sortir avec un enfant. Il suffit de demander à la maman de Deltona, en Floride, dont le fils a attaqué son petit ami avec une épée de samouraï parce qu'il croyait que son petit ami lui avait volé son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "crevettes, crevettes en conserve, boîte de crevettes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il ne leur reste plus que 200 sorties de pêche pour créer des liens maintenant. ",
+      "t": "A",
+      "v": "574292_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ce n'est jamais facile de sortir avec un enfant tout en élevant un enfant. Il suffit de demander à la maman de Deltona, en Floride, dont le fils a attaqué son petit ami avec une épée de samouraï parce qu'il croyait que son petit ami avait volé son <VIERGE> ",
+      "t": "A",
+      "v": "574289_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

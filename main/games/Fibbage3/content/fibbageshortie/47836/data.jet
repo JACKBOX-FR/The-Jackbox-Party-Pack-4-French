@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un python, une meule de fromage, une tarte à la crème, des pelures de banane, des déchets, une robe, sa maison, un sous-marin de fête, les cheveux de sa femme, 100 rondelles de hockey, un paquet familial de chaussettes tubulaires, des diamants, un brunch, bien trop près des gens en public, des scorpions vivants, un jeu de cartes à collectionner Three Stooges de 1959, le soleil, une sculpture de glace de Vin Diesel ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "manger lentement ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Blague infinie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le comédien Jamie Loftus s'est lancé dans un projet étrange. Depuis plus d’un an, elle mange lentement <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une copie d'Infinite Jest ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je n'ai mangé que les deux premiers chapitres, mais je dis à tout le monde que j'ai tout mangé. ",
+      "t": "A",
+      "v": "669223_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le comédien Jamie Loftus s'est lancé dans un projet étrange. Depuis plus d’un an, elle mange lentement <BLANK>. ",
+      "t": "A",
+      "v": "669220_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

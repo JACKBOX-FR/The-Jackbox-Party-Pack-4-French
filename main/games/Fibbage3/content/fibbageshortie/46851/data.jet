@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des lasagnes, donner des massages, en tant que mendiant, jouer du banjo, peindre des autoportraits, en Père Noël, dans un gros costume, en tant que président, en Anarctique, en acrobate de cirque, dans la moitié arrière d'un costume de cheval pour 2 personnes, essayer de guérir la polio, crier aux oiseaux, faire de l'obstruction au Sénat, faire une démonstration de tir à l'arc, récupérer des pièces de monnaie dans les fontaines, entamer des débats féroces avec des inconnus, se disputer avec le câblodistributeur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Travail caritatif ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "en tant que DJ ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1957, pour aider à récolter des fonds pour la Marche des dix sous, Eleanor Roosevelt a passé une journée <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "En tant que disc-jockey, à la radio, je fais tourner des disques. ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle a accepté les demandes sur WNYC. Jusqu'à ce qu'elle soit expulsée pour avoir joué trop d'effets sonores de klaxon. (avertisseur sonore sfx) ",
+      "t": "A",
+      "v": "650294_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1957, pour aider à collecter des fonds pour la Marche des dix sous, Eleanor Roosevelt a passé une journée <BLANK>. ",
+      "t": "A",
+      "v": "650291_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

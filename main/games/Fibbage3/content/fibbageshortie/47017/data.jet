@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "brioches à la cannelle, vapeurs de peinture, bouquets, sueur d'élan, têtes de leurs bébés, œufs d'araignées, morts, mouton rance, comme des bananes, les yeux fermés, comme un esprit d'adolescent, à travers une tranche de fromage, pire que les morts, des tripes de chien, seulement des objets bleus, des hommes nommés William, un prêtre, leur propre vomi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La peste ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pets secoués ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Afin de traiter l'exposition à la peste bubonique, certains médecins des années 1600 recommandaient à leurs patients de sentir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des pets dans un pot, des pets, un pet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Aujourd'hui, je pourrais simplement les inviter dans ma cabine de son. ",
+      "t": "A",
+      "v": "652304_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Afin de traiter l'exposition à la peste bubonique, certains médecins des années 1600 recommandaient à leurs patients de sentir <VIERGE>. ",
+      "t": "A",
+      "v": "652301_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

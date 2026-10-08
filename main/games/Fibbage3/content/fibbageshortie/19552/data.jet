@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dis \"Je t'aime\", souviens-toi de son nom, arrête de rire, assiste en personne, viens la chercher, arrête de se disputer avec son père, ouvre un pot de cornichons, arrête d'appeler les avions sky cars, nomme les Buffalo Bills de 1987, arrête de bâiller, prends une fontaine de chocolat, regarde-la dans les yeux, claque des doigts, danse, lève-toi, trouve le Sri Lanka sur une carte, jongle, cite Pitch Perfect ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Drame de mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire des maths ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une mariée de l'Uttar Pradesh, en Inde, s'est précipitée hors de son mariage lorsque son époux n'a pas pu <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "résoudre un problème de mathématiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il n'arrivait probablement pas à comprendre combien de fois ils s'étaient disputés sur la configuration de la table. ",
+      "t": "A",
+      "v": "388649_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une mariée de l'Uttar Pradesh, en Inde, s'est précipitée hors de son mariage lorsque son époux n'a pas pu <VIDE>. ",
+      "t": "A",
+      "v": "388646_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

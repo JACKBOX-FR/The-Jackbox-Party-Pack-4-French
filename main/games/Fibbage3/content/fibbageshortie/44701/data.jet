@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rock n' roll, fournitures de bureau, pantalons qui se dézippent en shorts, pailles idiotes, téléphones portables, shorts cargo, donner des framboises, hippies, voter, chapeaux de cowboy, se laver les mains, T-shirts, se doucher, avoir des enfants, partager une brosse à dents, des portefeuilles, taper sur des claviers, manger pendant des expériences ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sécurité du laboratoire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hommes barbus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1967, le Bureau de santé et de sécurité industrielle a publié un article sur la sécurité en laboratoire intitulé « Risque microbiologique en laboratoire de <BLANK>». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hommes avec barbe, barbes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'étude a révélé qu'un homme barbu travaillant dans un laboratoire « expose sa famille et ses amis à un risque d'infection ». ",
+      "t": "A",
+      "v": "594773_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1967, le Bureau de santé et de sécurité industrielle a publié un article sur la sécurité en laboratoire intitulé « Risque microbiologique en laboratoire de <VIERGE>». ",
+      "t": "A",
+      "v": "594770_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

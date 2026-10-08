@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le Sénat des États-Unis, Stephen Stills, Michael Richards, une ordonnance du tribunal, George Takei, une colonie de fourmis, le personnage fictif Murphy Brown, Craig T. Nelson, la Royal Navy, des données de Star Trek, une plante en pot, Archie Comics, toute la ville de Prague, la promotion d'une boîte de céréales uniquement, un cryptide, Orrin Hatch, Mummenschanz, le NYPD ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jazz-Funk ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dr Kevorkian ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "<i>A Very Still Life</i>, sorti en 1997, est le premier et le seul album de jazz funk sorti par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Dr Jack Kevorkian,Jack Kevorkian,Kevorkian ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Après l'avoir écouté, vous serez certainement en faveur de l'assassinat par pitié. ",
+      "t": "A",
+      "v": "662613_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]<i>A Very Still Life</i>, sorti en 1997, est le premier et le seul album de jazz funk sorti par <BLANK>. ",
+      "t": "A",
+      "v": "662610_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

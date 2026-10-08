@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "homme|baignoire,sandwich|puits,facteur|cabine téléphonique,chien|chien plus grand,magicien|bikini,ermite|grotte,clown|burka,chimpanzé|combinaison spatiale,chiot|basket,Dan Rather imitateur|robe de bal,bébé|survêtement,dictateur|coma,singe|tuxedo,gorille|minijupe,tigre|cage,fleur|cuve d'azote liquide,construction travailleur|brouette,bébé|berceau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Miss Amérique manque ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marionnette|fauteuil roulant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors du concours Miss America 1995, le talent de Miss Colorado chantait « Can You Feel the Love Tonight » sur un <BLANK> dans un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poupée|fauteuil roulant,marionnette|fauteuil roulant,poupée|fauteuil roulant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce n'était... pas bien reçu. ",
+      "t": "A",
+      "v": "329126_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors du concours Miss America 1995, le talent de Miss Colorado chantait « Can You Feel the Love Tonight » à un <BLANK> dans un <BLANK>. ",
+      "t": "A",
+      "v": "329123_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

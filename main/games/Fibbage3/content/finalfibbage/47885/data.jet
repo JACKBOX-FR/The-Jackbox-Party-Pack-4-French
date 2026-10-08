@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "serviette|volaille,sourire|visage de papa,chapeau|cochon,collier|gecko,tête prothétique|vraie tête,chapeau de fête|moto,dollar|genou,cuillerée de miel|toast,lecteur CD|vélo,argument homme de paille|ennemi,limite|minuterie d'ordinateur,sceau d'approbation|déjeuner d'un ami,spork|langue, code barre|cou,perruque|chat,café|toit de voiture et départ,mini basket cerceau|porte de chambre,aimant|disque dur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mettez-y là ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "oreiller|réfrigérateur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette année, n'oubliez pas de vous joindre à des millions d'Américains et de Britanniques pour célébrer la prospérité le 29 mai, également connu sous le nom de Mettez un <BLANK> lors de votre journée <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "oreiller|votre réfrigérateur,oreiller|votre réfrigérateur,oreiller|le réfrigérateur,oreiller|réfrigérateur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La tradition parle d'elle-même. ",
+      "t": "A",
+      "v": "671218_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette année, n'oubliez pas de vous joindre à ce que je ne peux que deviner, des millions d'Américains et de Britanniques pour célébrer la prospérité le 29 mai, également connu sous le nom de Mettez un <BLANK> lors de votre journée <BLANK>. ",
+      "t": "A",
+      "v": "671215_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Légume le plus sensuel ",
+      "t": "A",
+      "v": "679038_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est le légume le plus sensuel ?!! ",
+      "t": "A",
+      "v": "679048_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Ne faites pas comme si vous n'aviez jamais pensé à cette question auparavant ",
+      "t": "A",
+      "v": "679041_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez n’importe quel légume ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Ouh là là !!! ",
+      "t": "A",
+      "v": "679050_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez n’importe quel légume",
+      "t": "A",
+      "v": "679034_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "C'est juste moi ou il fait vraiment chaud ici ?! ",
+      "t": "A",
+      "v": "679049_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

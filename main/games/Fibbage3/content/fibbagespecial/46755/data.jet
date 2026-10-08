@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "laine d'acier ergonomique, short en cotte de mailles, un morceau stupide d'histoire stupide, un habitat de guêpe, une armure de pigeon, une râpe à fromage, un masque à gaz, une armure de barbe, un short d'entraînement, une passoire à café, une perruque médiévale, un couvercle de vidange de bain, le premier short au monde allant au lave-vaisselle, un maillot de bain, une carte du monde, une brosse à cheval, un gant de toilette grossier, un chapeau de lapin. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que quoi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un protège-aisselles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cet objet provenant de l’Allemagne du XVIe siècle peut paraître étrange, jusqu’à ce que vous réalisiez qu’il s’agit simplement de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "armure d'aisselle, armure d'aisselle, un protecteur d'aisselle, courrier d'aisselle, courrier d'aisselle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "649162_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "649185_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je porte quelque chose comme ça, mais c'est pour protéger les AUTRES de mes aisselles. ",
+      "t": "A",
+      "v": "649160_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cet objet provenant de l'Allemagne du XVIe siècle peut paraître étrange, jusqu'à ce que vous réalisiez qu'il s'agit simplement de <BLANK>. ",
+      "t": "A",
+      "v": "649157_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

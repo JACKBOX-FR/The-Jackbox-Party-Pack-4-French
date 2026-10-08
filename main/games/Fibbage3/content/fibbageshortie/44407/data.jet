@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "J'ai fait de la mauvaise musique, j'ai divorcé, j'ai oublié comment respirer, j'ai mangé trop de menthe, j'ai trouvé un quartier dans la rue, j'ai adopté un vieil homme, chacun a acheté une nouvelle paire de chaussures, je me suis rebaptisé Ooko Yno et Lohn Jennon, la garde conjointe de leurs poissons, un style de vie ancré, j'ai développé le voyage dans le temps, j'ai inventé un nouveau type de chapeau, j'ai appris à nager, j'ai fait faillite, j'ai brûlé les maîtres des Beatles, j'ai changé de coiffure, j'ai abandonné l'amour, ce nouveau le son que vous recherchiez ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Poisson d'avril ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ont fondé leur propre pays ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le premier avril 1973, Yoko Ono et John Lennon ont tenu une conférence de presse au cours de laquelle ils ont annoncé qu'ils avaient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "leur propre pays, a fondé un nouveau pays, a fondé un pays ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne sais toujours pas s'ils plaisantaient. ",
+      "t": "A",
+      "v": "587493_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le premier avril 1973, Yoko Ono et John Lennon ont tenu une conférence de presse au cours de laquelle ils ont annoncé qu'ils avaient <VIERGE>. ",
+      "t": "A",
+      "v": "587490_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

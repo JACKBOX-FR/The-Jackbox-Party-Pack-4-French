@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Big Daddy, l'androïde, toute la nuit, le newsanator, Stamina Joe, Wolverine, le porc de la caméra, M. pas d'arrêt, homme marathon, Geraldine, long garçon Lester, le lapin Energizer, pas de vessie, monsieur Sugar Rush, papa vas-y, lester longue durée, Cal Ripken, le mastodonte ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "un garçon nommé Lester ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pantalon de fer",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En raison de sa capacité à rester à l'antenne pendant des heures, le journaliste de NBC Lester Holt a gagné le surnom de <BLANK> de la part de ses collègues. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pantalon de fer, pantalon de fer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est une grosse affaire. J'ai hébergé trois matchs entiers de Fibbage sans changer ce pantalon. ...Je suis collé à la chaise. ",
+      "t": "A",
+      "v": "562237_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En raison de sa capacité à rester à l'antenne pendant des heures, le journaliste de NBC Lester Holt a gagné le surnom de <BLANK> de la part de ses collègues. ",
+      "t": "A",
+      "v": "562234_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

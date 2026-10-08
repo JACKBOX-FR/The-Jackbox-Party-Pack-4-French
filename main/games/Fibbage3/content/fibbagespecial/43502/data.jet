@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "belle-soeur,fournisseur de tartes,mécanicien,oncle riche,thérapeute,bébé,épouse,boulanger,professeur d'histoire,maire,papa,amant,avocat,serveur,chien,cochon,pigeon,jardin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Yoo Vill Eet Toi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tante ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il existe une vieille phrase russe qui se traduit par \"La faim n'est pas votre <BLANK>. Elle ne vous rapportera pas de tarte\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tante ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "563903_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il existe une vieille expression russe qui se traduit par \"La faim n'est pas votre <BLANK>. Elle ne vous rapportera pas de tarte.\" ",
+      "t": "A",
+      "v": "563898_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

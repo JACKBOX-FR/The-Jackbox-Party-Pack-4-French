@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Meilleur magasin ou restaurant dans lequel se barricader pendant une apocalypse zombie ",
+      "t": "A",
+      "v": "678506_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Lorsque l’apocalypse zombie se produit et qu’elle arrive, quel est LE meilleur magasin ou restaurant dans lequel se barricader !? ",
+      "t": "A",
+      "v": "678516_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Préparez-vous à utiliser votre soutien-gorge ! ",
+      "t": "A",
+      "v": "678509_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "J'ai faim de chair humaine !!! ",
+      "t": "A",
+      "v": "678518_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez un magasin ou un restaurant reconnaissable ",
+      "t": "A",
+      "v": "678502_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Nuit des Vivants WIIINNSS !!! ",
+      "t": "A",
+      "v": "678517_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

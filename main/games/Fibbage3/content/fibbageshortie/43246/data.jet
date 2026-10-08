@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chanteur pop, instrument à vent, style vestimentaire, nettoyant pour tapis, école de ballet, festival de convivialité, chat, train, dépanneur, animateur de spectacle de marionnettes, marque de rouge à lèvres, boisson au café, feuilleton, casino, fleur, esprit porte-bonheur, lotion pour les mains, plombier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vraiment \"effrayant\" ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "soupe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bowser, le méchant de la franchise <i>Mario</i> de Nintendo, est beaucoup moins intimidant une fois que l'on sait qu'il porte le nom d'un <BLANK> coréen. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "soupe au riz, plat de riz et de soupe, plat, nourriture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bowser, le méchant de la franchise <i>Mario</i> de Nintendo, est beaucoup moins intimidant une fois que l'on sait qu'il porte le nom d'un <BLANK> coréen. ",
+      "t": "A",
+      "v": "559195_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

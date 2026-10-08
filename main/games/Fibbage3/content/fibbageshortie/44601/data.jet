@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un casque de football, un haggis, une piscine pour enfants, une tente à oxygène, des balles de baseball coupées en deux, une dinde, une église, un turducken, un berceau pour bébé, une noix de coco, un bol pour chien, un tuba, un cornet de glace, un casque de baseball, une rondelle de jambon, un gâteau aux fruits, six plats, un glaçon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Recettes classiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Gelée-O ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1904, Mme John E. Cook a inventé « la salade perfection ». Il s’agit principalement d’une salade verte ordinaire, mais le problème est qu’elle est servie en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gelée, gélatine ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il y a toujours de la place pour les cauchemars. ",
+      "t": "A",
+      "v": "592163_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1904, Mme John E. Cook a inventé « La salade perfection ». Il s'agit principalement d'une salade verte ordinaire, mais le problème est qu'elle est servie dans <VIERGE>. ",
+      "t": "A",
+      "v": "592160_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

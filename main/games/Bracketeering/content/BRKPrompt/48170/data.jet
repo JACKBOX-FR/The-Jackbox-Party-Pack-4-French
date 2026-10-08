@@ -1,0 +1,156 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Le nom le plus cool pour une voiture de sport ",
+      "t": "A",
+      "v": "679368_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Excusez-moi, avez-vous une idée de la rapidité avec laquelle vous GAGNEZ ! ",
+      "t": "A",
+      "v": "679381_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est LE nom le plus cool pour une voiture de sport ?!! ",
+      "t": "A",
+      "v": "679378_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Je suis sûr que je ne pourrais pas me le permettre ! ",
+      "t": "A",
+      "v": "679371_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez une personne ou une créature mythologique ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Tellement sophistiqué !!! ",
+      "t": "A",
+      "v": "679380_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez une personne ou une créature mythologique ",
+      "t": "A",
+      "v": "679364_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Vroum vroum vroum !! ",
+      "t": "A",
+      "v": "679379_1f",
+      "n": "Win0Audio"
+    }
+  ]
+}

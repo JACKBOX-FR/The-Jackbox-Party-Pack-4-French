@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Norwacky, Raven, tubulaire, Charlie Sheen, muffin au maïs, Viking, sauce aux miettes, Pac-Man, panier poubelle, cacahuètes, Rush Limbaugh, Mt. Rosée, temps du désert, fourre-tout, Dennis Quaid, Ozzy Osbourne, Depp, Père Noël ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Norvège ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Texas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Norvège, une façon courante de décrire une situation folle est de dire qu’elle est « totalement <VIDE> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]En tant qu'Américain, je trouve cela offensant. L’expression devrait être « totalement en Floride ». ",
+      "t": "A",
+      "v": "585395_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]C'est l'heure de l'argot norvégien ! En Norvège, une façon courante de décrire une situation folle est de dire qu’elle est « totalement <VIDE> ». ",
+      "t": "A",
+      "v": "585392_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

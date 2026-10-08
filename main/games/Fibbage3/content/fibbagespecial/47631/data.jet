@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Marathon X-Files, Road trip en moto, Cours intensif de jonglerie, Bain de boue, Cours pour parents, Marathon Breaking Bad, frénésie de Scooby Doo, Entraînement, Séance d'enregistrement, coup de pied d'écriture, Retraite de yoga, Rapide, Cours de théâtre, Sieste, pause de Twitter, bain à l'éponge, séance de courtepointe, concours mains sur le camion ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mise à l'écoute ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "séance de sexe tantrique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sean Diddy Combs a tweeté : « Pour tous ceux qui viennent juste d’être à l’écoute. J’en suis à 6 heures et demie sur 36 heures <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "15h59<br />27 février 2009 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@diddy ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "séance de sexe tantrique, sesson de sexe tantique, séance de sexe tantrique, sexe tantrique, séance de sexe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "664295_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il ne reste que 30 heures ! ",
+      "t": "A",
+      "v": "664293_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Sean Diddy Combs a tweeté en février 2009 : « Pour tous ceux qui viennent juste d’être à l’écoute. J’en suis à 6 heures et demie sur 36 heures <BLANK>. » ",
+      "t": "A",
+      "v": "664290_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

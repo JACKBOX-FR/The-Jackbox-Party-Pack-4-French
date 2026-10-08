@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Une enseigne au néon, Une showgirl, De la glace carbonique, Une navette spatiale, Des vapeurs de voiture, Un cactus, Du venin de serpent à sonnette, Du gaz moutarde, le soleil, Un lance-flammes, Le souffle d'un avaleur de feu, la friction, Des feux d'artifice, Un canon, son esprit, un laser, un volcan, le champ magnétique terrestre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Histoire de la cigarette ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Une bombe nucléaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1952, Ted Taylor du Nevada est devenu la première personne à allumer une cigarette avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une arme nucléaire, un engin nucléaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Lorsqu'on lui a demandé un commentaire, Ted a refusé, citant son manque de visage. ",
+      "t": "A",
+      "v": "574023_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1952, Ted Taylor du Nevada est devenu la première personne à allumer une cigarette avec <BLANK>. ",
+      "t": "A",
+      "v": "574020_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

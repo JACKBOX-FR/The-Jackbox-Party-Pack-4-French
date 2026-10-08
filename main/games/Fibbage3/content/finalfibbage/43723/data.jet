@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "assaut|sens,Festin|Sous-vêtements,horreurs|imagination,Fonction|bonhommes de neige,enfants|diable,peinture|Elvis,la venue|seigneur des ténèbres,crier|chats,honte|pécheurs,Colère|sirène,la danse|la vierges, élevant | voix, valse | loups-garous, feu | ventre, vol | poissons, tristesse | cactus, danse | araignées, larmes | Sinbad ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Traditions mexicaines ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nuit|Radis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 23 décembre à Oaxaca, au Mexique, les habitants font la queue pendant des heures pour voir d'étranges expositions dans le cadre d'un événement annuel connu sous le nom de <BLANK> du <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Noche|Rabanos,Nuit|Radis,Festival|Radis,Festival|Radis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 23 décembre à Oaxaca, au Mexique, les habitants font la queue pendant des heures pour voir d'étranges expositions dans le cadre d'un événement annuel connu sous le nom de <BLANK> du <BLANK>. ",
+      "t": "A",
+      "v": "568599_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

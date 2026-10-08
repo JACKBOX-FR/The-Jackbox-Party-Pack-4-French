@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une blague, le petit déjeuner n'est pas gratuit, sa perruque est moche, la guerre a commencé, Wassssuuuup ?, les citoyens se révoltent, sa mère doit partir, le manoir est en feu, les clochards ne sont pas autorisés dans ce café, ses visiteurs sont des sorcières, \"Ma nourriture préférée est le pain !\", sa lessive est faite, son ami est un meurtrier, il n'y a pas assez de chaises, les prix du porc ont baissé, la plomberie a été inventée, son crédit a été nié, il porte la nappe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mises à jour importantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sa prostituée est là ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon le Met, le domestique le dit au monsieur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "la femme est une prostituée, sa pute est là, la femme est une pute ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "612607_1 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "637331_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai vu exactement la même chose se produire dans un Denny's à 3 heures du matin. ",
+      "t": "A",
+      "v": "612605_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon le Metropolitan Museum of Art, le serviteur sur ce tableau le dit au monsieur <BLANK>. ",
+      "t": "A",
+      "v": "612602_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

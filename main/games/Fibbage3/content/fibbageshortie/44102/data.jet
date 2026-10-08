@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bons chrétiens, immoral, mauvaise fille, comportement moral, coquine, je ne suis pas un ange, arrêtez-moi, prisonnier, sous-vêtements en soie, larges et soutiens-gorge, buvez du lait et allez à l'église, venez me voir nu un jour, elle est mae ou mae pas, le grand de Billy, le policier idiot, Uranus glacé, allez à l'ouest, jeune homme, sacrifions un bébé. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jeux immoraux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sexe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 1927, l'actrice Mae West fut reconnue coupable d'avoir produit une pièce immorale et condamnée à dix jours de prison. Le titre de la pièce était <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sexe! ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai monté une reprise de la pièce, mais cela n'a duré que deux minutes. ",
+      "t": "A",
+      "v": "578497_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En avril 1927, l'actrice Mae West fut reconnue coupable d'avoir produit une pièce immorale et condamnée à dix jours de prison. Le titre de la pièce était <i><BLANK></i>. ",
+      "t": "A",
+      "v": "578494_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

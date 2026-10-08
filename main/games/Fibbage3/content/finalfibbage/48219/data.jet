@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "photo|informateurs morts de la foule,famille|ours grizzlis en peluche,pile|billets d'un dollar,panier|orteils gelés,livre|photos criminelles,affiche|le cycle de reproduction,sculpture|un pou géant,traqueur|la dette nationale,paire|sous-vêtements en ruine,peinture|Richard Nixon,seau|têtards,boîte|armes de poing,bol|levure,squelette|a homme des cavernes,biographie|Jerry Seinfeld,dessin|un vampire,fosse|vipères,perruque|Thomas Jeffersons' ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Leçons importantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tour|laitue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le but d'enseigner une leçon importante aux enfants, Bernie Karl d'Alaska souhaite mettre un <VIERGE> de <VIERGE> dans chaque école publique. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il s'agit d'apprendre aux enfants à cultiver leur propre nourriture, et ce n'est en aucun cas lié à la conspiration selon laquelle la plupart des enseignants ne sont que des lapins géants portant des masques en caoutchouc. ",
+      "t": "A",
+      "v": "680848_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le but d'enseigner une leçon importante aux enfants, Bernie Karl d'Alaska souhaite mettre un <BLANK> de <BLANK> dans chaque école publique. ",
+      "t": "A",
+      "v": "680845_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

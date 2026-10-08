@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crêpes|thon,jambon|crème glacée,corbeau|plus de corbeau,poisson frit|lait,salade|mayonnaise,M&Ms|whisky,œufs farcis|Coca-Cola, vers gommeux|rosbif, pudding à la vanille|gelée de raisin, cornichons|sauce piquante, pain grillé|moutarde, hot dogs|pepto bismol, poulet frit|pudding, tartelettes pop|tartare sauce,pizza|choucroute,saucisses|caramel,barbe à papa|réglisse,Cheerios|eau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nixon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fromage cottage|ketchup ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Richard Nixon avait un fétichisme alimentaire vraiment bizarre. Il aimait manger <BLANK> avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fromage cottage|catsup,fromage en grains|ketchup,fromage cottage|sauce tomate,fromage cottage|ketchup aux tomates,fromage cottage|catsup aux tomates ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Depuis qu'il a démissionné de ses fonctions, aucun autre président américain n'en a mangé. Coïncidence?? ",
+      "t": "A",
+      "v": "677994_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Richard Nixon avait un fétichisme alimentaire vraiment bizarre. Il aimait manger <BLANK> avec <BLANK>. ",
+      "t": "A",
+      "v": "677991_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

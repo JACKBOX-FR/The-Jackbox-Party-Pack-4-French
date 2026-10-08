@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "inspecteur de tapas, empereur de la bière, traducteur de taureaux, mappeur d'égouts, chasseur de vampires, censeur de vidéos rock, critique de cinéma, imitateur d'Elvis, expert en photoshop, liaison avec Mars, lutteur de chèvres, inspecteur de missiles, reine des ordures, passionné de musique, presse-orange, concepteur de mini-golf, assassin de dauphins, reine de l'univers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Travaux importants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "roi du sexe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Edelmira Barreira a un travail intéressant : l’Espagne vient de faire d’elle la première <BLANK> du pays. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tsar du sexe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Beau travail si vous pouvez l'obtenir. ",
+      "t": "A",
+      "v": "567393_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Edelmira Barreira a un travail intéressant : l'Espagne vient de faire d'elle la première <BLANK> du pays. ",
+      "t": "A",
+      "v": "567390_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

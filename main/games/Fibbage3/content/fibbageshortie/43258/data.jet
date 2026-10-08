@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bouffon, machine à pain, organiste de la cour, commissaire de gibier, collectionneur de poissons, capitaine de bateau, chasseur de chevaux, complice, artiste d'éléphant, collectionneur de déchets, faiseur de mirages, quarterback de tous les temps, placeur de fourchettes, jongleur, imitateur d'animaux, joueur de flûte, pose de tapis, gardien de but ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vieux Jack Noir ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "attrape-rats ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au milieu des années 1800, la reine Victoria employait un homme nommé Jack Black, dont le titre officiel était Royal <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "attrape-rats ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au milieu des années 1800, la reine Victoria employait un homme nommé Jack Black, dont le titre officiel était Royal <BLANK>. ",
+      "t": "A",
+      "v": "559495_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

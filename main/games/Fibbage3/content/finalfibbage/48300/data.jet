@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sandwichs|sammies,pulls|pulls,chiens|cabots,ketchup|catsup,poulet|jambon,Michigan|enfer,la lune|une étoile,danse|un acte du mal, écureuils|rats fantaisie, nuages|signaux de fumée de dieu, levers de soleil|miracles, gens riches|dieux modernes, lacs|graisse rivières, fromage | fruits, pingouins | lapins, le chiffre 5 | un nombre pair, bière | le sang du diable, églises | sol étranger ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Indiana 1897 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pi|3.2 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1897, la Chambre des représentants de l'Indiana a adopté un projet de loi redéfinissant <BLANK> comme <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "la valeur de pi|3.2,la constante mathématique pi|3.2,la constante pi|3.2 ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parce que les mathématiques sont beaucoup plus faciles lorsqu'il n'est pas nécessaire qu'elles soient correctes. ",
+      "t": "A",
+      "v": "683304_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1897, la Chambre des représentants de l'Indiana a adopté un projet de loi qui redéfinissait <BLANK> comme <BLANK>. ",
+      "t": "A",
+      "v": "683301_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

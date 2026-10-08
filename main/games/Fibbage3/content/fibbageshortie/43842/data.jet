@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le Plough King, les Yankees de New York, Ben Affleck, M. Peanut, Big Bird, les gens en costumes de Garfield, Ronald McDonald, les chars de l'armée, la Batmobile, Stephen King, Optimus Prime, la foule, les clowns de rodéo, les pêcheurs de homard, les imitateurs de Trump, les Rockettes, Cards Against Humanity, McDonalds ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Travail de neige",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pornhub.com ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 2017, les habitants de Boston ont été surpris par une énorme tempête de neige. Ils furent encore plus surpris lorsqu'ils découvrirent que leurs rues étaient déneigées par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pornhub, un site porno ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Maintenant, ils savent où aller pour un bon labour. ",
+      "t": "A",
+      "v": "571059_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mars 2017, les habitants de Boston ont été surpris par une énorme tempête de neige. Ils furent encore plus surpris lorsqu'ils découvrirent que leurs rues étaient déneigées par <BLANK>. ",
+      "t": "A",
+      "v": "571056_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

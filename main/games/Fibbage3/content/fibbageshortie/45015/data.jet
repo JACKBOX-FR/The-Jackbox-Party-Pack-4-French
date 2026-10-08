@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "foies de panda, bougies parfumées, fourrure de singe, pizzas surgelées, chaussettes en tube, eau en bouteille, calendriers Far Side, cannelles, farine blanchie, bûches de Lincoln, lotion pour les mains, spaghettis, œufs de tortue, pièces de karting, beurre d'amande, noix du Brésil, totems tiki, sel casher ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sécurité aéroportuaire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "viande de yak ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les autorités de l'aéroport JFK ont réalisé une opération impressionnante en avril 2017 en saisissant plus de 300 livres de <BLANK> introduit illégalement en contrebande. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "yack ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Allez, si la réponse était la cocaïne, aurais-je même pris la peine de demander ? Ça va être quelque chose de bizarre. Juste... fais mieux. ",
+      "t": "A",
+      "v": "602753_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Dieu merci pour ces chiens renifleurs de yaks. ",
+      "t": "A",
+      "v": "602749_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les autorités de l'aéroport JFK ont réalisé une opération impressionnante en avril 2017 en saisissant plus de 300 livres de <BLANK> introduit illégalement en contrebande. ",
+      "t": "A",
+      "v": "602746_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

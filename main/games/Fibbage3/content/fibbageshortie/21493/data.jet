@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "construire des legos, des hommes d'affaires avec qui se battre, des gens nommés Tom, des gens en chemises boutonnées, des oncles, des nonnes pour adorer, des lutteurs de sumo, les Mariners de Seattle, des clowns pour pratiquer leur numéro, des manifestants, des enseignants pour rire, des tout-petits qui s'ennuient, des sous-chefs, des poulets, des directeurs d'hôtel, des magiciens en activité, des enquêteurs infiltrés, des hommes laids ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Réservations ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "des femmes pour pleurer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une fois à Tokyo, séjournez au charmant hôtel Mitsui Garden Yotsuya, où vous pourrez louer une chambre spécialement conçue pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les filles pour pleurer, les femmes qui pleurent, les filles qui pleurent, les pleurs, toi pour pleurer, les pleurs, les femmes qui pleurent, les femmes qui pleurent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est triste, mais bon, HBO gratuit ! ",
+      "t": "A",
+      "v": "406770_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque vous êtes à Tokyo, séjournez au charmant hôtel Mitsui Garden Yotsuya, où vous pouvez louer une chambre spécialement conçue pour <BLANK>. ",
+      "t": "A",
+      "v": "406767_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

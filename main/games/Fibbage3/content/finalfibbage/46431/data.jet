@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fred Savage|Frank Sinatra,Prince|Michael Jackson,Fred|Wilma Flintstone,Tom Cruise|Tom Hanks,Jon Hamm|Daniel Radcliffe,Shia LeBeouf|Zac Efron,Ted Danson|a corgi,Sylvester Stallone|Arnold Schwarzenegger,Shari Lewis|Lambchop,Batman|Robin,George|Barbara Bush, Kirk|Picard,Michael Cera|un morceau de bois,George Burns|Gracie Allen,Mario|Luigi,Elmo|Dora l'exploratrice,Brad Pitt|Eddie Murphy,Lady Gaga|Adele ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les frères de la propriété ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "David Bowie|Adam Lambert ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jonathan et Drew Scott, alias les Property Brothers, ont un frère aîné nommé JD qui s'est produit à Las Vegas en tant qu'imitateur de <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bowie|Adam Lambert,Adam Lambert|David Bowie,Adam Lambert|Bowie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Je veux dire, je suis sûr qu'il se moque de ses frères mais il n'est pas payé pour ça. ",
+      "t": "A",
+      "v": "644374_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jonathan et Drew Scott, alias les Property Brothers, ont un frère aîné nommé JD qui s'est produit à Las Vegas en tant qu'imitateur de <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "644367_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

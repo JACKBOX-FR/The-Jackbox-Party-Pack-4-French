@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "revenu, mode, maison, animal de compagnie, véhicule, sens de l'humour, genoux, pelouse, coiffure, cri, voix, poignée de main, boîte aux lettres, carrière, respiration, toux, rire, éternuement ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Attractions étranges ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "renseignement ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un « sapiosexuel » est quelqu’un qui est attiré sexuellement par le <BLANK> d’une personne. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "intelligence, intelligence, esprit, esprit humain, cerveau, QI ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Quand je regarde cette affiche d'Einstein tirant la langue, je suis tout excité et dérangé. ",
+      "t": "A",
+      "v": "385832_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un « sapiosexuel » est quelqu'un qui est attiré sexuellement par le <BLANK> d'une personne. ",
+      "t": "A",
+      "v": "385829_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enfants, chaînes à la carte, réfrigérateurs, sacs de chips à la fois, plantes, noms, chaises, voitures classiques, chaises, pantalons, téléphones portables, poiriers, fêtes par an, boîtes de céréales, lits, maillots de sport, micro-ondes, amis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trop ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chats ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous habitez dans le comté de Washoe, NV, vous aurez peut-être besoin d'un permis spécial pour avoir plus de sept <VIERGES>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "félins, chatons, animaux de compagnie, chiens ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'un des documents dont vous aurez besoin est une preuve de célibat. ",
+      "t": "A",
+      "v": "559223_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous habitez dans le comté de Washoe, dans le Nevada, vous aurez peut-être besoin d'un permis spécial pour en avoir plus de sept <BLANK>. ",
+      "t": "A",
+      "v": "559220_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

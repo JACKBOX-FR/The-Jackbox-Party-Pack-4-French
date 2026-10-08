@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avec une étoile ninja,se raser les jambes,ouvrir un paquet de cartes de baseball,jouer aux fléchettes sur la pelouse,manger du pop-corn,dans une partie de fléchettes,sur une canette de tabac à chiquer,avec un coupe-cigare,avec ses propres crampons,essayer de tondre le champ extérieur,ouvrir une bière,avec ses ongles envahis,explorer un labyrinthe de haies épineuses,dans un combat à l'épée,sur son jockstrap,accrocher un calendrier pin-up,avec un KFC Spork, ouvrant une boîte à trophées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "fortement bandé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sur une bretelle de soutien-gorge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le manager des Giants de San Francisco, Roger Craig, a été aperçu un jour dans l'abri avec une main lourdement bandée après s'être coupé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sur une brassière,sur une bretelle de soutien-gorge,sur un soutien-gorge,sur un soutien-gorge,avec une bretelle de soutien-gorge,avec une bretelle de soutien-gorge,avec une bretelle de soutien-gorge,avec un soutien-gorge,avec un soutien-gorge ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est ce que vous appelez un accident au deuxième but. ",
+      "t": "A",
+      "v": "386288_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le manager des Giants de San Francisco, Roger Craig, a été aperçu un jour dans l'abri avec une main lourdement bandée après s'être coupé <BLANK>. ",
+      "t": "A",
+      "v": "386285_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

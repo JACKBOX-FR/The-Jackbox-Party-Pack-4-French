@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Elle est revenue à la vie, a écrit sa propre biographie, est apparue dans un film, a mangé 80 hot-dogs, a traversé les murs, avait un avocat, savait manger, enseignait des cours de danse, a été reconnue coupable d'un crime, ne pouvait pas pleurer, a hanté une salle de bain, s'est présentée à la mairie, a eu un bébé, est allée à l'université, a combattu un ours, a gagné à la loterie, est allée dans l'espace, s'est mariée. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fantômes notables ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "A résolu son propre meurtre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le fantôme de Zona Heaster Shue, AKA The Greenbrier Ghost of West Virginia, est connu comme le seul fantôme qui <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "A résolu son meurtre, a contribué à un procès, a témoigné au tribunal, a témoigné ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pourtant, l’assassin de Casper est toujours en liberté. ",
+      "t": "A",
+      "v": "574838_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le fantôme de Zona Heaster Shue, AKA Le fantôme Greenbrier de Virginie-Occidentale, est connu comme le seul fantôme qui <VIERGE>. ",
+      "t": "A",
+      "v": "574835_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

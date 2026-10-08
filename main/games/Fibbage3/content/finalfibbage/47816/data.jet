@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger|globes oculaires, imploser|estomac, fondre|cerveau, brûler|genoux, mâcher|langue, donner des coups de pied|tête, étirer|rectum, dissoudre|nez, applaudir|pieds, vomir|calculs rénaux, chanter|show préféré, s'endormir dans|son propre lit, repousser|dents de bébé, essayer de virer|patron, enlever|vêtements, sortir|langue, sauter par-dessus|propres pieds, lécher|coude ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "maladies tropicales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "amputer|orteils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ne contractez pas la maladie tropicale connue sous le nom d’« ainhum ». C’est là que votre corps décide spontanément de <BLANK> votre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "amputer|orteil,couper|orteil,couper|orteils,autoamputer|orteil,autoamputer|orteils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais du bon côté, vous pouvez désormais vous glisser dans ces jolis talons que vous convoitez ! ",
+      "t": "A",
+      "v": "668663_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Quoi que vous fassiez, ne contractez pas la maladie tropicale connue sous le nom d'« ainhum ». C’est là que votre corps décide spontanément de <BLANK> votre <BLANK>. ",
+      "t": "A",
+      "v": "668660_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

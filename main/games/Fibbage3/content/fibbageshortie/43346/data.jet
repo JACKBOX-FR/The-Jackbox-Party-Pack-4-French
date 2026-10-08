@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une femme, six doigts, une routine de stand-up, une maladie cardiaque, un chameau de compagnie, un compte Netflix, un jumeau, une carte de crédit, la dyslexie, des cookies pour tout l'équipage, une folie spatiale, son gâteau et le manger aussi, une peur de voler, une famille secrète, reçu une retenue au lycée, mono, une queue résiduelle, un léopard de compagnie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "débutants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une barbe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Paul Scully-Power n'a pas seulement été le premier Australien à se lancer dans l'espace ; il a également été le tout premier astronaute à avoir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poils du visage, une moustache, une moustache, des moustaches ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]S'il l'était, il ne le dit pas. ",
+      "t": "A",
+      "v": "569759_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Paul Scully-Power n'a pas seulement été le premier Australien à se lancer dans l'espace, il a également été le tout premier astronaute à avoir <BLANK>. ",
+      "t": "A",
+      "v": "560935_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

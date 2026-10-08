@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sentir|du fromage,entendre|un loup,manger|un cheval,goûter|un serpent,sauter|une grenouille,conduire|un astronaute,penser|un chien,ronfler|un ours,nager|un poisson,regarder|Harrison Ford,marcher|un Égyptien, dépenser|il n'y a pas de lendemain,dormir|canard,apprendre|un bébé,habiller|marin, transpirer|un éléphant,voir|un cerf,marcher|John Goodman ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Remplacements ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "parler|Scooby Doo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2014, le Dr Steven Long de l’Université Marquette a inventé le terme « remplacement rhotique ». Vous pouvez souffrir de ce trouble si vous <BLANK> aimez <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "parler|Scooby Doo,parler|Scooby,parler|Scooby,parler|Scooby-Doo,parler|Scooby-Doo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le seul traitement connu est un « Rooby Rack ». (Scooby Snack) ",
+      "t": "A",
+      "v": "568263_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2014, le Dr Steven Long de l'Université Marquette a inventé le terme « remplacement rhotique ». Vous pouvez souffrir de ce trouble si vous <BLANK> aimez <BLANK>. ",
+      "t": "A",
+      "v": "568260_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler à la tire, se curer le nez, envoyer des SMS à son petit ami, se couper les ongles des pieds, dessiner une image sale, écrire une critique sur Yelp, attiser un pet, écrire un scénario, écouter une émission de radio, regarder un film cochon, résoudre un sudoku, parler dans son sommeil, acheter des sous-vêtements, nettoyer son nombril, lire Cinquante Nuances de Grey, parcourir Tinder, pratiquer des tours de magie, lire une bande dessinée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Éclaté ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "attraper des Pokémon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En octobre 2015, alors qu'elle était censée assister à un débat au Parlement, la Première ministre norvégienne a été prise dans l'acte embarrassant de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pokémon, jouer à Pokémon, jouer à Pokémon Go, Pokémon Go, jouer à un jeu, jouer à des jeux vidéo, Pokémon, jouer à Pokémon, jouer à Pokémon Go, Pokémon Go, attraper des Pokémon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle jouait à Pokemon Go sur son téléphone. ",
+      "t": "A",
+      "v": "585095_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En octobre 2015, alors qu'elle était censée écouter un débat au Parlement, la Première ministre norvégienne a été prise dans l'acte embarrassant de <BLANK>. ",
+      "t": "A",
+      "v": "585092_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

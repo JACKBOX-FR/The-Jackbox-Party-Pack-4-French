@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les perroquets, leurs voix, une carte, des sous-vêtements, un second, des cuillères, du rhum, du papier toilette, une jambe de bois usagée, leur jeu de crottes, leurs noms, les bougies, les chiens de garde, des bananes, des oranges, du beurre, des mains en crochet, des idées de sitcom ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La vie des pirates ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chapeaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le pirate légendaire Benjamin Hornigold s'est un jour emparé d'un sloop au large des côtes du Honduras, mais au lieu de réclamer le navire ou sa cargaison, il a seulement volé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "leurs chapeaux, quelques chapeaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son équipage s'est saoulé et a jeté les leurs par-dessus bord la nuit précédente. C'est pourquoi j'attache toujours mon chapeau de pirate à ma manche. ",
+      "t": "A",
+      "v": "637769_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le pirate légendaire Benjamin Hornigold s'est un jour emparé d'un sloop au large des côtes du Honduras, mais au lieu de réclamer le navire ou sa cargaison, il a seulement volé <VIERGE>. ",
+      "t": "A",
+      "v": "637766_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

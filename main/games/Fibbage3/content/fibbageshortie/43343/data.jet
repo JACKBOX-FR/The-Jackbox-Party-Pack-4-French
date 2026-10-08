@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "machines à bulles, champagne, radios, produits de nettoyage, ballons, motos, voitures, vieux fours, vieux téléphones, fournitures de méthamphétamine, toilettes, micro-ondes, seltzers alcalins, soda, batteries de voiture, chats, sous-vêtements, clair de lune ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Décharge fluviale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vaches mortes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La branche sud de la rivière Chicago est connue sous le nom de « Bubbly Creek ». Il y a des bulles parce que c'est là que les gens jetaient leur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Viande pourrie, vieux bœuf, vache morte, carcasses de vache, bœuf pourri, vaches ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Si vos caca font des bulles, vous voudrez peut-être les faire vérifier ",
+      "t": "A",
+      "v": "569715_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les emballeurs de viande ont jeté des carcasses, du sang, des entrailles et probablement quelques informateurs de la mafia. ",
+      "t": "A",
+      "v": "560838_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La branche sud de la rivière Chicago est connue sous le nom de « Bubbly Creek ». Il y a des bulles parce que c'est là que les gens jetaient leur <BLANK>. ",
+      "t": "A",
+      "v": "560835_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sourire le plus blanc, meilleur jongleur à la tronçonneuse, plus grand fan, tourneur de lettres le plus rapide, cheveux les plus blonds, meilleure maman, seulement Vanna White, personnalité la plus sous-payée, marcheur le plus étrange, voix la plus agréable, nez le plus mignon, le plus souvent enceinte, chevilles les plus fines, personne la plus inutile, voix la plus nasillarde, rire le plus ennuyeux, travailleur le plus acharné, personnalité de jeu télévisé la plus courte ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vanna Blanc",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Clapper le plus fréquent ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 2015, Vanna White de <i>Wheel of Fortune</i> détient officiellement le titre de record du monde Guinness de « <BLANK> de la télévision ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "clap le plus fréquent, clap le plus, clap le plus fréquent, clap le plus fréquent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La vieille dame de la publicité « Clapper » n'a pas pu être contactée pour commenter. ",
+      "t": "A",
+      "v": "384509_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis 2015, Vanna White de <i>Wheel of Fortune</i> détient officiellement le titre de record du monde Guinness de « <BLANK> de la télévision ». ",
+      "t": "A",
+      "v": "384506_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

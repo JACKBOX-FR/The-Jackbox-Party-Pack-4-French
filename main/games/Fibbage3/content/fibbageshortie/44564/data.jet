@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Français, fumer de la marijuana, obèse, déchirer un formulaire d'impôt, lire un livre, rêver de souris, tenir un rat, pleurer dans une fontaine, se pencher à gauche, frapper le diable, boire une bière, jeter des tomates, sous un parapluie, manger de la glace, du jazz, jouer sur une planche à laver, regarder des rediffusions de Home Improvement, sur le modèle de James Gandolfini ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Statues sympas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il y a une célèbre statue près de l’hôtel de ville de Bruxelles qui incarnerait l’esprit de la ville. Il représente un petit garçon qui est <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "uriner, pisser ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bruxelles a donc le même esprit qu'un bootleg Calvin Sicker à l'arrière d'un pick-up. ",
+      "t": "A",
+      "v": "591317_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il y a une célèbre statue près de l'hôtel de ville de Bruxelles qui incarnerait l'esprit de la ville. Il représente un petit garçon qui est <VIDE>. ",
+      "t": "A",
+      "v": "591314_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

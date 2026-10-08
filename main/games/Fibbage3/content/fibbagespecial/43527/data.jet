@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tranche de tarte gratuite, appel, bain, douche, grosse bouffée, sieste, loup, fusil, miche de pain, livre, plongée, cookie, balade à vélo, gorgée d'eau, souffle, sanglier, soupe, traîneau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Un plaisir audacieux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marcher ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le vieux dicton russe qui équivaut à « Les affaires avant le plaisir » est « Quand vous avez fait le travail, vous pouvez prendre un <BLANK> avec audace ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "amusant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "564448_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Rien de tel qu'une bonne et audacieuse promenade. ",
+      "t": "A",
+      "v": "564446_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le vieux dicton russe qui équivaut à « Les affaires avant le plaisir » est « Quand vous avez fait le travail, vous pouvez prendre un <BLANK> avec audace. » ",
+      "t": "A",
+      "v": "564443_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

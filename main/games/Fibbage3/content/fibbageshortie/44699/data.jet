@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "guêpes, eau froide, décharges électriques, un coq, les chiens, une odeur chaude de biscuit, des fléchettes, une colombe, des courriels sévères, le son d'un bébé qui pleure, la musique de Beyoncé, vos propres ronflements, la pizza, l'essence, les informations de votre carte de crédit, plus de feu, d'hélium, des serpents en colère ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sécurité incendie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gaz douloureux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2009, une équipe de recherche japonaise a inventé une alarme incendie qui, au lieu d'émettre des bruits forts, déclenche <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gaz, gaz piquant, gaz wasabi, wasabi ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il est fait de wasabi et peut vous réveiller si vous êtes malentendant. ",
+      "t": "A",
+      "v": "594713_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2009, une équipe de recherche japonaise a inventé une alarme incendie qui, au lieu d'émettre des bruits forts, déclenche <BLANK>. ",
+      "t": "A",
+      "v": "594710_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

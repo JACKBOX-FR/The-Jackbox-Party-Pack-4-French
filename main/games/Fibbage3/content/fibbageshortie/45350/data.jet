@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tortue de compagnie, iPhone, toupe, vélo fixie, meule de fromage inestimable, savons décoratifs, pot de calculs rénaux précieux, collection de bonbons vintage, collection de bandes dessinées, fourniture de repas diététiques, cendres de maman, épée d'escrime, Porsche, compte Facebook, collection porno, clé de coffre-fort, collier de dents de requin, montre à un million de dollars ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Manger vos sentiments ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fonds de vacances ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sandra Almeida, de Colombie, s'est vengée de son mari infidèle en mangeant son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Argent,épargne,épargne,argent liquide ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les chirurgiens ont retiré environ 6 000 $ de ses intestins. ",
+      "t": "A",
+      "v": "612415_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Sandra Almeida de Colombie s'est vengée de son mari infidèle en mangeant son <BLANK>. ",
+      "t": "A",
+      "v": "612412_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

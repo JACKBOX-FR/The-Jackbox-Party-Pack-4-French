@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "héroïne | morve, crème glacée | sperme, cendres humaines | poussière de cheeto, cacao | or, beurre de cacahuète | poils pubiens, sucre | lubrifiant, pot | lotion, safran | un soupçon de thym, fluorure | msg, larmes | uranium, sperme | crachat, fourrure de chien | crustacés, sueur | vomi, café | chocolat blanc, sang | chien cheveux, vin | pénicilline, tylénol | méthamphétamine, bacon | Dr Pepper ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Montants de trace ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cocaïne|herpès ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des professeurs belges ont étudié des copies de bibliothèque de <i>Cinquante Nuances de Grey</i> et ont découvert des traces de <BLANK> et <BLANK> sur les livres. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "herpès|cocaïne,herpès|coke,coke|herpès ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Spoilers pour le dernier livre. ",
+      "t": "A",
+      "v": "331634_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Des professeurs belges ont étudié des copies de <i>Cinquante Nuances de Grey</i> et ont découvert des traces de <BLANK> et <BLANK> sur les livres. ",
+      "t": "A",
+      "v": "331631_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

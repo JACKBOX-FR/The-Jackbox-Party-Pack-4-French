@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les incendier, organiser une élection simulée, les envoyer à une chasse au trésor, les bannir, frapper à la porte jusqu'à ce qu'ils partent, leur acheter des billets pour sortir de la ville, briser leurs fenêtres avec des pierres, en élire de nouveaux, leur donner un œil puant, s'asseoir sur leurs chaises, les exorciser, les effrayer, cacher des serpents dans leurs cassants aux arachides, leur donner le traitement silencieux, les marier, manger. eux, faire bouger la ville, le pouvoir de la satire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Politiciens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les jeter par la fenêtre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 23 mai 1618, plusieurs citoyens frustrés de Prague ont destitué de manière créative leurs politiciens par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Défenestration,Les défenestrer,les jeter par une fenêtre,les jeter du haut d'un immeuble ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et là, j'allais voter comme un con. ",
+      "t": "A",
+      "v": "636821_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 23 mai 1618, plusieurs citoyens frustrés de Prague ont destitué de manière créative leurs politiciens par <BLANK>. ",
+      "t": "A",
+      "v": "636818_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

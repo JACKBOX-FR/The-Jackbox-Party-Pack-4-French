@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "donneur d'organes, cadavre, cyborg, œil rose, loup-garou, Vierge Marie, parfumé à la saucisse, fossoyeur, Meredith Viera, auto-immolation, retraitée, Anjelica Huston, cicatrices de bataille, avenir dystopique, anxiété généralisée, syndrome du côlon irritable, vomissements, Wolverine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Barbie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Angela Merkel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors du 60e salon international du jouet à Nuremberg, Mattel a présenté une étrange variante d'un jouet classique : l'édition spéciale <BLANK> Barbie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Angella Merkel, Chancelière d'Allemagne ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le seul honneur plus grand que celui d'être chancelier d'Allemagne, c'est d'être chancelier d'Allemagne Barbie. ",
+      "t": "A",
+      "v": "598393_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors du 60e salon international du jouet à Nuremberg, Mattel a présenté une étrange variante d'un jouet classique : l'édition spéciale <BLANK> Barbie. ",
+      "t": "A",
+      "v": "598390_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

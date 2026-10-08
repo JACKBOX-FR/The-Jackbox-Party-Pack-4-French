@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sa fête de 24e anniversaire, le plus grand hoagie du monde, un enfant écrasant une piñata de Zac Effron, Yoshi mangeant des Koopas, son numéro de danse préféré de Cats, Matlock résolvant l'affaire, un serpent portant un petit pull, une tortue essayant de manger une fraise, un bébé chèvre faisant la sieste, des extraits de lui souriant dans les films, des bêtisiers de rénovation domiciliaire, des tout-petits faisant High School Musical, sa première leçon de chant, son bal de fin d'année, Nicolas Cage mangeant un pêche, un enfant qui le confond avec Justin Bieber, la nouvelle bande-annonce de Star Wars, la publicité de M. Microphone ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Maman Efron ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "son nom sur la Roue de la Fortune ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zac Efron a tweeté \"Maman m'a envoyé ça, je dois l'adorer [heart].\" Ce que sa mère a envoyé était une vidéo de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "23h11<br />1er mars 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@ZacEfron ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "son nom comme puzzle de la Roue de la Fortune, lui sur la Roue de la Fortune, la Roue de la Fortune ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "619524_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ma mère m'a envoyé la même vidéo et m'a demandé pourquoi je n'avais pas assez de succès pour faire partie de Wheel of Fortune. ",
+      "t": "A",
+      "v": "619522_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ : En mars 2017, Zac Efron a tweeté \"Maman m'a envoyé ça, je dois l'adorer (emoji coeur).\" Ce que sa mère a envoyé était une vidéo de <BLANK>. ",
+      "t": "A",
+      "v": "619519_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

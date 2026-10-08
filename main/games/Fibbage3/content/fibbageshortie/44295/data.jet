@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "os de dinosaure, viande de déjeuner périmée, broche de métro de New York, moisissure jurassique, champignon de son orteil, tartelettes pop, meilleur whisky, bubble gum, serviettes de vestiaire, défenses de mastodonte, vieux pop-corn, eau d'ouragan, baleines mortes, pipi d'ours polaire, météorites, eaux usées, vieilles bandes dessinées, poivrons fantômes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Boire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "urine des diabétiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2010, le chercheur biomédical britannique James Gilpin a mis en bouteille et distillé sa propre marque de whisky single malt fermenté avec du <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pipi,urine,pipi des diabétiques,urine des diabétiques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Donner un tout nouveau sens au terme « ivre de pisse ». ",
+      "t": "A",
+      "v": "584105_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2010, le chercheur biomédical britannique James Gilpin a mis en bouteille et distillé sa propre marque de whisky single malt fermenté avec <BLANK>. ",
+      "t": "A",
+      "v": "584102_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

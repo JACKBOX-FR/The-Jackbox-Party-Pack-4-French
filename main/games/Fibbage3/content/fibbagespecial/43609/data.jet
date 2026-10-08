@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un fantôme,un mime,un cheval mort,un assassin,un nuage,un chat étranglé,une chaussure,le monstre derrière toi,une tarte,l'école le dimanche,l'hiver,un pistolet vide,l'épouvantail,un portail huilé,un tas de chiffons,des remords,caca,nostalgie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Eez trop silencieux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un poisson ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'équivalent russe de « silencieux comme la tombe » se traduit par « muet comme <VIDE> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le poisson, le poisson, les poissons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566110_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est pourquoi les poissons sont si gênants lors des premiers rendez-vous. ",
+      "t": "A",
+      "v": "566108_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'équivalent russe de « silencieux comme la tombe » se traduit par « muet comme <VIDE> ». ",
+      "t": "A",
+      "v": "566105_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

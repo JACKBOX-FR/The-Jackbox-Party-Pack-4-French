@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "robot majordome, réfrigérateur à vin, cascade électrique, enseignes au néon, machine à sous, TV plasma, Roomba, tondeuse à moustache, muffins, fudge amish, détecteur d'ouragan, chien sur un respirateur, projet de classe, têtes de célébrités gelées, habitat des pingouins, émission YouTube, unité de confinement des fantômes, fromages précieux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Géraldo Rivera ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Poissons Koi dans l'étang ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après le passage de l'ouragan Sandy, Geraldo Rivera a tweeté : « 1er matin de congé depuis la tempête – je me suis démené pour trouver un générateur pour sauver mon <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "8h00<br />3 novembre 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@GeraldoRivera ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poisson koi,poisson,koi,étang de koi ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "665513_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Célébrités : elles sont comme nous ! ",
+      "t": "A",
+      "v": "665511_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En 2012, après le passage de l’ouragan Sandy, Geraldo Rivera a tweeté : « 1er matin de congé depuis la tempête – je me suis démené pour trouver un générateur pour sauver mon <BLANK>. » ",
+      "t": "A",
+      "v": "665508_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

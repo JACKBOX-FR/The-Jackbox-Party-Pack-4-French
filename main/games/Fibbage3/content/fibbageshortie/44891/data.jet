@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "billets d'un dollar, morceaux de chewing-gum mâchés, spatz, selfies, Pogs, blagues de maman, os humains, couteaux de fortune, parasols, fusées expérimentales, avions en papier, bouteilles de vin médiéval, notes de remerciement, petites fourchettes, ceintures de lutte, embryons de panda, scripts de spécifications d'amis, tongs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rockefeller ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "coléoptères ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après la mort de David Rockefeller à l'âge de 101 ans, Harvard a reçu la collection du milliardaire de plus de 150 000 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Beatles, bugs, insectes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Attendez une minute, philanthrope milliardaire... obsédé par les coléoptères... Oh que Dieu ! Rockefeller était un combattant du crime masqué, The Beetle Crusader pendant tout ce temps !!?! ",
+      "t": "A",
+      "v": "600161_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après la mort de David Rockefeller à l'âge de 101 ans, Harvard a reçu la collection du milliardaire de plus de 150 000 <BLANK>. ",
+      "t": "A",
+      "v": "600158_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Esclave, sœur, femme, réceptionniste, adorateur, barman, Floozy, tueur de démons, ivre, les genoux de l'abeille, nonne, ouvrière de fonderie, nounou, magicien, bonne fille, Jerk, mari, cambrioleur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Leçons de mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Veuve ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Donald Rogers a écrit un livre dans les années 50 intitulé <i>Apprenez à votre femme à être un <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son livre de suivi s'intitulait « Ne donnez pas à votre femme la clé de l'armoire à armes ». ",
+      "t": "A",
+      "v": "349823_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Donald Rogers a écrit un livre dans les années 50 intitulé <i>Apprenez à votre femme à être un <BLANK></i>. ",
+      "t": "A",
+      "v": "349820_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

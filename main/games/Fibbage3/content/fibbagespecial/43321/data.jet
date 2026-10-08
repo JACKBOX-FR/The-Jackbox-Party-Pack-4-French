@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Slim Whitman, cricket, sasquatch, grande sœur, laitière édentée, boucher barbu, ours malade, enfant faible, tigre en colère, vieil homme sage, sanglier géant, petit oiseau, loutre, sorcière, fantôme du tsar, ouvrier du bâtiment, elfe magique, fabricant de bougies ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ohlways Sey Nevrl ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "écrevisse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque quelque chose est vraiment improbable, un anglophone pourrait dire « When pigs fly ». L’équivalent russe se traduit par « Quand le <BLANK> siffle sur la montagne ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "écrevisse,crawdad ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Et maintenant, une visite dans le vieux pays... ",
+      "t": "A",
+      "v": "560240_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host][aside] J'aimerais qu'il apprenne simplement les mots... ",
+      "t": "A",
+      "v": "560238_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque quelque chose est vraiment improbable, un anglophone pourrait dire « Quand les cochons volent ». L’équivalent russe se traduit par « Quand le <BLANK> siffle sur la montagne ». ",
+      "t": "A",
+      "v": "560235_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

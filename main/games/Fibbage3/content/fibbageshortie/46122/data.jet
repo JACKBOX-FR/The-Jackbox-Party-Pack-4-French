@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un agriculteur nommé Pete, du bétail du Montana, une machine à laver, l'industrie du fromage, Swiffer Wet Jets, des gens nommés Paul, États-Unis, le monstre de Boggy Creek, le bus touristique de Dolly Parton, l'écureuil dans le grenier de Spencer Ham, les mascottes d'université, les cartons de lait qui refusent de s'ouvrir, une mauvaise grammaire, les habitudes alimentaires de Charles Barkley, le gorille gonflable sur l'autoroute D d'Oklahoma Access, Dannon Yaourt, saisons 22 à 24 des Simpsons, la vie elle-même ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cour suprême ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "40 barils et 20 fûts de coca-cola ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Parfois, la Cour suprême des États-Unis doit se saisir de cas étranges, comme le cas n° 1. 562, « États-Unis c. <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "40 barils et 20 fûts de coca,quarante barils et vingt fûts de coca cola,quarante barils et vingt fûts de coca,20 fûts et 40 barils de coca cola,20 fûts et 40 barils de coca,vingt fûts et quarante barils de coca cola,vingt fûts et quarante barils de coca,quarante barils et vingt fûts de coca-cola, 20 fûts et 40 barils de coca-cola, vingt fûts et quarante barils de coca cola ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Parfois, la Cour suprême des États-Unis doit se saisir de cas étranges, comme le cas no. 562, « États-Unis c. <VIERGE> ». ",
+      "t": "A",
+      "v": "635615_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

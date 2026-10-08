@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Frankenstein, Bob Dole, Ananas, Superman, Hambone, Pantalon grincheux, Toile de jute, Pickle Puss, Esturgeon, Old Sawbuck, T-Bone, Hammerhead, Sebastian, Thistlewick, Léviathan, Larry King, Sledgehammer, Bad Driver ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nom de code Bob ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Baguette ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon le <i>Washington Post</i>, le nom de code des services secrets pour le candidat républicain à la présidentielle de 1996, Bob Dole, était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tige de bélier, tige de bélier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a ensuite réalisé des publicités pour le Viagra. Vous reliez les points. ",
+      "t": "A",
+      "v": "561993_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon le <i>Washington Post</i>, le nom de code des services secrets du candidat républicain à la présidentielle de 1996, Bob Dole, était <VIDE>. ",
+      "t": "A",
+      "v": "561990_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

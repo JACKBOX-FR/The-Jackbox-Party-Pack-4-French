@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Boiteux, cruel, impuissant, flatulent, idiot, ivre, bègue, maladroit, jerk, gars timide, Doofus, Belcher, ignorant, nauséeux, bouffon, danseur, impertinent, non-roi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Noms des rois",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Baveur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À la fin du XIIe et au début du XIIIe siècle, l'ancien royaume de Galice était gouverné par un monarque comiquement connu sous le nom d'Alfonso le <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bave, bave, mousse, cracheur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est pourquoi il n'était pas autorisé à s'asseoir sur le canapé. ",
+      "t": "A",
+      "v": "607237_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À la fin du XIIe et au début du XIIIe siècle, l'ancien royaume de Galice était gouverné par un monarque comiquement connu sous le nom d'Alfonso le <BLANK>. ",
+      "t": "A",
+      "v": "607234_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

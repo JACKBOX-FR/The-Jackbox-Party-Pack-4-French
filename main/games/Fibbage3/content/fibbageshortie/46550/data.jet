@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "viande de bœuf séchée, couches pour adultes, pilules du lendemain, cure-dents, méthadone, Bibles, cercueils, livres de coloriage, bougies parfumées, supports d'épis de maïs, housses de siège de toilette, assiettes décoratives, écrous de camion, baskets pour enfants, bandanas, bretelles pour enfants, supports pour queue de cheval, brosses à dents. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mötley Crüe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vibrateurs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2016, Mötley Crüe a donné à ses fans ce qu'ils ont toujours voulu et a sorti sa propre ligne de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "jouets sexuels ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si vous n'êtes pas sûr qu'ils vous conviennent, veuillez consulter le Dr Feelgood. ",
+      "t": "A",
+      "v": "646410_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2016, Mötley Crüe a donné à ses fans ce qu'ils ont toujours voulu et a sorti sa propre gamme de <BLANK>. ",
+      "t": "A",
+      "v": "646407_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "s'habiller comme un hippopotame, aimer lécher les orteils, dresser des chameaux, opérer sur le cerveau, étudier les langues mortes, refuser de grandir, consulter un médium, manger des aliments avariés, refuser de se baigner, éviter les relations sexuelles, manger des crottes de nez, parler aux morts, tout nettoyer de manière obsessionnelle, ne manger que de l'écorce d'arbre, boire du sang, percer ses parties intimes, croire aux dieux grecs, manger des termites ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Définitions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger de la viande de cheval ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pratiquez-vous « l’hippophagie » ? Vous le faites si vous <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "manger des chevaux, manger du cheval ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne peux pas manger de viande de cheval. Ça me donne le trot. ",
+      "t": "A",
+      "v": "409003_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Faites-vous de l'« hippophagie » ? Vous le faites si vous <VIDE>. ",
+      "t": "A",
+      "v": "409000_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

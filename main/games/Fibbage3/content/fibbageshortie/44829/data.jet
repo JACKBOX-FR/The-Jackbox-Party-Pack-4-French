@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cobra, roman de propagande, beignet, vélo, sauce piquante, recommandation d'hôtel, rasoir électrique, tétine, boule nerf, recette de pudding, paire de chaussettes, stylo à encre, hamster, perruque, coussin de siège, désodorisant, chanson country, leurre de pêche ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Danger",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tweeter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La police a arrêté un homme pour avoir envoyé au journaliste Kurt Eichenwald un dangereux <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "message Twitter, DM, message direct ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le tweet avait un effet stroboscopique délibérément conçu pour provoquer des convulsions. ",
+      "t": "A",
+      "v": "598483_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici un avertissement. La police a arrêté un homme pour avoir envoyé au journaliste Kurt Eichenwald un dangereux <VIERGE>. ",
+      "t": "A",
+      "v": "598480_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

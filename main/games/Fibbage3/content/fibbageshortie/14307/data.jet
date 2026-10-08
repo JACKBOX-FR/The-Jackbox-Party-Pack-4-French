@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rétrécir, geler, léviter, se séparer, coller ensemble, briller, devenir des ovaires, faire pousser des cheveux, émettre de la lumière, quadrupler en taille, sentir mauvais, pétrifier, devenir bleu, faire pousser des dents, fuir du venin, se dissoudre, produire des œufs, siffler ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Orgasmes d'abeilles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "exploser ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu'une abeille mâle jouit d'un orgasme, ses testicules <BLANK>.",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et pourtant, il s'endort TOUJOURS immédiatement après. ",
+      "t": "A",
+      "v": "318074_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Quand une abeille mâle jouit d'un orgasme, ses testicules <VIERGES>. ",
+      "t": "A",
+      "v": "318071_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

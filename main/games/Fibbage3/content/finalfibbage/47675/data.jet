@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une canette | un clavier, des bouteilles de relish | des photos de George Bush, des lunettes | des murs en briques, sa voiture | des tas d'animaux en peluche, des chats | barbe à papa, ses fesses | des déchets, des figurines d'action | des couches usagées, des étrangers | les uns les autres, des bonbons | la bouche de son amie, ses pieds | la colle d'Elmer, des boules de peinture | vieux réfrigérateurs, des hommes chauves | trampolines, des photos de Nixon | un mixeur, votre attentes|poussière,diamants|boulettes de gomme,ses ennemis|pylônes de ciment,robots|bâtiments gouvernementaux,sel|ses blessures ouvertes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des Instagram étranges ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "son visage|pain ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il existe un compte Instagram avec plus de 170 000 abonnés qui consiste uniquement en une femme écrasant <BLANK> contre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "visage|pain,pain|son visage,pain|visage,son visage|pain différent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nous avons l'Internet que nous méritons. ",
+      "t": "A",
+      "v": "665432_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Étrangement, il existe un compte Instagram avec plus de 170 000 abonnés qui consiste uniquement en une femme écrasant <BLANK> contre <BLANK>. ",
+      "t": "A",
+      "v": "665429_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

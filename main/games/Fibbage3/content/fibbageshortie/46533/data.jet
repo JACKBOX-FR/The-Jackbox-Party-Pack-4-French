@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anti-vaccin, Skrillex, poilu, Black Eyed Peas, meurtre, poésie slam, Fyre, toucher les fesses, appréciation de Sinbad, marionnette, pénis, consommation d'ordures, humide, perruque usagée, sociopathe, magie noire, suicide, Google Translate ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Perdu dans la traduction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "clitoris ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une petite ville du nord de l'Espagne a tenté de diffuser des publicités en ligne pour son festival gastronomique de 2015. Malheureusement, en raison d'une erreur de Google Translate, il a accidentellement fait la promotion d'un festival <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "clito ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La fréquentation était un peu faible, mais c'est uniquement parce que certaines personnes ont eu du mal à le trouver. (effet sonore:rimshot) Merci ! ",
+      "t": "A",
+      "v": "645852_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une petite ville du nord de l'Espagne a tenté de diffuser des publicités en ligne pour son festival gastronomique de 2015. Malheureusement, en raison d'une erreur de Google Translate, il a accidentellement fait la promotion d'un festival <BLANK>. ",
+      "t": "A",
+      "v": "645849_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

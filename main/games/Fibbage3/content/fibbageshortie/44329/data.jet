@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tir à la corde, concours de rasage de chat, jeu de scrabble, costume de vache, flash mob, marathon Star Wars, rôti d'Australie, sieste, cuisson, toast à la liberté, vide-grenier, tournoi de volley-ball, soirée d'écoute Smash Mouth, observation des étoiles, danse du ruban, spectacle de marionnettes, concours de beauté, course de canards en caoutchouc ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tradition ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Père Noël secret ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis que la tradition a été lancée par Sam Elton-Walter en 2010, des milliers de Néo-Zélandais ont participé à un <BLANK> annuel à l'échelle nationale. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "échange de cadeaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui à son tour a lancé une autre tradition : la redistribution nationale de ce que vous avez reçu l'année dernière. ",
+      "t": "A",
+      "v": "585125_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis que la tradition a été lancée par Sam Elton-Walter en 2010, des milliers de Néo-Zélandais ont participé à un <BLANK> annuel à l'échelle nationale. ",
+      "t": "A",
+      "v": "585122_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

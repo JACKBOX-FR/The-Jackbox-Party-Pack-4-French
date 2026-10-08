@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mein Kampf, le Kama Sutra, Playboy Magazine, Penthouse, Breaking Bad, Les Affranchis, Le Silence des agneaux, Les Monologues du vagin, Le Livre de Mormon, la comédie de George Carlin, la Bible satanique, les films de Ron Jeremy, les écrits de David Duke, Fight Club, Two Girls, One Cup, Dirty Limericks, le procès OJ Simpson, les films Saw ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "recherche de mots ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cinquante nuances de Grey ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cinq élèves de la Monessen Middle School, en Pennsylvanie, ont fini par apprendre plus que ce qu'ils espéraient après avoir reçu accidentellement une recherche de mots inspirée de <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Cinquante nuances de Grey,Cinquante nuances ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela me met tellement en colère... oh attends, non. Il y a \"buttplug\". Je l'ai trouvé. Pas grave. ",
+      "t": "A",
+      "v": "381521_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cinq élèves de la Monessen Middle School en Pennsylvanie ont fini par en apprendre plus que ce qu'ils avaient prévu après avoir reçu accidentellement une recherche de mots inspirée de <BLANK>. ",
+      "t": "A",
+      "v": "381518_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

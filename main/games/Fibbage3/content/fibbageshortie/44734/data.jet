@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vols de chevaux, boutiques de beignets, jeans éblouis, cafés, démocrates enregistrés, observations de bigfoot, décès de MMA, yuppies, magasins de bandes dessinées, Bass Pro Shops, enlèvements extraterrestres, stations disco, Bed Bath et Beyonds, micros inversés, Cracker Barrels, diplômés de Harvard, lauréats du prix Nobel, consommation de drogues récréatives ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Musique country ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "suicides ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1992, une étude affirmait que les villes ayant une part de marché de la radio de musique country supérieure à la moyenne avaient également plus de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "suicide ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je mets fin à mon cas. ",
+      "t": "A",
+      "v": "595761_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1992, une étude affirmait que les villes ayant une part de marché de la radio de musique country supérieure à la moyenne avaient également plus de <BLANK>. ",
+      "t": "A",
+      "v": "595758_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

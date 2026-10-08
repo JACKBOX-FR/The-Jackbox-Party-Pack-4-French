@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "clonage illégal, braconnage, conduite d'une Prius ivre, citant Austin Powers, détritus, création d'une secte, recyclage inapproprié, cannibalisme accidentel, allumage d'un feu de forêt, démarrage d'un stratagème de Ponzi, peinture au pistolet d'arbres, déversement de carburéacteur dans un ruisseau, matraquage d'un phoque, miction publique, renversement d'un séquoia, mort de cravate inappropriée, évasion fiscale sur une commune, ne pas se baigner ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jour de la Terre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "composter sa petite amie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le co-fondateur du Jour de la Terre et maître de cérémonie lors du premier rassemblement du Jour de la Terre a ensuite été arrêté pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tuer sa petite amie,assassiner sa petite amie,meurtre,tuer et composter sa petite amie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était un crime horrible mais au moins il était sur le qui-vive. ",
+      "t": "A",
+      "v": "597913_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le co-fondateur du Jour de la Terre et maître de cérémonie lors du premier rassemblement du Jour de la Terre, a ensuite été arrêté pour <VIERGE>. ",
+      "t": "A",
+      "v": "597910_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

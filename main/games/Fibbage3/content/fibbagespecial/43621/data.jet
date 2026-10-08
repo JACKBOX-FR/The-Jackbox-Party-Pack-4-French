@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tu clignes des yeux, tu le sais, les loups arrivent, ton anniversaire, le médecin arrive, l'année fiscale se termine, le petit déjeuner, ton cœur oui, tes cauchemars, le mardi taco, le festival, tu arrête de pleurer, la vie t'inflige une autre défaite, la paix mondiale, le prochain arc-en-ciel, la lumière des fées, le jour de l'arbre, les tomates gèlent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Merci, maman ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ton mariage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis des générations, les mères russes apaisent les petites bosses et les contusions de leurs enfants en disant ce qui se traduit par « Ça guérira avant <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le mariage,le jour de votre mariage,la date de votre mariage,le mariage,le jour de votre mariage,la date de votre mariage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566394_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis des générations, les mères russes apaisent les petites bosses et contusions de leurs enfants en disant ce qui se traduit par \"Ça guérira avant <BLANK>\". ",
+      "t": "A",
+      "v": "566389_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

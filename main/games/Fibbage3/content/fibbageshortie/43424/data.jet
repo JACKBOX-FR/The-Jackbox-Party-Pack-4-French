@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aimé, escroqué, élevé, volé, tué, marié, largué, baptisé, léché, kidnappé, arrêté, enseigné l'escrime, tiré d'un canon, usurpé l'identité, conçu, chassé sur une île, naufragé, empoisonné ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hommes pianistes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "aveuglé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon certains historiens, les compositeurs Bach et Haendel étaient tous deux <VIDE> du même homme. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "aveugle, rendu aveugle, rendu aveugle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le gars, John Taylor, était ophtalmologiste. Heureusement, aucun de ses patients ne pouvait lire les petits caractères. ",
+      "t": "A",
+      "v": "562262_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon certains historiens, les compositeurs Bach et Haendel étaient tous deux <BLANK> par le même homme. ",
+      "t": "A",
+      "v": "562259_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

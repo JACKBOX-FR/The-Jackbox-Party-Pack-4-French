@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danser|toits,par défaut|prêts, saupoudrer de sel|seuils de porte, poster des panneaux anti-lion|atterrir, prier|genoux, mettre des masques effrayants|ouvriers agricoles, s'asseoir|mains, sauter|souches, chanter|propre album de Noël, sauter|pops, suspendre l'ail|cous de vaches, frotter la cannelle|queues de vaches, prendre le petit déjeuner|porche pour un changement amusant, réfléchir fort|objectifs de vie, élever lions|fermes à la place, mettez du sel|piss de vaches,installez des alarmes|clôtures,abandonnez|rêves ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vaches et Lions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "peindre les yeux|les fesses des vaches ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Dr Neil Jordan a mis au point un moyen inventif de protéger le bétail du Botswana contre les attaques de lions. Il avait des agriculteurs <BLANK> sur leur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "peindre les yeux|les fesses de vaches, peindre les yeux|les fesses, peindre les yeux|fesses, peindre les yeux|croupes de vaches, peindre les yeux|croupes de vaches, peindre les yeux|croupes, peindre les yeux|croupe, peindre les yeux|évaluer les vaches, peindre les yeux|les vaches évaluer, peindre les yeux|culs, peindre les yeux|cul, dessiner les yeux|cégots de vaches, dessiner les yeux|mégots, dessiner yeux|fesses,dessiner des yeux|croupes de vaches,dessiner des yeux|croupes de vaches,dessiner des yeux|croupes,dessiner des yeux|croupe,dessiner des yeux|évaluer des vaches,dessiner des yeux|vaches évaluer,dessiner des yeux|culs,dessiner des yeux|cul ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les lions n'aiment pas être vus par leurs proies. Un peu comme j’évite le contact visuel avec un canard rôti. ",
+      "t": "A",
+      "v": "669343_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dr. Neil Jordan a trouvé une manière inventive de protéger le bétail du Botswana contre les attaques de lions. Il avait des agriculteurs <BLANK> sur leur <BLANK>. ",
+      "t": "A",
+      "v": "669340_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des nonnes, des pirates de l'air, un pilote fumant, Hugh Jackman, un chat en liberté, un téléphone portable qui explose, un koala avec un cigare, une Nintendo DS qui fond, des bébés qui pleurent, la friction d'un couple qui s'embrasse, le four grille-pain d'un passager, un vieil homme se frottant les genoux, les repas, une usine de marmite à proximité, quelqu'un qui fume la pipe, un espion d'une compagnie aérienne concurrente, Arnold Schwarzenegger, de la musique d'harmonica. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "atterrissage d'urgence ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "péter des moutons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, un vol cargo entre l'Australie et Kuala Lumpur a dû effectuer un atterrissage inattendu après que l'alarme incendie ait été déclenchée par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des moutons pètent,des gaz de moutons,des gaz de moutons,pétent,des gaz,un mouton qui pète,un mouton qui pète ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, un vol cargo entre l'Australie et Kuala Lumpur a dû effectuer un atterrissage inattendu après que l'alarme incendie ait été déclenchée par <BLANK>. ",
+      "t": "A",
+      "v": "559370_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

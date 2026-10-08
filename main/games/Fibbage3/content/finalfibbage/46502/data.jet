@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le père de Cher|un igloo,un dinosaure|une latrines,un groupe de mariachis|Pizza Hut,Crocodile Dundee|une salle de bain de zoo,un gorille|une Nissan Versa,un rat|son oreille,Christopher Colomb|un sac banane,un vampire|un sous-marin,toutes les filles|le fond d'un puits,un kangourou|lingerie,Bigfoot|une lamborghini,un poisson-chat|une bière bouteille, Indiana Jones | un réfrigérateur, un homme au homard | un Old Navy, un robot extraterrestre | un KFC, un imitateur d'Elvis | une machine à laver, un mammouth laineux | un terrain de volley-ball, un tigre à dents de sabre | une canette de café ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Reste ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une baleine|une forêt tropicale ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En avril 2017, à l'extérieur de la petite ville australienne de Karunda, un entrepreneur a découvert les restes mystérieux de <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "baleine|forêt tropicale,une baleine|la forêt tropicale,une baleine|la forêt tropicale,une baleine|une forêt tropicale ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cette histoire me rend particulièrement triste car un enfant de 8 ans m'a traité de baleine après que ma chaise se soit cassée au Rainforest Café. ",
+      "t": "A",
+      "v": "645372_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En avril 2017, à l'extérieur de la petite ville australienne de Karunda, un entrepreneur a trouvé les restes mystérieux de <BLANK> dans <BLANK>. ",
+      "t": "A",
+      "v": "645369_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

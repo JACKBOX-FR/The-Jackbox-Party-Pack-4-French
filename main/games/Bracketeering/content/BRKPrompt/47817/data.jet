@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Quel personnage de dessin animé est le plus sexy ? ",
+      "t": "A",
+      "v": "668695_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Et quelqu'un est effacé ! ",
+      "t": "A",
+      "v": "668709_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Aa-ooga ! Aa-oo-ga ! Hummina hummina ! ",
+      "t": "A",
+      "v": "668708_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel personnage de dessin animé est le personnage de dessin animé le plus sexy ? ",
+      "t": "A",
+      "v": "668705_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Je ne me sens pas bien avec ça ! ",
+      "t": "A",
+      "v": "668698_1f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommer un personnage de dessin animé ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Domination de Yaba Daba ! ",
+      "t": "A",
+      "v": "668707_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommer un personnage de dessin animé ",
+      "t": "A",
+      "v": "668691_2f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Victoire sexy en dessin animé ! ",
+      "t": "A",
+      "v": "668706_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

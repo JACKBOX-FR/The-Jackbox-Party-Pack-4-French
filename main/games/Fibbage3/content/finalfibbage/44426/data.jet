@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dessins animés|gens,schtroumpfs|reptiles,extraterrestres|sexy,ampoules|comestibles,vaches|psychique,hommes|paresseux,vampires|brillant,films|magie,sorciers|infertile,stars de cinéma|fous,films d'action|éducatifs,pauses café|non américains,politiciens|honnêtes,poulpes|de l'espace,cascadeurs|humble,taupe les gens|contrôlent le gouvernement,les pommes|les œufs de dragon,les crêpes|le petit-déjeuner parfait ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Costumes délicats ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fantômes | réel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En fonction de l'issue d'un étrange procès intenté en 2017, Warner Bros. pourrait devoir payer 900 millions de dollars à Gerard Brittle à moins qu'ils ne puissent prouver que <BLANK> est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "esprits|réels,démons|réels ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Warner affirme que les films de fantômes The Conjuring ne sont pas basés sur le livre de Brittle, mais sur des « faits historiques ». ",
+      "t": "A",
+      "v": "588013_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En fonction de l'issue d'un étrange procès intenté en 2017, Warner Bros. pourrait devoir payer 900 millions de dollars à Gerard Brittle à moins qu'ils ne puissent prouver que <BLANK> sont <BLANK>. ",
+      "t": "A",
+      "v": "588010_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

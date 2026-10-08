@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vanilla Ice, Charlie Chaplin, Les Trois Amigos, Rodney Dangerfield, Ronald Reagan, Rush Limbaugh, Groucho Marx, Hillary Clinton, les Elfes de Keebler, Tony le Tigre, la reine Elizabeth, les films du Parrain, Bugs Bunny, les Mets de 1986, Vince Lombardi, Mary Tyler Moore, Barbara Walters, Steven Spielberg ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Melissa McCarthy-isme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Guy Fiéri ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Melissa McCarthy a admis que son personnage hilarant dans <i>Bridesmaids</i> était un hommage à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Melissa McCarthy a admis que son personnage hilarant dans <i>Bridesmaids</i> était un hommage à <BLANK>. ",
+      "t": "A",
+      "v": "405043_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

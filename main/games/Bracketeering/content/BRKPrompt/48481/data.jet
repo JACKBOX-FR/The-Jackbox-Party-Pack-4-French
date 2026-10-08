@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Endroit où vous êtes le plus susceptible de rencontrer John Goodman ",
+      "t": "A",
+      "v": "688628_1",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Les meilleures toilettes publiques à utiliser comme seule salle de bain pendant un an ",
+      "t": "A",
+      "v": "688629_0",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez un magasin ou un restaurant reconnaissable ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez un magasin ou un restaurant reconnaissable ",
+      "t": "A",
+      "v": "688624_0",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "Lieu de mariage le plus romantique ",
+      "t": "A",
+      "v": "688630_0",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win0Audio"
+    }
+  ]
+}

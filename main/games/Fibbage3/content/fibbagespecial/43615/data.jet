@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "À l'affût, renforcer la confiance en soi, attendre son heure, se peser, planifier sa vengeance, après une coupe de cheveux, penser aux nuages, apprendre à jongler, qui sent, proposer le mariage, prêt à tuer, conehead, tenter le destin, souhaiter plus, nommée Tina, professeur de danse, avec un pistolet, c'est fini pour toi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tenez-vous comme un Égyptien ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tenir des singes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette œuvre d’art s’intitule <i>Femme nue <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Avec des singes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566244_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571345_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le seul problème est que je n'arrive pas à décider si je dois afficher ceci sur mon étagère « nudité » ou sur mon étagère « singe ». ",
+      "t": "A",
+      "v": "566242_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE] Naturellement, cette œuvre d'art s'intitule <i>Femme nue <BLANK></i>. ",
+      "t": "A",
+      "v": "566239_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

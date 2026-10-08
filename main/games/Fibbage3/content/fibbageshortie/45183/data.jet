@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crier au soleil, regarder les gens dans les yeux, corriger la grammaire, éviter la lumière du soleil, se ronger les ongles, toucher la peinture mouillée, boire du lait, consulter le médecin, secouer ses clés, manger des bonbons, toucher ses orteils, faire de l'exercice, écouter des podcasts, regarder du sport, manger du bœuf, conduire lentement, observer les oiseaux, forcer les gens à regarder votre diaporama de vacances ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Manie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rester au lit ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Souffrez-vous de clinomanie ? Si vous le faites, alors vous ressentez une envie irrésistible de <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "se coucher, ne pas sortir du lit ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mon conseil est de vous procurer un microphone et un travail de voix off. Je suis tellement confortable ! ",
+      "t": "A",
+      "v": "607933_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Souffrez-vous de clinomanie ? Si vous le faites, alors vous ressentez une envie irrésistible de <VIER>. ",
+      "t": "A",
+      "v": "607930_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

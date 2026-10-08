@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les battre, se faire recruter, casser le panneau, boire tout le gatorade de la prison, remonter le moral de la prison, les faire aimer, bousiller leur réseau de jeu, perdre la balle, essayer de manger le ballon de basket, s'embarrasser, démarrer une ligue de prison, perdre du poids, érafler le terrain, avoir l'air bizarre en short, battre un record de dunk, s'échapper pendant que tout le monde est excité, attirer de grandes foules, vouloir regarder Space Jam après ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Préoccupations ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "être blessé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les responsables de la prison de l’Utah ont refusé la dernière demande du condamné à mort Joseph Mitchell Parsons de jouer au basket-ball parce qu’ils avaient étrangement peur qu’il le fasse <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "se blesser, se blesser, se blesser, subir une blessure ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si jamais je suis dans le couloir de la mort, je vais juste continuer à me rouler la cheville. Je vivrai éternellement ! ",
+      "t": "A",
+      "v": "406068_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les responsables de la prison de l'Utah ont refusé la dernière demande du condamné à mort Joseph Mitchell Parsons de jouer au basket-ball parce qu'ils avaient étrangement peur qu'il le fasse <VIDE>. ",
+      "t": "A",
+      "v": "406065_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ongle long, Back Sass, Elevensies, Poignet du joueur, Razmoket, Funky Fresh, Interdiction de courir, Pieds malodorants, Colère sévère, Ami imaginaire, Ours en peluche, Haleine toxique, Pourquoi pas, Enfant gâté, Dents de mâle, Chambre sale, Sucre élevé, Farce involontaire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des déformations hilarantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cheveux incoiffables ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La maladie génétique rare « Pili trianguli et canaliculi », qui touche principalement les enfants de moins de 12 ans, est plus communément connue sous le nom de syndrome <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cheveux incommodes, incoiffables ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si elle n'est pas traitée, elle peut conduire à la maladie de Phil Spector. ",
+      "t": "A",
+      "v": "562162_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La maladie génétique rare « Pili trianguli et canaliculi », qui touche principalement les enfants de moins de 12 ans, est plus communément connue sous le nom de syndrome <BLANK>. ",
+      "t": "A",
+      "v": "562159_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

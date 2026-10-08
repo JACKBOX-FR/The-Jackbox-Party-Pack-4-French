@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "margaret thatcher, Trump dump, david lynch, radio shack, paul ryan, juge judy, guy fieri, pape nu, la terre est-elle plate ?, ongle d'orteil, Justin Trudeau, dinosaure, juste un câlin, heure d'été, juste le sein gauche, radio amateur, corps triste, jeu de lamantin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "recherches de porno ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fileuse agitée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pornhub reçoit des recherches étranges sur son site, mais les choses sont devenues particulièrement étranges en mai 2017 lorsqu'il a reçu 2,5 millions de recherches pour « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "filateurs agités ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mon plus cher espoir est qu'au moment où vous jouez à ce jeu, personne ne se souvient de ce que c'était. ",
+      "t": "A",
+      "v": "651236_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Bien sûr, Pornhub reçoit des recherches étranges sur son site, mais les choses sont devenues particulièrement étranges en mai 2017 lorsqu'il a reçu 2,5 millions de recherches pour « <BLANK> ». ",
+      "t": "A",
+      "v": "651233_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

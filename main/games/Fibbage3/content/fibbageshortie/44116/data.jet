@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "céréales pour petit-déjeuner, cocaïne, chips, viande de cheval, sirop contre la toux, dentifrice, chapelets, bombes, pâte à crêpes, tongs, vacances tropicales, visites fantômes, pièces de vélo, cours de danse, pancartes de protestation, cigarettes, préservatifs, pilules d'amélioration masculine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Interdiction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poterie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la Prohibition, la Coors Brewing Company a survécu en démarrant une activité parallèle vendant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "céramiques, pots, pièces en céramique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]CoorsTek, l'entreprise de céramique de la brasserie, rapporte désormais plus d'argent que la bière. ",
+      "t": "A",
+      "v": "578916_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant la Prohibition, la Coors Brewing Company a survécu en démarrant une activité parallèle vendant <BLANK>. ",
+      "t": "A",
+      "v": "578913_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

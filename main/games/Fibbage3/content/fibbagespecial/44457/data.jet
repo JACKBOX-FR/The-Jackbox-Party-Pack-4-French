@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gravité, comment léviter, chiens végétariens, le passage du Nord-Ouest, musique pop, pilates, Crocs, Joe Jonas, Mars, Ducktales, piles au lithium, la fin de la Terre, Snoop Dog, la fin de votre patience, mercure, je ne suis pas américain, Corée du Sud, bébés crabes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bieber ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Matt Damon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Justin Bieber a tweeté : « J’ai découvert <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "16h39<br />21 avril 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@justinbieber ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588632_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout le monde sait que Matt Damon a été découvert il y a 100 ans par Nikola Tesla. ",
+      "t": "A",
+      "v": "588630_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En avril 2012, Justin Bieber a tweeté : « J'ai découvert <BLANK>. » ",
+      "t": "A",
+      "v": "588627_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

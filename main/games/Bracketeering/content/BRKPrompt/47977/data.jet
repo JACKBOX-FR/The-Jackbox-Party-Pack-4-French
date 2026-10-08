@@ -1,0 +1,127 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Une musique si douce !!! ",
+      "t": "A",
+      "v": "674105_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Musique à mes VICTOIRES !!! ",
+      "t": "A",
+      "v": "674107_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "J'ai du mal à gérer l'érotisme !! ",
+      "t": "A",
+      "v": "674106_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est L'instrument de musique le plus sexy ?! ",
+      "t": "A",
+      "v": "674103_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Mes trous d'oreilles sont tellement prêts... ",
+      "t": "A",
+      "v": "674096_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "L'instrument de musique le plus sexy qui n'est pas la guitare, la batterie ou le piano ",
+      "t": "A",
+      "v": "674089_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Tellement sexy !!! ",
+      "t": "A",
+      "v": "674104_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "Ça a l'air SEXY !!! ",
+      "t": "A",
+      "v": "674108_0f",
+      "n": "Win4Audio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sniffer du vin blanc, prendre de l'asprine, manger du chou frisé, prendre des douches chaudes, faire des pompes, des claquettes, chanter du fausset, faire du vélo, fumer des cigares, nourrir les oiseaux, inhaler du gaz, dormir 12 heures, sprinter, boire du lait, se baigner dans du whisky, nager, sauter à travers un verre, regarder le soleil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crime suédois ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire du café ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Afin de prouver que c'était dangereux, le roi Gustav III de Suède a un jour puni un prisonnier en le forçant à <VIER> tous les jours pour le reste de sa vie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "prendre un café, boire une tasse de café",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le pire de tout : c'était instantané. ",
+      "t": "A",
+      "v": "573150_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Afin de prouver que c'était dangereux, le roi Gustav III de Suède a un jour puni un prisonnier en le forçant à <VIDE> tous les jours pour le reste de sa vie. ",
+      "t": "A",
+      "v": "573147_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

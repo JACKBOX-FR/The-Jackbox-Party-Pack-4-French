@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "partir en vacances de printemps, perdre quinze kilos, jouer à des jeux vidéo, écrire un livre, aller à un rendez-vous, manger en compétition, quitter l'Utah, chasser avec un faucon, aller au sauna, devenir médecin, devenir étudiant diplômé, manger dans des restaurants hors campus, porter plus d'un sac à dos, jouer au hacky sack, manger du steak, vivre sur le campus, vivre à l'extérieur des dortoirs, faire du vélo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les ordres du médecin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se laisser pousser la barbe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon le code d'honneur de l'université Brigham Young, les étudiants ont besoin d'une lettre d'un médecin pour pouvoir <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "avoir une barbe, avoir une barbe, porter une barbe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout cela fait partie de l'Affordable Hair Act (sfx rimshot) Merci ! ",
+      "t": "A",
+      "v": "321124_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon le code d'honneur de l'université Brigham Young, les étudiants ont besoin d'une lettre d'un médecin pour <VIERGE>. ",
+      "t": "A",
+      "v": "321121_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

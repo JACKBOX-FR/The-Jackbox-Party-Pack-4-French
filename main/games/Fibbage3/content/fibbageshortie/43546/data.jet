@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bibliothécaire, lycéen, cascadeur, scientifique stupide, magicien, danseur professionnel, imitateur de Tom Hanks, clown d'anniversaire, chirurgien du cerveau, propriétaire de lave-auto, lave-vaisselle, acrobate de cirque, streamer Twitch, quarterback du lycée, enfant, promeneur de chien, chien, ouvrier du bâtiment ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des débuts modestes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "concierge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les Flamin' Hot Cheetos n'ont pas été inventés par un brillant scientifique, mais plutôt par un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "dépositaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il est maintenant vice-président exécutif, alors travaillez dur et mangez beaucoup de collations, les enfants ! ",
+      "t": "A",
+      "v": "564921_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Croyez-le ou non, les Flamin' Hot Cheetos n'ont pas été inventés par un brillant scientifique, mais plutôt par un <BLANK>. ",
+      "t": "A",
+      "v": "564918_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

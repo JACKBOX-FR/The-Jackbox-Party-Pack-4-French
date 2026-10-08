@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une assiette en forme de Kentucky, un bol de nourriture pour chien, de l'argent déchiqueté, un collier de chien enflammé, une photo de M. T, la lame d'un hélicoptère, une brique d'or, un tas d'ordures, un lit de rubis, un disque laser de Reservoir Dogs, une télévision HD, les genoux du restaurant, une Buick, des mouchoirs en soie, une peinture d'Orrin Hatch, une planche à roulettes en mouvement, une carte de crédit, le toit ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nourriture pour chiens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un iPad ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au restaurant Quince de San Francisco, on peut commander le plat nommé « Un chien à la recherche d'or », qui consiste en des croquettes à la truffe blanche servies sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "iPads, une tablette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je refuse de manger le modèle de l’année dernière. ",
+      "t": "A",
+      "v": "558673_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au restaurant Quince de San Francisco, on peut commander le plat nommé « Un chien à la recherche d'or », qui est composé de croquettes à la truffe blanche servies sur <BLANK>. ",
+      "t": "A",
+      "v": "558670_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les joyaux de la couronne, l'acte de propriété de l'Australie, Excalibur, le chapeau de Merlin, un perroquet mort, un Yorkshire terrier, la Magna Carta, les dents du roi James, l'œil de verre du prince, du pudding aux figues, un livre de cuisine, les brosses à dents de la famille royale, un canard, un tableau de Da Vinci, des charbons ardents, des cobras, des pièges à souris, quatre et vingt merles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Malice du palais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les sous-vêtements de la reine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1838, un adolescent criminel britannique nommé Boy Jones fait irruption dans le palais de Buckingham. Lorsque la police l'a capturé, ils ont découvert qu'il avait <BLANK> fourré dans son pantalon. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sous-vêtements, sous-vêtements de la reine, une paire de sous-vêtements, la culotte de la reine, les sous-vêtements de la reine Victoria, la culotte de la reine Vicotria ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Personne ne sait ce que le garçon allait en faire, d'autant plus que Craigslist n'avait pas encore été inventé. ",
+      "t": "A",
+      "v": "607267_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1838, un adolescent criminel britannique nommé Boy Jones s'est introduit par effraction dans le palais de Buckingham. Lorsque la police l'a capturé, ils ont découvert qu'il avait <BLANK> fourré dans son pantalon. ",
+      "t": "A",
+      "v": "607264_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

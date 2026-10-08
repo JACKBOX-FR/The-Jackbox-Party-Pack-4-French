@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pailles, radios, désodorisants, lampes de poche, distributeurs de fil dentaire, tasers, pistolets, distributeurs de savon, chargeurs de téléphone, coupe-faim, anti-insectes, pulvérisateurs corporels Axe, tournevis, crocs de vampire, sifflets, grattoirs à langue, analgésiques, coupe-ongles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "S'amuser avec la dentisterie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ouvre-bouteilles de bière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'agence de publicité Ogilvy & Mather a donné à un groupe de joueurs de rugby argentins des implants dentaires spéciaux qui font également office de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ouvre-bouteilles, ouvre-bouteilles de bière, ouvre-bouteille de bière, ouvre-bouteilles de bière, ouvre-bouteilles de bière, ouvre-bouteilles de bière, ouvre-bouteilles de bière, ouvre-bouteilles de bière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'agence de publicité Ogilvy & Mather a donné à un groupe de joueurs de rugby argentins des implants dentaires spéciaux qui font également office de <BLANK>. ",
+      "t": "A",
+      "v": "405964_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

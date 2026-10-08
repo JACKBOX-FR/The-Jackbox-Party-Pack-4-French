@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "arrêter un braquage de banque, jouer au catch avec un couteau, lui retirer l'appendice, reconstituer un coup de couteau à la télé, manger un steak sur son ventre, raser son chat, enlever une tique, braquer un magasin de couteaux, lui raser les poils du ventre, tailler une auge à porc, faire un entraînement de ninja, ouvrir une fenêtre, faire un tour de magie, réparer des toilettes, enlever une araignée, donner un couteau à un singe, prouver qu'un couteau était faux, jouer au bingo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Essayez-le ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ouvrir un boîtier de DVD ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2001, le lanceur des Padres Adam Eaton s'est pris un couteau dans le ventre lorsqu'il a tenté de <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ouvrir un DVD,ouvrir un film ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il s'est poignardé par accident. Juste au cas où vous pensiez qu’il s’agissait d’un fan fou de Laserdisc. ",
+      "t": "A",
+      "v": "566033_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2001, le lanceur des Padres Adam Eaton s'est pris un couteau dans le ventre lorsqu'il a tenté de <VIDE>. ",
+      "t": "A",
+      "v": "566030_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

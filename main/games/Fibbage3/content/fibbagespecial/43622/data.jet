@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "obtient le miel, est à destination de Broadway, reçoit deux fois plus d'amour, reste plus longtemps que son accueil, ne se fait pas étrangler, se traite, fait un bon ragoût, obtient le poste du gouvernement, est probablement un chat, n'a pas besoin de foin, a une petite amie, plaît à l'État, fait un taureau fort, devient une vache riche, mange tous ses frères et sœurs, danse pour de l'argent, peut voler, obtient le premier chocolat ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mère Soaker ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ça craint deux mères ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une expression russe sur la façon dont le fait de bien traiter les gens vous fait avancer dans la vie est traduite par « Un veau affectueux <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ça craint aussi les mères, suce 2 mères, suce ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Heure russe ! ",
+      "t": "A",
+      "v": "566419_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host][rétorque] VOUS sucez deux mères... ",
+      "t": "A",
+      "v": "566417_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une expression russe sur la façon dont le fait de bien traiter les gens vous fait avancer dans la vie est traduite par « Un veau affectueux <BLANK> ». ",
+      "t": "A",
+      "v": "566414_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

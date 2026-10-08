@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poursuivre, excité, endormi, incapable de s'asseoir, \"faire bizarre\", tomber amoureux de toi, raconter des blagues, jaloux, rire, commencer à chanter, démanger, avoir envie de chocolat, marcher drôle, penser qu'ils sont au paradis, revivre leur enfance, commencer à maudire, penser au prix, serrer la main ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Coloscopies ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "exploser ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2007, une équipe de médecins français a rédigé un article expliquant comment réaliser au mieux une coloscopie qui ne rendrait pas les patients <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "exploser ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Depuis 1952, c'est arrivé au moins 20 fois. ",
+      "t": "A",
+      "v": "594683_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2007, une équipe de médecins français a rédigé un article expliquant la meilleure façon de réaliser une coloscopie qui ne rendrait pas les patients <VIDE>. ",
+      "t": "A",
+      "v": "594680_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

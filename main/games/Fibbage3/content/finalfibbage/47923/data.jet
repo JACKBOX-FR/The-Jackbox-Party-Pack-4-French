@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Henry Kissinger|ALF,le pape Jean-Paul II|un raisin de Californie,Dalaï Lama|Andrew Dice Clay,Jimmy Carter|Chester Cheetah,Oliver North|Menudo,Gérard Depardieu|Princesse Di,Michael Landon|le casting de Moonstruck,John Elway|son jumeau maléfique Ron Elway,Ted Turner|Optimus Prime,Madonna|Tupac,Chevy Chase|les tortues Ninja,George Wendt | Bébé Jessica, Lionel Richie | Court tour, Beetlejuice | Ken Griffey Jr., Jonathan Brandis | E.T., Matt Damon | Ben Affleck, Bret Michaels | Comte Chocula, votre maman | Votre père ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "1987 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Richard Nixon|Robocop ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le photographe Chuck Pulin a pris une photo incroyable en 1987 lors d'un événement au Boys Club of America. Il a documenté la réunion <VIERGE> <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Nixon|Robocop,Robocop|Richard Nixon,Nixon|Robo-Cop,Richard Nixon|Robo-Cop,Robo-Cop|Richard Nixon,Robo-Cop|Nixon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ne vous inquiétez pas. Le scanner de Robocop a identifié l’ancien président : pas un escroc. ",
+      "t": "A",
+      "v": "672382_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le photographe Chuck Pulin a pris une photo incroyable en 1987 lors d'un événement au Boys Club of America. Il a documenté la réunion <BLANK> <BLANK>. ",
+      "t": "A",
+      "v": "672379_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

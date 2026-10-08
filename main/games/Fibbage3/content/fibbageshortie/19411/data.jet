@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mariage, devoir de juré, une fête d'anniversaire, du sexe, une fête de Noël au travail, ses dettes de jeu, un voyage dans le Wisconsin, aller en prison, une contravention pour excès de vitesse, le récital de piano de son enfant, un dîner de Thanksgiving, une présentation de travail, aller à des funérailles, voir un film d'Adam Sandler, la castration, le parachutisme, une relation, payer pour Starbucks ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fausse mort ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "son contrat de téléphone ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Prenant des mesures à l'extrême, Corey Taylor de Chicago a décidé de simuler sa propre mort afin de sortir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "son contrat de téléphone portable,un contrat de téléphone portable,son contrat de téléphone,sa facture de téléphone portable,sa facture de téléphone portable,une facture de téléphone,sa facture de téléphone ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je me demande à quoi ressemblent les frais d'itinérance au paradis. ",
+      "t": "A",
+      "v": "385184_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Prenant des mesures à l'extrême, Corey Taylor de Chicago a décidé de simuler sa propre mort afin de sortir de <BLANK>. ",
+      "t": "A",
+      "v": "385181_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "deuxième iPhone, argent supplémentaire, briques d'or, majordome, cire hydratante, M&M's verts, monocle, moustache supplémentaire, chéquier, perruques poudrées blanches, montre de poche, bijoux de voyage, palettes d'enchères, humidificateurs personnels, photos de famille, pièces rares, chips végétariennes, sauces exotiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Voyage aérien ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faucon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Comme si voyager en première classe n'était pas déjà assez sophistiqué, la compagnie aérienne allemande Lufthansa propose désormais aux VIP un plateau spécial pour leur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faucons,oiseaux,oiseaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Comme si voyager en première classe n'était pas déjà assez sophistiqué, la compagnie aérienne allemande Lufthansa propose désormais aux VIP un plateau spécial pour leur <BLANK>. ",
+      "t": "A",
+      "v": "610115_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

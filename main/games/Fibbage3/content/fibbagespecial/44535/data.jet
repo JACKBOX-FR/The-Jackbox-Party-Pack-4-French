@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chauffage du cerveau, devenez beau, salon de poche, stupide, shaker de crâne, génie, blanchiment des cheveux, tue les poux, inversion de l'âge, lecture de pensées, brûlure des cheveux, permanente, effacement de la mémoire, boutons de tête, preuve d'extraterrestre, voyage dans le temps, prévention du gel du cerveau, soulagement des maux de tête. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chapeaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vibratoire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Charles H. M. Schamblin a breveté cet appareil en 1969, appelé <BLANK> Hat. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Massage, Vibrant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "590474_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "590497_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour les personnes qui souhaitent un massage du cuir chevelu, mais qui ne parviennent à convaincre personne de les toucher. ",
+      "t": "A",
+      "v": "590472_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Charles H. M. Schamblin a breveté cet appareil en 1969, appelé <BLANK> Hat. ",
+      "t": "A",
+      "v": "590469_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

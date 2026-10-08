@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pied gauche, bortsch, marteau, ballon, musique, orgueil, sandwich au jambon, manque de talent, ivresse, scène, navet, arithmétique, vache, véritable amour, idiotie, putain de soi, mère, ballet ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Iz Tyool Taime ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "balles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'équivalent russe du dicton « Un bon artisan ne blâme jamais ses outils » se traduit par « Un mauvais danseur est gêné par son propre <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Noix, testicules, testicules, nads, gonades, sac, scrotum, sac de noix ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Faisons un petit voyage vers Mère Russie... ",
+      "t": "A",
+      "v": "559175_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host][wrap-up] C'est tout en un mot... ",
+      "t": "A",
+      "v": "559173_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'équivalent russe du dicton « Un bon artisan ne blâme jamais ses outils » se traduit par « Un mauvais danseur est gêné par ses propres <BLANK> ». ",
+      "t": "A",
+      "v": "559170_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

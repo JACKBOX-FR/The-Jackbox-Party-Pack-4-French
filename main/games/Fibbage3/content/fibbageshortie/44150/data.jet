@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "trottoirs, eau du robinet, ses propres ongles, café, bérets, grossièreté, bruit, mauvaise télévision, barbes, baguettes, air, sous-vêtements, travail, mauvaises nouvelles, Les Gardiens de la Galaxie, France, Benedict Cumberbatch, panneaux d'arrêt ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "\"allergies\" ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wi-Fi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, un tribunal français a accordé à une femme 900 $ par mois de prestations d'invalidité en raison de ses prétendues réactions allergiques à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Wi-Fi, fréquences sans fil, Internet sans fil ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Compte tenu de mes vitesses de téléchargement, elle ne tomberait pas trop malade chez moi. ",
+      "t": "A",
+      "v": "580026_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, un tribunal français a accordé à une femme 900 $/mois de prestations d'invalidité en raison de ses prétendues réactions allergiques à <BLANK>. ",
+      "t": "A",
+      "v": "580023_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

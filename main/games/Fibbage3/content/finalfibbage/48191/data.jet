@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "essuyer|fesses,changer|bébé,animal|chat,planter|jardin, conduire|bus, laver|chien, composer|chanson de polka, démarrer et entretenir|ligne de conga,braconner|œuf parfait,élever|famille avec un budget limité,infirmière|singe,simuler|terrible idée,pour|parfaite Guinness,imprégner|épaulard,diriger|fanfare,écrire|roman captivant,construire|LEGO Death Star,console|être aimé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "VES-4 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lait|scorpion ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Développé par des scientifiques au Maroc, le robot VES-4 est conçu pour <VIERGE> un <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "venin supplémentaire de|scorpion,lait|scorpions,obtenir du venin de|scorpion,choc|scorpion,électrocute|scorpion ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Huit ans passés à l'école de traite des scorpions dans les égouts. ",
+      "t": "A",
+      "v": "680002_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici un signe que les robots prennent le relais. Développé par des scientifiques au Maroc, le robot V-E-S-4 est conçu pour <BLANK> un <BLANK>. ",
+      "t": "A",
+      "v": "679999_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

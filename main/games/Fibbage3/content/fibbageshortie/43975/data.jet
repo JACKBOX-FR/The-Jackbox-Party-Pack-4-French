@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Clown de rodéo, golfeur professionnel, ancien olympien, magicien de gros plan, chef célèbre, boulet de canon humain, dompteur de lion, fileur d'assiettes, mime, chanteur de jazz, dame barbue, benne de vache, actrice de vaudeville, avaleuse d'épée, jongleur à la tronçonneuse, dramaturge, mangeur de compétition, imitateur d'Abe Lincoln ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Histoire des femmes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "médium spiritueux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant que Victoria Woodhull ne devienne la première femme candidate à la présidentielle américaine, elle a parcouru le pays pour divertir les foules en tant que <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "moyen ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce sont ces courriels divulgués à des fantômes qui l'ont vraiment condamnée. ",
+      "t": "A",
+      "v": "574748_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant que Victoria Woodhull ne devienne la première femme candidate à la présidentielle américaine, elle a parcouru le pays pour divertir les foules en tant que <BLANK>. ",
+      "t": "A",
+      "v": "574745_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

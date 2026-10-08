@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger des paquets de ketchup, jeter de la sauce tartare, sentir les clients, voler de l'argent, aboyer sur des enfants, déchirer des coupons, baisser les prix, supprimer des images de sécurité, crier après des mamans, embrasser des petits pains aux graines de sésame, tirer des travailleurs roux, donner des conférences à des adolescents, crier dans des microphones de passage, brûler des uniformes, accepter des compliments qu'ils obtenir, mal cuire des hamburgers, vandaliser les magasins McDonald's à proximité, parler des sentiments qu'ils avaient mis en bouteille ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Farces de Burger King ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "casser|fenêtres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2016, un étrange canular a frappé plusieurs restaurants Burger King. Suite aux instructions d'un appelant farceur, les employés du magasin ont commencé à <VIER> tous les <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "briser|fenêtres,détruire|fenêtres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]On leur a dit qu'il y avait une fuite de gaz et que s'ils ne cassaient pas les vitres, le magasin allait exploser. Si quelqu'un disait ça à propos de Jackbox, je partirais probablement... ",
+      "t": "A",
+      "v": "688394_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2016, un étrange canular a touché plusieurs restaurants Burger King. Suite aux instructions d'un appelant farceur, les employés du magasin ont commencé à <BLANK> tous les <BLANK>.",
+      "t": "A",
+      "v": "688391_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

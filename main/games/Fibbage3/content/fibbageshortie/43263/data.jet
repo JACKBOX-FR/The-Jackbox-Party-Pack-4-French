@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Game of Thrones, Elvis, cyclope, cactus, étang à grenouilles, Quizno, pudding, benne à ordures, Fraggle Rock, mannequin, dentiste, glaçon, comptable, Illuminati, Candy Land, chirurgie, sous-marin, cabine téléphonique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Lits empruntés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "clown ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque vous êtes à Tonopah, dans le Nevada, assurez-vous de séjourner dans le motel unique sur le thème <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "clowns, cirque ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est amusant, mais vous devez vous faufiler dans votre chambre avec 300 autres personnes. ",
+      "t": "A",
+      "v": "559623_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque vous êtes à Tonopah, dans le Nevada, assurez-vous de séjourner dans ce motel unique sur le thème <BLANK>. ",
+      "t": "A",
+      "v": "559620_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

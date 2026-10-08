@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "garçon fantaisie, Lon Chaney Jr., Bad Hair Day, Crumble Cubes, Bojack Horseman, Charlie Dumb Face, mec bizarre, Amour, mauvais art, Confinement solitaire, prêt pour la plage, L'esprit du rat, Week-end sans douche, La bête avec juste un dos, Pluie collante, Goudronné et à plumes, Maman veut une photo, Avant l'accident ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Art Amirite ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cul ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette œuvre d'art est simplement intitulée <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Le cul ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "619554_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "619577_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous ne pouvez pas le voir sous cet angle, mais cet homme-âne a un gros derrière caché dans ce pantalon. ",
+      "t": "A",
+      "v": "619552_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous regardez attentivement, cela a peut-être du sens. Cette œuvre d’art est simplement intitulée <BLANK>. ",
+      "t": "A",
+      "v": "619549_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des brochures qui expliquent ce que sont les livres, des lunettes de soleil, du pain, des tables de massage, de petites maisons en rondins de Lincoln, des bébés canards, des poissons rouges, des shorts en jean, des chapeaux de baseball, des boules de bowling, des autocollants pour pare-chocs, des vêtements de sport, des cafetières, des désodorisants, des bâtons pogo, des sucettes, de l'argenterie, un répulsif contre les requins. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "À la bibliothèque ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marionnettes géantes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une tentative inhabituelle d'impliquer ses membres, la bibliothèque de Braddock, en Pennsylvanie, a annoncé qu'en 2017, elle commencerait à prêter <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "marionnettes, marionnettes, marionnette, marionnette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Wow. Je suppose que lire, c'est cool. ",
+      "t": "A",
+      "v": "587894_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une tentative inhabituelle d'impliquer ses membres, la bibliothèque de Braddock, en Pennsylvanie, a annoncé qu'en 2017, elle commencerait à prêter <BLANK>. ",
+      "t": "A",
+      "v": "587891_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

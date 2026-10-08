@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "argent|biens et services,Eddie Murphy|Dan Aykroyd,sang|jus d'orange,J'aime Facebook|J'aime Twitter,une vache|haricots magiques,sa voix|un jour sur la terre ferme,son pantalon|le pantalon du flic,sirop léger|vrai sirop,10 poulets|un iPhone,drogues|un permis de conduire valide,cerveau de singe|chambre et pension,sacs de cheveux|billets Disneyland,espagnol volé doublons | café, jetons d'arcade | parking, pièces de cochon | L'autographe de The Rock, la recette de Coca-Cola | un câlin, 1 million de dollars | une nuit avec Demi Moore, n'importe quoi | un bref moment de joie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "propositions indécentes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Vodka|Biscuits Girl Scout ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme d'Ardmore, OK, a été arrêté en février 2017 parce que la police affirme qu'il a proposé d'échanger <BLANK> contre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "vodka|cookies,alcool|cookies girl scout,alcool|cookies girl scout,alcool|cookies ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un homme d'Ardmore, dans l'Oklahoma, a été arrêté en février 2017 parce que la police affirme qu'il a proposé d'échanger <BLANK> contre <BLANK>. ",
+      "t": "A",
+      "v": "563080_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

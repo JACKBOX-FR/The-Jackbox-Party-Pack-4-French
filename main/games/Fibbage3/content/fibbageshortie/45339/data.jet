@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Raquettes à neige, préservatifs, nez de clown, bombes, parachutes pour enfants, cigarettes, liqueurs de malt, bébés pour cours de santé, interrupteurs, bibles, jouets sexuels, tabac à chiquer, appareils de dialyse, abris anti-bombes, rations de survie, sous-vêtements comestibles, prises murales à large ouverture, sièges de toilettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Disney dérangeant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "masques à gaz ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans les années 1940, Walt Disney a travaillé avec une société partenaire pour concevoir une gamme de Mickey Mouse quelque peu inquiétante <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Masque à gaz, masques à gaz pour enfants, masques à gaz pour enfants, masques à gaz pour enfants ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous savez, pour rendre la Seconde Guerre mondiale amusante pour les enfants ! ",
+      "t": "A",
+      "v": "612277_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans les années 1940, Walt Disney a travaillé avec une société partenaire pour concevoir une gamme de Mickey Mouse quelque peu inquiétante <BLANK>. ",
+      "t": "A",
+      "v": "612274_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

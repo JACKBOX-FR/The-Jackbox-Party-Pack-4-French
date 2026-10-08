@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "églises | bars, chiens | chats, enfants | démons, étoiles | anges, pouces | doigts, vampires | sexy, fesses | divin, bénédictions | déductible d'impôt, nez | petites bouches, colombes | bébés anges, arbres | cheveux de la terre, sorcières | vraiment amusant, tétons | les fenêtres de l'âme, nombril | une punition d'en haut, boules de neige | petit univers, chevaux | gens, oies | mal, farceurs pratiques | favori de Dieu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Règles catholiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "castors|poissons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au XVIIe siècle, répondant à une question de l'évêque de Québec, l'Église catholique déclara officiellement que <VIERGE> était <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a ensuite déclaré que tous les chats étaient des filles, les chiens étaient des garçons et les lézards étaient des serpents dotés de prothèses. ",
+      "t": "A",
+      "v": "581070_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au 17ème siècle, répondant à une question de l'évêque de Québec, l'Église catholique a officiellement déclaré que <BLANK> était <BLANK>. ",
+      "t": "A",
+      "v": "581067_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

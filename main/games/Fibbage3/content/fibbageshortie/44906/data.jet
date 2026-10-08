@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pitbulls sauvés, médecins, Texans, hologrammes, imitateurs d'Owen Wilson, mecs nommés Alexi, personnes à six doigts, parents de Guy Fieri, robots grossiers, hippies, licornes, lutins, lémuriens, Australiens, sirènes, Martiens, républicains, Alaskans ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gastronomie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jumeaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après s'être inspiré d'un film surréaliste des années 1960, le restaurateur russe Alexei Khodorkovsky a ouvert un bar entièrement dirigé par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "vrais jumeaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et pas de triplés en alternance, ils ont déjà été brûlés. ",
+      "t": "A",
+      "v": "600611_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après avoir été inspiré par un film surréaliste des années 1960, le restaurateur russe Alexei Khodorkovsky a ouvert un bar entièrement tenu par <BLANK>. ",
+      "t": "A",
+      "v": "600608_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

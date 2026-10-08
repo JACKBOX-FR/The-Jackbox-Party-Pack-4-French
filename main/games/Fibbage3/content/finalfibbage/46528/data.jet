@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "battre le gagnant de l'année précédente, se marier avec une citrouille, manger une araignée vivante, rompre une promesse, dire un mensonge blanc, choisir un parent préféré, un boucher et un cochon en moins d'une heure, porter un masque couvrant le visage, retirer une dent de sa propre bouche, soudoyer un juge, tricoter un body, gagner un doctorat, se noyer, un prisonnier, réconforter un cheval en deuil, abattre un jet, inventer un petit déjeuner pâtisserie, dormir dans | fosse aux araignées, partager | mémoire sombre ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Concours ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "décapiter|serpent à sonnette ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sweetwater, au Texas, organise chaque année un concours de beauté avec une touche unique. Chaque concurrent doit <VIERGE> un <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tuer|serpent,meurtre|serpent,peau|serpent,tuer|crotale,meurtre|crotale,peau|crotale,décapiter|rattleshanke,décapiter|serpent,couper la tête|serpent,couper la tête|rattlenanke ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Miss Snake Charmer a également l'honneur de se tenir dans une fosse remplie de serpents venimeux. ",
+      "t": "A",
+      "v": "645702_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Sweetwater, au Texas, organise chaque année un concours de beauté avec une touche unique. Chaque concurrent doit <BLANK> un <BLANK>. ",
+      "t": "A",
+      "v": "645699_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sens de l'humour, capacité de parler, dents, mémoire à court terme, vision, capacité musicale, odorat, clés, audition, amour pour la famille, équilibre, sens du style, ongles, capacité de siffler, capacité de ronfler, boussole morale, rythme cardiaque, créativité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "effets secondaires ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "empreintes digitales ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des études médicales ont montré que l'utilisation du médicament capécitabine peut entraîner la perte temporaire de <BLANK> chez les patients. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La drogue parfaite à prendre puis à voler. ",
+      "t": "A",
+      "v": "558823_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Des études médicales ont montré que l'utilisation du médicament capécitabine peut faire perdre temporairement aux patients leur <BLANK>. ",
+      "t": "A",
+      "v": "558820_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

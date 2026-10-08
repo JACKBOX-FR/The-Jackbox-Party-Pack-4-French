@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Chiot, Chocolat, Bébé, Pommes Jacks, Cheerio, Happy Camper, Souriant, Remise, Couche, Gerbille, Tête de chou, Chaton, Fleur, Parfum, Suppositoire, Chaussette tube, Dandy, Serviette ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Surnoms de gangsters ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Artichaut ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le gangster californien Ciro Terranova était une terreur au début des années 1900, mais vous ne seriez probablement pas intimidé si vous saviez que son surnom était The <BLANK> King. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Artichaut,Artachaut ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est le surnom de foule le plus adorable qui contient le mot « étouffement ». ",
+      "t": "A",
+      "v": "574868_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le gangster californien Ciro Terranova était une terreur au début des années 1900, mais vous ne seriez probablement pas intimidé si vous saviez que son surnom était The <BLANK> King. ",
+      "t": "A",
+      "v": "574865_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les finales, les quiz du mardi, Disneyland, les Warriors, le paradis, les caca, les Quizno, avoir des colons, la télévision, se tremper dans LeBron, manger de la tarte, un nouveau-né, boire du champagne, écouter Charles Barkley, NBA Jam, aller au cinéma, s'entraîner, Netflix ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kévin Durant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "je vais dans un club ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kevin Durant a tweeté : « Twitter est meilleur que <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "23h19<br />8 mai 2010 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@KDTrey5 ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "aller au club, le club, le club, aller au club, aller au club ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Il est temps de s'enregistrer... ",
+      "t": "A",
+      "v": "591595_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela peut paraître difficile à croire, mais rappelez-vous qu'en 2010, Kevin Durant vivait à Oklahoma City. ",
+      "t": "A",
+      "v": "591593_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En 2010, Kevin Durant a tweeté : « Twitter est meilleur que <BLANK>. » ",
+      "t": "A",
+      "v": "591590_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

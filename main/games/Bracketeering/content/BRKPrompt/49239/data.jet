@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Si on était obligé de choisir, la partie du corps que tu agrandirais ",
+      "t": "A",
+      "v": "703265_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Meilleur surnom pour un tueur à gages ",
+      "t": "A",
+      "v": "703266_0f",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez n’importe quelle partie du corps ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez n’importe quelle partie du corps ",
+      "t": "A",
+      "v": "703261_1f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "La partie du corps la plus impressionnante pour pouvoir shred sur une guitare avec ",
+      "t": "A",
+      "v": "703267_0f",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win0Audio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "candidat au Congrès, mort, une expérience de laboratoire, un robot, mourant, un survivant d'un accident d'avion, un baron de la drogue, une icône gay, asiatique, lié à Hitler, un démocrate, un gagnant de loterie, adopté, le prochain Dalaï Lama, un ancien espion, nommé à l'origine Bono, né en Inde, prochain sur la liste pour être pape ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Se googler ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un suspect le plus recherché ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque Christopher Viatafa s'est recherché sur Google en 2014, il a été surpris de constater qu'il était <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "recherché,un criminel,un fugitif,recherché par les flics,recherché par la police,sur la liste des personnes les plus recherchées du FBI,sur la liste des personnes les plus recherchées,recherché par le FBI ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais encore plus tragique ? Il était également dans une mauvaise parodie de Gangem Style. ",
+      "t": "A",
+      "v": "354098_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque Christopher Viatafa s'est consulté sur Google en 2014, il a été surpris de constater qu'il était <VIDE>. ",
+      "t": "A",
+      "v": "354095_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

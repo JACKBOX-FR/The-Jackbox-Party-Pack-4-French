@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pudding, vomi, snowboard, bavardages, lécher des crapauds, poésie, bande dessinée, couper, bière, presser, trois comparses, regarder en frénésie, chatouiller, avaler, parler de bébé, chanter, Die Hard, danser ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Médecine alternative ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gifler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un thérapeute chinois nommé Xiao Hongchi effectue un traitement coûteux mais douloureux contre le « sang empoisonné » connu sous le nom de « thérapie <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gifler, gifler, la gifle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ma mère croyait beaucoup à cette technique. ",
+      "t": "A",
+      "v": "561588_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un thérapeute chinois nommé Xiao [« shou », rime avec « vache »] Hongchi effectue un traitement coûteux mais douloureux contre le « sang empoisonné » connu sous le nom de « thérapie <BLANK> ». ",
+      "t": "A",
+      "v": "561585_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vache, Camion, Bâtiment, Danse, Ennemi, Écrasement, Président, Diable, Godzilla, Avec un tank, Diarrhée, Maman, Fantôme, D'un autre monsieur, Thor, Arbre, Voyage dans le temps, Bonhomme de neige ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Feuilletons indiens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Hitler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "De 2011 à 2013, il y a eu un feuilleton en Inde avec un titre inhabituel qui se traduisait par <i>Big Sister <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le dernier épisode s'est vraiment déroulé en beauté. ",
+      "t": "A",
+      "v": "320271_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]De 2011 à 2013, il y a eu un feuilleton en Inde avec un titre inhabituel qui se traduisait par <i>Big Sister <BLANK></i>. ",
+      "t": "A",
+      "v": "320268_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

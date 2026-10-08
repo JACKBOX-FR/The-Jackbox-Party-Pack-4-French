@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "habituellement ivre, incapable de pleurer, un bon nageur, un farceur, un chanteur talentueux, peur de son reflet, mauvais pour faire caca, n'aime pas les couchers de soleil, sourd et aveugle, tout le temps en colère, assez petit, obsédé par ses pets, un père terrible, peur des relations, le dinosaure qui sent le mieux, obsédé par l'hygiène buccale, dormeur sur le dos, conscient qu'il est condamné ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Données sur les dinosaures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un amant sensible ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une étude plutôt étrange publiée dans <i>Scientific Reports</i> en 2017, des chercheurs affirment que le <i>T. rex</i> était <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un bon amant, un amant attentionné ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]C'est exactement ce que les médias LAMEstream veulent vous faire croire. ",
+      "t": "A",
+      "v": "592794_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Apparemment, les dinosaures utilisaient leur museau ultra-sensible lors des préliminaires. Contrairement à CERTAINS animaux que je connais. ",
+      "t": "A",
+      "v": "592790_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une étude plutôt étrange publiée dans <i>Scientific Reports</i> en 2017, des chercheurs affirment que le T. rex était <BLANK>. ",
+      "t": "A",
+      "v": "592787_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

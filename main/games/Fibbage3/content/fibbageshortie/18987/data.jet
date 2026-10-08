@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "soutien-gorge, globe oculaire en verre, médaillon, nombril, gants, D.A.R.E. sac à dos, dreadlocks, cathéter, jambe prothétique, fort d'oreiller, pistolet, obturations dentaires, tuyau d'échappement, sac banane, fausse barbe, toupet, casquette de chauffeur, poumons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "cachette d'héroïne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme de la Nouvelle-Orléans a été arrêté en 2008 lorsque la police a découvert 200 grammes d'héroïne dans son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "couches, couches adultes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela fait beaucoup de déchets dans votre coffre. ",
+      "t": "A",
+      "v": "381188_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un homme de la Nouvelle-Orléans a été arrêté en 2008 lorsque la police a découvert 200 grammes d'héroïne dans son <BLANK>. ",
+      "t": "A",
+      "v": "381185_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

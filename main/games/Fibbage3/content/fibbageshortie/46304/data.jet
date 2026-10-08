@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un octogone UFC, une fumerie d'opium, un bordel, une statue de lui, un Whole Foods, un fort d'oreillers, son nouveau loft cool, une grange, une cage pour Dieu, un restaurant hipster, une prison, des souvenirs durables, un casino, un parc à thème, un magasin de vape, un studio de cinéma, un trône pour lui, un récit fascinant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le Diable ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un bar à vin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon la légende, le Diable lui-même a aidé à construire l’église Sainte-Marie à Lübeck, en Allemagne, parce que les habitants l’ont trompé en lui faisant croire qu’ils construisaient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un bar, un bar à vin, un bar ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bien sûr, ce n'est pas une histoire vraie. Tout le monde sait que le diable ne boit que de la vodka aromatisée. ",
+      "t": "A",
+      "v": "641070_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon la légende, le Diable lui-même a aidé à construire l'église Sainte-Marie à Lübeck, en Allemagne, parce que les habitants l'ont trompé en lui faisant croire qu'ils construisaient <BLANK>. ",
+      "t": "A",
+      "v": "641067_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

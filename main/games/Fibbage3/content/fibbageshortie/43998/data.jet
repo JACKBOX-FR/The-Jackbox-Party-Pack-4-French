@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sexy, plafond de verre, ivre, serveuse, Mini, controversé, paresseux, soirée micro ouvert, gras, féminisme, PDG, décrochage, punk rock, mélangé, dame aux chats, malodorant, mauvais jour de cheveux, ennuyeux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "poupées controversées ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enceinte ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2002, Walmart a décidé de retirer de ses étagères un jouet controversé. C'était une poupée appelée <BLANK> Midge. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suppose que les parents étaient en colère parce qu'elle n'était pas « Célibat pour la vie Midge ». ",
+      "t": "A",
+      "v": "575246_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2002, Walmart a décidé de retirer un jouet controversé de ses étagères. C'était une poupée appelée <BLANK> Midge. ",
+      "t": "A",
+      "v": "575243_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

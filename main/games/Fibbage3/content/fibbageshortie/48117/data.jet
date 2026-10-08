@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pudding, écorces d'orange, boue des marais, photos d'elle, sauce, déchets, gamins des rues, barbe à papa, glace, parachutes, vieilles serviettes de sport, cinq robes plus merdiques, grillage et guimauves, formulaires fiscaux, ses propres cheveux, magazines sexy, sous-vêtements fantaisie, dos d'un costume de cheval ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Déguisements ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chats morts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous pensez être une vraie fashionista ? Vous ne battrez jamais la mondaine Kate Fearing Strong qui a assisté à un bal à New York en 1883 dans une robe confectionnée en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des chats,un chat,un chat taxidermié,des chats taxidermiés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Prouver que la combinaison de traits la plus effrayante est « vraiment riche » et « vraiment ennuyée ». ",
+      "t": "A",
+      "v": "677930_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous pensez être une vraie fashionista ? Vous ne battrez jamais la mondaine Kate Fearing Strong qui a assisté à un bal à New York en 1883 dans une robe confectionnée en <BLANK>. ",
+      "t": "A",
+      "v": "677927_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

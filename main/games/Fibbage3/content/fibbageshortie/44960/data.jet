@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ma nourriture, la justice, votre dignité, la saveur, ce qui s'est passé, Gary, le Burger King le plus proche, le MSG, M. Juteux, le fromage supplémentaire, le poulet, Wendy a toutes ces bonnes idées, le bacon, la valeur, votre famille, les bienfaits grillés à la flamme, le pain, le sourire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Où ? ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Herbe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Suite à la popularité de la campagne « Où est le bœuf ? » de Wendy, Burger King a lancé une campagne concurrente intitulée « Où est <BLANK> ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Herb, Où est Herb ?, Herb le Nerd, Où est Herb ?, Herb ?, Nerd ?, Le Nerd ? ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Herb était ce type qui n'avait jamais essayé un Whopper et... tu sais ce que ça ne vaut pas la peine d'expliquer. ",
+      "t": "A",
+      "v": "601633_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Suite à la popularité de la campagne « Où est le bœuf ? » de Wendy, Burger King a lancé une campagne concurrente intitulée « Où est <BLANK> ? ",
+      "t": "A",
+      "v": "601630_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

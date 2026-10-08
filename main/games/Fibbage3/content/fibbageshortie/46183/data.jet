@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fabricant d'ours en peluche, Fromager, Fermier, Champion d'échecs, Joueur de Scrabble, Passionné d'oiseaux, Marin du vent, Instructeur de taekwondo, Éleveur de porcs, Cinéaste, Musicien de mariage, Chirurgien, Clown de fête, Programmeur informatique, Concepteur de jeux vidéo, Passionné de montagnes russes, Fan de Disney, Flic rural ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Loisirs amusants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pilote professionnel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, les médias néerlandais ont découvert que le roi Willem-Alexander menait une double vie de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pilote,pilote pour avions commerciaux,copilote,copilote commercial ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce n'est rien. J'ai entendu dire que le prince Charles conduisait un Uber. ",
+      "t": "A",
+      "v": "637458_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, les médias néerlandais ont découvert que le roi Willem-Alexander menait une double vie en tant que <BLANK>. ",
+      "t": "A",
+      "v": "637455_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

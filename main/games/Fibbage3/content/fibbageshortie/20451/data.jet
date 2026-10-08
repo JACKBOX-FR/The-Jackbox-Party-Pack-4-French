@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "scorpions, piments forts, caca, lames de rasoir, robots microscopiques, pétards, haricots sauteurs, ténias, serpents venimeux, stéroïdes, mercure, ritalin, chair humaine, poils, nourriture pour chiens, alcool, uranium, petites grenouilles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hitler ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "œstrogène ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, il a été révélé que des espions britanniques de la Seconde Guerre mondiale avaient formulé un plan pour faire tomber Hitler en glissant <BLANK> dans sa nourriture. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "hormones, hormones féminines ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est-à-dire qu'il devrait couper sa petite moustache avec un rasoir rose. ",
+      "t": "A",
+      "v": "397838_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, il a été révélé que des espions britanniques de la Seconde Guerre mondiale avaient formulé un plan pour faire tomber Hitler en glissant <BLANK> dans sa nourriture. ",
+      "t": "A",
+      "v": "397835_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

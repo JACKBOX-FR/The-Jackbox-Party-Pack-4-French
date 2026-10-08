@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sac de couchage, pléthore, pouf, sac de cadeaux, lave-auto, cire de poitrine, rôti, fromage danois, rat musqué, bébé requin, gobelet, maison de retraite, méli-mélo, aquarium, tamale, string, tout le désordre, brosse à dents ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Métaphores maléfiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lasagne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Peter Kazimir, ministre des Finances de la Slovaquie, a eu une drôle de façon de décrire les troubles sociaux qui secouent l’Europe. Il l’a appelé un « <BLANK> du mal ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "lasagne ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Kazimir a ensuite ajouté à quel point il déteste les lundis... attendez une minute... Je pense à Garfield. ",
+      "t": "A",
+      "v": "635558_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Peter Kazimir, ministre des Finances de Slovaquie, avait une manière étrange de décrire les troubles sociaux qui balayent l'Europe. Il l’a appelé un « <VIERGE> du Mal ». ",
+      "t": "A",
+      "v": "635555_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

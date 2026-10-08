@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi, aboyer, lécher, gratter, mendier, vomir, renifler, gémir, monter les escaliers, manger, se retourner, remuer les oreilles, ressembler à un berger allemand, sauter par-dessus un renard, flotter comme un ballon, bosse sur des meubles, poursuivre sa queue, creuser des trous ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jouets allemands ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kackel Dackel est un jouet allemand dans lequel les enfants utilisent une pompe pour aider un teckel <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "merde, aller à la selle, merde, faire de la merde, faire caca, déféquer, faire une selle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'utilise également une pompe. ",
+      "t": "A",
+      "v": "318575_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kackel Dackel est un jouet allemand dans lequel les enfants utilisent une pompe pour aider un teckel <VIERGE>. ",
+      "t": "A",
+      "v": "318572_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

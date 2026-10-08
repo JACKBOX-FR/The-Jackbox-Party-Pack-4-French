@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un sens de l'humour, une bouche, une mère, un indice, un vrai nom, un cerveau, une âme, une heure de coucher, des poumons, pour payer des impôts, un rendez-vous au bal, une odeur corporelle, des souvenirs, un très bon nom d'utilisateur, la permanence de l'objet, les privilèges TV, l'ADN, les empreintes digitales ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les démunis ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un fêle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'utilisateur de Reddit TBoneTheOriginal est connu comme le gars qui n'a pas <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un fêle,un cul,un fessier,un cul,un fesse,un fêle,un fesse,des fesses,un cul ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ne le recherchez pas sur Google si vous n'êtes pas prêt pour les photos. ",
+      "t": "A",
+      "v": "635226_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'utilisateur de Reddit TBoneTheOriginal est connu comme le gars qui n'a pas <BLANK>. ",
+      "t": "A",
+      "v": "635223_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

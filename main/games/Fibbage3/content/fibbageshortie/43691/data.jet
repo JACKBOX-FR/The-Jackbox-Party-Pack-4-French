@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nu, en colère, largué, chasse, endormi, nageant, ivre, un adolescent, en travail, rebondissant, vieux, lors d'un match de baseball, à l'envers, pleurant, gueule de bois, sur l'équateur, nerveux, seul ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bière Betsy ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà bu de la bière Betsy ? Il est brassé pour avoir le meilleur goût lorsque vous êtes <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voler, dans un avion, dans un avion ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vos papilles gustatives changent apparemment lorsque vous êtes à haute altitude et piégé dans une cabane de pets. ",
+      "t": "A",
+      "v": "567443_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Avez-vous déjà bu de la Betsy Beer ? Il est brassé pour avoir le meilleur goût lorsque vous êtes <VIDE>. ",
+      "t": "A",
+      "v": "567440_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

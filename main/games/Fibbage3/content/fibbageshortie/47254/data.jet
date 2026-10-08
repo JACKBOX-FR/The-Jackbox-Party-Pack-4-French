@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "gardes armés, ruches d'abeilles, statues obscènes, bonhommes de neige, Starbucks, distributeurs automatiques, drapeaux portoricains, abris anti-bombes, mamans en colère, habitat de lézards, monticules de sel, torches tiki, publicités pour les Applebees, douves, moustiquaires, ralentisseurs, spectres anciens, mines terrestres invisibles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grave réalité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "astroturf ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cela peut paraître étrange, mais la tombe de la légende de la musique country Hank Williams est entourée de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gazon astro, fausse herbe, fausse pelouse, astro-turf ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les fans n'arrêtaient pas d'arracher l'herbe. ",
+      "t": "A",
+      "v": "655551_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cela peut paraître étrange, mais la tombe de la légende de la musique country Hank Williams est entourée de <BLANK>. ",
+      "t": "A",
+      "v": "655548_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

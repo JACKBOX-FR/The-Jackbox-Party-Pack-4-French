@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "baisers français, John Cusack, saut à la perche, tétons, rednecks, alligators, caca de bébé, radis, personnes âgées, pipi malodorant, camions Ford, démangeaisons, Spanx, accidents d'avion, coups de poing de tortue, détectives kangourous, tournoiement de moustache, dépenses gouvernementales ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Minecraft ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "élevage de perroquets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les développeurs du jeu vidéo <i>Minecraft</i> ont suscité la controverse en 2017 après que les fans ont critiqué la représentation de <BLANK> dans le jeu. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "perroquets, perroquet, alimentation des perroquets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était trop excitant. Je suppose. ",
+      "t": "A",
+      "v": "637183_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les développeurs du jeu vidéo <i>Minecraft</i> ont suscité la controverse en 2017 après que les fans ont critiqué la représentation de <BLANK> dans le jeu. ",
+      "t": "A",
+      "v": "637180_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

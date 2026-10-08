@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ciseaux, Punaises collantes, Tic-Tacs, Filets à cheveux, Mixeurs, Cassette vidéo, Etch-A-Sketch, Monopoly, Scattergories, Le cheval à bascule, Le Rubix Cube, Snickerdoodles, Wishbone le chien, Boomboxes, Kool-Aid, Bouches d'incendie, le lapin de Pâques, Mensa ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Inventions corrompues ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Singes de mer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Harold Von Braunhut était un suprémaciste blanc qui prêtait des milliers de dollars à des groupes haineux. Mais bizarrement, il a aussi inventé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Singes de mer,Voir les singes,singes de mer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Harold Von Braunhut était un suprémaciste blanc qui prêtait des milliers de dollars à des groupes haineux. Mais bizarrement, il a aussi inventé <BLANK>. ",
+      "t": "A",
+      "v": "612482_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tomber amoureux, tuer un ours, changer de nom, perdre un bras, faire faillite, se saouler, oublier lors de la liste des États, acheter de la gomme, planifier une visite mais ne jamais y aller, demander son chemin, déménager avant 30 ans, créer une entreprise, démarrer une ferme de visons, trouver un cadavre, boire uniquement du lait au chocolat, peindre, acheter des souvenirs trop chers, acheter des noix ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Virginie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "survoler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon un article d'octobre 2014 paru dans <i>Business Insider</i>, la Virginie est l'État numéro un à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ne pas atterrir, ne pas s'arrêter, survoler, survoler, survoler ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Assurez-vous de faire signe ! ",
+      "t": "A",
+      "v": "683544_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon un article d'octobre 2014 paru dans <i>Business Insider</i>, la Virginie est l'État numéro un dans lequel les gens peuvent <BLANK>. ",
+      "t": "A",
+      "v": "683541_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

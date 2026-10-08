@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bart, Brrrrr, Blah Blah Blah, Nom, Charabia, Rick, Steve, Yorg, Sven, Six, Linda, Bjorn, Elisabeth, Bienheureux, Garçon, Kevin, Fils, Abeille ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Parents suédois ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Albin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un couple suédois a nommé leur fils Brfxxccxxmnpcccclllmmnprxvclmnckssqlbb11116, qui, selon eux, se prononçait simplement « <VIDE> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "allbin, al bin, albinn, alben ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suppose que les RFXXCCXXM..PCCCCLLLMMMPRXCMCKSSQLBB11111 et 6 sont silencieux. ",
+      "t": "A",
+      "v": "320895_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un couple suédois a nommé leur fils... ceci... qui, selon eux, se prononçait simplement « <VIERGE> ». ",
+      "t": "A",
+      "v": "320892_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

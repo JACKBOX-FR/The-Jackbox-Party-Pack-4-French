@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voleurs, redevances, meurtriers, fous, agriculteurs, Vikings, irlandais, arrêtés, doubles articulations, momies, clergé, immigrants, prêtres, musiciens, lépreux, pauvres, mal nourris, enlevés par des ovnis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Racines ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sorcières ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2016, la Wellcome Library de Londres a mis en ligne le Manuscrit 3658, qui aide les personnes d'ascendance écossaise à déterminer si l'un de leurs ancêtres était <BLANK> ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sorcières, sorcière, sorcières ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ou des sorcières accusées en tout cas. On ne sait pas qui s’est noyé et qui a flotté. ",
+      "t": "A",
+      "v": "573454_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2016, la Wellcome Library de Londres a mis en ligne le Manuscrit 3658, qui aide les personnes d'ascendance écossaise à déterminer si l'un de leurs ancêtres était <BLANK> ",
+      "t": "A",
+      "v": "573451_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

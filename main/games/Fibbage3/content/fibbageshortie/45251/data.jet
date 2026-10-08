@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Un personnage de dessin animé, deux personnes du même nom, un nommé Harris, une société, Frank Sinatra, un chef professionnel, Pablo Picasso, Babe Ruth, Karl Marx, une religieuse, John Wayne, une ville entière, une voiture, un chien, un bruiteur, un futur président, la Terre, quelqu'un d'autre que Streep. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Premières aux Oscars ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le gouvernement américain ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Curieusement, les Oscars de 1965 ont été la seule année où un Oscar a été remporté par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le gouvernement des États-Unis, le gouvernement, le gouvernement fédéral, les États-Unis, les États-Unis, les États-Unis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le film, Nine From Little Rock, était un documentaire commandé par le chef de l'Agence d'information des États-Unis. ",
+      "t": "A",
+      "v": "609608_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une tournure étrange des événements, les Oscars de 1965 ont marqué la seule année où un Oscar a été remporté par <BLANK>. ",
+      "t": "A",
+      "v": "609605_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

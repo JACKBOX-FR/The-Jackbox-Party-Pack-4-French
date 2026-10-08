@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Humiliateur de papa, sac à dos de ventriloque, échelle de papa, étui bossu, booster de défilé, gardien de petit frère, simulateur de hauteur, harnais de poulet, salle de détention portable, acolyte personnel, mannequin portable, correcteur d'enfant, simulateur de croissance, ceinture de pataugeoire père-fils, salle de bain de papa, égouttoir de dignité, lanceur d'enfant, pantalons de vacances ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Invention ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "papa selle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le brevet présenté ici concerne l’invention de Paul R. Harriss, le <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "selle enfant, selle père ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566194_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571335_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sachez simplement que cela ne fonctionne que si votre enfant est une version effrayante et réduite de vous. ",
+      "t": "A",
+      "v": "566192_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE] Le brevet présenté ici concerne l'invention de Paul R. Harriss, le <BLANK>. ",
+      "t": "A",
+      "v": "566189_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

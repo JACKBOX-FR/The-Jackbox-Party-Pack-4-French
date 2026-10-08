@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les gens sur Internet, les livreurs, eux-mêmes, les loups-garous, les fans de Justin Bieber, les clowns de fête, les robots, les ratons laveurs territoriaux, les greeters de Walmart, les oies en colère, les mormons, les requins terrestres, les drones, Bigfoot, les écoutes téléphoniques, Charlie Sheen, les ninjas, les DJ radio ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "jiu-jitsu ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une poignée de main de Trump ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Relson Gracie Jiu-Jitsu Academy a publié une vidéo pédagogique sur la façon de vous protéger contre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une poignée de main de Donald Trump,une poignée de main de Trump,une poignée de main de Donald Trump ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]De nos jours, vous devez être prêt à tout. C'est pourquoi la Relson Gracie Jiu-Jitsu Academy a publié une vidéo pédagogique sur la façon de vous protéger contre <BLANK>. ",
+      "t": "A",
+      "v": "564743_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

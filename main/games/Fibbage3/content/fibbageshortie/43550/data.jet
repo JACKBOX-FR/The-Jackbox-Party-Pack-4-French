@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un maillot des Flames de Calgary, une chemise en guise de pantalon, une combinaison de protection contre les matières dangereuses, exactement deux paires de lunettes de soleil de trop, un tas de miroirs, une veste faite de marguerites, une chemise « j'accélère », blanche après la fête du Travail, un uniforme de flic, un maillot de football rival, des gants sans doigts, une veste de hot-dogs, un denim sur un denim, une chemise réfléchissante radar, un chapeau latéral, un costume de gorille, une armure, un casque de Viking ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "police d'edmonton ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un furet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme d'Edmonton a reçu une contravention en 2017 après avoir été surprise au volant alors qu'elle portait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "furet, furets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suppose qu'elle ne pouvait pas s'en sortir. ",
+      "t": "A",
+      "v": "565021_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une femme d'Edmonton a reçu une contravention en 2017 après avoir été surprise en train de conduire alors qu'elle portait <BLANK>. ",
+      "t": "A",
+      "v": "565018_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

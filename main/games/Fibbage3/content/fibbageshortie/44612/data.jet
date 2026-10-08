@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Seigneur des Anneaux, Bill Nye le scientifique, Échecs, Lunettes, Bérets, Expresso, Cafés, Cartes de bibliothèque, Pensée, Encyclopédies, Questions hypothétiques, Journaux, Caricatures politiques, Poésie, Crayons, Mad Libs, Molécules, cerveaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Interdictions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Scrabble ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le dictateur roumain Nicolae Ceausescu avait autrefois tellement peur de l'intellectualisme qu'il a interdit <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il était juste contrarié par le fait que le dictionnaire Scrabble n'autorise pas « Ceausescu ». ",
+      "t": "A",
+      "v": "592492_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le dictateur roumain Nicolae Ceausescu avait autrefois tellement peur de l'intellectualisme qu'il a interdit <BLANK>. ",
+      "t": "A",
+      "v": "592489_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

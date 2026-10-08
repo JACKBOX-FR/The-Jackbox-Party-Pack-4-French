@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jack l'éventreur, le nouveau célibataire, la voix de notre génération, à la recherche d'un voyage vers la lune, l'homme à la hache de la Nouvelle-Orléans, un condamné évadé, poursuivant toute la ville, tenant la ville contre une rançon, Dieu, contrôlant la météo, capable de prédire l'avenir, passant une bonne journée, finançant un voyage en enfer, le roi de l'Antlantide, le tueur du zodiaque, le papa de tout le monde, pas dans le jazz, dégoûté par les femmes enceintes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Communiqué de presse ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Empereur des États-Unis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les journaux de San Francisco ont publié en 1859 un communiqué de presse inhabituel du résident Joshua Norton déclarant qu'il était <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Empereur,Empereur Norton Ier,Empereur Norton,Empereur des États-Unis,Empereur des États-Unis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il faudrait être empereur pour pouvoir vivre à San Francisco. ",
+      "t": "A",
+      "v": "638789_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les journaux de San Francisco ont publié en 1859 un communiqué de presse inhabituel du résident Joshua Norton déclarant qu'il était <VIDE>. ",
+      "t": "A",
+      "v": "638786_3 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

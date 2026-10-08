@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une moustache, des bavettes dames, un pénis, James Gandolfini, un sapin de Noël, Texas, une flèche, une Naty Light, un ange, un cercle, un téton, un gâteau, un visage, Natalie Portman, un poisson, une fleur, une chaussure, une montagne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Formes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un cul ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le terme « natiforme » fait référence à tout ce qui a la forme de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fesses, mais, mais, un mais, mais, cul, un cul, des culs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'aime les gros objets en forme de natiforme et je ne peux pas mentir. ",
+      "t": "A",
+      "v": "593276_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici un brise-glace amusant. Le terme « natiforme » fait référence à tout ce qui a la forme de <BLANK>. ",
+      "t": "A",
+      "v": "593273_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

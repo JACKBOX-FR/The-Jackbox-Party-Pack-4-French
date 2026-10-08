@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "serviettes usagées, Speed 2, shorts en jean, canettes de cola RC, argent, pièges à souris, leurs deux cents, smokings de bal, gratte-dos, fromage de chèvre, jeans Jnco, paquets Kool-Aid, leurs enfants, la bande originale de Hairspray, vieilles boîtes de plats chinois à emporter, foulards moches, tout ce qui est en flanelle, Grape Escape ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dons indésirables ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le Da Vinci Code ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, un magasin caritatif de Swansea, au Pays de Galles, a dû installer une pancarte demandant aux gens de cesser de faire des dons <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Da Vinci Dode, Le Code Davinci, Code Davinci ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Hmm... tous ces gens qui offrent le même mauvais livre ? Je sens une conspiration. ",
+      "t": "A",
+      "v": "635468_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, un magasin caritatif de Swansea, au Pays de Galles, a dû installer une pancarte demandant aux gens de cesser de faire des dons <BLANK>. ",
+      "t": "A",
+      "v": "635465_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

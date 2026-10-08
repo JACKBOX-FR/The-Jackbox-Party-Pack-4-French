@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "urine | excréments, miel | journal, sang | sperme de taureau, poisson | sous-vêtements, couteaux | balles, argent | pétards, eaux usées | goudron, jus de citron | lames de rasoir, lait | gelée, roches | Doritos, compliments | conseils, saucisses | chiots, bonbons | courrier non ouvert, Coca light | Mentos, vin | fil, brocoli | chaud sauce, tarte|houmous, pâtes|essence ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Célébrations ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "terre|fourmis de feu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous prévoyez d'assister au festival Entroido à Laza, en Espagne, avant le Carême ? Les citadins vous inonderont probablement de <BLANK> et de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "terre|fourmis,boue|fourmis,cendre|fourmis,farine|fourmis,vinaigre|fourmis,fourmis|saleté,fourmis de feu|saleté ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et les fourmis sont généralement couvertes de vinaigre pour les énerver. Apprécier! ",
+      "t": "A",
+      "v": "568627_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous envisagez d'assister au festival Entroido à Laza, en Espagne, avant le Carême ? Soyez prêt. Les citadins vous inonderont probablement de <BLANK> et de <BLANK>. ",
+      "t": "A",
+      "v": "568624_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

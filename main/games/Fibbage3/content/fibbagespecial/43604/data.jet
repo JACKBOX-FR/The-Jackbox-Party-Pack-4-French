@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "toilettes pour chien, mangeoire automatique pour chien, chiot robotique, bouteille de plongée pour tout-petit, lèche-bottes automatique, machine à cauchemars, incinérateur de crottes de chien, sweat à capuche de rangement, taille-os de chien, sèche-mains domestique, lance-flammes fantaisie, ensemble de jeu de biologie animale, fourre-tout pour console de jeu, sac de transport facile à installer, parachute pour enfant, distributeur de vitamines pour chien, TV pour chiots, voleur d'âmes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Brevets à fourrure ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sac à dos d'Halloween ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce brevet appartient à Deborah A. Morphet, fière inventrice du <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Sac Halloween, sac à dos Halloween ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "565985_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571325_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous pouvez attacher ceci à un enfant, mais vous ne reverrez peut-être jamais cet enfant. ",
+      "t": "A",
+      "v": "565983_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE QUESTION] Ce brevet terrifiant appartient à Deborah A. Morphet, fière inventrice du <BLANK>. ",
+      "t": "A",
+      "v": "565980_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

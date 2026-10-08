@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une boîte, des Hot Pockets, leurs têtes, un vlog YouTube, un menu chinois à emporter, un œuf, de l'espagnol, du cochon latin, des tweets sur les pommes, un jeu pour enfants sur les mathématiques, leurs postiches, des motifs de cravates, le fond des puits, de faux moulages, l'intérieur des tasses Starbucks, l'écriture du ciel, des boîtes de mouchoirs, des bacs de recyclage, une vue bien visible ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Logiciel malveillant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Instagram de Britney Spears ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le groupe de hackers russe Turla a fait preuve d’une grande inventivité. Ils ont essayé d'éviter d'être détectés en masquant leurs instructions relatives aux logiciels malveillants dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Instagram de Britney Spears,Instagram,Instagram de Britney,Commentaires Instagram de Britney Spears ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]*se moquer* Allez les hackers, donc 2003. ",
+      "t": "A",
+      "v": "673963_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le groupe de hackers russe Turla a fait preuve d'une grande inventivité. Ils ont essayé d'éviter d'être détectés en masquant leurs instructions relatives aux logiciels malveillants dans <BLANK>. ",
+      "t": "A",
+      "v": "673960_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

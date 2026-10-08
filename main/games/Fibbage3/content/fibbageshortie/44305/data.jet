@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vice-président, chef personnel, chauffeur désigné, adversaire politique, professeur de piano, bouffon, copain de covoiturage, infirmière, promeneur de chien, instructeur de tir à l'arc, partenaire de scène d'improvisation, copain d'étude universitaire, coéquipier de baseball intra-muros, observateur de développé couché, masseuse, chauffeur Uber, avocat de la défense, camarade de camp de mathématiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Faveurs politiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Abonné sur Twitter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2012, le président vénézuélien Hugo Chávez a offert une nouvelle maison à une femme de 19 ans après qu'elle soit devenue sa <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "suiveur sur Twitter, ami sur Twitter, ami Twitter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et si vous me suivez sur Twitter, je vous enverrai tous mes billets à gratter non gagnants ! ",
+      "t": "A",
+      "v": "584405_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2012, le président vénézuélien Hugo Chávez a offert une nouvelle maison à une femme de 19 ans après qu'elle soit devenue sa <BLANK>. ",
+      "t": "A",
+      "v": "584402_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

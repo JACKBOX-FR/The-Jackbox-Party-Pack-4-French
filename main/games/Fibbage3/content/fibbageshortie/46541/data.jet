@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un tank, un sous-marin, une combinaison spatiale, la weinermobile, un semi, un camion de pompier, un bulldozer, un hélicoptère, Airforce One, un équipement anti-émeute complet, la peau de Justin Bieber, un cosplay animé, un bloc de glace, une voiture de montagnes russes, une veste droite, une DeLorean, les Ghostbusters ECTO-1, un cafard géant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "arrivées au bal ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un cercueil ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Qui a besoin d'une limousine ? Pas Megan Flaherty, une adolescente du New Jersey. Elle a fait tourner beaucoup de têtes en arrivant à son bal de fin d'année en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un corbillard, un cercueil, un corbillard ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] En fait, j'ai laissé mon bal de promo dans un cercueil, mais ce n'était qu'une confusion. Haha, drôle d'histoire. Mais pas le temps pour ça maintenant. ",
+      "t": "A",
+      "v": "646140_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Qui a besoin d'une limousine ? Pas Megan Flaherty, une adolescente du New Jersey. Elle a fait tourner beaucoup de têtes en arrivant à son bal de fin d'année en <BLANK>. ",
+      "t": "A",
+      "v": "646137_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

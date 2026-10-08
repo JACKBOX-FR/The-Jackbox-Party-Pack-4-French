@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Joe Biden, Angela Merkel, Ringo Starr, David Bowie, James Taylor, Barack Obama, Dick Cheney, Tim Allen, Vin Diesel, Abraham Lincoln, Podcast Bad Songs, Kylo Ren, Sécurité intérieure, Kevin Spacey, Kidz Bop, Weird Al, Otis Elevator, Phony McFakename ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Qui que vous soyez ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pandore ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Aucun ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'acteur/musicien Tyrese Gibson a tweeté : \"<BLANK>.. Qui que vous soyez !! Merci ! Je reçois des tweets sur vous qui jouez ma musique tout le temps !!\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "04h31<br />11 août 2011 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@Tyrese ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "665573_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai le sentiment que Tyrese sera un jour un merveilleux grand-père. ",
+      "t": "A",
+      "v": "665571_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En 2011, l'acteur/musicien Tyrese Gibson a tweeté : \"<BLANK>.. Qui que vous soyez !! Merci ! Je reçois des tweets sur vous qui jouez ma musique tout le temps !!\" ",
+      "t": "A",
+      "v": "665568_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "horloge à arme réelle, gifles sur les genoux, pression sur un bouton, écrasement des mouches, ondulations de flammes, attisation des mains, prière, pagayeur de planche de surf, tenue de cartes, au revoir, mesure d'angle, protection solaire des mains, moment intime, essuyage de la sueur, saisie des cacahuètes, lissage des cheveux, langage des signes, lavage des fenêtres ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "inventions obscures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "high-five simulation ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous consultez un brevet publié en 1994 par Albert Cohen, fier inventeur de l'appareil <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "High-Five, High-Five, High-Five, High-Five, High-Five automatique, High-Five automatique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Non, cette machine est totalement différente... J'ai entendu dire. ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "563335_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570570_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Après l'avoir inventé, il a dû l'utiliser sur lui-même. ",
+      "t": "A",
+      "v": "563333_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE QUESTION] Vous regardez un brevet publié en 1994 par Albert Cohen, fier inventeur de l'appareil <BLANK>. ",
+      "t": "A",
+      "v": "563330_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

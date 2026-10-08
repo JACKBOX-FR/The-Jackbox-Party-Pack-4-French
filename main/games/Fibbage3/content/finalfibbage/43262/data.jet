@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crêpes | ketchup, papas | costumes, pieds | cloches, poulets | chapeaux, maisons | pantalons, chats | pantoufles, enfants | costumes de père Noël, bateaux | foulards, grands-parents | vêtements de bébé, chevaux | tutus, chiens | smokings, fonctionnaires du gouvernement | chaussettes sans orteils, fenêtres | papier d'emballage, mères | robes de mariée, force de police | clown chaussures, serpents | cravates, transporteurs postaux | combinaisons anti-radiations, voitures | maillots de basket-ball ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rituels du matin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ânes|pyjamas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les habitants de l'Île de Ré, une île isolée au large des côtes françaises, ont une étrange coutume : chaque matin, ils habillent leur <BLANK> en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ânes|pyjamas,donkyes|pantalons de pyjama,ânes|pantalons de pyjama,ânes|pjs,donkies|pantalons de pyjama,donkies|pantalons de pyjama,ânes|pyjamas,ânes|pantalons de pyjama,ânes|bas de pyjama,ânes|bas de pyjama ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et c'est bizarre parce que c'est le matin ! Les ânes devraient porter un pyjama au moment du coucher ! ",
+      "t": "A",
+      "v": "559598_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les habitants de l'Île de Ré, une île isolée au large des côtes françaises, ont une étrange coutume : chaque matin, ils habillent leur <BLANK> en <BLANK>. ",
+      "t": "A",
+      "v": "559595_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

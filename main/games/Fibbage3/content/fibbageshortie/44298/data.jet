@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Son frère sur une moto, des tortues en colère, les personnages de Bob's Burgers, le groupe KISS, la manœuvre de Heimlich, les schémas d'avion de la Seconde Guerre mondiale, Bugs Bunny, les personnages de Disney, son voisin, lui-même, Craig Kilborn, Karl Marx, les crayons numéro 2, ses os, la notation musicale, les publicités Pepsi, les types d'abeilles, son tatoueur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bien encré ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Julia Roberts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au Chili, un vendeur de journaux a passé 10 ans à se faire tatouer plus de 80 tatouages sur tout son corps, qui représentent tous <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il donne l'impression que tous les autres sales types s'en moquent. ",
+      "t": "A",
+      "v": "584195_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un vendeur de journaux au Chili a passé dix ans à se faire tatouer plus de 80 tatouages, sur tout son corps, qui représentent tous <VIERGE>. ",
+      "t": "A",
+      "v": "584192_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

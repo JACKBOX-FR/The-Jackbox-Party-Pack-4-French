@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrasser des bibliothécaires solitaires, manger de vieux beignets, porter des capes, tirer des arbalètes, regarder de vieilles cartes de baseball, attraper des fantômes, trouver des armures manquantes, raconter des histoires effrayantes, rechercher des recettes d'or, se marier avec des marionnettes, exterminer des rats géants, écouter des arguments de vente de condos, faire un roadtrip avec des personnages littéraires, s'habiller en vampires, sentir rare fleurs,écouter|les appels d'accouplement d'animaux,effrayer|les intimidateurs,observer|les employés pendant qu'ils mangent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Soutenez votre bibliothèque ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "traduire|sorts magiques ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juillet 2017, la bibliothèque Newberry de Chicago a lancé un appel à l’aide inhabituel. Ils avaient besoin de gens pour <VIERGE> certains <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "transcrire|sorts magiques,lire|sorts magiques,lire|sorts,transcrire|sorts,traduire|sorts,catalogue|sorts magiques,catalogue|sorts,catalogue|sorts magiques,catalogue|sorts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils ont besoin d'aide pour cataloguer les manuscrits remplis d'anciens sorts, ce qui, j'en suis sûr, est parfaitement sûr. (sfx : tonnerre) Hé, pourquoi le ciel devient-il rouge ? ",
+      "t": "A",
+      "v": "680970_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En juillet 2017, la bibliothèque Newberry de Chicago a lancé un appel à l'aide inhabituel. Ils avaient besoin de gens pour <BLANK> certains <BLANK>. ",
+      "t": "A",
+      "v": "680967_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

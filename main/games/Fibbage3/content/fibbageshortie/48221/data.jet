@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Céréales Lucky Charms, guimauves, fidget spinners, T-shirts moyens, Millennials, chapeaux haut de forme, ampoules électriques, touristes, carottes, nuages, pièges à souris, encre d'imprimante, savon, amour, bière, journaux, essence, bananes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nevada ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marijuana ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 7 juillet 2017, le Nevada a dû émettre une « Déclaration d'urgence » parce que l'État manquait de<BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mauvaises herbes, pot, mauvaises herbes légales, pot légal, marijuana légale ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Apparemment, ils ne s'attendaient pas à ce que la demande d'herbe légale soit si ÉLEVÉE. (à moi-même) Haha a réussi. ",
+      "t": "A",
+      "v": "680910_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 7 juillet 2017, le Nevada a dû émettre une « Déclaration d'urgence » parce que l'État manquait de<BLANK>. ",
+      "t": "A",
+      "v": "680907_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

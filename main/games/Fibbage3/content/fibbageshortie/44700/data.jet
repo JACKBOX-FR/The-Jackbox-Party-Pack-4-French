@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danse en ligne, napalm, un wedgie, peinture, piqûres d'abeilles, vapotage, exorcisme, waterboarding, école militaire, attitude positive, yoga nu, spectacles de marionnettes, lait au chocolat, noyade, abstinence, films d'horreur, tortues de compagnie, sous-vêtements serrés ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Asthme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "montagnes russes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un numéro de mai 2007 de <i>Behaviour Research and Therapy</i> a publié un article surprenant selon lequel l'asthme pouvait être traité avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "montagnes russes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le stress émotionnel positif ressenti par les personnes asthmatiques après avoir parcouru des montagnes russes a atténué leurs symptômes. ",
+      "t": "A",
+      "v": "594743_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un numéro de mai 2007 de <i>Behaviour Research and Therapy</i> a publié un article surprenant selon lequel l'asthme pouvait être traité avec <BLANK>. ",
+      "t": "A",
+      "v": "594740_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

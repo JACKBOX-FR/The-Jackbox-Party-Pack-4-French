@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un jongleur, végétarien, un étudiant, un sorcier, une sirène, ambidextre, une bouche impertinente, un maître cuisinier, un petit ours, aveugle, criant constamment, français, une pieuvre, un poète, un mathématicien, un super héros, un perruquier, un vannier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Statues Royales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un pingouin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2005, une statue a été érigée à Édimbourg en l'honneur de Sir Nils Olav, le premier membre de la garde royale norvégienne à être également <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son successeur, Sir Nils Olav III a été promu brigadier. Prends ça, papa. ",
+      "t": "A",
+      "v": "583835_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2005, une statue a été érigée à Édimbourg en l'honneur de Sir Nils Olav, le premier membre de la garde royale norvégienne à être également <VIDE>. ",
+      "t": "A",
+      "v": "583832_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

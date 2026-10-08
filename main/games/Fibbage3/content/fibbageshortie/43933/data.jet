@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pétrole brut, Bud Light Lime-a-Rita, eau de pluie, Zima, citron et vinaigre, lait, alcool à friction, Guinness, Tab, un Bloody Mary, un Slurpee, un Arnold Palmer, du jus de cornichon, du Jack Daniels, du jus d'orange avec pulpe, Mello Yello, les larmes d'une grand-mère, Red Bull ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Boissons étrangères ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Rosée des montagnes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le pays arabe d'Oman, une boisson connue par les locaux sous le nom d'« alcool omanais » est mieux connue ailleurs sous le nom de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "la rosée, le mont rosée, le mont. Rosée, Montagne Do, Montagne Doo, Mont Doo, Mont. Doo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le pays arabe d'Oman, une boisson connue par les locaux sous le nom d'« alcool omanais » est mieux connue ailleurs sous le nom de <BLANK>. ",
+      "t": "A",
+      "v": "573421_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "apprendre le violon, jouer à trois jeux parfaits, manger toute la glace, être élu représentant de l'État, siffler sans arrêt, faire une opération du cœur, braquer un magasin d'accordéon, sculpter une guitare dans la glace, enregistrer un album country, acheter 1000 bottes de cowboy, frapper Toby Keith, se faire passer pour un professeur, manger quatre poulets, inventer un nouveau style musical, danser en ligne tout le temps, manger 12 steaks, voler la guitare de Hank Williams, créer un cabinet d'avocats ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fatigué de lire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "commettre 11 crimes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si jamais vous vous retrouvez avec neuf heures à tuer à Nashville, vous pourriez faire ce que William Todd a fait pendant cette période en 2012, c'est-à-dire <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "crimes, crimes, crimes, crime, commettre des crimes, commettre des crimes, commettre un crime, se faire arrêter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'un d'eux chiait sur le bureau d'un cabinet d'avocats. À propos duquel j'ai des sentiments mitigés. ",
+      "t": "A",
+      "v": "562458_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si jamais vous vous retrouvez avec neuf heures à tuer à Nashville, vous pourriez faire ce que William Todd a fait à cette époque en 2012, c'est-à-dire <VIERGE>. ",
+      "t": "A",
+      "v": "562455_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

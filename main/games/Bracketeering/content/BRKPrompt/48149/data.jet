@@ -1,0 +1,156 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Le jeu le plus susceptible d'aboutir à un énorme combat mettant fin à l'amitié ",
+      "t": "A",
+      "v": "678746_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Ressentez la rage !! ",
+      "t": "A",
+      "v": "678759_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est LE jeu le plus susceptible de se terminer par un combat ?!! ",
+      "t": "A",
+      "v": "678756_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Je ne sais pas pour vous mais je suis prêt à me battre maintenant !! ",
+      "t": "A",
+      "v": "678749_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez n’importe quel jeu de société ou de cartes ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Même voir ça me met en colère !!! ",
+      "t": "A",
+      "v": "678758_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez n’importe quel jeu de société ou de cartes ",
+      "t": "A",
+      "v": "678742_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Combattez !!!! ",
+      "t": "A",
+      "v": "678757_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

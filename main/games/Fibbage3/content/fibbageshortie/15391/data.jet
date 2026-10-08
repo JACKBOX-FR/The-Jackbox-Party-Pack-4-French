@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dormir, manger de façon excessive, Hip Hop, jouer de la trompette, Masturbation, manger du feu, Chant, gymnastique, Danse swing, strip-tease, Ventriloquie, Yoga, Mentir, Bière bon marché, Donjons et Dragons, Prostitution, Lancer de gâteaux, Chasse à l'écureuil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Terreur indescriptible ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Péter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1996, <i>Le Journal of Analytical Psychology</i> a publié un article intitulé « <BLANK> comme défense contre une peur indescriptible ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est... beaucoup plus déprimant qu'il n'y paraît. ",
+      "t": "A",
+      "v": "340281_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1996, <i>Le Journal of Analytical Psychology</i> a publié un article intitulé « <BLANK> comme défense contre une peur indescriptible ». ",
+      "t": "A",
+      "v": "340278_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pas de roi Lear, Siri, un roomba, des lutteurs, 20 bébés, plus de discours, des serviteurs, des combats de tartes, Skype, des klingons, le casting de Hamilton, des dunk tanks, les Oakland A's, du poisson, des préposés au parking, Monty Python, des chiens, pas de mots ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Shakespeare ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mouton ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2014, une adaptation inhabituelle de Shakespeare a été créée à Londres intitulée <i>Le Roi Lear avec <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "agneaux, moutons, agneau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Comme si cette pièce avait besoin d'aide pour vous endormir. ",
+      "t": "A",
+      "v": "646470_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2014, une adaptation inhabituelle de Shakespeare a été créée à Londres intitulée <i>Le Roi Lear avec <BLANK></i>. ",
+      "t": "A",
+      "v": "646467_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

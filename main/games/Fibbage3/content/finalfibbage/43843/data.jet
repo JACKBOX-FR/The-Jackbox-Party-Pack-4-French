@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chiens|orange,prunes|pruneaux,téléviseurs|possédés,blondes|brunettes,pièces de monnaie|magnétisés,fruits|fermentés,herbe|roses,eaux usées|pétrifiées,citrouilles|eau rmelons,argent|sans valeur,coqs|poules,cheveux|bouclés,fromage|bleu,jeans|coupes,boîtes aux lettres|déracinés,nourriture|insipide,vaches|rouge,police|militaire officiers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Développements du jour au lendemain ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eau|rose ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les résidents d'Onoway, en Alberta, au Canada, ont été choqués lorsqu'ils se sont réveillés et ont découvert que tous leurs <VIERGES> étaient devenus <VIERGES>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eau du robinet|rose,eau|rouge,eau du robinet|rouge ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les résidents d'Onoway, Alberta, Canada ont été choqués lorsqu'ils se sont réveillés et ont découvert que tous leurs <VIERGES> étaient devenus <VIERGES>. ",
+      "t": "A",
+      "v": "571085_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

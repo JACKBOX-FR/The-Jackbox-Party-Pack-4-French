@@ -1,0 +1,896 @@
+{
+  "episodeid": 1313,
+  "content": [
+    {
+      "x": true,
+      "personal": "",
+      "id": 14885,
+      "portrait": false,
+      "category": "Johnny Carson ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 14942,
+      "portrait": false,
+      "category": "Parfums sexy ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19380,
+      "portrait": false,
+      "category": "Patrouille de rats ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 14856,
+      "portrait": false,
+      "category": "Miss Amérique manque ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 14940,
+      "portrait": false,
+      "category": "Flocons de maïs ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 20486,
+      "portrait": false,
+      "category": "Courtiser le désastre ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 14703,
+      "portrait": false,
+      "category": "Bon conseil ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 19323,
+      "portrait": false,
+      "category": "Dakota du Sud sexy ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 19444,
+      "portrait": false,
+      "category": "des idées solides ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43382,
+      "portrait": false,
+      "category": "imposteur de cadavre ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43450,
+      "portrait": false,
+      "category": "Beats voler seul ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43559,
+      "portrait": false,
+      "category": "Règle de courrier ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43262,
+      "portrait": false,
+      "category": "Rituels du matin ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43724,
+      "portrait": false,
+      "category": "Célébrations ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43843,
+      "portrait": false,
+      "category": "Développements du jour au lendemain ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 14973,
+      "portrait": false,
+      "category": "Montants de trace ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47837,
+      "portrait": false,
+      "category": "Adam Ouest ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47712,
+      "portrait": false,
+      "category": "Demandes professionnelles ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47332,
+      "portrait": false,
+      "category": "Cigales ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47195,
+      "portrait": false,
+      "category": "La vie trouve un chemin ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46528,
+      "portrait": false,
+      "category": "Concours ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46501,
+      "portrait": false,
+      "category": "Couvre-chefs spécialisés ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46500,
+      "portrait": false,
+      "category": "Tourisme des temples ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46449,
+      "portrait": false,
+      "category": "Concours étranges ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 46431,
+      "portrait": false,
+      "category": "Les frères de la propriété ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43839,
+      "portrait": false,
+      "category": "Auteurs Jazzy ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43723,
+      "portrait": false,
+      "category": "Traditions mexicaines ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43840,
+      "portrait": false,
+      "category": "Boutiques éphémères ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43851,
+      "portrait": false,
+      "category": "Boire ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43929,
+      "portrait": false,
+      "category": "Vêtements de Noël ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43490,
+      "portrait": false,
+      "category": "Erreurs honnêtes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 44149,
+      "portrait": false,
+      "category": "personnes complexes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43483,
+      "portrait": false,
+      "category": "Monstres ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 43717,
+      "portrait": false,
+      "category": "Remplacements ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43891,
+      "portrait": false,
+      "category": "Vieillissement ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43956,
+      "portrait": false,
+      "category": "Problèmes de perroquet ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44114,
+      "portrait": false,
+      "category": "Odeurs spécifiques ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44152,
+      "portrait": false,
+      "category": "Crime néerlandais ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44198,
+      "portrait": false,
+      "category": "Règles catholiques ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44334,
+      "portrait": false,
+      "category": "Deuil de chat ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44343,
+      "portrait": false,
+      "category": "Besoins urgents ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48043,
+      "portrait": false,
+      "category": "gènes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47972,
+      "portrait": false,
+      "category": "dissidence civique ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47971,
+      "portrait": false,
+      "category": "Espace Espace Espace ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47970,
+      "portrait": false,
+      "category": "Décisions Décisions ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47967,
+      "portrait": false,
+      "category": "90 pour cent ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47941,
+      "portrait": false,
+      "category": "passagers superstitieux ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47940,
+      "portrait": false,
+      "category": "pollution sonore ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47926,
+      "portrait": false,
+      "category": "routine d'entraînement ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47923,
+      "portrait": false,
+      "category": "1987 ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47922,
+      "portrait": false,
+      "category": "Stan Lee ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47885,
+      "portrait": false,
+      "category": "Mettez-y là ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47880,
+      "portrait": false,
+      "category": "kappa ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47859,
+      "portrait": false,
+      "category": "Offres alléchantes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47858,
+      "portrait": false,
+      "category": "Dépenses annuelles ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47856,
+      "portrait": false,
+      "category": "Déversement ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 47842,
+      "portrait": false,
+      "category": "Objectifs de vie ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47840,
+      "portrait": false,
+      "category": "Vaches et Lions ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47821,
+      "portrait": false,
+      "category": "Erreurs historiques ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47816,
+      "portrait": false,
+      "category": "maladies tropicales ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47804,
+      "portrait": false,
+      "category": "Bandits ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44426,
+      "portrait": false,
+      "category": "Costumes délicats ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44113,
+      "portrait": false,
+      "category": "traditions des astronautes",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44536,
+      "portrait": false,
+      "category": "La politique du Texas ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44458,
+      "portrait": false,
+      "category": "Juste une pincée ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44063,
+      "portrait": false,
+      "category": "Méchant ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43940,
+      "portrait": false,
+      "category": "rendre grâce ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44196,
+      "portrait": false,
+      "category": "Accords médiévaux ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44655,
+      "portrait": false,
+      "category": "Grenouille d'horreur ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 44820,
+      "portrait": false,
+      "category": "Anime ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 45044,
+      "portrait": false,
+      "category": "Comparaisons ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46190,
+      "portrait": false,
+      "category": "Conduite en état d'ébriété ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47675,
+      "portrait": false,
+      "category": "Des Instagram étranges ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46502,
+      "portrait": false,
+      "category": "Reste ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46277,
+      "portrait": false,
+      "category": "Confessions ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46193,
+      "portrait": false,
+      "category": "Petits boulots ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 46189,
+      "portrait": false,
+      "category": "Juvie ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 45157,
+      "portrait": false,
+      "category": "Guides des employés ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43471,
+      "portrait": false,
+      "category": "propositions indécentes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 43542,
+      "portrait": false,
+      "category": "6000 adultes britanniques ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 47968,
+      "portrait": false,
+      "category": "Utilité ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48105,
+      "portrait": false,
+      "category": "Règle 81.35 ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48119,
+      "portrait": false,
+      "category": "Nixon ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48140,
+      "portrait": false,
+      "category": "Récréations fidèles ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48181,
+      "portrait": false,
+      "category": "Talonneur, Oklahoma ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48182,
+      "portrait": false,
+      "category": "Deux grandes choses ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48191,
+      "portrait": false,
+      "category": "VES-4 ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48218,
+      "portrait": false,
+      "category": "Accorde-moi un pardon ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48219,
+      "portrait": false,
+      "category": "Leçons importantes ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48222,
+      "portrait": false,
+      "category": "Premiers instincts ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48223,
+      "portrait": false,
+      "category": "Soutenez votre bibliothèque ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48227,
+      "portrait": false,
+      "category": "« coupe glacée » ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48276,
+      "portrait": false,
+      "category": "Volkswagen ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48280,
+      "portrait": false,
+      "category": "Frank Zappa ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48300,
+      "portrait": false,
+      "category": "Indiana 1897 ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48311,
+      "portrait": false,
+      "category": "Le plus ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48315,
+      "portrait": false,
+      "category": "Loisirs de sorcière ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": true,
+      "personal": "",
+      "id": 48394,
+      "portrait": false,
+      "category": "Besoins des animaux ",
+      "bumper": "",
+      "us": false
+    },
+    {
+      "x": false,
+      "personal": "",
+      "id": 48472,
+      "portrait": false,
+      "category": "Farces de Burger King",
+      "bumper": "",
+      "us": false
+    }
+  ]
+}

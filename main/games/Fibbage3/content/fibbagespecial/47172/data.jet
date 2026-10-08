@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "briser la poussière, ma machine à marionnettes, mon tricycle et mon monocycle, Pete et les roues, des connaissances imaginaires, l'équipe de violons, une aubaine pour le nombril, les diagrammes circulaires, Richard Simmons, devenir fou pour des cacahuètes, les lampes deviennent des gens, ma chemise sans manches, mon équipe à l'été 1995, ces dîners de famille gênants, mon vieux ventre de violoncelle, le discours d'Apple en 2012, ce moment où j'ai réalisé que j'avais perdu mon portefeuille, je fais la queue au DMV ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "En mémoire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un groupe exclusivement féminin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre étrange de ce dessin de Paul Klee est <i>In Memory of <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un groupe exclusivement féminin, un groupe exclusivement féminin, un groupe exclusivement féminin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "654175_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "654198_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh, c'est vrai, j'avais le CD de leurs plus grands succès. ",
+      "t": "A",
+      "v": "654173_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre étrange de ce dessin de Paul Klee est <i>In Memory of <BLANK></i>. ",
+      "t": "A",
+      "v": "654170_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

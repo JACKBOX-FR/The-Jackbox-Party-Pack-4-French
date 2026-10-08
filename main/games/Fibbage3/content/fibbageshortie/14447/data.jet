@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Géorgie, campagne, foi, confiance, John, instruit, changement, leader, prostituée, fesses, CNN, gruau, ABC, chat, faute d'orthographe, Chevy, dieu, canard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sites Web des gouverneurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gouverneur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, John Barge, candidat au poste de gouverneur de Géorgie, a fermé son site Web de campagne parce qu'il contenait une erreur d'orthographe « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a mis le guber au poste de gouverneur ",
+      "t": "A",
+      "v": "321028_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, John Barge, candidat au poste de gouverneur de Géorgie, a supprimé son site Web de campagne parce qu'il contenait une erreur d'orthographe « <BLANK> ». ",
+      "t": "A",
+      "v": "321025_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

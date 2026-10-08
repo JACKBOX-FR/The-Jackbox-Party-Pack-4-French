@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sushi frit, pastèque cubique, queues de rat, renne, bière wasabi, crème glacée au poulpe, pain en conserve, gelée de placenta, grenouilles au chocolat, crabe séché, placenta, calamar, Taco Bell, pain de viande, pizza en forme de père Noël, pouding au gui, sabots de renne, sauce au lait de poule ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Noël au Japon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Poulet KFC ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au cours de la dernière décennie, le Japon a développé une tradition de vacances unique. Plus de trois millions de personnes mangent <BLANK> à Noël. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "KFC, poulet frit du Kentucky ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout comme l'enfant Jésus l'a fait... ",
+      "t": "A",
+      "v": "580380_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au cours de la dernière décennie, le Japon a développé une tradition de vacances unique. Plus de trois millions de personnes mangent <BLANK> à Noël. ",
+      "t": "A",
+      "v": "580377_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

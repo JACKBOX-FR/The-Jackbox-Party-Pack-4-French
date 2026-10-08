@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "serpent | lunettes de soleil, nonne | un bikini, enfant | un costume de sorcier, cerf | une robe de cocktail, faucon | une cravate, un robot | un masque de clown, bébé | une armure, chimpanzé | une robe de mariée, lapin | parfum, rat | une cape de Superman, ancien président | une fausse barbe, élan | talons hauts, dictateur | rouge à lèvres, écureuil | un tutu, groupe punk | serviettes, pingouin | un diplômé casquette,émeu|un string,ours polaire|un smoking ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Beats voler seul ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "canard|des bottes rouges et une couche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En octobre 2016, l'un des passagers d'un vol Charlotte-Asheville portait un <BLANK> portant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "canard|bottes,canard|bottes rouges,canard|une couche,canard|couche,couche|canard ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son nom était Daniel Turducken Stinkerbutt et il n'arrêtait pas de reculer son putain de siège. ",
+      "t": "A",
+      "v": "562508_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En octobre 2016, l'un des passagers d'un vol Charlotte-Asheville portait un <BLANK> portant <BLANK>. ",
+      "t": "A",
+      "v": "562505_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

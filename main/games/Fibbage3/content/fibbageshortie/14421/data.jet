@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "drogues, Beanie Babies, chiots, cassettes VHS, câlins, travaux de pelouse, chaînes stéréo, Bibles, voitures, steak, fusils, collants, crânes, couteaux, iPads, vestes en cuir personnalisées, espèces, cartes de baseball ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "service porte à porte ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dynamite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Rogers, AR, un homme nommé Johnny Lee Nichols a été arrêté pour avoir fait du porte-à-porte en proposant d'échanger <BLANK> contre du sexe. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "explosifs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Au fait, personne n'a accepté l'offre. ",
+      "t": "A",
+      "v": "320500_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À Rogers, Arkansas, un homme nommé Johnny Lee Nichols a été arrêté pour avoir fait du porte-à-porte en proposant d'échanger <BLANK> contre du sexe. ",
+      "t": "A",
+      "v": "320497_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

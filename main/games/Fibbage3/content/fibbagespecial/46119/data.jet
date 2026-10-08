@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un bébé paresseux, Bones, Mes yeux, des photos, un flipper vintage, du vomi de chat, Beyonce, Mario, les fesses de Tyra Banks, des mecs super chamois, les abdos de Channing Tatum, mes bras fins, Dieu, ma mère, ma nièce, un DQ Blizzard, Fallout Boy, Wonder Woman ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Arrière-plans ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mes seins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le mannequin Kate Upton a tweeté : \"J'essaie de comprendre comment faire de l'arrière-plan une image de <BLANK>.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "17h32<br />21 octobre 2010 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@KateUpton ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mes seins, mes seins, mes seins, mes seins, mes seins, mes seins, mes seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "635500_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ne vous inquiétez pas, j'ai compris. ",
+      "t": "A",
+      "v": "635498_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Le mannequin Kate Upton a tweeté en octobre 2010 : « J'essaie de comprendre comment faire de l'arrière-plan une image de <BLANK>. » ",
+      "t": "A",
+      "v": "635495_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

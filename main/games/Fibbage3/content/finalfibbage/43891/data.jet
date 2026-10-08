@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bouteilles d'assurance|nourriture pour bébé, livres|iPads, cols roulés|grenouillères, chaussettes noires|chaussettes blanches, lunettes de lecture|lunettes de soleil, pierres tombales|pizza pierre tombale, scooters|planches à roulettes, terrains funéraires|jeux vidéo, casseroles de lit|toilettes, adoucisseurs de selles|tabourets réels, nœuds papillons|teinture pour cheveux violette, manuels de lecteur Blu-Ray|lecteurs Blu-Ray, golf clubs|planches à roulettes, bretelles|ceintures, Viagra|M&Ms, CD|MP3, cercueils|berceaux bébé, prothèses dentaires|dents de vampire fantaisie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vieillissement ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couches pour adultes|couches pour bébés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En raison du vieillissement de sa population, <BLANK> vend mieux que <BLANK> au Japon. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En raison du vieillissement de sa population, <BLANK> vend mieux que <BLANK> au Japon. ",
+      "t": "A",
+      "v": "572421_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

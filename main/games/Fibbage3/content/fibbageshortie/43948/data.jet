@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mathématiques, Rhodeynomics, Algèbre, Mathématiques spirituelles, Nombres de Howard, Terrencentriques, Mathématiques réelles, Guy de Crashology, Compoundium, Laymath, Hustle & Flowcharting, Quindratics, MegaDigits, ActorMath, Altiplication, Howanetics, Ultra-Calculus, Bigonométrie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Terrence Howard ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Terryologie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La star d'<i>Empire</i>, Terrence Howard, a révélé dans une interview avec <i>Rolling Stone</i> qu'il avait créé sa propre version des mathématiques appelée <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tériologie,Terry-ologie,Téréologie,Terréologie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Dans ce document, 1 fois 1 équivaut à 2... Sérieusement. ",
+      "t": "A",
+      "v": "573903_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "La star de [category=host]<i>Empire</i>, Terrence Howard, a révélé dans une interview avec Rolling Stone qu'il avait créé sa propre version des mathématiques appelée <BLANK>. ",
+      "t": "A",
+      "v": "573900_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

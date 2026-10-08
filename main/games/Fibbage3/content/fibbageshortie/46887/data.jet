@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des zombies ont été attaqués, il a dit le nom de Reagan à l'envers, ils ont français, il a regardé les films de Reagan, il a eu des A directs, les Cubs ont gagné les World Series, il a eu 18 millions de retweets, le Robosaurus est arrivé en ville, la Russie a gagné un match d'échecs, Gorbatchev a dû être opéré, il a gagné à la loterie, la Russie a accepté d'exporter de la vodka, les Jeux olympiques étaient à la télé, il a donné à Reagan son premier-né, un vendredi est tombé sur le Le 13, le Pape le lui a demandé, la terre a été frappée par une comète, Nancy a recommencé à agir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bonnes affaires de la guerre froide ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les extraterrestres ont envahi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors d'un entretien avec Charlie Rose, Mikhaïl Gorbatchev a révélé que Ronald Reagan lui avait dit un jour que la guerre froide pourrait être suspendue si <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des extraterrestres ont été attaqués, des extraterrestres ont débarqué, des ovnis ont atterri, des extraterrestres sont arrivés, la terre a été envahie, nous avons été envahis par des extraterrestres, des extraterrestres sont venus sur terre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Dieu merci, les extraterrestres ont envahi le pays en 1991, sinon cette guerre continuerait encore aujourd'hui. ",
+      "t": "A",
+      "v": "650654_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors d'une interview avec Charlie Rose, Mikhaïl Gorbatchev a révélé que Ronald Reagan lui avait dit un jour que la guerre froide pourrait être suspendue si <VIDE>. ",
+      "t": "A",
+      "v": "650651_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bidet, barre chocolatée, massage, pédicure, hot-dog, cigare, set de stand-up, crème glacée, pain blanc, épisode Night Court, album Green Day, baiser, documentaire, dur à cuire, juron, chaussettes tube, accident de voiture, braquage de banque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Premières célébrités ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "expresso ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nageur olympique Ryan Lochte a tweeté : « J'essaie mon tout premier <BLANK>... Beurk ! ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "00h48<br />4 novembre 2014 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@RyanLochte ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "café, expresso, café expresso, café expresso ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "665603_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En novembre 2014, le nageur olympique Ryan Lochte a tweeté : « J'essaie mon tout premier <BLANK>... Beurk ! ",
+      "t": "A",
+      "v": "665598_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

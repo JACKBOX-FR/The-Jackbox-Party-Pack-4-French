@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sous-vêtements, cartes-cadeaux iTunes, chaussettes, cire à moustache, temps Internet, shampoing antipelliculaire, ustensiles en plastique, pâte à modeler, podcasts, bandes dessinées, pantalons sensibles, DVD bootleg, Twitter suit, photos d'Angela Lansbury, mozzarella fraîche, gomme Big Red, combos pizza, remarques pleines d'esprit ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "L'argent des prisons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "maquereau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2016, Charlie Shrem a écrit un récit à la première personne de l’économie d’une prison fédérale. Sa révélation la plus surprenante fut qu'au lieu de cigarettes, la plupart des détenus utilisaient <BLANK> comme monnaie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "maquereau, maquereau, boîtes de maquereau, sachets de maquereau, boîtes de maquereau, paquets de maquereau, poisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les poissons ont une valeur intrinsèque et une offre limitée, ce qui en fait le substitut idéal pour l'argent. N’essayez simplement pas de faire passer du thon contrefait. ",
+      "t": "A",
+      "v": "677898_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2016, Charlie Shrem a écrit un récit à la première personne de l'économie dans une prison fédérale. Sa révélation la plus surprenante fut qu'au lieu de cigarettes, la plupart des détenus utilisaient <BLANK> comme monnaie. ",
+      "t": "A",
+      "v": "677895_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

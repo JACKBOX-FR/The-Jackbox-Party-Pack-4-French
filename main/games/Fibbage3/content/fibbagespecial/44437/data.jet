@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "homards de compagnie, mère de la voiture, NCIS : Nouvelle-Orléans, coupe de cheveux, assurance Geico, jumeau Micki Nimaj, chips de crème sure et d'oignon, camarades suédois, haineux, jouets, argent, famille Sims, défauts, amour, pouce gauche plus que mon droit, ongles de pieds, baguette magique, bébés tortues ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nicki Minaj ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bébés irlandais ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nicki Minaj a tweeté : « J’ai toujours aimé mon <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "14h18<br />10 avril 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@NICKIMINAJ ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bébés irlandais ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588320_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les bébés irlandais sont bien sûr un plat traditionnel composé de pommes de terre bouillantes dans une grande couche. ",
+      "t": "A",
+      "v": "588318_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Le 10 avril 2017, Nicki Minaj a tweeté : « J'ai toujours aimé mon <BLANK>. » ",
+      "t": "A",
+      "v": "588315_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

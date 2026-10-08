@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "danse horrible, intolérance au lactose, perte de mémoire des poissons rouges, rats atteints de mono, calvitie féminine, chimpanzé TDAH, mauvais goût en musique, alimentation difficile, folie de l'espace, allergies au latex, diabète, halitose, mauvaises personnalités, jambe de Jimmy, malédiction de sorcière, trac, cancer des lézards, surcharge de données ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Viagra ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "décalage horaire chez le hamster",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étrange étude réalisée en 2007 par une équipe de chercheurs argentins a révélé qu'en plus de ses utilisations les plus populaires, le Viagra peut également guérir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "décalage horaire chez les hamsters,décalage horaire,décalage horaire chez les hamsters,décalage horaire chez les hamsters,décalage horaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et c'est pourquoi j'en ai donné à Lil Chompers après nos vacances. (sfx : hamster excité) Il y avait... des effets secondaires. ",
+      "t": "A",
+      "v": "609488_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une étrange étude réalisée en 2007 par une équipe de chercheurs argentins a révélé qu'en plus de ses utilisations les plus populaires, le Viagra peut également guérir <BLANK>. ",
+      "t": "A",
+      "v": "609485_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Musique, Selena, Pomme de terre, Lune, Tout le monde LOL JK, Moi, Justin, Mon singe, Willy Shakespeare, Usher, mes abdos, One Direction, Justin Timberlake <3, Voldemort, Être populaire, Renommée, Odeur, Jalousie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bieber",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bras ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Justin Bieber a tweeté : « J'adore <BLANK> » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "13h26<br />1er janvier 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@justinbieber ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588992_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et depuis, ses jambes se morfondent. ",
+      "t": "A",
+      "v": "588990_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ : En janvier 2012, Justin Bieber a tweeté : « J'adore <BLANK> » ",
+      "t": "A",
+      "v": "588987_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

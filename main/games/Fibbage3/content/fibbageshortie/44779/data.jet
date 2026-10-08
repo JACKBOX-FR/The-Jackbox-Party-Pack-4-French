@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Baby Cock, Roachie O'Donnell, Kanye West, Dwayne « The Cock » Roachson, Prince Jr., Steve Bannon Sr., Taylor Swift, Al Roach-er, Pitbull avec T-Pain, Beetle Bailey, Phil Spector, Richard Simmons, caca de bébé, Roachel Welch, Buggy Butt, PanthersFan69, Deez Nuts, Crunch ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cafards ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tom Brady ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le zoo d'Atlanta a perdu un pari avec un zoo du Rhode Island et a dû nommer son nouveau bébé cafard siffleur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ouais, c'était un pari sur le Super Bowl. ",
+      "t": "A",
+      "v": "597171_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le zoo d'Atlanta a perdu un pari avec un zoo du Rhode Island et a dû nommer son nouveau bébé cafard siffleur <BLANK>. ",
+      "t": "A",
+      "v": "597168_1",
+      "n": "QuestionAudio"
+    }
+  ]
+}

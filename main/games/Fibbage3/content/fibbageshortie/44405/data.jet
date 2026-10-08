@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dent, nudité, calamar, toilettes, restes de pizza, Angry Birds, mallette, crotte de nez, crachats, fromage à la crème, lavement, ongle d'orteil, crayon en bois, Arkansas, barbe au cou, gel capillaire, anniversaire, appréciation ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Journées spéciales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Virus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si votre anniversaire est le 3 octobre, félicitations ! Votre journée spéciale est également connue sous le nom de <BLANK> Journée d'appréciation. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]À ne pas confondre avec la journée S'il vous plaît, n'apportez pas votre grippe au travail... qui a lieu tous les jours de l'année. ",
+      "t": "A",
+      "v": "587433_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si votre anniversaire est le 3 octobre, félicitations ! Votre journée spéciale est également connue sous le nom de <BLANK> Journée d'appréciation. ",
+      "t": "A",
+      "v": "587430_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

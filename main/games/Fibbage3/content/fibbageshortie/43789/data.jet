@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beurre de cacahuète, yaourt, urinoirs, sac à dos, préservatifs, peluches pour le nombril, couches pour adultes, ongles incarnés, mouchoirs, accouchement, pantoufles, cérumen, vomissements, oeil rose, limonade, gueule de bois, baseball, crème glacée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Surnoms écossais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "syphilis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "« Grandgore » est le surnom écossais courant pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "syphilis, syphillas, syphalas ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce n'est pas si génial. ",
+      "t": "A",
+      "v": "569492_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]« Grandgore » est le surnom écossais courant pour <BLANK>. ",
+      "t": "A",
+      "v": "569489_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Moto Tesla, furet Gucci, sac banane Yeezy, tatouage 311, pizza Digiorno, orignal qui parle, nouveau papa, grill unobtainium, sois normal, morceau de bois, deviens dix pieds de haut, hot-dog, lama, bon rêve, machine à voyager dans le temps, prépare des biscuits, monte une licorne, écoute les pensées de Dieu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jaden Smith ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "être Ryan Gosling ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jaden Smith a tweeté : « Je veux <BLANK> pour Noël. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "02h24<br />29 décembre 2016 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@officialjaden ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588494_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](super fou) Faites la queue, mon pote ! ",
+      "t": "A",
+      "v": "588492_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En décembre 2016, Jaden Smith a tweeté : « Je veux <BLANK> pour Noël. » ",
+      "t": "A",
+      "v": "588489_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "machine à troubler, zoo, ordinateur, nouveau chariot, mari, enfant, billet pour monter, élan, nouvelle paire de chaussures, canne à pêche, miroir, belette, cheval, cuillère, usine de chapeaux, fourche, journal, télévision ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trobel Iz Meedel Nyemm ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "porcelet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un dicton russe sur la courtisation du désastre se traduit par « La femme n’a eu aucun problème, alors elle a acheté un <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cochon, bébé cochon, cochon, cochon, bébé cochon, bébé cochon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Les Russes arrivent !",
+      "t": "A",
+      "v": "565116_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh, les porcelets ne posent pas de problème, ils ont juste besoin d'une main ferme. (Porcelet SFX) Hé ! P'tit Oinkers, non ! Lâchez ce câble ! Vous le laissez tomber ! Vous--(SFX statique) ",
+      "t": "A",
+      "v": "565114_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un dicton russe sur la courtisation du désastre se traduit par « La femme n'a eu aucun problème, alors elle a acheté un <BLANK> ». ",
+      "t": "A",
+      "v": "565111_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

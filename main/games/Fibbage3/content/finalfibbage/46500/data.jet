@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crâne|un vrai Pikachu,Origine|les Tortues Ninja,graines|un arbre monstre vivant,le plus étrange|verrues,langue|le premier commissaire-priseur,Duc|Chats,fantôme|Colonel Sanders,Sport|Rois,empreinte|un hybride dinosaure-humain,le dernier des|les mohicans,seulement photo|Père Noël,barbe|un viking,piste|la bête lunaire,le plus cool|mecs,preuve|fées,monde le plus grossier|singe,seau|larmes saintes,cadillac|voitures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tourisme des temples ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "des os|une sirène ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous prenez rendez-vous au temple Ryuguji à Fukuoka, au Japon, vous pourrez voir quelle légende locale prétend être le <BLANK> de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "os|une sirène,os|sirènes,squelette|une sirène,os|sirène ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Soit ça, soit quelqu'un vient de laisser la moitié d'un poisson et la moitié d'une personne juste au bon angle... ",
+      "t": "A",
+      "v": "645312_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous prenez rendez-vous au temple Ryuguji à Fukuoka, au Japon, vous pourrez voir quelle légende locale prétend être le <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "645309_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

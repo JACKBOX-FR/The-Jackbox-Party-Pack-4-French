@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "remède pour mon hoquet, bébé super intelligent, milk-shake parfait, meilleur harmonica, dame Larry King, endroit pour garer ma voiture, bébé patron, licorne, tomate mûre, athlète humble, personne nommée Chad qui est gentil, chat volant, téléphone à clapet, burrito savoureux, lecteur VHS, poisson rouge intelligent, endroit pour louer des cannes, voiture qui parle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Larry King ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chien qui parle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Larry King a tweeté : « D’une manière ou d’une autre, quelque part, il doit y avoir un <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "20h45<br />25 octobre 2015 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@kingsthings ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chien qui peut parler, chien qui parle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "586356_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Enfin, un journaliste qui évoque ce qui compte VRAIMENT. ",
+      "t": "A",
+      "v": "586354_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En octobre 2015, Larry King a tweeté : « D’une manière ou d’une autre, quelque part, il doit y avoir un <BLANK>. » ",
+      "t": "A",
+      "v": "586351_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

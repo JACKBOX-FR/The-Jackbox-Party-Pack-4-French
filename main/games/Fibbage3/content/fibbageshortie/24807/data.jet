@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les gens en Finlande et en Californie, les bouteilles de moutarde, les pays, les maladies, les livres, les émissions de télévision, les jeux vidéo, les gâteaux, les avions, les bateaux, les Walmart, les McDonald's, les horloges, les fans de football, les professeurs, les musiciens, les gratte-ciel, les rats ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Conclusions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Études ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Étrangement, une étude menée en 2015 par des professeurs en Finlande et en Californie est parvenue à la conclusion qu'il y avait trop de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "études ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais vous ne devriez pas croire toutes les études que vous lisez. ",
+      "t": "A",
+      "v": "425544_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Étonnamment, une étude menée en 2015 par des professeurs en Finlande et en Californie est parvenue à la conclusion qu'il y en avait trop de <BLANK>. ",
+      "t": "A",
+      "v": "425541_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dents qui bougent, Ballonnements, Vertiges, Orgasmes, Petite vérole, Pieds allongés, Miction publique, Grossesse, Athéisme, Convulsions, Amour, Fièvres, Lobotomies soudaines, Coqueluche, Super intelligence, Affaiblissement des os, Histoires ennuyeuses, « Jambe de train » ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trains ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Folie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À mesure que les voyages en train gagnaient en popularité à l'époque victorienne, la croyance selon laquelle voyager en train pouvait provoquer <BLANK> augmentait également. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Insanty, Dans la raison, la folie, vous devenez fou, les gens devenez fous, vous devenez fous, les gens devenez fous ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]En fait, cela ne se produit que lorsque vous voyagez en autocar. ",
+      "t": "A",
+      "v": "623038_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À mesure que les voyages en train gagnaient en popularité à l'époque victorienne, la croyance selon laquelle prendre le train pouvait provoquer <BLANK> augmentait également. ",
+      "t": "A",
+      "v": "623035_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

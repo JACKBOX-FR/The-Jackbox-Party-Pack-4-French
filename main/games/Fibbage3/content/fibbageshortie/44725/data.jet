@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "j'adore Taz, je ne parle pas, j'ai un MBA, je cite les Simpsons, j'ai le hoquet, je pète, je suis billingue, j'ai de grands pieds, je ne me rase pas, j'ai dix tatouages ou plus, j'ai un nom court, je me connecte sur un plan émotionnel, je parle de football, je ressemble à un parent, je fais chanter mes clients, je parle de sexe, je suis de cette ville, je porte un costume d'homme. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tour de danse ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ovuler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2007, des chercheurs de l'Université du Nevada ont découvert que les danseurs professionnels gagnaient des pourboires plus élevés lorsqu'ils <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sont en ovulation, sont fertiles",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]N'oubliez pas, les amis : ce qui se passe à Vegas... est soigneusement enregistré et publié dans des revues scientifiques. ",
+      "t": "A",
+      "v": "595491_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2007, des chercheurs de l'Université du Nevada ont découvert que les danseurs professionnels gagnaient des pourboires plus élevés lorsqu'ils <VIDE>. ",
+      "t": "A",
+      "v": "595488_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

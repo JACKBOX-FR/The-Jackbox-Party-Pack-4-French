@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "héberger des fugitifs, déménager dans l'Ohio, le musée le plus laid du monde, déménager dans une grotte, embaucher des enfants, sans pouvoir, mentir sur le charbon, détruit dans un effondrement, hors des canaris, acheté par KFC, devenir un Pizza Hut, contre le basket-ball du Kentucky, financé par Al Gore, légalement une personne, candidat au poste de gouverneur, un front de la mafia, une très bonne salle de sport Pokémon, ajouter une boutique de cadeaux au volant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les surprises du musée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "passer à l'énergie solaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les habitants du comté de Harlan, dans le Kentucky, ont été surpris en 2017 par la nouvelle selon laquelle le Kentucky Coal Mining Museum était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "passer à l'énergie solaire,passer à l'énergie solaire,utiliser l'énergie solaire,alimenté par l'énergie solaire,alimenté par le soleil,pas alimenté par le charbon,pas alimenté par le charbon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils économisent beaucoup sur tous les canaris qu'ils traversaient. ",
+      "t": "A",
+      "v": "583115_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les habitants du comté de Harlan, dans le Kentucky, ont été surpris en 2017 par l'annonce selon laquelle le musée des mines de charbon du Kentucky était <VIERGE>. ",
+      "t": "A",
+      "v": "583112_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

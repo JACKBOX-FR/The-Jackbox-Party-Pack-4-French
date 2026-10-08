@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le trafic, ses émotions, les patates douces, les salamandres, le résultat des matchs de football, les Français, la météo à Paris, les canards, quand le gars du câble arrive, les élections, l'herbe, l'humidité, les lacets, les retards à l'aéroport, la loterie, les sudokus, la soupe, les poissons rouges ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les Vengeurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "écureuils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'un des membres les plus étranges des Avengers, le super pouvoir de Doreen Green est la capacité de contrôler <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "écureuils, écureuils, rongeurs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est aussi un rendez-vous bon marché, puisque vous pouvez simplement attaquer une mangeoire à oiseaux. ",
+      "t": "A",
+      "v": "386264_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'un des membres les plus étranges des Avengers, le super pouvoir de Doreen Green est la capacité de contrôler <BLANK>. ",
+      "t": "A",
+      "v": "386261_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

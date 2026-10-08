@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nu|une fontaine,faire caca|une grange,tricher|une partie de poker,faire pipi|une ruelle,voler des singes|Algérie,voler des bijoux|Monaco,jurer|une église,jouer|le bureau ovale, comploter un coup d'État|sa cave,ivre|les égouts, frapper des lions|le zoo, tirer au pistolet|le Smithsonian,tricher|un concours de crachats,voler du pain|le sud de La France, causant des ennuis|le paradis, fabriquant du whisky|une cabane secrète, jetant de la soupe|une cuisine gastronomique,ayant une liaison|la statue de la liberté ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Accorde-moi un pardon ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "excès de vitesse|une voiture ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le président Ulysses S. Grant a été arrêté alors qu'il était en fonction. Son crime ? Il a été attrapé <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "excès de vitesse|sa voiture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le président Ulysses S. Grant a été arrêté alors qu'il était en fonction. Son crime ? Il a été attrapé <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "680815_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

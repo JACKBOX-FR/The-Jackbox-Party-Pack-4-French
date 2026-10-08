@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bains publics, corrida, explosion laser, nonnes, chirurgie, une journée au cirque, dis quoi ?, bœuf séché, soupe des gens, cannibales, rage au volant, eaux usées, ivrognes, gueule de bois, journée de farniente, extraterrestres, cueillette d'olives, groupe de salsa ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Couleur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Amoureux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette œuvre d’art colorée est simplement <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "amant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "610570_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610593_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous pouvez totalement voir leurs trucs gloopy touchants ",
+      "t": "A",
+      "v": "610568_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de cette œuvre d'art colorée est simplement <BLANK>. ",
+      "t": "A",
+      "v": "610565_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

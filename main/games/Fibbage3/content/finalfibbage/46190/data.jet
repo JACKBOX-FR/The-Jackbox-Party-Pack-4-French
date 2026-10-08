@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un bébé poussin | bouche, un cafard | oreille, une mouche | soupe, un Cheeto | narine, un imitateur de Lincoln | malle, une Bible | fesses, Ferrero Rocher | orbite, un bâton de dynamite | cheveux, un CD Chumbawamba | stéréo, un cobra royal | boîte à gants, un bébé tigre | malle, une photo du flic | la moitié de l'amulette, un sac de Pop Rocks | sous-vêtements, un gallon de bière|réservoir d'essence,Doritos|lecteur CD,chair humaine|dents,calculs biliaires|collier,morceaux du mur de Berlin|queue de cheval ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Conduite en état d'ébriété ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un lézard|soutien-gorge ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque la police de Taunton, dans le Massachusetts, a arrêté une femme pour conduite en état d'ébriété en mai 2017, elle a découvert qu'elle avait <BLANK> dans son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un dragon barbu|soutien-gorge,lézard|soutien-gorge ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mec, ces publicités GEICO deviennent bizarres. ",
+      "t": "A",
+      "v": "637668_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque la police de Taunton, dans le Massachusetts, a arrêté une femme pour conduite en état d'ébriété en mai 2017, elle a découvert qu'elle avait <BLANK> dans son <BLANK>. ",
+      "t": "A",
+      "v": "637665_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

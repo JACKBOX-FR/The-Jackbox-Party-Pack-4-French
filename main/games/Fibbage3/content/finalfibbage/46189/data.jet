@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger des nachos|une salle de bain,aller chercher du chocolat|le beurre de cacahuète, vomir|un chapeau de cowboy,parler|français,danser|l'église, tousser|le déjeuner scolaire, jurer|un concours de poésie slam, quitter la maison|cette tenue, vendre des attrape-rêves|le parking, lever la main|salle d'étude, fumer|la salle des professeurs, chasser|l'intersaison, dire la vérité|Le visage de l'homme, commettre une trahison|maison chambre, libérer des corbeaux | cours d'anglais, faire de la magie en gros plan | cours d'histoire, gagner l'argent de son professeur | craps, prendre un chiot | la piscine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Juvie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rots|cours de gym ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, un élève de septième année d'Albuquerque a été arrêté pour <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "rots|classe,éructations|classe,faux rots|classe,fausses éructations|en classe,éructations|cours de gym,faux rots|cours de gym,faux éructations|cours de gym,éructations|cours de gym ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a été condamné à 40 ans. ",
+      "t": "A",
+      "v": "637638_4 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, un élève de septième année a été arrêté dans un collège d'Albuquerque pour <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "637635_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

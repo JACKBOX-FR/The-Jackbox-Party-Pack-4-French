@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "femme en or, castor, village de licorne, statue en argent, arbre à argent, porte du ciel, fontaine de jouvence, vache exauçant les vœux, tas d'argent, arbre parlant, ours volant, ville des elfes, vaisseau spatial, figuier, taureau à trois têtes, mine de poivre, poisson-chat ambulant, aigle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rumeurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "montagne faite de sel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'une des raisons pour lesquelles Thomas Jefferson était enthousiaste à l'idée de finaliser l'achat de la Louisiane est qu'il y avait des rumeurs concernant un <BLANK> géant sur les rives du fleuve Missouri. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "montagne de sel, montagne de sel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh, jusqu'où un homme peut aller pour du sel. ",
+      "t": "A",
+      "v": "609011_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'une des raisons pour lesquelles Thomas Jefferson était enthousiaste à l'idée de finaliser l'achat de la Louisiane est qu'il y avait des rumeurs concernant un <BLANK> géant sur les rives du fleuve Missouri. ",
+      "t": "A",
+      "v": "609008_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

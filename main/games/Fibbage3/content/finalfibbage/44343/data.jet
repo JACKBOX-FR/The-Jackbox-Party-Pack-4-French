@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien|caresses sérieuses,fesses|arrêter,fils|un passe-temps,bouche|un gommage,tête|un cerveau,maman|un pistolet,chat|mourir,soeur|s'occuper de ses affaires,sac à main|plus de poches,nez|un doigt,libido|un peu d'eau froide,maison|un peu d'amour,chaussure|une chaussette,chambre|un peu d'action,enfant|se taire,prof|arrêter de flirter,sandwich|viande de cheval,zone bikini|une certaine attention ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Besoins urgents ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "visage|coup de poing ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous un « backpfeifengesicht ? » De l'allemand, cela se traduit par « un <BLANK> qui a besoin de <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "visage|un coup de poing ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][DOUBLE BLANK] Avez-vous un « backpfeifengesicht ? » De l'allemand, cela se traduit par « un <BLANK> qui a besoin de <BLANK> ». ",
+      "t": "A",
+      "v": "585572_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

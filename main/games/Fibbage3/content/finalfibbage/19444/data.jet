@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chatons|son jardin,chocolat|popcorn,sirop|son thé,coca|pepsi,une banane|un tuyau d'échappement,des collations supplémentaires|son sac à dos,une télé|la chambre,un chauffage|le sauna,ses enfants|temps mort,dentifrice|sa poche, une cafetière|sa chambre,des flotteurs|sa piscine,poubelle|la cheminée,sucre|café,un nid de frelons|la voiture d'Enrico Fermi,beurre de cacahuète|son smoothie,un grille-pain|sa voiture,pain|le four ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "des idées solides ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un œuf|une soupe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Albert Einstein a affirmé un jour que sa deuxième plus grande idée après la théorie de la relativité était de mettre <BLANK> dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des œufs|soupe,soupe|des œufs,soupe|un œuf,un œuf|sa soupe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Albert Einstein a affirmé un jour que sa deuxième plus grande idée après la théorie de la relativité était de mettre <BLANK> dans <BLANK>. ",
+      "t": "A",
+      "v": "386045_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

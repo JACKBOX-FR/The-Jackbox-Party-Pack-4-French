@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "est un peu trop à l'aise avec lui-même, va sur la lune, se fait un ami, vole des œufs, est maintenant le patron, visite un parc à thème, apprend l'espagnol et le banc du parc, achète un peignoir, ressemble plus à une panthère, et le cheval de bois, chauffeur de taxi, sauve la ville, invente l'art, détruit la plomberie, a perdu ses lentilles de contact, abat un arbre, est impertinent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Singes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "essaie la menuiserie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette pièce du XVIIIe siècle est <i>Le Singe <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "charpentier, est-ce que charpentier, qui était charpentier, qui faisait de la menuiserie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "649102_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "649125_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de cette pièce du XVIIIe siècle est <i>Le singe <BLANK></i>. ",
+      "t": "A",
+      "v": "649097_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

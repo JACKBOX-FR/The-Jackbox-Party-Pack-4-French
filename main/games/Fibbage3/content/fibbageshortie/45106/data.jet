@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "devenir un bébé, vieillir rapidement, lui retirer les bras, lire dans les pensées des chiens, se souvenir de n'importe quel mouvement de danse, invoquer des crabes, faire pousser une moustache mortelle, résoudre n'importe quel puzzle, ressembler à ses ancêtres, définir les tendances de la mode, quitter son corps, invoquer le fantôme de son grand-père, arrêter toutes les montres, devenir un canard, remonter le temps de cinq secondes, dire la chose parfaite, se souvenir de tous les anniversaires, préparer le gâteau parfait ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Super Duper ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vomir de l'acide ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le personnage de Marvel Comics, Zeitgeist, possède un étrange pouvoir mutant. Quand il le souhaite, il peut <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "acide de vomi, acide de vomissement, acide de vomissement, acide de barf, acide de crachat ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a ensuite été tué par Prilosec Man ",
+      "t": "A",
+      "v": "605208_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le personnage de Marvel Comics, Zeitgeist, possède un étrange pouvoir mutant. Quand il le souhaite, il peut <VIERGE>. ",
+      "t": "A",
+      "v": "605205_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

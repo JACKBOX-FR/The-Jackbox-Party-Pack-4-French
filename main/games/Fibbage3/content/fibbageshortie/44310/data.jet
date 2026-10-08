@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "signes de politesse, pointes empoisonnées, ruches, porcs-épics, sacs de crottes, pistolets paralysants, tas d'ordures, cobras, germes mortels, missiles, lanceurs boomerang, photos de chirurgie, très peu d'importance, clous rouillés, mitrailleuses, bibles, canons soniques, poissons morts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Prévention du crime ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lance-flammes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À la fin des années 90, l'inventeur sud-africain Charl Fourie a tenté d'empêcher les détournements de voitures en attachant <BLANK> aux voitures. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "lance-flammes,lance-flammes,un lance-flammes,un lance-flammes,un lance-flammes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ne vous inquiétez pas, l'inventeur a insisté sur le fait que les flammes étaient du type « non mortelles ». ",
+      "t": "A",
+      "v": "584555_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À la fin des années 90, l'inventeur sud-africain Charl Fourie a tenté d'empêcher les détournements de voitures en attachant <BLANK> aux voitures. ",
+      "t": "A",
+      "v": "584552_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

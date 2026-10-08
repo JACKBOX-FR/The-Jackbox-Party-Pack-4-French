@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vivre dans la civilisation, avoir des rêves, se suicider, essayer, payer un loyer dans une grande ville, être heureux, s'asseoir dans les embouteillages, vivre dans le Dakota du Nord, connaître la joie, mourir malheureux, être un citadin, manger des sushis, être un idiot, respirer le smog, vivre à Paris, être un imbécile, avoir la rage au volant, avoir une crise cardiaque ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dakota du Sud ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mourir sur Mars ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une campagne publicitaire de 2015 pour le Dakota du Sud utilisait le slogan « Pourquoi <BLANK> quand vous pouvez vivre dans le Dakota du Sud ? » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "aller sur Mars ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était à l'époque où tout le monde parlait d'une mission habitée sur Mars, mais je parie quand même que Mars a de meilleurs restaurants. ",
+      "t": "A",
+      "v": "599457_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une campagne publicitaire de 2015 pour le Dakota du Sud utilisait le slogan : « Pourquoi <BLANK> quand vous pouvez vivre dans le Dakota du Sud ? » ",
+      "t": "A",
+      "v": "599454_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

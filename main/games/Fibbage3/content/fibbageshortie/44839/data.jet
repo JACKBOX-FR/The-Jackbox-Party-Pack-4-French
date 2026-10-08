@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Lancer d'œufs, cuisson de cupcakes, cassage, moulage Play-Doh, empilement de tasses, courses de breaks, conception de vernis à ongles, barista, décorticage de maïs, guerre du pouce, bras de fer, filage de pâte à pizza, nettoyage, Quiplash, jeu de mots, basket-ball d'âne, regard fixe, traitement silencieux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Championnat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ciseaux à papier pierre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "ESPN a vraiment poussé la définition du « sport » en 2007 lorsqu'ils ont diffusé le championnat national <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pierre, papier, ciseaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le prix était de 50 000 $. *soupir* Je me souviens quand il s'agissait de l'amour du jeu. ",
+      "t": "A",
+      "v": "598783_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]ESPN a vraiment poussé la définition du « sport » en 2007 lorsqu'ils ont diffusé le championnat national <BLANK>. ",
+      "t": "A",
+      "v": "598780_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

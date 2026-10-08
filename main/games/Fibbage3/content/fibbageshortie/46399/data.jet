@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hamsters de compagnie, amis imaginaires, Barbies inflammables, pierres pour animaux de compagnie, litres de Sprite plat, hippies, kilos de cheveux humains, fans de Bonanza, harmonicas défectueux, survivants de Hindenburg, membres du fan club des Monkees, gallons d'agent orange, Ford Pintos, radios d'antan, anciens Mouseketeers, albums disco, couches usagées, pneus neufs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grands funérailles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pizzas surgelées ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 1973, des services funéraires ont eu lieu dans une ferme d'Ossineke, dans le Michigan, lieu de repos final de plus de 30 000 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pizzas aux champignons,pizzas,pizzas aux champignons surgelées ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]On pensait qu'ils étaient contaminés par le botulisme. Mais ils voudraient que nous nous souvenions d’eux dans des temps plus heureux. ",
+      "t": "A",
+      "v": "644010_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mars 1973, des funérailles ont eu lieu dans une ferme d'Ossineke, dans le Michigan, lieu de repos final de plus de 30 000 <VIDE>. ",
+      "t": "A",
+      "v": "644007_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

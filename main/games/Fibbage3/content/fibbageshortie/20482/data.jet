@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "transformé en statues, chassé de la ville, français, sacrifié à un volcan, obtenu un contrat d'enregistrement, incapable de l'entendre, mangé par des loups, mesurant 100 pieds, sur l'île de Gilligan, enrôlé dans l'armée, capturé par des vampires, tué dans une explosion atomique, recherché par le FBI, inscrit dans un cours d'éducation sexuelle, piégé dans l'espace, envoyé à Alcatraz, élu président, maudit par une maman ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La bande Brady ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tué dans un vol ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans un épisode étrange de <i>The Brady Bunch</i> intitulé \"Bobby's Hero\", Bobby fait un rêve dans lequel toute la famille Brady se trouve <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "abattu par Jesse James, abattu par Jessie James, tué par Jessie James, tué par Jessie James, Jesse James, Jessie James, meurt, meurt, tué, assassiné, assassiné par Jesse James, assassiné par Jessie James, abattu, est abattu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils se font tous tirer dessus par Jesse James qui n'est peut-être pas le héros de Bobby, mais il est le mien. ",
+      "t": "A",
+      "v": "398582_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans un épisode étrange de <i>The Brady Bunch</i> intitulé \"Bobby's Hero\", Bobby fait un rêve dans lequel toute la famille Brady se trouve <BLANK>. ",
+      "t": "A",
+      "v": "398579_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

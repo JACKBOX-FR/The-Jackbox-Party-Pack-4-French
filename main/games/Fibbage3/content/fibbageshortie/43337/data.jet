@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "belles-mères, écureuils en colère, loups-garous, mort dans un jeu vidéo, fantômes, sirènes, terroristes, chupacabra, animateurs, contrôle mental, comètes, chaussettes malodorantes, ex-amants, blessures yo-yo, tristesse, le Joker, Zeus, voyageurs temporels ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "couvre-toi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "extraterrestres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Grip, une compagnie d'assurance basée à Londres, a gagné 4 millions de livres sterling au début des années 2000 en vendant une police étrange qui protégeait ses clients contre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "extra-terrestres, créatures spatiales, ovnis, ovnis, X-Files, extraterrestres, enlèvements extraterrestres, enlèvements extraterrestres, enlèvements d'ovnis, OVNI. enlèvements, enlèvement d'OVNI, U.F.O. enlèvement ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils n'ont pas traité beaucoup de réclamations. ",
+      "t": "A",
+      "v": "560688_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Grip, une compagnie d'assurance basée à Londres, a gagné quatre millions de livres au début des années 2000 en vendant une police étrange qui protégeait ses clients contre <BLANK>. ",
+      "t": "A",
+      "v": "560685_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

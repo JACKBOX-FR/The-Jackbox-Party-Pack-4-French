@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "seau|une perruque,une chambre|des gens nus,une chaise|des pointes,un chapeau|un rat affamé,une peinture sexy|un microphone,un morceau de fromage|un choc électrique,un miroir|\"coupable\" écrit dessus,une pierre tombale|votre nom dessus,une ficelle|une carotte attachée,un chien|yeux tristes,une perceuse électrique|un son ennuyeux,un film triste|enfant mort,radio|pas d'interrupteur,citrouille|la voix de Groucho Marx,perroquet|un sentiment de humour, livre de blagues | pas de punchlines, mannequin ventriloque | yeux qui bougent, verre d'eau | un trou sur le côté ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Confessions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "squelette|yeux brillants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Helene Adelaide Shelby a conçu un appareil assez innovant pour amener les criminels à avouer leurs crimes. C'était essentiellement un <BLANK> avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "crâne|yeux brillants,squelette|yeux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le vieux bon flic, la mauvaise routine du squelette terrifiant aux yeux rouges. ",
+      "t": "A",
+      "v": "640260_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Helene Adelaide Shelby a conçu un appareil assez innovant pour amener les criminels à avouer leurs crimes. C'était essentiellement un <BLANK> avec <BLANK>. ",
+      "t": "A",
+      "v": "640257_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

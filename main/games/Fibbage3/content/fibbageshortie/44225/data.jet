@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Slushie Day gratuit, la première de Star Wars, la finale de Lost, le jour des élections américaines, le National Don't Vote Day, le 4 mai, le sabbat, l'apocalypse, la journée gratuite de la bande dessinée, l'anniversaire de Trump, l'anniversaire de la nation, l'éclipse solaire, le jour des poubelles, un concours de surf, la journée des beignets gratuits, la journée des jambes à la salle de sport, la dernière élection, Marty McFly voyage vers le futur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Jour d'élection ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un concert de Britney Spears ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Parti travailliste israélien a déplacé la date des élections de 2017 car elles se déroulaient le même jour que <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un concert de Brittany Spears,un concert,un concert de Britney,le concert de Britney Spears ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oups, j'ai encore recommencé, a déclaré le commissaire électoral, qui s'est rendu compte qu'il avait fait exactement la même chose l'année dernière. ",
+      "t": "A",
+      "v": "581880_4 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Prouvant qu'il comprend les besoins du peuple, le Parti travailliste israélien a déplacé la date des élections de 2017 parce qu'elles avaient lieu le même jour que <BLANK>. ",
+      "t": "A",
+      "v": "581877_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

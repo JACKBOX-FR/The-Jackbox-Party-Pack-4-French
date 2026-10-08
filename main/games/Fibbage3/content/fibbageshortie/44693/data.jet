@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Otis Redding, la privation de fromage, lire de la poésie, des jeux vidéo, du porno en ligne, trop de sexe, manger du chili, de l'alcool bon marché, la peste, avoir des enfants, des films d'horreur, être regardé, vivre dans la crasse, regarder Pixar, parler français, se réveiller tôt, porter des préservatifs, des compliments ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sexe de rat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "porter un pantalon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1993, Ahmed Shafik a mené une expérience sur la façon dont la vie sexuelle des rats était affectée par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pantalon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai mené une expérience similaire à l'université. ",
+      "t": "A",
+      "v": "594503_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1993, Ahmed Shafik a mené une expérience sur la façon dont la vie sexuelle des rats était affectée par <BLANK>. ",
+      "t": "A",
+      "v": "594500_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

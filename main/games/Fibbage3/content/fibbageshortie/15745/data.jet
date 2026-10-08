@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dauphins excités, vents forts, tortues de mer atteintes d'herpès, réchauffement climatique, pirates haletants, nage synchronisée, plaintes d'une église voisine, lamantins, pervers danois, observations d'ovnis, circoncisions surprises, traînée du pénis, requins traqueurs de sperme, sauveteurs prudes, nouvelles caméras de surveillance, poils pubiens gelés, saison des amours des calmars, narvals curieux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cordon de serrage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poisson mangeur de testicules ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un professeur de Copenhague a averti les nageurs scandinaves de garder leur maillot de bain bien attaché à cause de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poisson mangeur de boules, poisson mangeur de testicules, poisson mangeur de beall, poisson mangeur de testicules, poisson qui mange des testicules, poisson qui mange vos couilles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sauf si vous êtes un pêcheur à la mouche ouverte. ",
+      "t": "A",
+      "v": "348396_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un professeur de Copenhague a averti les nageurs scandinaves de garder leur maillot de bain bien attaché à cause de <BLANK>. ",
+      "t": "A",
+      "v": "348393_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

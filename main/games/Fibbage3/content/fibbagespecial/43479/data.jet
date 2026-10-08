@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "halitose, crachats, cris, déglutition d'insectes, léchage, rongements d'ongles, mononucléose, malédictions, toux, bouton de fièvre, gencives, lèvres gercées, sifflements, mauvais chant, plissements, régime, visage de canard, cris ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "inventions obscures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "embrasser ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce brevet a été publié en 1998 par Deloris Gray Wood, fier inventeur du bouclier <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "563285_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570565_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je sais ce que vous pensez et, oui, il va au lave-vaisselle. ",
+      "t": "A",
+      "v": "563283_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE QUESTION] Ce brevet a été publié en 1998 par Deloris Gray Wood, fier inventeur du bouclier <BLANK>. ",
+      "t": "A",
+      "v": "563280_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

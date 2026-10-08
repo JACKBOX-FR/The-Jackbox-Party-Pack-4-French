@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ennemi, laitier, tueur, poissonnier, veuve, jumelle, enseignante, belle-mère, frère, commissaire à l'eau, instructeur d'aérobic, homme des cavernes, baignoire, agent immobilier, voisin, conseiller d'orientation, protecteur, troisième mamelon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Conçu pour la télévision ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beau-fils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Rachel Ward et Terry O'Quinn ont joué dans le film Lifetime de 1997 <i>My <BLANK>, My Lover</i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "beau-fils, beau-fils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela doit donner lieu à un Thanksgiving délicat. ",
+      "t": "A",
+      "v": "338556_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Rachel Ward et Terry O'Quinn ont joué dans le film Lifetime de 1997 <i>My <BLANK>, My Lover</i>. ",
+      "t": "A",
+      "v": "338553_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

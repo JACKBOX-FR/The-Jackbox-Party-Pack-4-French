@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Yeux orageux, vent farfelu, pas de souffle, ouragan, cyclo-non, vent qui passe, anti-brise, temps étrange, terre ennuyeuse, mauvaise journée pour la voile, mouvement de l'océan, terre en flanelle, lune effrontée, coupe glacée du dimanche, air épais, lèvres gercées, nuit calme, brise funky. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Théorèmes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Boule poilue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il existe un théorème algébrique qui, appliqué à la météorologie, suggère qu’il doit y avoir un endroit sur Terre sans vent. Le nom étrange de cette idée est le théorème <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Harry Ball, boules de poils, boules poilues, Harry Balls ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela vient de l’idée qu’on ne peut pas peigner tous les cheveux d’une boule à plat sans un cowlick. (sfx : fermeture éclair) Croyez-moi. J'ai essayé. ",
+      "t": "A",
+      "v": "671005_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il existe un théorème algébrique qui, appliqué à la météorologie, suggère qu'il doit y avoir un endroit sur Terre sans vent. Le nom étrange de cette idée est le théorème <BLANK>. ",
+      "t": "A",
+      "v": "671002_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

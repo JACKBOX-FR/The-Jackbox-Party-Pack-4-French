@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fesses|cheval,placenta|cochon,à l'intérieur|vestiaire,regret|aventure d'un soir,cigare|grand-père,pet|bébé,à l'intérieur|cabine de New York,fumées|marqueur magique,salle de bain|avion,aisselle|bûcheron,chlore|piscine,herbe fraîchement coupée|pelouse de banlieue,cuir|voiture neuve,gants en caoutchouc|dentiste,encre|jet à bulles imprimante,souffle|chiot,tête|enfant en bas âge,puanteur|défaite écrasante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Odeurs spécifiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fourrure|chaton ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 2017, Demeter Fragrance Library a sorti son nouveau parfum qui sent le <BLANK> d'un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sapin|chaton,poils|chaton,fourrure|chat,sapin|chat,poils|chat ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour un échantillon gratuit, asseyez-vous simplement sur le canapé de ma tante pendant quelques minutes. ",
+      "t": "A",
+      "v": "578857_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][DOUBLE BLANK]Excellente nouvelle ! En mars 2017, Demeter Fragrance Library a sorti son nouveau parfum qui sent le <BLANK> d'un <BLANK>. ",
+      "t": "A",
+      "v": "578854_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

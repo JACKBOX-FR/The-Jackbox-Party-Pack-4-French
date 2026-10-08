@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "quatre demi-pensions, un fantôme, une livre de viande, un orphelin, un nœud papillon, un sandwich, un masque d'opéra, une perruque aux couleurs vives, un trombone, un vélo, de la pénicilline, un cadavre, un navet, un animal tout aussi exotique, un pistolet, un diamant rare, votre A-game, un drôle de chapeau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Exotique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au XVIIIe siècle, l’entrée pour voir les animaux exotiques de la Royal Menagerie de Londres coûtait trois demi-pence. Mais vous pourriez éviter ces frais si vous apportiez simplement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chien,chiens,un chat,chats,chat ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oui, ils ont donné à manger aux lions des chiens et des chats. Si vous y allez aujourd'hui, apportez-leur simplement une caserole ou quelque chose comme ça. ",
+      "t": "A",
+      "v": "584075_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au XVIIIe siècle, l'entrée pour voir les animaux exotiques de la Royal Menagerie de Londres coûtait trois demi-pence. Mais vous pourriez éviter ces frais si vous apportiez simplement <BLANK>. ",
+      "t": "A",
+      "v": "584072_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

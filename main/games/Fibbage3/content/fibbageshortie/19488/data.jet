@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "délicieux, végétalien, à base d'autruche, casher, fabriqué par Prince, 800 $, invisible, fabriqué au Canada, trempé dans du chocolat, illégal dans la plupart des États, hamburgers Titanic, gratuit pour les pompiers, brille dans le noir, plus susceptible de vous rendre heureux, triangulaire, Big Mac, vendu sur Mars, disponible par courrier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Restauration rapide ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gaucher ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre d'un coup publicitaire en 1998, Burger King a annoncé que ses Whoppers seraient désormais <VIERGES>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gaucher, gaucher ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le cadre d'un coup publicitaire en 1998, Burger King a annoncé que ses Whoppers seraient désormais <BLANK>. ",
+      "t": "A",
+      "v": "387149_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

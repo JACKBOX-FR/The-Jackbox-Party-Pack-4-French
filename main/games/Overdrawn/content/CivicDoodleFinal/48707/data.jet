@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroductionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasDescriptionAudio"
+    },
+    {
+      "t": "S",
+      "v": "group ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "La famille Crankshammer ",
+      "n": "DisplayText"
+    },
+    {
+      "t": "S",
+      "v": "Mâle ",
+      "n": "Gender"
+    },
+    {
+      "s": "test reaction",
+      "t": "A",
+      "n": "ReactionAudio"
+    },
+    {
+      "s": "test description",
+      "t": "A",
+      "n": "DescriptionAudio"
+    },
+    {
+      "s": "test intro",
+      "t": "A",
+      "n": "IntroductionAudio"
+    }
+  ]
+}

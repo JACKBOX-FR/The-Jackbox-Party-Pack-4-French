@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "connards, pescétariens, fans des Yankees, hommes poilus, échangistes, joueurs hardcore, passionnés de Magic the Gathering, gens qui ont peur des gens, fantômes, gens qui aiment les pieds, toxicomanes, golfeurs, nudistes, gens qui aiment se doucher ensemble, gens qui ont les pieds malodorants, fans de Lady Gaga, hommes avec des gaz, gens qui vont en enfer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Religion alternative ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "femmes avec des courbes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un sauveur autoproclamé nommé Maître Adonis a fondé sa propre religion appelée « Adonitologie », qui se décrit comme « une nouvelle religion pour <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "femmes rondes, femmes dodues, dames avec des courbes, dames rondes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alléluia ! Un sauveur autoproclamé nommé Maître Adonis a fondé sa propre religion appelée « Adonitologie », qui se décrit comme « Une nouvelle religion pour <BLANK> ». ",
+      "t": "A",
+      "v": "408448_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

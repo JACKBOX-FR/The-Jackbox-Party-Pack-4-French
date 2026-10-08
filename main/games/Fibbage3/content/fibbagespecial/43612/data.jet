@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "comploter sa vengeance, planifier un vol, apprendre à aimer, comparer des tailles, devenir des géants, torturer des insectes, tirer des billes, débattre de politique, vomir, dresser des rats, défier la société, rester réel, attendre la douche, danser, poser, avoir peur de la mort, qui en ont marre d'être danois, mendier de l'argent ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "deux mecs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouer avec des dés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette œuvre d'art danoise est <i>Deux hommes nus <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "avec des dés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Hé, regarde ce truc que j'ai trouvé... ",
+      "t": "A",
+      "v": "566169_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571350_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE] Le titre de cette œuvre d'art danoise est <i>Deux hommes nus <BLANK></i>. ",
+      "t": "A",
+      "v": "566164_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

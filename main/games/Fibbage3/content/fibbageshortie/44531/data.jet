@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "conduire un bâton, utiliser Bing, faire des calculs, faire des backflip, faire des smoothies, bouger plus vite, jouer au mahjongg, pleurer, lire dans les pensées, jouer à Tetris, retirer le ruban adhésif des cloisons sèches, porter des pantalons, lire de la musique, couper les cheveux, danser, comprendre l'espagnol, se détester, suivre un régime ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tortues ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bâiller ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, la chercheuse britannique Anna Wilkinson a passé six mois à enseigner à une tortue <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle a atteint une percée lorsque La La Land est sortie sur Blu Ray. ",
+      "t": "A",
+      "v": "590352_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, la chercheuse britannique Anna Wilkinson a passé six mois à enseigner à une tortue <BLANK>. ",
+      "t": "A",
+      "v": "590349_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

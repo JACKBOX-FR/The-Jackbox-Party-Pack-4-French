@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une lettre sévère, un rouleau à pâtisserie, un bébé guerrier, un harmonica, un patron de gâteau, un spectacle de Broadway, un grand danseur, Michael Jordan et Bugs Bunny, une chaise en osier, un échantillon de tapis, un bol de poires, la fée des dents, de gros sarcasmes, un bébé loup-garou, Richard Nixon, un boomerang magique, une culotte comestible empoisonnée, une réponse à des anecdotes sur les films ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Démons maléfiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un pénis en acier ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Kanamara Matsuri est un festival japonais annuel ancré dans la légende d'un démon maléfique. Heureusement, le démon a été vaincu par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un pénis en métal,un pénis en acier,un gode en acier,un gode en métal,un pénis,un gode,un fallus,un phallus,un fallus en métal,un phallus en métal ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le démon vivait dans le vagin d'une femme et n'arrêtait pas de mordre le pénis des hommes pendant leur nuit de noces. Des trucs assez standards. ",
+      "t": "A",
+      "v": "602175_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Kanamara Matsuri est un festival japonais annuel enraciné dans la légende d'un démon maléfique. Heureusement, le démon a été vaincu par <BLANK>. ",
+      "t": "A",
+      "v": "602172_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

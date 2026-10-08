@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Johnny B. Goode, Stephen Colbert, Five O'Clock Somewhere, Lex Luthor, Triste d'avoir été attrapé, Non coupable, Bruce Willis, Godzilla Q. Hercules, La Petite Sirène, Notorious B.I.G., Metallica Rules sur Hotmail Dot Com, Bob l'éponge, Pee Pee von Poop Pants, U Mad Bro, Home Alone 2, Donald Trump, M. Faux cul, Dr. Fait-l'amour-avec-un-cheval ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Noms étranges ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Batman ben Suparman ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, un homme de 23 ans a été emprisonné par la police singapourienne pour vol et trafic de drogue. Lorsqu’ils ont vérifié sa carte d’identité, ils ont découvert qu’il portait le nom étrange de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Batman et Superman ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, un homme de 23 ans a été emprisonné par la police singapourienne pour vol et drogue. Lorsqu’ils ont vérifié sa carte d’identité, ils ont découvert qu’il portait le nom étrange de <BLANK>. ",
+      "t": "A",
+      "v": "608799_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

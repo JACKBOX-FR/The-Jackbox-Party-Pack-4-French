@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une nation indépendante, célèbre, sans drame, agréable, la pire ville d'Amérique, meilleure que New York, une simulation informatique, complètement autosuffisante, d'une valeur de 100 milliards de dollars, résistante aux flammes, faite de chocolat, la maison de Superman, la dernière ville « morale », la ville la plus cool de l'Idaho, toujours la température parfaite, le berceau du rock & roll, pleine de vampires secrets, 2 légitime 2 arrêter ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Wallace, Idaho ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le centre de l'univers ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En septembre 2004, le maire de Wallace, Idaho, a déclaré avec audace que sa ville était <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Plus précisément à l'intersection de Bank et de la 6ème rue. ",
+      "t": "A",
+      "v": "604075_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En septembre 2004, le maire de Wallace, dans l'Idaho, a déclaré avec audace que sa ville était <VIDE>. ",
+      "t": "A",
+      "v": "604072_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

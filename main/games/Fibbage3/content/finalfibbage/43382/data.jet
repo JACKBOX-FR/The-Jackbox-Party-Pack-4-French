@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sac poubelle|fromage,sac en papier|cravates,valise|fausse fourrure,canapé|couteaux,baignoire|boules de bowling,tuyau en fer|abeilles,sac à dos|poids,robe de mariée|jambons,sac à linge|mannequins,caddie|cornes de fête,sac de couchage|radios,étui à tuba|pétards,boîte en carton|graisse usagée,matelas|yaourt tasses, mini-réfrigérateur | tripes, hamac | cassettes VHS, sac à dos | quartiers, chaussettes | grillons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "imposteur de cadavre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couette|noix de coco ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juillet 2015, la police de Manchester, en Angleterre, a répondu à un appel concernant un animal mort dans les canaux. Mais ne vous inquiétez pas. Il s'avère que c'était juste un <BLANK> rempli de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "couverture|noix de coco,couette|noix de coco ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En juillet 2015, la police de Manchester, en Angleterre, a répondu à un appel concernant un animal mort dans les canaux. Mais ne vous inquiétez pas. Il s'avère que c'était juste un <BLANK> rempli de <BLANK>. ",
+      "t": "A",
+      "v": "561755_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Grotte, Igloo, Trou, Placard, pommier, Nid, Cage, Wagon couvert, Van, Station-service, Boîte de réfrigérateur, Tente, Spa, Ruche, sacs d'épicerie, camion à tacos, Manoir, Walk-Up à cinq étages ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Docteur (étrange) ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Benne à ordures ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En raison de son étrange domicile temporaire, le Dr Jeff Wilson de l'Université Huston-Tillotson à Austin, Texas, a été surnommé Professeur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bientôt, ses étudiants diplômés sauront à quoi cela ressemble. ",
+      "t": "A",
+      "v": "375794_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En raison de son étrange logement temporaire, le Dr Jeff Wilson de l'Université Huston-Tillotson à Austin, au Texas, a été surnommé Professeur <BLANK>. ",
+      "t": "A",
+      "v": "375791_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

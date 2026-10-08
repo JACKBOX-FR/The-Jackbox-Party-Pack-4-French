@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la Maison Blanche, le mont. Rushmore, la Tour Eiffel, l'Antarctique, les volcans actifs, la station spatiale Mir, les cratères de la Lune, le mont. Le Kilimandjaro, le Vatican, le sac de golf de Donald Trump, les îles hawaïennes, le fond de l'océan, le noyau terrestre, le Colisée romain, le mont. Fuji, la Grande Muraille de Chine, la Corée du Nord, le Stade Yankee ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Or secret ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "excréments humains ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon l'US Geological Survey, des centaines de millions de dollars d'or et d'autres métaux précieux sont cachés dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "caca, merde, merde humaine, caca humain ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela expliquerait que tous les prospecteurs vérifient mes fesses. ",
+      "t": "A",
+      "v": "390170_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon l'US Geological Survey, des centaines de millions de dollars d'or et d'autres métaux précieux sont cachés dans <BLANK>. ",
+      "t": "A",
+      "v": "390167_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

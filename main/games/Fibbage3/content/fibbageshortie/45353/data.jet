@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire du jogging ivre, jouer à des jeux vidéo, s'entraîner après minuit, porter des jeans serrés, avoir les yeux bandés, boire juste un peu d'essence, ne pas transpirer, tenir un journal quotidiennement, écouter \"Mambo No. 5\", boire de la sauce, s'appelle David, parler avec un faux accent, traire des vaches, étudier la physique, lire de la science-fiction, regarder la couleur bleue, être rempli de culpabilité, porter des baskets chères ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Secrets de remise en forme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "utiliser des gros mots ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude réalisée en 2017 par l'Université de Keele au Royaume-Uni affirme que vous pouvez être en meilleure forme physique si vous <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "jure, maudis, jure beaucoup, utilise des grossièretés, crie des grossièretés, dis putain, dis merde ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui explique pourquoi je suis tellement excité en ouvrant des pots de mayonnaise. ",
+      "t": "A",
+      "v": "612456_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une étude réalisée en 2017 par l'Université de Keele au Royaume-Uni affirme que vous pouvez être en meilleure forme physique si vous <VIDE>. ",
+      "t": "A",
+      "v": "612453_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sentiment de bonheur, coeur, tigre, tranche de steak, bébé, lézard, mal, paquet de cartes de baseball, ballon, bidon d'huile, crabe, serpent, jumeau, secret, démon, accordéon, pensée, juke-box ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "à l'intérieur de Jenner ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pain de viande ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kris Jenner a tweeté : « J’ai l’impression qu’il y a un <BLANK> géant à l’intérieur de moi » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "15h46<br />6 septembre 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@KrisJenner ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pain de viande ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Hé, c'est l'heure des médias sociaux des célébrités ! ",
+      "t": "A",
+      "v": "564012_0",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nous sommes tous passés par là. ",
+      "t": "A",
+      "v": "564010_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En septembre 2012, Kris Jenner a tweeté : « J’ai l’impression qu’il y a un <BLANK> géant à l’intérieur de moi » ",
+      "t": "A",
+      "v": "564007_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

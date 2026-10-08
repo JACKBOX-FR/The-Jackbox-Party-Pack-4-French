@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Président de Cheese, meilleur oncle du monde, Père Noël secret, meilleur ami de Mickey Mouse, chevaliers du salami, ami de Disneyland, artiste de Royal Sandiwch, personne la plus reconnaissable au monde, Harlem Globetrotter, champion du monde des poids lourds, professeur de Harvard, président du Sénat, gouverneur du Texas, monarque du cool, maire McCheese, vedette invitée de Cheers, président de Happy, Laugh Czar ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Titres honorifiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Amiral du Nebraska ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La reine Elizabeth II, Bill Murray et Big Bird n'ont peut-être pas grand-chose en commun, mais ils ont tous mérité le titre honorifique de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Amiral du Nebraska ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le gouverneur de cet État totalement enclavé décerne ce titre honorifique depuis 1931 ",
+      "t": "A",
+      "v": "598958_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La reine Elizabeth II, Bill Murray et Big Bird n'ont peut-être pas grand-chose en commun, mais ils ont tous mérité le titre honorifique de <BLANK>. ",
+      "t": "A",
+      "v": "598955_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

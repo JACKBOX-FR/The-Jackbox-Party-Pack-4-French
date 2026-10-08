@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gangster Rap, Homey Alone, Healthy Livin', Good Rap Fellas, You Rapping At Me ?, Street Rhymes, Everybody's Clown, Gawdfather, My Cousin Rhymin', Gangsta's Paradise, C'est dur de travailler ici, Marmalade Mouth, Li'l Joe, Roman Holiday, Pas de trucs drôles, Brooklyn Beats, Capiche ?, New York Minute ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pesci Rap ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Un gars sage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1998, Joe Pesci a sorti une chanson de rap intitulée « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sage, sage, sage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et on n'a plus jamais entendu parler de lui. ",
+      "t": "A",
+      "v": "562583_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1998, Joe Pesci (oui, ce Joe Pesci) a sorti une chanson de rap intitulée « <BLANK> ». ",
+      "t": "A",
+      "v": "562580_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

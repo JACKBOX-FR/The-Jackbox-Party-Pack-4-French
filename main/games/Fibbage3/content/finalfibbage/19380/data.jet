@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "puits|pots porta,clôtures électriques|tempêtes,drones|grenades,faucons|crocodiles,abeilles|guêpes,mensonges|vidéo ruban adhésif, cancer | SIDA, drogues | alcool, lions | tigres, explosifs | stupéfiants, sarcasme | apathie, fourmis | cafards, réservoirs | fromage, argent | bijoux, latrines | blé, fantômes | vampires, anthrax | amiante, crème glacée | tristesse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Patrouille de rats ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mines terrestres|tuberculose",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "APOPO est une organisation qui entraîne des rats africains à poche géante pour détecter <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tuberculose|mines terrestres,tuberculose|mines,tb|mines terrestres,tuberculoses|mines,tooburculose|mines,tuburculosislmines,mines|tuberculose,mines|tuberculose ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]A-P-O-PO est une organisation qui entraîne des rats africains à poche géante pour détecter <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "384170_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

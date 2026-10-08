@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aime-moi, prends feu, mets-toi nu, vis comme un patron, pardonne-moi, épouse-moi, tais-toi, prends un bain, grossis, détends-toi, fuis avec moi, meurs seul, oublie ce moment gênant, vis pour toujours, touche-moi, chante-moi, rigole, utilise les toilettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Barres chocolatées ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gagner ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une partie de la popularité de KitKat au Japon réside dans le fait que son nom ressemble à l’expression japonaise « kitto katsu », qui se traduit approximativement par « vous le ferez sûrement <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "être un gagnant, réussir, réussir ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une partie de la popularité de KitKat au Japon réside dans le fait que son nom ressemble à l'expression japonaise « kitto katsu », qui se traduit approximativement par « vous le ferez sûrement <VIDE> ». ",
+      "t": "A",
+      "v": "634683_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

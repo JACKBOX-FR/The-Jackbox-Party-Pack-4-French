@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "L'homme au masque de fer, Titanic, Ladies Man, Notebook, Artiste, Avengers, Dark Knight Rises, Zero Dark Thirty, Girl With the Dragon Tattoo, Caddyshack, Les Aventuriers de l'arche perdue, Rock, Seigneur des anneaux, Avatar, Intentions cruelles, Vicky Christina Barcelona, Secrétaire, Faites la bonne chose ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Films ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Parc Jurassique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'ancien lutteur professionnel The Iron Sheik a tweeté : « La sex tape de Hulk Hogan est le film de Stuart Little et mon film de sex tape est le <BLANK> » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "15h43<br />10 octobre 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@the_ironsheik ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Parc Jerassic,Le Parc Jurassique,Jurassick Park,Jurassik Park,Jerassick Park,Jurassique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "586236_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Probablement parce qu'il crie \"Tiens tes fesses !\" ",
+      "t": "A",
+      "v": "586234_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBTRITÉ ! En octobre 2012, l'ancien lutteur professionnel The Iron Sheik a tweeté : « La sex tape de Hulk Hogan est le film de Stuart Little et mon film de sex tape est le <BLANK> » ",
+      "t": "A",
+      "v": "586231_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une boule à neige, une ferme de serveurs, votre esprit Craig, un centre commercial, un parking, un dôme, un Ikea, un œuf, un vaisseau spatial, un sous-marin, Llewyn Davis, une orangeraie, un stade de football, un dôme de verre, une ferme de chameaux, le Rock and Roll Hall of Fame, un Walmart, l'ambassade des États-Unis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Villes allemandes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un cratère de météore ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nordlingen, en Allemagne, est une petite ville pittoresque entièrement contenue à l'intérieur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un cratère, cratère ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La ville n'a réalisé qu'elle se trouvait à l'intérieur d'un cratère de météore que dans les années 1960. ",
+      "t": "A",
+      "v": "603289_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Nordlingen, en Allemagne, est une petite ville pittoresque entièrement contenue à l'intérieur de <BLANK>. ",
+      "t": "A",
+      "v": "603286_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

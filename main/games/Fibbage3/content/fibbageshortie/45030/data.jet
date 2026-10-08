@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des phoques, leur imagination, des enfants nageurs, la réalité virtuelle, des tortues de mer, des scènes de The Rock, des pédalos, Ryan Lochte, des tout-petits, des poupées, des utilisateurs de Reddit, une fanfare, des scientifiques rivaux, des mannequins faits de viande, des colombes, des robots programmés pour vouloir la liberté, des banderoles Twitch, des déchets ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Alcatraz ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "noix de coco ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, des scientifiques ont recréé la tristement célèbre évasion d'Alcatraz en 1962 pour voir si les hommes impliqués auraient pu survivre. Mais au lieu de prisonniers, ils ont utilisé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des noix de coco, une noix de coco, des noix de coco ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les noix de coco, activées par GPS, ont été suivies dans l'eau autour d'Alcatraz. ",
+      "t": "A",
+      "v": "602959_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, des scientifiques ont recréé la tristement célèbre évasion d'Alcatraz en 1962 pour voir si les hommes impliqués auraient pu survivre. Mais au lieu de prisonniers, ils ont utilisé <BLANK>. ",
+      "t": "A",
+      "v": "602956_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

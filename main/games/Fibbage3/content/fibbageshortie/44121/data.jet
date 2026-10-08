@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tirer sur des chats, brûler des manteaux, manger des insectes, narguer du maïs, avaler des épées, raser des vaches, nettoyer des maisons, porter des vêtements à l'envers, lutter nu, parler par énigmes, lancer des pièces de monnaie sur des orphelins, s'habiller comme des génies, lécher des serpents, se baigner dans du goudron, combattre un homme invisible, regarder des films de Don Knotts, frapper un bonhomme de neige, se peindre en bleu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "L'hiver en Pologne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poupées qui se noient ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la fête polonaise de Topienie Marzanny, les gens célèbrent la fin de l'hiver à travers l'étrange tradition de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "brûler des poupées, jeter des poupées dans le lac, noyer une poupée, brûler une poupée, jeter une poupée dans le lac ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'hiver en Pologne doit être vraiment très mauvais. ",
+      "t": "A",
+      "v": "579066_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant la fête polonaise de Topienie Marzanny, les gens célèbrent la fin de l'hiver à travers l'étrange tradition de <BLANK>. ",
+      "t": "A",
+      "v": "579063_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

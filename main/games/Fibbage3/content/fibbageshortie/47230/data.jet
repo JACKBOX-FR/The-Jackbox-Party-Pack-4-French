@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cendres humaines, cercueils usagés, vieilles canettes LaCroix, prisonniers, bouse de rat, viande, briques ordinaires, rock'n roll, Snickers rassis, parties de ruines romaines, neige, vieux wagons couverts, manèges abandonnés dans un parc à thème, feu, iphones recyclés, sucre, défenses de morse, vieux trophées de bowling ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Construction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cannabis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Green Built est une entreprise qui produit et vend un matériau de construction ignifuge et respectueux de l'environnement à base de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mauvaises herbes, chanvre, marijuana ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Heureusement qu'il est ignifuge, sinon il y aurait probablement beaucoup d'incendies criminels. ",
+      "t": "A",
+      "v": "654809_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Green Built est une entreprise qui produit et vend un matériau de construction ignifuge et respectueux de l'environnement à base de <BLANK>. ",
+      "t": "A",
+      "v": "654806_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

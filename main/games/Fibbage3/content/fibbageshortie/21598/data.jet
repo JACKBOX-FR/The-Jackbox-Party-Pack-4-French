@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un faux feu, Popeye, un énorme requin, Superman, une bouteille de vodka cassée, un majeur, un monstre marin, un missile géant, Dieu, des dizaines de canons, Cher, un élan sexy, ABBA, Al Capone, des ours polaires cracheurs de feu, un cul géant, Thor, un morse dansant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Stockholm",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un marin gay qui danse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une tentative inhabituelle visant à éloigner les sous-marins russes de leurs eaux, la Société suédoise pour la paix et l'arbitrage a installé une grande enseigne au néon au large de Stockholm qui représente <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un marin qui danse,un marin,un homme gay,un homosexuel,un homme homosexuel,un marin homosexuel,un marin gay,un homme qui danse ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était un commentaire sur l'homophobie en Russie. ",
+      "t": "A",
+      "v": "409055_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une tentative inhabituelle visant à éloigner les sous-marins russes de leurs eaux, la Société suédoise pour la paix et l'arbitrage a installé une grande enseigne au néon au large de Stockholm qui représente <VIERGE>. ",
+      "t": "A",
+      "v": "409052_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

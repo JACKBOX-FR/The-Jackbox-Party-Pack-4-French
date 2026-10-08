@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "\"The Game\", un thérapeute, un discours d'encouragement, un fedora flashy, des moments forts, des cours de baisers, un entraîneur personnel, un massage des fesses, un plateau d'huîtres, une perruque rose, un fût de bière, un magazine nudie, de la musique de Barry White, du Viagra, des cours de yoga, des lunettes 3D, de l'eau de Cologne Calvin Klein, du Mont. Rosée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rhinocéros ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un profil Tinder ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour tenter de le faire s'accoupler, un rhinocéros blanc du Kenya nommé Soudan a reçu <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un compte Tinder,Tinder,un profil de rencontre,un accès à Tinder ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il s'agit de collecter des fonds pour un traitement de fertilité. Et pour pêcher les hippopotames solitaires. ",
+      "t": "A",
+      "v": "599547_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pour tenter de le faire s'accoupler, un rhinocéros blanc du Kenya nommé Soudan a reçu <BLANK>. ",
+      "t": "A",
+      "v": "599544_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

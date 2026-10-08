@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "peau|tourner à l'envers,yeux|fuir du sucre,ailes|grandir les yeux,bébés|chanter,dards|doubler de taille,nids|prendre feu,reines|manger les mâles,les mâles|devenir paranoïaques,la nourriture|goût bizarre,jambes|exploser,cerveau|fondre,bouche|tourner à l'envers,antennes|tourner sauvagement,cuisine|s'améliorer,oeufs|goût de chocolat,clics d'accouplement|son comme musique salsa, poésie | révéler trop, palpeurs | tirer de l'électricité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cigales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les mégots|tomber ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un champignon connu sous le nom de <i>Massospora cicadina</i> a un effet étrange sur les cigales. Cela fait que leur <BLANK> devient <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fesses|tomber,mégots|disparaître,fesses|disparaître ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je déteste voir des fesses se perdre ",
+      "t": "A",
+      "v": "657419_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un champignon connu sous le nom de Massospora cicadina a un effet étrange sur les cigales. Cela fait que leur <BLANK> devient <BLANK>. ",
+      "t": "A",
+      "v": "657416_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

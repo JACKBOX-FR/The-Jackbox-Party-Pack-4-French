@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bain à remous, chapeau de cowboy, collection de voitures, lumières de Noël, cirque, silo, village de bonhommes de neige, allée, salle de bains, cercles de culture, chiens, balise de phare, terrain de golf, camion, arcade, hologramme, librairie, piano à queue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gros au Texas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "signature ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Texan Jimmie Luecke est unique dans le sens où vous pouvez voir son <BLANK> depuis l'espace. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nom ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il l'a écrit dans son ranch en utilisant environ trois miles d'arbres. ",
+      "t": "A",
+      "v": "561413_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Texan Jimmie Luecke est unique dans le sens où vous pouvez voir son <BLANK> depuis l'espace. ",
+      "t": "A",
+      "v": "561410_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

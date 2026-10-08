@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien d'assistance, PC Dell, jambe de cheville, mains mortes froides, cathéter, œil de l'esprit, sousaphone, faux ventre de femme enceinte, pistolet plus gros, sac banane NRA, moule Jell-O, faux cul, tête de cerf en peluche, défibrillateur, cercueil, costume de Père Noël, dinde cuite, sac à dos My Little Pony ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "CST ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "marionnette chaussette ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 3 décembre 2013, la TSA de Saint-Louis a confisqué une arme à feu dans le <BLANK> d'un passager. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "marionnette ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La marionnette avait un petit pistolet jouet... et une énorme puce sur l'épaule. ",
+      "t": "A",
+      "v": "592671_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 3 décembre 2013, la TSA de Saint-Louis a confisqué une arme à feu dans le <BLANK> d'un passager. ",
+      "t": "A",
+      "v": "592668_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parier sur les courses de chiens, les arnaques par télémarketing, les funérailles de ses hommes, mélanger ses valises, les règlements de divorce, construire son propre château, trop manger au restaurant, perdre sa clé de casier, la laisser chez son ex, investir dans AOL, les contrats à terme sur le porc, les tournois de golf infructueux, son jumeau Toby Escobar, la chasse aux vampires, les soirées pizza qui remontent le moral, refuser d'assassiner ses ennemis, commercialiser son propre dessert garniture, une décimale mal placée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Problèmes d'argent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les rats mangent l'argent ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le baron de la drogue colombien Pablo Escobar a perdu environ 2 milliards de dollars à cause de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "rats, dégâts des eaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il ne pouvait pas le mettre en banque, donc 10 % de sa fortune a été perdue à cause des rats et des dégâts des eaux. ",
+      "t": "A",
+      "v": "600431_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]C'est difficile à croire, mais le baron de la drogue colombien Pablo Escobar a perdu environ 2 milliards de dollars à cause de <BLANK>. ",
+      "t": "A",
+      "v": "600428_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

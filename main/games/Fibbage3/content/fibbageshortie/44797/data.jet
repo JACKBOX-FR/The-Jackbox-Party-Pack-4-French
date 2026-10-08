@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Zone 51, une grande roue, la tombe de Mark Twain, une boulangerie, Stonehenge, un magasin de bretelles, la fanfare OSU, un opéra, Dick Van Dyke, une écurie, la tombe d'Eisenhower, le château de Dracula, un espion soviétique, le manoir Playboy, le Pentagone, l'inspiration pour Poudlard, Superman, la Tour Eiffel ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Larry King ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "La voiture de JFK ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1958, Larry King a percuté <BLANK> avec sa voiture. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "JFK, John F. Kennedy, la voiture de Kenndy ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui devait être la pire expérience que JFK ait jamais vécue dans une voiture. ",
+      "t": "A",
+      "v": "597615_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1958, Larry King a percuté <BLANK> avec sa voiture. ",
+      "t": "A",
+      "v": "597612_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

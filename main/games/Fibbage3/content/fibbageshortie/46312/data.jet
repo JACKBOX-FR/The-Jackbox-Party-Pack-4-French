@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fanfic Matrix, Chuck Connors, vidéos d'échec YouTube, gourous d'auto-assistance, une marque de thé vert, des scolytes de l'épinette, une propriétaire grincheuse, des ignames confites, un groupe de hardcore canadien, Green Day, du sirop d'érable, des panneaux routiers, le pain de viande de ma grand-mère, la vie de célibataire, des articles de restauration rapide abandonnés, des films de Blaxploitation, Zsu Zsi Gabor, de la musique polka. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Galeries d'art ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un bouledogue mort ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Hall of Zsu Zsi est une galerie d'art située à Edmonton, au Canada, dédiée uniquement à l'art inspiré par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un bouledogue,un chien mort,un chien,des bouledogues,des chiens ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]D'une certaine manière, ce chien est toujours bien vivant. (un temps) Mais d’une manière plus littérale, c’est totalement mort. ",
+      "t": "A",
+      "v": "641340_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La Hall of Zsu Zsi est une galerie d'art située à Edmonton, au Canada, dédiée uniquement à l'art inspiré par <BLANK>. ",
+      "t": "A",
+      "v": "641337_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

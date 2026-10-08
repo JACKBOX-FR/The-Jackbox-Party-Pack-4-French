@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le sexe, la Hard Lemonade de Mike, sa langue, son maquillage de démon, son son de basse unique, la lampe à lave, Mork et Mindy, Watership Down, la couleur noire, la graisse pour cheveux pour hommes, la veste à franges, la collection de timbres, Twister, la bague d'humeur, les poils sur la poitrine, les lunettes de soleil d'aviateur, sa recette de faux sang, les genouillères à pointes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Baiser 1974 ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le geste de la main des cornes du diable ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Affirmant qu'il l'avait rendu populaire dans les années 70, le bassiste de Kiss, Gene Simmons, a brièvement tenté de déposer <BLANK> en 2017. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le geste de la main des cornes du diable, le geste de la main des cornes du diable, le geste de la main de la corne du diable, le geste de la main de la corne du diable, le geste de la main de la corne du diable, les cornes du diable, la corne du diable, la corne du diable, les cornes du diable, le geste de la main des cornes du diable, le geste de la main des cornes du diable, le geste de la main de la corne du diable, le geste de la main de la corne du diable, le geste de la main de la corne du diable, les cornes du diable, la corne du diable, la corne du diable, le cornes du diable ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Malheureusement, le diable lui a envoyé un cessez-le-feu. ",
+      "t": "A",
+      "v": "670065_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Affirmant qu'il l'avait rendu populaire dans les années 70, le bassiste de Kiss, Gene Simmons, a brièvement tenté de déposer <BLANK> en 2017. ",
+      "t": "A",
+      "v": "670062_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

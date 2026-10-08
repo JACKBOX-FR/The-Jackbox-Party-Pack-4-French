@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un bang,un pistolet,une machette,une pipe à crack,un fusil de chasse,un site porno,un smartphone,une voiture télécommandée,sa PS3,un pogo stick,une prostituée,une machine à expresso,un site de rencontre,un gameboy,un déshydrateur alimentaire,des lunettes à rayons X,un gratte-dos,un site de football fantastique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "juges mauvais garçons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une pompe à pénis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le juge de district Donald Thompson a été condamné à une peine de quatre ans de prison en 2006 après avoir été surpris en train d'utiliser <BLANK> lors de plusieurs procès. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une pompe à pénis,une pompe à pénis,des pompes à pénis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Pourtant, quatre ans semblent être une peine exagérée. ",
+      "t": "A",
+      "v": "326636_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le juge de district Donald Thompson a été condamné à une peine de quatre ans de prison en 2006 après avoir été surpris en train d'utiliser <BLANK> lors de plusieurs procès. ",
+      "t": "A",
+      "v": "326633_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

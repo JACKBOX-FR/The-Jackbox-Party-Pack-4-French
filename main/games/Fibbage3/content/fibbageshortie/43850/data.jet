@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sortez, pipi, tétine de sorcière, dégueulasse, hooligan de football, soyez courbés, fesses entières, baiser de chèvre, vomi vert, mère laide, viande bon marché, fous ça, petit phart, bouche salée, prise de fesses, plaie infectée, homme ivre, viande pourrie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Noms des stades ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bonnes affaires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant de changer son nom pour The Help for Heroes Stadium, le centre de football de Northwich, en Angleterre, était connu sous le titre moins élégant de <BLANK> Stadium. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Boisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Peut-être qu'ils ont compris que 4 livres pour une bière n'est pas vraiment une bonne affaire. ",
+      "t": "A",
+      "v": "571355_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant de changer son nom en The Help for Heroes Stadium, le centre de football de Northwich, en Angleterre, était connu sous le titre moins élégant de <BLANK> Stadium. ",
+      "t": "A",
+      "v": "571352_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tasses d'urine, des serpents vivants, leur propre caca, de l'eau bouillante, les uns les autres, du pain rassis, des étoiles ninja, des calendriers gratuits, ses propres échecs, des lasagnes, des classeurs de paperasse, des scorpions, des balles, de la gomme, des boules Nerf, des pâtisseries françaises, The Complete Far Side, de la crème fouettée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Prends ça ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "godes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En décembre 2016, un homme a tenté en vain de cambrioler un magasin à San Bernardino, en Californie. Les employés l'ont chassé en lui lançant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "gode, godes, jouet sexuel, jouets sexuels, bites en caoutchouc, pénis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était un sex-shop. Heureusement qu'ils n'avaient plus de fouets. ",
+      "t": "A",
+      "v": "560488_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En décembre 2016, un homme a tenté en vain de cambrioler un magasin à San Bernardino, en Californie. Les employés l'ont chassé en lui lançant <BLANK>. ",
+      "t": "A",
+      "v": "560485_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

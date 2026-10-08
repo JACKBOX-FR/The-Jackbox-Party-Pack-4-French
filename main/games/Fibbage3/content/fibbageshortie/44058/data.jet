@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gnome, statue de la reine, sandwicherie, stand de glaces, école, baleine, animalerie, chambre d'hôtel, café, salle de danse, appartement, bowling, blaireau, pantalon, haie, scone, parlementaire, ampoule. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Petite Bretagne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Commissariat de police ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Trafalgar Square à Londres, il y a un luminaire ornemental qui cache le plus petit <BLANK> de Grande-Bretagne. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et à l'intérieur se trouve le plus petit détective de souris de Grande-Bretagne. Je suppose. ",
+      "t": "A",
+      "v": "577106_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À Trafalgar Square à Londres, il y a un luminaire ornemental qui cache le plus petit <BLANK> de Grande-Bretagne. ",
+      "t": "A",
+      "v": "577103_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

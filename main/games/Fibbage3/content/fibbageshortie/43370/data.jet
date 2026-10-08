@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pain de viande, épouvantails, omelettes, pots de fromage nacho, crêpes, saucisses de Vienne, citrouilles, un énorme banane split, cacahuètes, pizza, M&Ms, oreilles d'éléphant, cannes de bonbon, un canapé, guimauves, chili dogs, vieilles cassettes, steak ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Éléphants de Vienne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Arbres de Noël ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une fois par an, les éléphants du zoo de Vienne sont autorisés à manger <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "arbres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et quand il quitte leur corps, il ressemble à une couronne. ",
+      "t": "A",
+      "v": "561538_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une fois par an, les éléphants du zoo de Vienne sont autorisés à manger <BLANK>. ",
+      "t": "A",
+      "v": "561535_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

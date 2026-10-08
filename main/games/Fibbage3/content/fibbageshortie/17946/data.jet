@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "routeurs sans fil, roses, eau bénite, sauce piquante, cantaloup, vin, peignoirs, chaînes stéréo, épicerie, mijoteuses, mp3, couteaux, chargeurs de téléphone, t-shirts personnalisés, Bitcoins, indulgences, ordinateurs portables, billets de loterie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "argent de moine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "encre et toner ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les moines de l'abbaye cistercienne de Notre-Dame de Spring Bank ont gagné de l'argent en vendant <BLANK> en ligne. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cartouches d'encre et de toner,encre,toner,cartouches d'encre,cartouches de toner,cartouches d'encre,cartouches de toner,cartouches d'imprimante,consommables pour imprimante ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les moines avertis en affaires de l'abbaye cistercienne de Notre-Dame de Spring Bank ont gagné de l'argent en vendant <BLANK> en ligne. ",
+      "t": "A",
+      "v": "374225_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

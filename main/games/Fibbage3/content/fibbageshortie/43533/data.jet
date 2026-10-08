@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "technicien de distributeur automatique, inséminateur de vaches, concierge, shaker à milk-shake, laveur de voiture, serveuse Hooters, artiste sandwich, éleveur de tortues, vendeur de bateaux, professeur de danse en ligne, professeur de bowling, inspecteur des toilettes, professeur suppléant, danseuse seins nus, mannequin de classe d'art, dompteur de lion, DJ radio, vendeur de chaussures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "300 heures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "technicien en shampoing ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans l'État du Tennessee, vous devez passer un examen écrit et 300 heures de pratique pour occuper le poste de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "spécialiste du shampoing, shampoing ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]*se moquer* Tout ce que c'est, c'est « Mousser, répéter, rincer ». Oh, tu vois ? C'est pour ça que je n'ai pas eu mon permis. ",
+      "t": "A",
+      "v": "564596_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans l'État du Tennessee, vous devez passer un examen écrit et 300 heures de pratique afin d'occuper le poste de <BLANK>. ",
+      "t": "A",
+      "v": "564593_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

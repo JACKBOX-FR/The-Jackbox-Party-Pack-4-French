@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "orteil du petit doigt, âme, lèvres, bébés, chaussettes, peluches du nombril, coupures d'ongles, crachat, déodorant, dissertation au lycée, brosse à cheveux, poubelle, voix, larmes, grain de beauté enlevé, friction pour barbecue, eau du bain, conserves d'abricots ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pots eBay ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "souffle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le casino en ligne GoldenPalace.com a payé 523 $ sur eBay pour un pot contenant le <BLANK> d'Angelina Jolie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "respirer, air ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pas de chance si vous vouliez le souffle d'Angela Bassett. Elle attend toujours d’expirer. ",
+      "t": "A",
+      "v": "372908_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le casino en ligne GoldenPalace.com a payé 523 $ sur eBay pour un pot contenant le <BLANK> d'Angelina Jolie. ",
+      "t": "A",
+      "v": "372905_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

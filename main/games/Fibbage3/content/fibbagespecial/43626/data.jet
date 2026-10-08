@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frappeur de visage, applaudissements d'une main, machine à tapoter le dos, lève-main, tapette à insectes, doudou pour bébé, challenger en duel, testeur de gants, frappeur de handball, machine à ombres chinoises, lisseur de pantalons, palpation de sécurité, lanceur de pizza, marteau à ongles, joueur de ukulélé, machine à compter jusqu'à cinq, donneur d'oiseaux, agitateur de défilé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "donner un coup de main ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "peter de chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce brevet appartient à Anthony Steffen, inventeur renommé de l'automatique <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Dog-petter, appareil pour caresser les chiens ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "566519_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "571340_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE] Ce brevet appartient à Anthony Steffen, inventeur renommé du <BLANK> automatique. ",
+      "t": "A",
+      "v": "566514_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

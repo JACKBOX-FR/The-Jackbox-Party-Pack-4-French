@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "1000 cartes de baseball de Pete Rose, le permis de conduire de Bill Gate, la Chine, le bâtiment de la capitale d'Istanbul, son jumeau, 10 condors vivants, un ancien sous-marin de fête, une salle d'espionnage, une fosse de cobras, une lettre de son futur moi, une grotte à rats, un homme endormi, des momies égyptiennes, le Saint Graal, 1 million de dollars, des milliers de diamants, un butin égyptien volé, une copie de La Joconde ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Découvertes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Une ville perdue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alors qu'il rénovait sa maison en 1963, un Turc de la région de Cappadoce a été surpris de trouver <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une ville, ville, ville perdue, ville oubliée, une ville oubliée, ville souterraine, une ville souterraine ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alors qu'il rénovait sa maison en 1963, un Turc de la région de Cappadoce a été surpris de trouver <BLANK>. ",
+      "t": "A",
+      "v": "630354_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

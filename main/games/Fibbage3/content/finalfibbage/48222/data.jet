@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crier|son chien,chanter|à pleins poumons,se mettre en colère|le météorologue,acheter des vêtements|The Gap, jeter des bouteilles de bière|les pompiers,manger de la pizza|la station-service,dormir|la serre locale, lancer des insultes|Girl Scouts,demander pardon|un Taco Bell,se raser la tête|un cabinet vétérinaire, jeter son pantalon|un camion de glace qui passe,admettre ses crimes|la poste,se faire percer les oreilles|le centre commercial, faire soigner ses brûlures | KFC, se frotter du beurre | l'école maternelle locale, acheter du pain de maïs | chez sa mère, aller aux toilettes | un Chucky Cheese, se rouler par terre | le rodéo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Premiers instincts ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "douche|Planète Fitness ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En juillet 2017, un homme du canton de Shelby, dans le Michigan, s'est immolé par le feu lors de l'explosion d'un laboratoire de méthamphétamine. Naturellement, sa réaction a été de <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "douche|la salle de sport,douche|une salle de sport,douche|PlatnetFitness ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je veux dire, vous ne voulez pas boucher votre PROPRE drain avec de la chair brûlante. ",
+      "t": "A",
+      "v": "680940_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En juillet 2017, un homme du canton de Shelby, dans le Michigan, s'est immolé par le feu lors de l'explosion d'un laboratoire de méthamphétamine. Naturellement, sa réaction a été de <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "680937_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

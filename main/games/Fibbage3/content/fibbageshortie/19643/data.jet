@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chiens reniflant les mégots,unibrows,cosplay,mimes,pétards,leur adresse,parents décédés,air guitar,leurs nombrils,fast food,jeux de mots,parties du corps mal rasées,Kim Kardashian,clowns tristes,robots,fissures des fesses,pingouins,ninjas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Selfies illégaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sous les seins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, la Thaïlande a averti ses citoyens qu'ils enfreignaient la loi sur les délits informatiques s'ils prenaient des selfies contenant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sous les seins, sous les seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les gens parlent toujours de sideboob, mais jamais de underboob : le sein souvent négligé. ",
+      "t": "A",
+      "v": "390818_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, la Thaïlande a averti ses citoyens qu'ils enfreignaient la loi sur les délits informatiques s'ils prenaient des selfies contenant <BLANK>. ",
+      "t": "A",
+      "v": "390815_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

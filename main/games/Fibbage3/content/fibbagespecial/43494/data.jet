@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dormir en marchant, faire pousser des roses avec son esprit, agir de manière effrayante, penser à Johnny, faire une sieste, pleurer, avec des pouvoirs mutants, ne pas faire grand-chose, obéir, résoudre un problème de mathématiques, décevoir ses parents, abandonnée, échouer dans la vie, dans une serre, essayer de retrouver son écureuil de compagnie, qui ne sait pas qu'elle est peinte, se mettre en mode bête, nommée Susie Poodle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "What’s She Doing?",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": " meditating",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": " Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de ce tableau de Thomas Eakins datant de 1877 est <i>Jeune fille <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Voici quelque chose que vous devez voir... ",
+      "t": "A",
+      "v": "563735_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570630_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je pense qu'elle le fait mal. ",
+      "t": "A",
+      "v": "563733_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][QUESTION IMAGE] Allez comprendre : le nom de ce tableau de 1877 de Thomas Eakins est <i>Jeune fille <BLANK></i>. ",
+      "t": "A",
+      "v": "563730_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

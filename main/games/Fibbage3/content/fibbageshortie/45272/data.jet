@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "collecter des pots-de-vin, vivre éternellement, déclarer des jours fériés, payer des prostituées, interdire les types de chapeaux, contrôler la météo, assassiner des orphelins, parler aux animaux, censurer la musique, déclarer une reine, changer les noms des citoyens, commettre un crime par an, exécuter des musiciens, créer une religion nationale, lire votre journal, fixer des dates d'expiration du lait, affronter des ambassadeurs étrangers, annuler Noël ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pouvoir du Congrès ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "embaucher des pirates ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La clause 11 de l'article 1, section 8 de la Constitution des États-Unis donne au Congrès le pouvoir de déclarer la guerre. Étonnamment, cela leur confère également le pouvoir de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "recruter des pirates, utiliser des pirates, employer des pirates ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Aujourd'hui, ils utilisent principalement ce pouvoir pour rencontrer Johnny Depp. ",
+      "t": "A",
+      "v": "610238_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La clause 11 de l'article 1, section 8 de la Constitution des États-Unis donne au Congrès le pouvoir de déclarer la guerre. Étonnamment, cela leur confère également le pouvoir de <BLANK>. ",
+      "t": "A",
+      "v": "610235_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

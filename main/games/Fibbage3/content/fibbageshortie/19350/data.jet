@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pornographie, masturbation, grossesse, sexe anal, tongs, nudité en public, alcool, sexting, Viagra, chemises à col en V, jeans skinny, parfum, crème fouettée, implants fessiers, talons hauts, cires de bikini, le Wonderbra, caleçons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "contraceptifs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "adultère ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les sociétés sud-coréennes de produits contraceptifs ont vu leurs actions augmenter en février 2015, après que le gouvernement a levé une interdiction vieille de 62 ans sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tromper son conjoint, adulte, tromperie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et quelle augmentation ! Hahaha...pénis. ",
+      "t": "A",
+      "v": "383684_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les sociétés sud-coréennes de contraception ont vu leurs actions augmenter en février 2015, après que le gouvernement a levé une interdiction vieille de 62 ans sur <BLANK>. ",
+      "t": "A",
+      "v": "383681_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

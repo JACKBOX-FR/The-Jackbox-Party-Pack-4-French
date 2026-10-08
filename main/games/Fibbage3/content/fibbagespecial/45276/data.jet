@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "orgie d'insectes, concert fou, salon de massage, fesses du monde, endroit stupide, toilettes en colère, genoux d'homme paresseux, gladiateur farfelu, jeu de cauchemar, fosse de torture, zoo pour enfants, insectes en colère, jardin d'enfants de loups-garous, transports en commun, cirque loufoque, caprice de madame, fosse Kafka, cratère de limon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Livraisons spéciales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Taxes sur les vampires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette œuvre d'art intéressante est <i>Le peuple livré au <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "610390_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610413_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de cette œuvre d'art intéressante est « Le peuple livré au <BLANK> ». ",
+      "t": "A",
+      "v": "610385_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

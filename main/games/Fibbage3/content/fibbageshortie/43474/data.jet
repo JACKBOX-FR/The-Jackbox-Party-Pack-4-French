@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "couches, son pipi, les abeilles, les bébés canards, les croustilles, les balles, les camions jouets, le lait avarié, les tampons, les vieux toasts, l'herbe coupée, les boules enflammées, les contenants de yaourt usagés, les bulles, les poils de chat, les bouteilles de bière, la vieille eau du bain, les ballons d'eau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "prédiction future ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "asperges ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jemima Packington possède une compétence particulière et unique. Elle prétend qu'elle peut prédire l'avenir en utilisant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "asperges, asperges ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je peux prédire mon avenir en MANGER des asperges et ce n'est pas joli. ",
+      "t": "A",
+      "v": "563158_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jemima Packington possède une compétence « spéciale » et unique. Elle prétend qu'elle peut prédire l'avenir en utilisant <BLANK>. ",
+      "t": "A",
+      "v": "563155_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

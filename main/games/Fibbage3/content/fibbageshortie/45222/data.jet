@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des visages de politiciens, des urnes d'autres personnes, des friteuses de restauration rapide, la piscine de Kim Kardashian, la boutique de cadeaux du Grand Canyon, la tombe de Grant, chaque endroit de Margaritaville, un Barnes and Noble hanté, chaque arène Pac-10, les lieux de naissance des Trois Stooges, chaque champ de bataille de la guerre civile, une montgolfière, des congélateurs Dippin' Dots, un bibliobus, un cirque ambulant, une tornade F5, Conan Mercedes d'O'Brien, vestiaires Forever 21 ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Roadtrips sombres ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "toilettes du stade de baseball ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, un homme de New York a fait un étrange voyage à travers le pays pour disperser les cendres de son ami dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "toilettes, toilettes de stade, toilettes de baseball, toilettes dans les stades, toilettes dans les stades de baseball ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son ami était plombier... ce qui est logique car la plupart des gens enterrés dans des cercueils étaient des fabricants de cercueils. ",
+      "t": "A",
+      "v": "608743_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, un homme de New York a fait un étrange voyage à travers le pays pour disperser les cendres de son ami dans <BLANK>. ",
+      "t": "A",
+      "v": "608740_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

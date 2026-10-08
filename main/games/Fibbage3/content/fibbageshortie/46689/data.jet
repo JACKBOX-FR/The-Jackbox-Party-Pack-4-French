@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "leur mortalité, vaincre le communisme, la guerre, leur béguin pour l'école primaire, être gros, le diable, être riche, la protection contre les vampires, l'oppression, l'exploration spatiale, leur mère, le style de vie californien, les clowns, un chameau amical, les poings, quel bon goût le sucre, la dépression, les mille-pattes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Arches dorées ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "McDonald's a envisagé de se débarrasser du logo des arches dorées dans les années 1960, jusqu'à ce qu'un designer déclare que les arches rappelaient aux clients <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "seins, seins, seins, seins, seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils disent que cela ajoute un attrait freudien, mais j'aime simplement McDonald's parce que je veux épouser ma mère. Attends... ",
+      "t": "A",
+      "v": "648260_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]McDonald's a envisagé de se débarrasser du logo des arches dorées dans les années 1960, jusqu'à ce qu'un designer déclare que les arches rappelaient aux clients <BLANK>. ",
+      "t": "A",
+      "v": "648257_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

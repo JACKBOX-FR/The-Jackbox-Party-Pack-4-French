@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abandonner le trône, manger moins de produits laitiers, baisser les impôts, sourire davantage, apprendre un instrument, essayer le Whole30, abandonner l'opium, produire un héritier, se faire un passe-temps, mettre à jour sa garde-robe, essayer de ne pas parler, étudier l'histoire, perdre du poids, embaucher un jardinier, être plus grand, prendre un prénom d'homme, apprendre à parler russe, arrêter de raconter des blagues ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Russie antique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se marier ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La princesse Olga de la Russie du Xe siècle avait la mauvaise réputation de tuer quiconque lui suggérait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "se marier, épouser quelqu'un, prendre un mari, trouver un mari, trouver un mari, choisir un mari, se remarier, se remarier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]On suppose que c'était parce qu'elle pleurait encore son premier mari, mais je parie qu'elle aimait juste traîner dans le palais en pantalon de survêtement. ",
+      "t": "A",
+      "v": "574352_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La princesse Olga de la Russie du 10e siècle avait la mauvaise réputation de tuer quiconque lui suggérait <VIERGE>. ",
+      "t": "A",
+      "v": "574349_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

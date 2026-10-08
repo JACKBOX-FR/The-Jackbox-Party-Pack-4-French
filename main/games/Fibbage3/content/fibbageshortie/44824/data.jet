@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sauna, dojo, Panda Express, salle de cris, machine à barbe à papa, galerie d'art, boîte à plaintes, chapelle, congélateur à glace, fresque murale Mickey, statue du Génie, piste de danse, télescope longue portée, pêcher, salle de projection, gaufrier, bouton « rendre les robots fous », machine Fruitopia ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le Cervin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "terrain de basket ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À l'intérieur du Mont Cervin à Disneyland, les employés ont installé un <BLANK> secret. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "panier de basket ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est vraiment le royaume magique. ",
+      "t": "A",
+      "v": "598333_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À l'intérieur du mont Cervin à Disneyland, des employés ont installé un <BLANK> secret. ",
+      "t": "A",
+      "v": "598330_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

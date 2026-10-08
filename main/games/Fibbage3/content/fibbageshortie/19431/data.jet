@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des céréales versées, des ânes braillants, ses voisins faisant l'amour, un escargot rampant, du papier bulle éclaté, des œufs éclos, une tondeuse à gazon, des boutons éclatés, des ongles coupés, un accouchement, des high fives, une soupe siphonnée, des éternuements, des colibris, des colombes qui pleurent, une bougie qui fond, du parfum versé dans un chapeau, reniflant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Yoko Ono ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un rat mort ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors du making-of de son album <i>Approximativement Infinite Universe</i>, Yoko Ono a surpris son ingénieur du son en lui faisant enregistrer 20 secondes de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un rat, des rats, un animal mort ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Vingt secondes de pets ? Peut-être s'ils étaient aux Brat Days du Wisconsin ",
+      "t": "A",
+      "v": "567913_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils ont dû couper la chanson parce que le rat n'arrêtait pas de faire des erreurs et de revenir à la vie. ",
+      "t": "A",
+      "v": "385688_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors de la réalisation de son album <i>Approximativement Infinite Universe</i>, Yoko Ono a surpris son ingénieur du son en lui faisant enregistrer vingt secondes de <BLANK>. ",
+      "t": "A",
+      "v": "385685_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

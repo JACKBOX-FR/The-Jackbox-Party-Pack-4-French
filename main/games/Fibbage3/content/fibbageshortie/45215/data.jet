@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dingo, Cour suprême, Don Rickles, Cap'n Crunch, Walter Cronkite, Poutine, réunion des Golden Girls, Ronald McDonald, Antonio Canova, Will Ferrell, hybride de Kate Upton et Thor, Prince, Pat Sajak, loup-garou, Homer Simpson, Richard Nixon, Oprah, Chef Boyardee ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Statues Nues ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Georges Washington ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le Frick Museum de New York a exposé une statue d'Antonio Canova représentant un nu <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Washington ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne peux pas mentir... il fait vraiment froid ici. ",
+      "t": "A",
+      "v": "608533_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le Frick Museum de New York a exposé une statue d'Antonio Canova représentant un nu <BLANK>. ",
+      "t": "A",
+      "v": "608530_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

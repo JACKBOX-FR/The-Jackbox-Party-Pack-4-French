@@ -1,0 +1,126 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Serveur, j'aurai ce qu'ils ont !! ",
+      "t": "A",
+      "v": "680108_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Miam miam miam dans mon petit ventre de bébé ",
+      "t": "A",
+      "v": "680110_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Miam miam miam !! ",
+      "t": "A",
+      "v": "680109_1f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle saveur de nourriture pour bébé serait la plus attrayante ?!! ",
+      "t": "A",
+      "v": "680106_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Je mange de la nourriture pour bébé tous les jours au déjeuner, alors quel est le problème ? ",
+      "t": "A",
+      "v": "680099_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Nom de la saveur des aliments pour bébés qui vous inciterait le plus à en manger ",
+      "t": "A",
+      "v": "680092_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Délicieux !!! ",
+      "t": "A",
+      "v": "680107_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

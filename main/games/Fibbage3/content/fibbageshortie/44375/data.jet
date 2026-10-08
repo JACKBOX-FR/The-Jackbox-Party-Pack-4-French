@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bourreau public, tireur d'élite, lutteur professionnel, assassin, proxénète, imitateur de Betty White, clubber de phoque, garde de prison, garde du corps, fossoyeur, marionnettiste, pêcheur de crabe, contrebandier, physicien nucléaire, sculpteur érotique, musicien de jazz, observateur d'oiseaux, montgolfière ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Béa Arthur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Marin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Même si elle n'aimait pas en parler, la star des <i>Golden Girls</i> Bea Arthur a passé plus de deux ans de sa vingtaine en tant que <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Marine américaine, États-Unis Marine, membre des marines ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle dactylographiait, conduisait des camions et était même nommée sergent d'état-major. Prends ça, Betty White ! ",
+      "t": "A",
+      "v": "586534_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Même si elle n'aimait pas en parler, la star des <i>Golden Girls</i> Bea Arthur a passé plus de deux ans de sa vingtaine en tant que <BLANK>. ",
+      "t": "A",
+      "v": "586531_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

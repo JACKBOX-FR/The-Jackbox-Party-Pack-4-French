@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un mec vert qu'elle a rencontré, une partie de Mad Libs, son travail à la morgue, un enterrement de vie de garçon fou, des films hollywoodiens classiques, Ben Franklin, de gros idiots, Nikola Tesla, son oncle Frank, la première greffe de membre réussie, elle-même, un mythe polonais, des hommes stupides, une marionnette cousue ensemble, son énorme mari, un poulet avec la tête coupée, de la vodka, un chien qui est revenu à la vie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Frankenstein ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cuisses de grenouille ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans la préface de Mary Shelley de 1831 à <i>Frankenstein</i>, l'auteur explique que le roman a été inspiré par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cuisses de grenouilles,cuisses de grenouille,cuisses de grenouille,grenouilles mortes,grenouille morte,grenouilles,grenouille,grenouille ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle avait entendu dire que l’électricité pouvait faire trembler les cuisses de grenouilles après la mort. ",
+      "t": "A",
+      "v": "650384_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans la préface de Mary Shelley de 1831 à <i>Frankenstein</i>, l'auteur explique que le roman a été inspiré par <BLANK>. ",
+      "t": "A",
+      "v": "650381_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

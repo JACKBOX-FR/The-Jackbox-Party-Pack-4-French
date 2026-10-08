@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ned Beatty, Albert Einstein, Marilyn Monroe, Karl Marx, un perroquet, un vivaneau, un poisson clown, un renard, la Joconde, Lenny Kravitz, Groucho Marx, une bouteille de ketchup, un voilier, un mouton, un coucher de soleil, un chien, une tomate, Abraham Lincoln ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "porcs particuliers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le drapeau du Danemark ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Husum Red Pied est une race rare de porc qui a été intentionnellement élevée pour ressembler à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le drapeau du Danemark, un drapeau danois ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Alors, lorsqu'il y a une tragédie danoise, n'oubliez jamais de mettre votre Husum Red Pied en berne. ",
+      "t": "A",
+      "v": "559448_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Husum Red Pied est une race rare de porc qui a été intentionnellement élevée pour ressembler à <BLANK>. ",
+      "t": "A",
+      "v": "559445_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

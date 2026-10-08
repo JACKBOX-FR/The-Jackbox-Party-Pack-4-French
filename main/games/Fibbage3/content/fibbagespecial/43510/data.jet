@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lampe, chaussettes confortables, cuisses de dinde géantes, quilles, cris, chaussures confortables, être australien, myrtilles, pogs, ignames, quand il y a une pleine lune, enclumes, alpagas, Looney Tunes, sudoku, The View, purée de pommes de terre, ces nouveaux kakis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "aimer Russell Crowe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cartes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Russell Crowe a tweeté : « J'adore <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "10h08<br />23 janvier 2013 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@russellcrowe ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Carte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Rendons-nous contact avec quelqu'un qui compte VRAIMENT... ",
+      "t": "A",
+      "v": "564087_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Pouah. Donc clairement un tweet sponsorisé pour le triple A. ",
+      "t": "A",
+      "v": "564085_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En janvier 2013, Russell Crowe a tweeté : « J'adore <BLANK>. » ",
+      "t": "A",
+      "v": "564082_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

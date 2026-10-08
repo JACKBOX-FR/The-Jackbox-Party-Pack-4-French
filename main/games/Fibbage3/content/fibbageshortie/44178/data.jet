@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ballyhoo, Fun Meats, Good Times, Nick-Nacks, Produits à mâcher, Yum Yums, Noms, Bunches, Boop Boops, Twinkies, Gut Munchies, Fun Chunks, Mighty Meats, Protéines, Roasters Roosevelt, Victory Links, Beignets de Cowboy, Beef Boys ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Viande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "friandises ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la Seconde Guerre mondiale, le Centre national de recherche a tenté de rendre les abats plus attrayants pour les Américains en les renommant « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "petits morceaux,viandes variées,variété ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]On les appelait également « viandes variées », en raison de la variété de visages que votre famille ferait en les étouffant. ",
+      "t": "A",
+      "v": "580470_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant la Seconde Guerre mondiale, le Centre national de recherche a tenté de rendre les abats plus attrayants pour les Américains en les renommant <BLANK>. ",
+      "t": "A",
+      "v": "580467_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un élan à gratter et à renifler, la Maison Blanche, une horloge qui fonctionne, Jim Carey, des policiers jouant de la guitare, Paulina Gretzky, des ballons, un haut-parleur Bluetooth, du maïs, des meules de foin, Pikachu, le premier ministre en lunettes de soleil, Lady Gaga, les enfants dans le hall, une assiette de bacon, une blague toc toc, une petite pièce de monnaie intégrée, un éléphant souriant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Argent frais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un dinosaure qui brille dans le noir ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2012, la Monnaie canadienne a redonné du plaisir au capitalisme en lançant une pièce de 25 cents sur laquelle était représenté <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un dinosaure,un dinosaure qui brille dans le noir,un dinosaure qui brille dans le noir,des dinosaures qui brillent dans le noir,des dinosaures qui brillent dans le noir ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2012, la Monnaie canadienne a redonné du plaisir au capitalisme en lançant une pièce de 25 cents sur laquelle était représenté <VIERGE>. ",
+      "t": "A",
+      "v": "602716_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

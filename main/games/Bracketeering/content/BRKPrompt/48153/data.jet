@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "La chose la plus effrayante est d’entendre la voix d’un enfant murmurer dans une maison hantée ",
+      "t": "A",
+      "v": "678858_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Celui-là me dérange la tête !! ",
+      "t": "A",
+      "v": "678872_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Je vais faire des cauchemars ce soir !!! ",
+      "t": "A",
+      "v": "678871_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est la chose la plus effrayante à entendre murmurer une voix d’enfant dans une maison hantée ?!! ",
+      "t": "A",
+      "v": "678868_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Ce débat séculaire sera enfin tranché ! ",
+      "t": "A",
+      "v": "678861_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Certaines choses que vous ne pouvez pas entendre ! ",
+      "t": "A",
+      "v": "678873_0f",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Avez-vous entendu ça ?! Avez-vous ENTENDU ça ?!!! ",
+      "t": "A",
+      "v": "678870_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Citez n’importe quel slogan populaire à la télévision ou au cinéma ",
+      "t": "A",
+      "v": "678854_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Je panique !!! ",
+      "t": "A",
+      "n": "Win0Audio"
+    }
+  ]
+}

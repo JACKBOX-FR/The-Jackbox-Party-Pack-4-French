@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cosplay, prostituées, bière, cours d'improvisation, marijuana, jeux Packers, Game of Thrones, pornographie, Magic the Gathering, fromage en grains, pêche, Roue de la Fortune, Angry Birds, Cheetos, labradoodles, une dominatrice, malédictions publiques, nudité publique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Thérapie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un kangourou ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pause difficile pour les personnes handicapées à Beaver Dam, WI. Depuis 2015, vous ne pouvez plus réclamer <BLANK> comme aide thérapeutique. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "kangourous, kangourou ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Allez ! Ce sont de grands auditeurs ET ils ont une pochette spéciale pour les antidépresseurs. ",
+      "t": "A",
+      "v": "420640_9 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pause difficile pour les personnes handicapées à Beaver Dam, Wisconsin. Depuis 2015, vous ne pouvez plus réclamer <BLANK> comme aide thérapeutique. ",
+      "t": "A",
+      "v": "420637_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

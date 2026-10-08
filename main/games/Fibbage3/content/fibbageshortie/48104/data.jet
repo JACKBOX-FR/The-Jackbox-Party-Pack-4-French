@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un massage sensuel, des sucettes, des billets pour Six Flags, des conseils sur les délits d'initiés, du Coca light, des Oreos doubles, des copies de Blade Runner, des cours de jonglage, des injections de sang de baleine, des figurines de Batman, une chirurgie oculaire au laser, un oignon vidalia, des cours de judo, une bande dessinée Teen Titans, une glace au pilon, un tatouage à la cheville, une casquette de baseball des Mets de New York, dix livres de maïs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cadeaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une copie de Hustler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une fois par mois depuis 1983, chaque membre du Congrès américain reçoit <BLANK> absolument gratuitement. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hustler, un numéro de Hustler, des exemplaires de Hustler, le dernier HUstler, Hustler Magazine ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'éditeur Larry Flynt les envoie pour tenir le Congrès bien doté... informé. J'ai dit informé. ",
+      "t": "A",
+      "v": "677345_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous pensez que votre travail présente des avantages ? Une fois par mois depuis 1983, chaque membre du Congrès américain reçoit <BLANK> absolument gratuitement. ",
+      "t": "A",
+      "v": "677342_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mourir, pleurer, jouer à la marelle, envoyer des nus, parler du latin cochon, faire le poirier, organiser une fête surprise, faire une farce, huer, faire une planche, se marier, se faire passer pour Christopher Walken, faire frire des écrevisses, sortir comme un poilu, gagner un concours de restauration, gagner un pari en passant la nuit, monter un spectacle de marionnettes, trouver l'or des pirates ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "premières parlementaires ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "être allaité ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Alia Waters est récemment devenue la première personne à <VIER> au Parlement australien. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Allaiter bébé, allaiter, allaiter bébé, allaiter bébé, allaiter, allaiter, allaiter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est un bébé. Juste pour être clair. ",
+      "t": "A",
+      "v": "618284_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alia Waters est récemment devenue la première personne à <BLANK> au Parlement autrichien. ",
+      "t": "A",
+      "v": "618281_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

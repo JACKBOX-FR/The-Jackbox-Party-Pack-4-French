@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "canon antique, léopard, panthère, taureau, machine à lancer de couteaux, tortue serpentine, guillotine, élan, collection de poisons, troupe de cirque, club de combat, train miniature, équipe d'assassins personnels, fléchettes de pelouse, fusils chargés, système d'arrosage personnalisé, arbalètes, soirées dansantes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des présidents dangereux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Moutons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Même après la mort d'un enfant sur la pelouse de la Maison Blanche, Thomas Jefferson a refusé de se débarrasser de son dangereux <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bélier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si on se souvient de lui pour une seule chose, que ce soit celle-ci. ",
+      "t": "A",
+      "v": "573183_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Même après la mort d'un enfant sur la pelouse de la Maison Blanche, Thomas Jefferson a refusé de se débarrasser de son dangereux <BLANK>. ",
+      "t": "A",
+      "v": "573180_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

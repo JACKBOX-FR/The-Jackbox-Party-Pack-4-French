@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des boules de foin, des pâtes crues, des œufs de serpent, une bible, des abeilles en colère, des cheveux de bébé, des cervelles de colibris, des petites pierres, des oignons crus, des plumes de cigogne, des cartes Pokémon, des notes agressives passives, des crackers, des jeans coupés, des cuillères, des M&M's, des pinceaux, des pogs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Juste un hommage",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "citrons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une étrange forme d'hommage, les visiteurs de la tombe du général américain de la guerre civile « Stonewall Jackson » laissent souvent <BLANK> au lieu de fleurs. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "citron,un citron,citrons entiers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Comme le dit le proverbe : « Si la vie vous donne des citrons, vous êtes probablement mort. » ",
+      "t": "A",
+      "v": "587373_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une étrange forme d'hommage, les visiteurs de la tombe du général américain de la guerre civile « Stonewall Jackson » laissent souvent <BLANK> au lieu de fleurs. ",
+      "t": "A",
+      "v": "587370_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

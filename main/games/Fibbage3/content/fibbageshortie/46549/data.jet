@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon, Calvin & Hobbes, George Carlin, Park Rangers, les exterminateurs morts dans l'exercice de leurs fonctions, la voix originale de Scooby Doo, son coléoptère de compagnie, Scatman Crothers, Marilyn Monroe, Airplane II: The Sequel, Les Rolling Stones, animation dessinée à la main, sa femme Béatrice, le défibrillateur de Fibbage 2, Princesse Di, planète Terre, le monstre de Frankenstein, Général Patton ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Statues faites maison ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "insectes morts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1975, le sculpteur japonais Yoneji Inamura a réalisé une statue à partir de 20 000 insectes morts en hommage à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "punaises, insectes, insectes morts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a créé ce mémorial pour honorer les insectes morts pour une statue d'insecte mort PRÉCÉDENTE qu'il a réalisée. Vous voyez, maintenant, cela a du sens. ",
+      "t": "A",
+      "v": "646380_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1975, le sculpteur japonais Yoneji Inamura a réalisé une statue à partir de 20 000 insectes morts en guise de mémorial en l'honneur de <BLANK>. ",
+      "t": "A",
+      "v": "646377_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

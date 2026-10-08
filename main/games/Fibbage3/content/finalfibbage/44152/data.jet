@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vols à la tire | pièges à souris, vol de voiture | voitures qui explosent, graffitis | murs en téflon, vols de banque | fausses banques, jaywalking | chiens en colère, corruption | une boîte de plainte, obésité | bandes hypnotiques, toxicomanie | fêtes à la maison, violence des gangs | soirées dansantes, réchauffement climatique | patins à roulettes, sans-abri | camping-cars, feu | feu, violence armée | violence au couteau, intoxication publique | bonbons gratuits, public nudité | sous-vêtements gratuits, excès de vitesse | fausses poussettes, bagarres dans les bars | un tigre, cybercriminalité | le Nintendo Power Glove ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crime néerlandais ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "drones|aigles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Voici une nouvelle technique passionnante de lutte contre le crime. En 2017, la police néerlandaise a commencé à combattre <BLANK> avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "drones|oiseaux,crime|aigles,crime|oiseaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici une nouvelle technique passionnante de lutte contre le crime. En 2017, la police néerlandaise a commencé à combattre <BLANK> avec <BLANK>. ",
+      "t": "A",
+      "v": "580143_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

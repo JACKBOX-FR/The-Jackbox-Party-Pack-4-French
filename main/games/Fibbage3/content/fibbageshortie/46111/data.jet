@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cirage de chaussures, tonte de l'herbe, peluches d'oreillers, balayage du sol, fabrication de toasts, nettoyage de la douche, saut de livres, file d'attente, nouage, anniversaire de lézard, test d'ampoules, complot de Chevrolet Chase, fil dentaire, observation des mites, clignotement extrême, nom des chaussettes, examen des gencives, test des fourches ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vidéos de niche ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bouton qui éclate ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous pensez que les vidéos de déballage des produits sont bizarres, alors vous n'avez clairement pas consulté la page YouTube de Vikram Yadav. Il est connu pour avoir mis en ligne des vidéos <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "zit-popping, bouton popping, acné, bouton, bouton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Comment les gens peuvent-ils trouver cela divertissant ? Maintenant, excusez-moi, il y a une nouvelle vidéo Russian Grandma Escalator Fails que je dois regarder. ",
+      "t": "A",
+      "v": "635256_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous pensez que les vidéos de déballage des produits sont bizarres, alors vous n'avez clairement pas consulté la page YouTube de Vikram Yadav. Il est connu pour avoir mis en ligne des vidéos <BLANK>. ",
+      "t": "A",
+      "v": "635253_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

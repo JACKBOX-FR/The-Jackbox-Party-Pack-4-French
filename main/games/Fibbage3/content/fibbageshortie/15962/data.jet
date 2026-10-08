@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tête réduite, momie, tracteur, paquet de phacochères, balai doré, manoir, lion, pistolet laser, grenade de la Seconde Guerre mondiale, livre sur le théâtre, vaisseau spatial, crayon fantaisie géant, diadème incrusté de diamants, Gameboy, calèche de citrouille, ferme laitière, OVNI, copie de Face Off ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Achats de Nic Cage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poulpe de compagnie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Afin de justifier cet achat occasionnel, Nicolas Cage a affirmé avoir acheté un <BLANK> pour l'aider à jouer. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poulpe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et, bon sang, il a droit à un remboursement. ",
+      "t": "A",
+      "v": "353136_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Afin de justifier cet achat occasionnel, Nicolas Cage a affirmé avoir acheté un <BLANK> pour l'aider à jouer. ",
+      "t": "A",
+      "v": "353133_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

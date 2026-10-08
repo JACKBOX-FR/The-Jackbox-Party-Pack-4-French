@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "distributeur de bonbons, harmonica, avertissement menaçant, porte-clés, caméra de sécurité, décoration de gâteau, dissuasion de rendez-vous, hachoir à viande, machine à pâtes, télécommande TV, porte-manteau, bougie, kazoo, moulin à poivre, désodorisant enfichable, dispositif de flottaison, bébé d'entraînement, confident ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bizarre bébé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boîte aux lettres près de la tombe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous êtes censé utiliser cette chose comme <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "boîte aux lettres de cimetière, boîte aux lettres funéraire, boîte aux lettres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "646772_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646795_2 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je préfère que tout mon courrier soit incinéré. ",
+      "t": "A",
+      "v": "646770_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette conception brevetée peut paraître simple, mais vous êtes censé utiliser cette chose comme un <BLANK>. ",
+      "t": "A",
+      "v": "646767_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

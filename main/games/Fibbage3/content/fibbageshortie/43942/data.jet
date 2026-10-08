@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des talons hauts attachés, des arrières d'aquarium, un chapeau assorti, un nickel dans chaque poche, un appareil GPS, des flammes peintes sur les poches, des haut-parleurs, des porte-gobelets, un bouton Uber, le bruit d'un camion qui recule, des chaussettes assorties, des clignotants, des fermetures éclair automatiques, leur propre bande sonore, des poches à l'envers, des lumières noires, des autocollants de flammes, un téléscripteur de sport ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "le jean du futur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fenêtres à genoux en plastique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre de sa ligne printemps 2017, Nordstrom a présenté des jeans révolutionnaires accompagnés de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fenêtres à genoux, fenêtres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et ils ne coûtent que 95 $ ! ",
+      "t": "A",
+      "v": "573694_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Alerte mode ! Dans le cadre de sa ligne printemps 2017, Nordstrom a présenté des jeans révolutionnaires accompagnés de <BLANK>. ",
+      "t": "A",
+      "v": "573691_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

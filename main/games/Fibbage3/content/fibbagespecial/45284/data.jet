@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "a donné des problèmes d'estomac à tout le monde, a bu le rhum familial, a sauvé le restaurant, est rentré de l'université, a inventé la nourriture cajun, a volé l'huile de truffe, nous a tous donné la gueule de bois, a écouté les voix, s'est fait des amis bizarres, est revenu de l'enfer, a sucré le pot, n'a pas pu résister au meurtre, les a tous fait payer, a gâché Noël, a réparé les pâtes, a volé le village endormi, a volé toute notre eau, a gâché sa vie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Infamie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Il a empoisonné ses parents ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette pièce étrange s'intitule <i>The Infamous Son Who <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "empoisonné quelqu'un, empoisonné sa mère et son père, empoisonné sa mère, empoisonné son père et sa mère ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "610630_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610653_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette pièce étrange s'intitule « Le fils infâme qui <BLANK></i>. ",
+      "t": "A",
+      "v": "610625_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

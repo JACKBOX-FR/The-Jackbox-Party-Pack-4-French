@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "notre Terre plate, une corne de narval, une canette de soda, une portée auditive humaine, dix-sept, le chapeau du pape, un globe oculaire, une boulette de viande, la raison, une orange, un terrain de football, une tarte, l'univers connu, une caisse claire, une patinoire, un patin de hockey, un iPhone, une balle de tennis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le bord ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "croûte de pizza ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous l'appelez probablement autrement, mais le terme « cornicione » fait référence au bord extérieur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Alors n'oubliez pas que si vous voulez avoir l'air à la fois prétentieux et comme un enfant de 5 ans, dites « Je ne mange pas de cornicione ». ",
+      "t": "A",
+      "v": "593150_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous l'appelez probablement autrement, mais le terme « cornicione » fait référence au bord extérieur de <BLANK>. ",
+      "t": "A",
+      "v": "593147_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sentir bon, faire pousser des dents, prendre feu, péter, guérir par magie, faire germer des feuilles, en forme de constellations, saigner du whisky, produire de la peinture, parler, rétrécir rapidement, attirer les cerfs, se déplacer autour de leur corps, maquillage de scène, ne vaut pas la peine d'en parler, conditions préexistantes, plus cool que les autres, siffler Dixie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Blessures de combat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bleu brillant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors de la bataille de Shiloh en 1862, les soldats blessés furent choqués de découvrir que certaines de leurs blessures étaient <VIDES>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bleu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela a été causé par une bactérie locale qui a effectivement aidé à nettoyer les plaies. ",
+      "t": "A",
+      "v": "587253_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors de la bataille de Silo en 1862, les soldats blessés ont été choqués de découvrir que certaines de leurs blessures étaient <VIDES>. ",
+      "t": "A",
+      "v": "587250_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

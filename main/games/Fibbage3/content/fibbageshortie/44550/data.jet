@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Diables, Anges, Seins, Nez, Voyeurs, Nazis, Poches, Fesses que j'ai vues, Hoos, Grinches, Choses, Médecins, Orphelins, Choses inappropriées, Ding-a-Lings, Hoo Has, Cauchemars dentaires, Pets ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Livres anciens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Boneurs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant de devenir célèbre, le Dr Seuss a illustré un livre de 1941 au titre étrange <i>A Pocket Book of <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bonirs, Bonrs, Bonerrs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour être honnête, « boners » signifiait « erreurs » à l'époque. Comme l’erreur de sortir un livre sur tes gaffes. ",
+      "t": "A",
+      "v": "590897_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant de devenir célèbre, le Dr Seuss a illustré un livre de 1941 au titre étrange <i>A Pocket Book of <BLANK></i>. ",
+      "t": "A",
+      "v": "590894_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jouer à You Don't Know Jack, la télévision, Halloween, la maladie hollandaise de l'orme, faire des s'mores, se doucher, sentir des marqueurs, manger de la viande, allumer des incendies, regarder des fourmis, les sciences politiques, faire des roues, escrimer, faire semblant d'être néerlandais, faire des farces, de la plongée sous-marine, déjouer les criminels, ma propre musique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Choses magiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dave Matthews a tweeté : \"Quand j'étais un garçon, j'adorais <BLANK>. C'était quelque chose de magique. J'en suis toujours étonné, mais seulement quand je prends le temps. Je ne suis pas nerveux à ce sujet.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "14h39<br />9 février 2009 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@DaveJMatthews ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voler ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "667204_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En février 2009, Dave Matthews a tweeté \"Quand j'étais un garçon, j'aimais <BLANK>. C'était une chose magique. Je suis toujours émerveillé par cela, mais seulement lorsque je prends le temps. Je ne suis pas nerveux à ce sujet.\" ",
+      "t": "A",
+      "v": "667199_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

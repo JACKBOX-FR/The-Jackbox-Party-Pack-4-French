@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je suis allé au karaoké, je me suis saoulé, j'ai commencé à sortir avec quelqu'un, j'ai regardé Law & Order, je me suis baigné, je me suis fait couper les cheveux, j'ai mangé de la pizza, je me suis moqué du juge, j'ai pris une douche ensemble, je me suis rasé la tête, je suis allé à une soirée costumée, j'ai joué au volley-ball, je suis allé à la pêche, j'ai passé la nuit coincé dans un ascenseur, je me suis fait des manucures, j'ai commandé un hoagie géant, j'ai suivi un cours d'art, j'ai tous eu une intoxication alimentaire. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Nouveau procès ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "utilisé une planche Ouija",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une affaire de meurtre survenue au Royaume-Uni en 1994, la Cour d'appel a été contrainte de demander un nouveau procès après avoir appris que les jurés avaient <BLANK> avant de rendre le verdict. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "consulté une planche Ouija,joué avec une planche Ouija,utilisé une planche wega,utilisé une planche weegi,utilisé une planche oiji,utilisé une planche ojo,utilisé une planche oija,utilisé une planche ooija,utilisé une planche oujij,utilisé une planche oueja,utilisé une planche wija,utilisé une planche ouijo,utilisé une planche weegee,utilisé une planche luigi,utilisé une planche quija,utilisé une planche weeger,utilisé une planche wedgie,consulté un conseil wega, consulté un conseil weegi, consulté un conseil oiji, consulté un conseil ojo, consulté un conseil oija, consulté un conseil ooija, consulté un conseil oujij, consulté un conseil oueja, consulté un conseil wija, consulté un conseil ouijo, consulté un conseil weegee, consulté un conseil luigi, consulté un conseil quija, consulté un conseil weeger, consulté un plateau wedgie, joué avec un plateau wega, joué avec un plateau weegi, joué avec un plateau oiji, joué avec un plateau ojo, joué avec un plateau oija, joué avec un plateau ooija, joué avec un plateau oujij, joué avec un plateau oueja, joué avec un plateau wija, joué avec un plateau ouijo, joué avec un plateau weegee, joué avec un plateau luigi, joué avec un plateau quija, joué avec une planche Weeger, joué avec une planche Wedgie, demandé à la victime, demandé au fantôme, demandé à un fantôme, contacté la victime, contacté un fantôme, contacté le fantôme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oui, ces gens étaient stupides (passant rapidement à autre chose) mais bon, devinez combien de mauvaises façons d'épeler Ouija nous avons dû prendre en compte dans cette question. C'était beaucoup. ",
+      "t": "A",
+      "v": "680878_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une affaire de meurtre survenue au Royaume-Uni en 1994, la Cour d'appel a été contrainte de demander un nouveau procès après avoir appris que les jurés avaient <VIERGE> avant de rendre le verdict. ",
+      "t": "A",
+      "v": "680875_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

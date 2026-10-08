@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nerds|avoir des rendez-vous,Ben Jacobs|porter sur le côté,pandas|se déguiser,Jackbox|se moquer de,hippopotames|avoir l'air plus mince,chèvres|manger,lions|avoir peur,adolescents|porter en envoyant des SMS,serpents|dormir à l'intérieur,tantes|désapprouver,frat bros|pointer comme un ballon de football,fans de football|cacher de l'alcool,gens attirants|avoir l'air stupide dans,robots|avoir l'air plus humain,hommes de main|jeter sur 007,Pharrell|porter sans ironie,bébés|vomir sur,votre petite amie|donner à Goodwill ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Couvre-chefs spécialisés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faucons|avoir des relations sexuelles avec ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les Boyd est connu parmi ses pairs pour être l'inventeur d'un chapeau unique en son genre. Il est spécialement conçu pour <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faucons|bosse,faucons|copuler avec,faucons|éjaculer dans,faucons|éjaculer sur,faucons|vis,faucons|s'accoupler avec,oiseaux|bosse,oiseaux|copuler avec,oiseaux|éjaculer dans,oiseaux|éjaculer sur,oiseaux|vis,oiseaux|fait avec ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le chapeau de copulation, porté par les dresseurs de faucons, est considéré comme un excellent moyen de collecter du sperme, ainsi qu'une déclaration de mode audacieuse. ",
+      "t": "A",
+      "v": "645342_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les Boyd est connu parmi ses pairs pour être l'inventeur d'un chapeau unique en son genre. Il est spécialement conçu pour <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "645339_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

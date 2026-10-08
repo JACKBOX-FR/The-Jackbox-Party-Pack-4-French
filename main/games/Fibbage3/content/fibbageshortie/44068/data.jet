@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Guitares Gibson, Buick, Old Spice, KFC, nourriture pour chiens, Pall Malls, lait au chocolat, beurre de cacahuète, grille-pain, sauce barbecue, sandales, cours de guitare, gel capillaire, chirurgie de la hanche, Graceland, Frosted Flakes, nouilles ramen, shakes amaigrissants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Roi du marketing ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "beignets ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La seule publicité jamais réalisée par Elvis était pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "beignets, beignets, noix de pâte, une beignerie, une beignerie, un magasin de beignets, un magasin de beignets ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]En fait, il parlait juste de beignets. Heureusement, il y avait une caméra à proximité. ",
+      "t": "A",
+      "v": "577406_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La seule publicité jamais réalisée par Elvis était pour <BLANK>. ",
+      "t": "A",
+      "v": "577403_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

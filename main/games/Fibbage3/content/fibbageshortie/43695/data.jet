@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "serviettes, chiots, chaussettes, foulards, un rat, un yaourt, des sous-vêtements, des DVD, une auréole, du houmous, un petit chapeau, des bonbons, une couronne, la Bible, du ketchup, des billets d'un dollar, des poids, du papier d'aluminium ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chefs de transport ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bagels ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En février 2017, la police britannique a dû interrompre une bagarre dans un train qui a éclaté après que des passagers aient continué à placer <BLANK> sur la tête d'un autre passager. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un bagel,parties d'un bagel,morceaux de bagel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le combat était dû au fait que personne n'avait apporté de fromage à la crème. ",
+      "t": "A",
+      "v": "567543_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En février 2017, la police britannique a dû interrompre une bagarre dans un train qui a éclaté après que des passagers aient continué à placer <BLANK> sur la tête d'un autre passager. ",
+      "t": "A",
+      "v": "567540_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

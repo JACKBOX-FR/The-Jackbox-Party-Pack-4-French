@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "porter des vêtements serrés, amener leurs enfants, lancer de la nourriture, encourager les joueurs, les encourager, rapporter du lait de la maison, danser dans les allées, s'endormir, applaudir trop fort, regarder Netflix, assister à des matchs, regarder le football, rester à la maison après avoir acheté des billets, les insulter, huer la mascotte, porter des maillots de basket-ball aux matchs, hurler comme des coyotes, porter des chapeaux fantaisie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "demande de fans ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire la vague ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au cours de la saison 2016-2017 de la LNH, les Coyotes de l'Arizona ont lancé un appel à leurs partisans pour qu'ils arrêtent <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "démarrer la vague ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parce que nous ne voudrions pas ruiner la réputation de classe du hockey. ",
+      "t": "A",
+      "v": "565883_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au cours de la saison 2016-2017 de la LNH, les Coyotes de l'Arizona ont lancé un appel à leurs fans pour qu'ils arrêtent <BLANK>. ",
+      "t": "A",
+      "v": "565880_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

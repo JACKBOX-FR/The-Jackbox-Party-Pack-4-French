@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "coups d'acide, Jolly Ranchers, piles AAA, M&Ms, cils humains, ongles de pieds, poissons rouges, gouttes de sang, morceaux de bacon, étoiles de mer, diamants, ampoules, cafards, doigts de singe, bâtons de réglisse, ailes de poulet, asticots, pains de savon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bébés souris ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il existe une boisson médicinale de la Chine et de la Corée anciennes qui consiste en du vin de riz fermenté avec 10 à 15 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "souris, bébés souris, bébés souris ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](SFX Sip) (comme si je dégustais du vin) Je détecte des traces de chêne, de cerise et... de souris morte. Certainement de forts tons de souris mortes. ",
+      "t": "A",
+      "v": "592223_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]1Il existe une boisson médicinale de la Chine et de la Corée anciennes qui consiste en du vin de riz fermenté avec 10 à 15 <BLANK>. ",
+      "t": "A",
+      "v": "592220_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

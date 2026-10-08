@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pirate|bombes,nuage|wasabi,fantôme|guimauve,ninja|boue,motard|huile moteur,membre de gang|étoile de mer,démon|lave,officier de police|balles,banshee|eau des marais,surfeur|sable,clown|sciure,extraterrestre|mauvaise haleine,loup-garou|goudron,vampire|plus petit vampires, homme des cavernes | papillons, facteur | lettres, médecin | aiguilles, professeur | lames de rasoir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Méchant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Nazi|abeilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les meilleurs méchants de Spider-Man ne vont jamais au cinéma. Comme le maléfique Fritz von Meyer qui est un <BLANK> fait de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Homme|abeilles,Monstre|abeilles,Jerk|abeilles,Nazi|guêpes,homme|guêpes,monstre|guêpes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parlez d'un cauchemar de relations publiques pour les abeilles. ",
+      "t": "A",
+      "v": "577256_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les meilleurs méchants de Spider-Man n'arrivent jamais au cinéma. Comme le maléfique Fritz von Meyer qui est un <BLANK> fait de <BLANK>. ",
+      "t": "A",
+      "v": "577253_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

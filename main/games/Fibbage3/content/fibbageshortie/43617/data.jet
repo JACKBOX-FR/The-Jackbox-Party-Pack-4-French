@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "amour, jet privé, yacht, compte de dépenses Macy's, tigre du Bengale, collection d'art, fossile de dinosaure, chaussures de créateurs, amulette magique, Lamborghinis, cheveux, abonnement à une salle de sport, massages du dos, implants mammaires, chansons originales, chef personnel, bébé, statue grandeur nature d'elle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Maintenant c'est amer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rein ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un médecin de Long Island a poursuivi son ex-femme en justice, exigeant qu'elle lui verse 1,5 million de dollars ou qu'elle lui restitue le <BLANK> qu'il lui avait donné. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "don de rein ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host][soupir] Lors d'un divorce, ce sont toujours les organes internes qui souffrent... ",
+      "t": "A",
+      "v": "566292_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un médecin de Long Island a poursuivi son ex-femme en justice, exigeant qu'elle lui verse 1,5 million de dollars ou qu'elle lui restitue le <VIERGE> qu'il lui avait donné. ",
+      "t": "A",
+      "v": "566289_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

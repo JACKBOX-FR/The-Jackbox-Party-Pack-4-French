@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "godzilla, Amelia Earhart, l'innocence, la fontaine de jouvence, vous-même, une vidéo à succès florissante, un papillon géant, un trésor de pirate à prix réduit, le petit samouraï, de vraies sirènes, le mal engendré, les volcans de chocolat, les meilleurs chats, Jimmy Hoffa, les dossiers fiscaux de Trump, le secret de la perte de poids, les célibataires chauds, le plus grand singe du monde ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Des vacances amusantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "La tombe de Jésus-Christ ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La ville japonaise d’Aomori prétend qu’elle est unique car c’est là que vous trouverez <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jésus, Jésus-Christ, la tombe de Jésus, la tombe de Jésus, la tombe du Christ, le tombeau de Jésus, le tombeau de Jésus, le tombeau du Christ, les os de Jésus, les os de Jésus, les os de Christ, les os de Jésus-Christ, le tombeau de Jésus-Christ, la tombe de Jésus-Christ ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est loin de Nazareth ",
+      "t": "A",
+      "v": "573021_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La ville japonaise d'Aomori prétend être unique car c'est là que vous trouverez <BLANK>. ",
+      "t": "A",
+      "v": "573018_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

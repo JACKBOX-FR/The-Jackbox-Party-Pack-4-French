@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "meilleur ami, sous-vêtements, fruit douillet, pantalon, hamac, robe de mariée, parachute, portrait de Pearl Harbor, jeans skinny, poupées vaudou, Mona Lisa, lingerie, couches, Avengers, étoile de la mort, diplôme, cercueil, nœud coulant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Expertise ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Kama Sutra ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Découvrez un livre de l'experte britannique en tricot Geraldine Warner intitulé <i>Knit Your Own</i> <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "karma sutra, kamasutra ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Quelque chose me dit que le travail ne serait pas fait. ",
+      "t": "A",
+      "v": "569631_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Regardez simplement où vous collez cette aiguille. ",
+      "t": "A",
+      "v": "406986_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous cherchez à vous lancer dans le tricot ? Découvrez un livre de l'experte britannique en tricot Geraldine Warner intitulé <i>Knit Your Own</i> <BLANK>. ",
+      "t": "A",
+      "v": "406983_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

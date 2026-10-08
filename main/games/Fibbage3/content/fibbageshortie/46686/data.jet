@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "collection de vinyles, débardeur, carnet de coupons « Get into Heaven », compte World of Warcraft, photos de vacances, singe de compagnie, billets pour le Super Bowl, chaussettes d'entraînement, jambe en bois, recette de poitrine, fauteuil inclinable, ADN, mobile pape, chaussures velcro, collection de cartes Pokémon, carte de récompense Walgreens, bébés bonnets, collection d'autographes de Tom Hanks ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ventes caritatives ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Harley ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le pape François a collecté 327 000 $ pour une œuvre caritative en 2014 lorsqu'il a vendu aux enchères son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Harley Davidson, moto, vélo ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les derniers seront les premiers et les premiers mangeront ma poussière (SFX : accélération de la moto) ",
+      "t": "A",
+      "v": "648170_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le pape François a collecté 327 000 $ pour une œuvre caritative en 2014 lorsqu'il a vendu aux enchères son <BLANK>. ",
+      "t": "A",
+      "v": "648167_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

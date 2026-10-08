@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abatteurs de porcs, oeillères, peluches de chevaux, sauteurs de grenouilles, brûleurs de livres, ruineurs de fêtes, lanceurs d'œufs, pyromanes, nappeurs, ivrognes, baigneurs, rappeurs, fabricants de lasagnes, peintres en bâtiment, buveurs de café, essuie-fesses, speedwalkers, donneurs de sperme ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Europe centrale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fossoyeurs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En Slovaquie, deux frères, Ladislav et Csaba, ont battu 10 autres équipes pour être nommés les plus rapides d'Europe centrale <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fossoyeurs, fossoyeurs, fossoyeur, fossoyeur, fossoyeur ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le concours de fouilles de tombes s'avère pratique, puisque chaque année au moins quelques spectateurs meurent d'ennui. ",
+      "t": "A",
+      "v": "583145_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En Slovaquie, deux frères, Ladislav et Csaba, ont battu 10 autres équipes pour être nommés les plus rapides d'Europe centrale <BLANK>. ",
+      "t": "A",
+      "v": "583142_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

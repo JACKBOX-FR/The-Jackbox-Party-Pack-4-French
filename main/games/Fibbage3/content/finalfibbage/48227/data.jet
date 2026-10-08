@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vomi|caca,insectes|paille,cerveau|cœurs,fromage|moutarde,poisson rouge|confettis,yaourt|caramel,œufs de poisson|Quilles,cacahuètes|œufs,lait|jus d'orange, beurre de cacahuète|jambon,sucre|épice,cannelle|Pepto Bismol,thé vert|journal,carottes|gaufres,avocat|piments,cœurs de poulet|chèvre yeux, tarte aux pommes | sauce, chili | tranches d'ananas ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "« coupe glacée » ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nouilles|sang ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous aimez les glaces, ne commandez PAS de « sundae » en Corée du Sud. Ce sont des intestins de vache ou de porc remplis de <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sang|nouilles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous aimez la crème glacée, ne commandez PAS de « sundae » en Corée du Sud. Ce sont des intestins de vache ou de porc remplis de <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "681091_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

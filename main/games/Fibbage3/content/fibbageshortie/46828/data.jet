@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Puant, factice, analphabète, restauration rapide, médias sociaux, rural, gros mot, républicain, Lil Wayne, médiocre, bovin, Griffin, Tumblr, frère, chant de baleine, fausses nouvelles, Van Art, Apple Pencil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cours collégiaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Tacos ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous avez fréquenté l'Université du Kentucky en 2016, vous auriez pu suivre « Écriture, rhétorique et études numériques 422 », un cours également connu sous le nom de « <BLANK> Alphabétisation ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous pouvez suivre le cours avec succès, échec ou al pastor. ",
+      "t": "A",
+      "v": "649934_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous avez fréquenté l'Université du Kentucky en 2016, vous auriez pu suivre « Écriture, rhétorique et études numériques 422 », un cours également connu sous le nom de « <BLANK> Alphabétisation ». ",
+      "t": "A",
+      "v": "649931_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

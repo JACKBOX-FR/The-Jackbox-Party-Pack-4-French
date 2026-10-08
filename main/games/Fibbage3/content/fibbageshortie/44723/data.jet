@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Samsung Galaxies, indignation sur Internet, noms de groupes, scores de baseball, cellules zombies, rires, viande de hamburger, permis de conduire, canulars, bière, testicules de chien, tétons, poils du dos, mégots, fossiles, milk-shakes, jus d'orange, glaçons avec des mouches dedans ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pomme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "transpirer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un article de 2017 sur Vice.com a révélé qu'Apple dispose d'un technicien de laboratoire dont le travail consiste à produire de faux <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "transpiration ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour tester leurs produits, pas pour les boire... certainement pas pour que les cadres boivent rituellement. ",
+      "t": "A",
+      "v": "595431_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un article de 2017 sur Vice.com a révélé qu'Apple dispose d'un technicien de laboratoire dont le travail consiste à produire de faux <BLANK>. ",
+      "t": "A",
+      "v": "595428_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

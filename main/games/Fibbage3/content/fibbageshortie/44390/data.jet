@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un clown mort, le corps d'Hitler, l'arche perdue, le roi Tut, un missile nucléaire, un minotaure, un voyageur temporel, 1000 soutiens-gorge, un sous-marin japonais, un T-Rex, Mickey Rooney, Bing Crosby, l'épée de George Washington, des vampires, un ange, un terrain de baseball, sa propre tombe, une œuvre perdue de Shakespeare ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Je l'ai trouvé ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un volcan ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 20 février 1943 fut un jour fatidique pour le fermier mexicain Dionisio Pulido. Il a regardé dans son champ de maïs et a été choqué de trouver <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "volcan, volcans, volcans ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oui, un vrai volcan avec de la lave en fusion, ou comme l'appellent les habitants du Midwest : une salsa douce. ",
+      "t": "A",
+      "v": "586984_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 20 février 1943 fut un jour fatidique pour le fermier mexicain Dionisio Pulido. Il a regardé dans son champ de maïs et a été choqué de trouver <BLANK>. ",
+      "t": "A",
+      "v": "586981_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

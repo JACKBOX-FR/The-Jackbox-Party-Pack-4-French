@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "RÈGLE BULLZ, PLAYA, BORT, MACKDADDY, 10SNE1, KANYEWEST, OUTATIME, LEVIJEANS, BABABOOEY, HUSTLIN, GAGNANT, RAPKING, FASTBOY, MCDONALDS, BATMAN, COOLDAD, PICARD, FUN GUY ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Plaques de vanité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "1 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le record du montant le plus dépensé en plaques d'immatriculation personnalisées est actuellement détenu par un homme d'Abu Dhabi qui, en 2008, a dépensé environ 14 millions de dollars pour que la sienne puisse dire « <VIDE> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un, numéro un, numéro 1, non 1, #1, le numéro 1 ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Un L minuscule aurait pu être moins cher. ",
+      "t": "A",
+      "v": "561943_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le record du montant le plus dépensé en plaques d'immatriculation personnalisées est actuellement détenu par un homme d'Abu Dhabi qui, en 2008, a dépensé environ 14 millions pour que sa sienne puisse dire \"<VIERGE>\". ",
+      "t": "A",
+      "v": "561940_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

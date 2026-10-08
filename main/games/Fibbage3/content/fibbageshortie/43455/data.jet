@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "support à main, ramasseur de crottes, broyeur, coupe-nez, élévateur, détecteur de balle de golf, poubelle, polisseur d'argenterie, table basse, chasse d'eau, chat de compagnie, attrape-fléchettes, aspirateur, renifleur de chien, bac à litière, testeur de goût, microphone, testeur de pantalon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Travail acharné ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chauffe-lit ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Viktoria Ivachyova a un travail unique : son titre officiel est Humain <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chauffe-lit, chauffe-lit ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle et mon neveu ont quelque chose en commun. ",
+      "t": "A",
+      "v": "562633_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Viktoria Ivachyova a un travail unique : son titre officiel est Humain <BLANK>. ",
+      "t": "A",
+      "v": "562630_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

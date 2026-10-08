@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voyager|un sac banane,se brosser les dents|leur doigt,se doucher|un bonnet de douche,tirer la chasse d'eau|leur pied,partager leur chambre|des vagabonds,faire des forts|des oreillers, regarder la télé|pas de pantalon, prendre la télécommande|un sac en plastique,scanner le lit|une lumière noire, vérifier les caméras|un détecteur d'insectes,bénir la chambre|avec une prière,boire au robinet|leurs mains,faire l'amour|leurs amis imaginaires,boucher les toilettes|hôtel les serviettes, regarder des films pour adultes | les clients d'à côté, aplatir leur argent | le fer à repasser de l'hôtel, se curer les oreilles | les stylos de l'hôtel, essuyer leurs fesses | les rideaux de l'hôtel ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "6000 adultes britanniques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dormir|un ours en peluche ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chaîne hôtelière Travelodge a interrogé 6 000 adultes britanniques et a découvert que 35 % d'entre eux <BLANK> avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "dormir|un ours en peluche,dormir|un ours,dormir|un animal en peluche,dormir|animaux en peluche,dormir|animaux en peluche,dormir|un animal en peluche,dormir|un ours en peluche,dormir|ours en peluche,dormir|ours en peluche ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La chaîne hôtelière Travelodge a interrogé 6 000 adultes britanniques et a découvert que 35 % d'entre eux <BLANK> avec <BLANK>. ",
+      "t": "A",
+      "v": "564818_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

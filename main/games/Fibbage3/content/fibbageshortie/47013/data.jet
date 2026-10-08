@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "s'endormir, nommer toutes les capitales du monde, deviner les histoires de vie des gardes, faire rire un nouveau garde, gâcher une fête, chanter tout le H.M.S. Tablier, expliquer la fin d'Inception, mémoriser un jeu de cartes, boire un gallon de lait, apprendre un morceau de piano, Jimmy la serrure, offenser un visiteur, écrire un tube pop, ranger sa cellule, vous faire culpabiliser de l'avoir emprisonné, trouver un moyen d'évoquer Bush, vous convaincre que les chemtrails sont réels, pirater l'ordinateur de la prison. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Saddam ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger un sac entier de Doritos ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans un article de <i>GQ</i> de 2005 sur Saddam Hussein, l'un des soldats qui gardaient sa cellule affirmait que Hussein pourrait <VIDE> en 10 minutes. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "manger un sac de Doritos, finir un sac de Doritos, manger des Doritos, manger un sac entier de Doritos, finir un sac entier de Doritos ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais pour être honnête, une grande partie s'est retrouvée dans sa barbe. ",
+      "t": "A",
+      "v": "652184_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans un article <i>GQ</i> de 2005 sur Saddam Hussein, l'un des soldats qui gardaient sa cellule affirmait que Hussein pourrait <VIERGE>en 10 minutes. ",
+      "t": "A",
+      "v": "652181_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

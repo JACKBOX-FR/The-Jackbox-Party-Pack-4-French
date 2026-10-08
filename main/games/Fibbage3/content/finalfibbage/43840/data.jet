@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bacon|pâtes,filet mignon|nachos,moutarde|sandwichs,popcorn|crème glacée,dinde|pâtés,fromage chedder|burgers,jambon|wraps,saumon|croquettes,coréen|autocollants en pot,rosbif|ragoût,foie de canard|smoothies,saucisse fumée|gâteau d'anniversaire,chipotle|cheesecake,bœuf foie|ravioli,pizza|lasagne,spam|hoagies,crevettes|jambalaya,cool ranch Doritos|milk shakes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Boutiques éphémères ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chili|frites ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre d'un coup marketing pour Pop-Tarts en 2017, Kellogg's a ouvert un restaurant inhabituel à New York avec des plats de menu bizarres, notamment <BLANK> Pop-Tart <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bonne nouvelle, certaines des personnes qui en ont mangé ont survécu ! ",
+      "t": "A",
+      "v": "570985_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le cadre d'un coup marketing pour Pop-Tarts en 2017, Kellogg's a ouvert un restaurant inhabituel à New York avec des plats de menu bizarres, notamment <BLANK> Pop-Tart <BLANK>. ",
+      "t": "A",
+      "v": "570982_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

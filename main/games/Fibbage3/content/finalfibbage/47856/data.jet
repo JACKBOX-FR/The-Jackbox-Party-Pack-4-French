@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "couvercles de gobelets | cafés, caméras | les terminaux, leurs priorités | ordre, panneaux « sol mouillé » | les salles de bains, les voyageurs | pantalons en caoutchouc, toilettes | le milieu de la pièce, porcelets | petits pulls, lingettes jetables | chaque stand, une maman désapprobatrice | l'entrée, visages souriants | les cuvettes des toilettes, concierges tristes | le coin, photos de femmes | les miroirs, les connards | leurs place, une pincée de poivre de Cayenne | leur recette de tarte aux pommes, des capteurs d'humidité | le carrelage du sol, de la musique big band | la boutique hors taxes, des pétards | les poubelles, la couleur bleue | les motifs du papier peint ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Déversement ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fausses mouches|urinoirs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'aéroport Schiphol d'Amsterdam estime que les sols de ses salles de bains ont connu jusqu'à 80 % de « déversements » en moins lorsqu'ils ont commencé à mettre <BLANK> dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mouches|urinoirs,une mouche|les urinoirs,mouches|leurs urinoirs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils ont utilisé l’instinct des hommes pour viser. ",
+      "t": "A",
+      "v": "669719_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'aéroport Schiphol d'Amsterdam estime que les sols de ses salles de bains ont connu jusqu'à 80 % de « déversements » en moins lorsqu'ils ont commencé à mettre <BLANK> dans <BLANK>. ",
+      "t": "A",
+      "v": "669716_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

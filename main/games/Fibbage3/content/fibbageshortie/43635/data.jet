@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler aux morts, nourrir les pigeons, péter dans la bibliothèque, se baigner en public, sauter en parachute les yeux bandés, renverser les autres conducteurs, se faire passer pour Mary Tyler Moore, danser sur Main Street, appeler du soda « pop », recycler les ampoules, jeter du fumier, jeter du chewing-gum sur les trottoirs, vendre du lait de rat, dîner et se précipiter, se débarrasser d'un juge, faire des anges des neiges sur la propriété publique, chanter à l'hôtel de ville, maudire les bébés ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "#Résister ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "masser les chevaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bien qu'elle ait été menacée de lourdes amendes et de peines de prison, Laurie Wheeler de Leiper's Fork, Tennessee, dit qu'elle n'arrêtera pas <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "donner des massages aux chevaux,faire des massages aux chevaux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle a regardé ses oppresseurs dans les yeux et a dit « hennir ». ",
+      "t": "A",
+      "v": "566742_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Même si elle a été menacée de lourdes amendes et de peines de prison, Laurie Wheeler de Leiper's Fork, Tennessee, dit qu'elle n'arrêtera pas <BLANK>. ",
+      "t": "A",
+      "v": "566739_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sociétés|dieux, centimes|toujours important,hot dogs|sandwichs,autocollants pour pare-chocs|art,chatons|gens,lutins|fictifs,toilettes publiques|pour les gens seulement,corn dogs|Américains,propriétaires de trottoirs|responsables des blessures,vacances|un droit civil,oranges|orange,lits à eau|génial,baleines|poissons,romances de bureau|légalement contraignant,humains|mammifères,voitures|a privilège,robots|propriété,isoloirs|propriété privée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Courtiser le désastre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tomates|légumes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'affaire controversée de la Cour suprême <i>Nix c. Hedden</i> a bouleversé plus d'une personne lorsque le tribunal a statué que <BLANK> était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tomates|légumes,légumes|tomates,légumes|tomates,tomates|légumes,tomates|légumes,légumes|tomates ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est pourquoi le bas de ma pyramide alimentaire n'est que de la sauce à pizza et du ketchup. ",
+      "t": "A",
+      "v": "398678_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'affaire controversée de la Cour suprême <i>Nix c. Hedden</i> a bouleversé plus d'une personne lorsque le tribunal a statué que <BLANK> était <BLANK>. ",
+      "t": "A",
+      "v": "398675_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

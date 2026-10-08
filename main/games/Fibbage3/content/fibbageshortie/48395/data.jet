@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Soyons fous,Ma maison ou la vôtre ?,Vous aimez ce que vous voyez ?,Peu importe,Pas de connards autorisés,Mangez à votre faim,Reculez,Assez déjà,Kiss Rules,Doux,Tu me regardes ?,Voyons comment ça se passe,Ben était là,Reviens plus tard,Trop tôt pour le dire,Ne compte pas là-dessus,Aye Carumba !,Plie-toi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vieil argent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Occupez-vous de vos affaires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La pièce de monnaie américaine originale, appelée Fugio cent, représentait le soleil qui brillait sur une courte phrase qui disait simplement « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Occupez-vous de vos propres affaires ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ouais, connards. ",
+      "t": "A",
+      "v": "686160_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La pièce de monnaie américaine d'origine, appelée Fugio cent, représentait le soleil qui brillait sur une courte phrase qui disait simplement « <BLANK> ». ",
+      "t": "A",
+      "v": "686157_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

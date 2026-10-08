@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faites-le vous-même, nul, peu pratique, sous l'eau, rien que des haricots, tout coûte dix dollars, toujours fermé, George Clooney, Paul Blart, Not Wal, non sommaire, Kiss Me, est tombé du camion, Mart Mart, regarde ça, Loup-garou, super balisé, nous n'avons pas de nourriture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "« commodité » ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voyage dans le temps ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le quartier d’Echo Park à Los Angeles abrite un magasin « dépanneur » unique. Cela s’appelle le <BLANK> Mart. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voyage dans le temps, voyage dans le temps ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le quartier d'Echo Park à Los Angeles abrite un magasin « dépanneur » unique. Cela s’appelle le <BLANK> Mart. ",
+      "t": "A",
+      "v": "562905_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

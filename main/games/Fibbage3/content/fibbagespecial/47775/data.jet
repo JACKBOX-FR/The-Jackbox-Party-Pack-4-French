@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vomir, attacher une tige de cerise, compter les dents, verser du sirop, mettre la gerbille, bourrer des sous, se gargariser avec de l'eau salée, enfoncer des poches chaudes, mordre la peau, attraper des moucherons, mettre des chaussettes en boule, mâcher du bacon, entendre la CIA, consoler le sorcier, s'étouffer avec les mots, lui mettre la bouche, jouer avec l'ulcère, gronder le lutin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "LeBeouf ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "gicler du dentifrice ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Shia LeBeouf a bizarrement tweeté : « elle s'assoit, je <VIDE> dans ma bouche ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11h00<br />9 mai 2015 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@thecampaignbook ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "manger du dentifrice, gicler du dentifrice, presser du dentifrice, presser du dentifrice ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "667949_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En mai 2015, Shia LeBeouf a bizarrement tweeté « elle s'assoit, je <VIDE> dans ma bouche ». ",
+      "t": "A",
+      "v": "667944_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

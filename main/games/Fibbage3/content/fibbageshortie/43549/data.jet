@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jus d'orange fraîchement pressé, herbe, febreze, savon, lavande, caoutchouc brûlé, pieds, ail, biscuits fraîchement sortis du four, un homme vraiment bon, un Newfie, un chien mouillé, de l'ammoniaque, des citrons, du vinaigre, du cèdre, du thon, de l'essence ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "odeurs canadiennes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sirop d'érable ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, une controverse a éclaté autour du nouveau billet de 100 $ du Canada. Beaucoup ont affirmé que ça sentait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "érable, sirop, crêpes, sirop de crêpes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parfois, la réponse la plus plaisante est la bonne. ",
+      "t": "A",
+      "v": "564996_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, une controverse a éclaté autour du nouveau billet de 100 $ du Canada. Beaucoup ont affirmé que ça sentait <BLANK>. ",
+      "t": "A",
+      "v": "564993_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

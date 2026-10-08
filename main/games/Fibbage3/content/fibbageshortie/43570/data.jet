@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "basket-ball, croquet, charades, boule de pétanque, Quiplash, Cards Against Humanity, canard canard oie, gin rami, poker, albums Monty Python, Never Have I Ever, action ou vérité, fléchettes, Minecraft, volley-ball, échecs, opération, loup-garou ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Duc d'York ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Monopole ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le duc d'York a révélé que la famille royale n'était pas autorisée à jouer à <BLANK> car cela devenait « trop vicieux ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un jeu de Monopoly ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Non, quand ils jouent à Fibbage, ça devient trop sale. ",
+      "t": "A",
+      "v": "571022_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Une famille de plus déchirée par la règle du stationnement gratuit. ",
+      "t": "A",
+      "v": "565473_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Potins juteux ! Le duc d'York a révélé que la famille royale n'était pas autorisée à jouer à <BLANK> car cela devenait « trop vicieux ». ",
+      "t": "A",
+      "v": "565470_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

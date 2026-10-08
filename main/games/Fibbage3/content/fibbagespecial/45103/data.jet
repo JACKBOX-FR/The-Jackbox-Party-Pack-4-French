@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "spicetown, l'aquarium, un zoo terrible, la piscine de papa, Sea World, un peu d'océan, le cauchemar de Poséidon, de l'eau ou quelque chose comme ça, Atlantis, la petite sirène, un pays fou, la lune, un Wendy's, l'hippodrome, le pays des fées, mon cauchemar, le parc des expositions, les combats d'hippocampes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Un voyage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un spa ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette illustration autrichienne de 1907 est intitulée « Voyage à <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le spa ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "605120_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "605143_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai toujours trouvé relaxant de torturer un hippocampe. ",
+      "t": "A",
+      "v": "605118_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette illustration autrichienne de 1907 est intitulée « Voyage à <BLANK> ». ",
+      "t": "A",
+      "v": "605115_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

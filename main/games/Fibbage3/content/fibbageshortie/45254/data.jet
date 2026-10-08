@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire frire du poulet, de l'eau, des bâillements, des ronflements, utiliser des citations aériennes, des coupes de cheveux, rouler des yeux, rêver, chanter en fausset, Canadiens, sirop d'érable, faire une sieste, des blagues, des encyclopédies, des carottes, parler anglais, se cueillir le nez, lutter contre les cochons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Factures Factures Factures Factures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "flirter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1902, le député de l'État de New York, Francis G. Landon, a présenté un projet de loi qui criminaliserait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Heureusement, le projet de loi n'a pas été adopté. ",
+      "t": "A",
+      "v": "609698_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1902, le député de l'État de New York, Francis G. Landon, a présenté un projet de loi qui criminaliserait <BLANK>. ",
+      "t": "A",
+      "v": "609695_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mon fils, le changement climatique, Robert Pattinson, Lost, The Office, 30 Rock, les cheveux d'Alec Baldwin, les journaux, mon ordinateur, la pizza Pizza Hut, les paillettes, l'Amérique, les mèmes, les choses que les enfants aiment ces jours-ci, les beignets de nos jours, les films d'action, mon mariage, l'Islande ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Diva ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ma carrière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cher a tweeté : « Que se passe-t-il avec <BLANK> » ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11h03<br />18 août 2012 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@cher ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ma carrière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "v": "589202_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je pense que Cher a peut-être accidentellement tweeté ce qu'elle tape dans Ask Jeeves chaque matin. ",
+      "t": "A",
+      "v": "589200_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]CELEBRITY TWEET : Cher a tweeté le 18 août 2012 : \"Que se passe-t-il avec <BLANK>\" ? ",
+      "t": "A",
+      "v": "589197_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ville | entreprise, communauté | entreprise, blague | déclaration, lieu | prostituée, plaie | gale, nom | approbation, flic de télévision | détective de télévision, cire de sol | garniture de dessert, balade sauvage | lente, nom drôle | accident, nom de famille | une raison de nous ridiculiser, question Fibbage | invite Quiplash, dollar d'une heure | gratuit, bon moment | engagement à vie, tas de lait gratuit | vache, arrêt de camion | un f @ # $ arrêter ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Talonneur, Oklahoma ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "emplacement|vocation ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La devise de Hooker, Oklahoma : « C’est un <BLANK>, pas un <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La devise de Hooker, Oklahoma : \"C'est un <BLANK>, pas un <BLANK>.\" ",
+      "t": "A",
+      "v": "679695_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

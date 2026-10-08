@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "L'Amérique, la collection de porcelaine fine de sa mère, son père, les cheveux de George Washington, lui-même, la tire d'eau salée, Prince, ses créanciers, un clown nommé « Bobo », Curly Joe DeRita, des jeggings, un chien enragé, la Terre, un tableau en liège, un troupeau d'oies, un ours en peluche perdu, une baleine échouée, la calèche sans chevaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mes condoléances ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un écureuil ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1772, Benjamin Franklin écrivit une lettre pour réconforter un ami en deuil dans laquelle il disait de belles choses à propos de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un écureuil mort, son écureuil de compagnie, son écureuil mort, des écureuils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il commençait par \"Hélas, pauvre Mungo...\" et ne contenait aucun jeu de mots lié aux noix. ",
+      "t": "A",
+      "v": "641460_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1772, Benjamin Franklin a écrit une lettre pour remonter le moral d'un ami en deuil dans laquelle il disait de belles choses à propos de <BLANK>. ",
+      "t": "A",
+      "v": "641457_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

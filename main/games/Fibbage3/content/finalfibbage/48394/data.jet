@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bruits forts | caca, peur | terminer une dissertation, 3 heures de sommeil | avoir une érection, parents | naître, un jour | digérer les gencives, les langues | baiser, les fesses | caca, nourriture | vivre, lait | faire les dents, une heure | se faire un ennemi, quatre repas par jour | penser clairement, rassurance constante | continuer, une récompense | apprendre, trois semaines | être propre, températures de 70 degrés | dormir bien, des bonbons | en direct, une fête d'anniversaire | rappelez-vous quel âge ils ont, du café | vraiment époustouflé les nouveaux investisseurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Besoins des animaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "21 secondes|pipi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étrange étude réalisée en 2015 par Patricia Yang, doctorante à Georgia Tech, a conclu que la plupart des mammifères ont besoin de <VIERGE> à <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "21 secondes | uriner, en même temps | faire pipi, en même temps | uriner, le même temps | faire pipi, le même temps | uriner ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](fier) Eh bien, je ne suis pas la plupart des mammifères. ",
+      "t": "A",
+      "v": "686130_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une étrange étude réalisée en 2015 par Patricia Yang, doctorante à Georgia Tech, a conclu que la plupart des mammifères ont besoin de <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "686127_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

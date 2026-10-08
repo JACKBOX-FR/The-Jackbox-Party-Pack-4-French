@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "université | allumer des incendies, un match de football | donner des monologues, une pièce de théâtre | crier ses répliques, un spa | rire trop fort, une salle de cinéma | rester debout tout le temps, course de chevaux | libérer les chevaux, un opéra | chanter, une vente aux enchères | se moquer du commissaire-priseur, de l'armée | voler un tank, une cuisine de chili | péter, un Walmart | faire semblant d'être un employé, le zoo | faire des bruits d'animaux drôles, un cours de théâtre | refuser de jouer un criminel, une église | manger bruyamment des chips, la réalité telle que nous la connaissons | trois semaines, Comic-Con | huer Tim Burton, Iowa | essayer d'épouser un immeuble, un hélicoptère | la troisième fois ce jour-là ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Adam Ouest ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une orgie|faire semblant d'être Batman ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une interview accordée à <i>Blastr</i> en 2014, l'acteur Adam West a révélé qu'il avait déjà été expulsé de <BLANK> pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une orgie|faire semblant d'être Batman,une orgie|faire comme Batman,une soirée sexe|faire semblant d'être Batman,une soirée sexe|faire semblant d'être Batman,une soirée sexe|faire comme Batman ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ces idiots nus ne sauront jamais ce qu'ils ont manqué. ",
+      "t": "A",
+      "v": "669253_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une interview accordée à <i>Blastr</i> en 2014, l'acteur Adam West a révélé qu'il avait déjà été expulsé de <BLANK> pour <BLANK>. ",
+      "t": "A",
+      "v": "669250_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

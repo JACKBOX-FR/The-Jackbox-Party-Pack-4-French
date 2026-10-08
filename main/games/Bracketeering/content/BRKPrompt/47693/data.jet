@@ -1,0 +1,159 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Film qui serait le plus génial si vous ajoutiez Arnold Schwarzenegger ",
+      "t": "A",
+      "v": "665921_1f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Ce gagnant est PG-13 pour Pretty Great... 13 ! ",
+      "t": "A",
+      "v": "665935_1f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Apportez-moi du pop-corn, j'apprécie le spectacle ! ",
+      "t": "A",
+      "v": "665934_1f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Certains de ces concurrents sont sur le point de devenir Asta La Vista ! ",
+      "t": "A",
+      "v": "665924_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Le meilleur pari à regarder avec vos grands-parents ",
+      "t": "A",
+      "v": "665922_1f",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Filmliscieux !!! ",
+      "t": "A",
+      "v": "665936_1f",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Un véritable succès au box-office ! ",
+      "t": "A",
+      "v": "665933_1f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez n'importe quel film ",
+      "t": "A",
+      "v": "665917_1f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "Meilleur film pour une séance de maquillage sérieuse ",
+      "t": "A",
+      "v": "665923_1f",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Caméra lumineuse gagnante !! ",
+      "t": "A",
+      "v": "665932_1f",
+      "n": "Win0Audio"
+    }
+  ]
+}

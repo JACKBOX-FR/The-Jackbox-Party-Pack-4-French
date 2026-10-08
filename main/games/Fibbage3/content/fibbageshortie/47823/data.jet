@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tooty Booty, Tim Allen Express, Poo Boy, Dapper Diaper, Ess Ess, Bateau, Voiture, Tug n' Chug, TUVWXYZ, Super Cool, Dental Dam, Corky Romano, Snake Cuddler, Spork, Bob Newhart, Hipster, Tolkien, Pork Bun ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Navires dans la nuit ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Lesbienne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 5 janvier 1917, le sous-marin allemand U-35 coula un cargo britannique au nom inhabituel. Il s’appelait le SS <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nommé d'après l'île de Lesbos. Ou du moins, c’est ce que dit le navire à ses grands-parents. ",
+      "t": "A",
+      "v": "668865_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 5 janvier 1917, le sous-marin allemand U-35 a coulé un cargo britannique au nom inhabituel. Il s’appelait le SS <VIERGE>. ",
+      "t": "A",
+      "v": "668862_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

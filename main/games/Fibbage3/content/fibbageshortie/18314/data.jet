@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crocodiles, hippopotames, requins, bébés grenouilles, dauphins, un autre singe en voie de disparition, son gardien de zoo, morses, piranhas, bactéries, Anthony Bourdain, ses parents, les écoliers, la femme du maire, le chien d'assistance d'un visiteur, méduses, homards, libellules ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "la vie au zoo ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "loutres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, un singe en voie de disparition dans les jardins du zoo de Bristol, en Grande-Bretagne, a connu une fin tragique lorsqu'il a été accidentellement mangé par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "loutres, loutre, une meute de loutres, loutres voraces, quelques loutres, loutres affamées ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le singe est tombé dans leur étang et ils sont allés en ville. Oh, mais je ne peux pas rester en colère contre les loutres. ",
+      "t": "A",
+      "v": "376388_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, un singe en voie de disparition dans les jardins du zoo de Bristol en Grande-Bretagne a connu une fin tragique lorsqu'il a été accidentellement mangé par <BLANK>. ",
+      "t": "A",
+      "v": "376385_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

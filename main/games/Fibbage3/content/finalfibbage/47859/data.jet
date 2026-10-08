@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un chauffeur de clown|une petite voiture, un arbre|une pièce de théâtre, rabaissée|d'une manière vraiment étrange, un chef spaghetti|un restaurant chinois, un programmeur|une ferme porcine, dessiné comme Picasso|une position compromettante, organisé une fête|un entrepôt, étudié|une cabine téléphonique, donné des coups de pied à plusieurs reprises|les tibias, trempé|du pudding chaud, un masseur|un centre de vie assistée, cuisiné|une grosse marmite, un doubleur|un jeu vidéo offensant, un général|les Britanniques Army, un joueur de triangle | le pire groupe folk du monde, enveloppé | des couvertures confortables, un panneau rotatif | un costume de zombie, chanté pour | le public ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Offres alléchantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une nounou|une maison hantée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Même si les cinq dernières personnes ont démissionné, une offre d'emploi de 2017 dans les Scottish Borders offrait un salaire de 50 000 £ à toute personne souhaitant être <BLANK> dans <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "la nounou|une maison hantée ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Même si les cinq dernières personnes ont démissionné, une offre d'emploi de 2017 dans les Scottish Borders offrait un salaire de 50 000 £ à toute personne disposée à être <BLANK> dans un <BLANK>. ",
+      "t": "A",
+      "v": "669806_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

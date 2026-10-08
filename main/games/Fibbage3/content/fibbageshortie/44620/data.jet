@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jeff Sessions, le chien le plus cool, Smokebot 311, Blunt Enforcer, contre Twenty, Phishing Pole, Voisin sensible, Space Cowboy, Doper Scoper, Narc Nose, Weed-B-Gone, Weed Seeking Missle, Pot Popper, Skunk Sniffer, M. Nez, The Spliffer Sniffer, The Bong Show, Willie Nelson ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Éliminer la criminalité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ranger nasal ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Afin de détecter les niveaux illégaux d'odeur de la fumée de marijuana, la police de Denver utilise un appareil appelé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela ressemble en fait à un mégaphone que l’on se met dans le nez, ce qui est une chose très drôle à imaginer quand on est défoncé. ",
+      "t": "A",
+      "v": "592731_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Afin de détecter les niveaux illégaux d'odeur provenant de la fumée de marijuana, la police de Denver utilise un appareil appelé <BLANK>. ",
+      "t": "A",
+      "v": "592728_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

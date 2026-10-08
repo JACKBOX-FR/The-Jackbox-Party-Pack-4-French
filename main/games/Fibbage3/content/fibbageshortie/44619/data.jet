@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "touristes, restaurants, chats errants, massages gratuits, singes grossiers, gens donnant des câlins gratuits, imitateurs de Tim Allen, Starbucks, matchs de baseball, façons de manger des fruits de mer, plages, insectes, crabes, zombies, blagues qu'il n'a pas eues, arcs-en-ciel, cuisiniers, téléphones portables ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mauvaises vacances ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jours de pluie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, un Canadien a poursuivi la République dominicaine parce que pendant ses vacances là-bas, il y avait trop de <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les jours où il pleuvait ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et cet homme... est maintenant le roi de la République dominicaine. ",
+      "t": "A",
+      "v": "592701_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, un Canadien a poursuivi la République dominicaine parce que pendant ses vacances là-bas, il y avait trop de <VIDE>. ",
+      "t": "A",
+      "v": "592698_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

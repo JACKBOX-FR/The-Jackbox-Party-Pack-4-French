@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se déshabiller, lancer des tartes, chanter \"The Star-Spangled Banner\", embrasser des gens, manger, des moutons au lasso, agiter, casser des bouteilles, danser, chasser le cerf, lire sa poésie, enseigner le yoga, faire du stand-up, se raser la barbe, mourir, manger un poisson rouge, dessiner des caricatures, lutter dans la boue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ted Nugent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ne pas effectuer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Longview, Texas, a déjà versé à Ted Nugent plus de 16 000 $ à <BLANK> lors de leur célébration du 4 juillet. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ne pas jouer, ne pas venir, ne pas chanter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pour les vrais artistes, ne rien faire n’est pas une question d’argent. Il s’agit d’être paresseux. ",
+      "t": "A",
+      "v": "355570_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Longview, Texas, a déjà versé à Ted Nugent plus de 16 000 $ à <BLANK> lors de leur célébration du 4 juillet. ",
+      "t": "A",
+      "v": "355567_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

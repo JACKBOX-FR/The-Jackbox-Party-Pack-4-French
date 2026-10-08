@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "marcher | parler, sauter | sauter, voir | sentir, rugir | bouger, connaître votre nom | où vous vivez, chanter | danser, penser | sentir, se plaindre | voter, acheter | vendre des couteaux, tuer | se sentir coupable, rire | pleurer, dormir | rêver, gémir | gémir, nous faire sourire | nous faire réfléchir, nous lever | futur|faire du jus ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La vie trouve un chemin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "péter|pipi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, un musée du Manitoba a présenté une nouvelle exposition présentant deux dinosaures robotiques <VIERGE> et <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pet|pisse,toot|pipi,toot|pisse,pet|uriner,toot|uriner,passer des gaz|pipi,passer des gaz|pisse,pipi|pet,pisse|pet,pipi|toot,pisse|toot,uriner|pet,uriner|toot,pipi|passer des gaz,pisse|passer des gaz ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, un musée du Manitoba a présenté une nouvelle exposition présentant deux dinosaures robotiques <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "654500_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frapper Chester A. Arthur, s'introduire par effraction dans le palais de Buckingham, escalader le Mont Rushmore, se cacher dans le placard de J.D. Rockefeller, revendiquer l'Alaska pour l'Angleterre, manger des dodos, prétendre avoir inventé le voyage dans le temps, voler la femme de Mark Twain, prétendre que c'était dans les années 1890, escalader Big Ben avec une couche, trouver de faux os de dinosaures, creuser en Australie, essayer de voler vers la lune, dessiner moustaches sur le mont Rushmore, se faufiler dans la tombe du roi Tut, se faire passer pour Grover Cleveland lors de fêtes, manger une batterie de voiture entière, faire une farce en appelant Teddy Roosevelt ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Devenez célèbre ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sauter des ponts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà entendu parler de Larry Donovan ? Il a tenté de devenir célèbre dans les années 1880 en faisant <BLANK> à plusieurs reprises. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sauter de grandes hauteurs, sauter des ponts, marcher hors des ponts, faire des plongées en hauteur, faire des sauts de ponts, sauter de ponts, sauter de ponts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela s'est terminé à peu près comme vous vous y attendiez. ",
+      "t": "A",
+      "v": "683604_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Avez-vous déjà entendu parler de Larry Donovan ? Il a tenté de devenir célèbre dans les années 1880 en faisant <BLANK> à plusieurs reprises. ",
+      "t": "A",
+      "v": "683601_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

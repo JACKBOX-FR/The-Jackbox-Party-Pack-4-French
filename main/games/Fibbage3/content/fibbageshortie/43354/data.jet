@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger ses propres crottes, tuer son jumeau, exploser son anus, éternuer à mort, s'accoupler avec soi-même, se retourner, faire pousser un vagin supplémentaire, faire germer des pointes, se masturber, vomir de l'or, avoir peur de son reflet, avaler sa langue, saigner de l'acide, faire des cauchemars, manger ses petits, faire pousser deux têtes, se reproduire après la mort, créer son propre frère ou sœur. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La vie des limaces ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mordre ton pénis ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les limaces bananières effectuent parfois une « apophallation », qui est l'acte de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "se mordre le pénis, se mordre le pénis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suis juste impressionné qu'ils puissent y parvenir. ",
+      "t": "A",
+      "v": "561138_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici un fait biologique : les limaces bananières effectuent parfois une « apophallation », qui est l'acte de <BLANK>. ",
+      "t": "A",
+      "v": "561135_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

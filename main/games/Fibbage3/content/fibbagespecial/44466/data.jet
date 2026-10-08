@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préservatif girafe, parachute écureuil, filet à crabe, dispositif de retenue pour tout-petits, passoire à crème glacée, piège à raton laveur, lisseur de roses, taille-crayon pour hot-dog, polisseuse à baguette magique, re-dimpler de balle de golf, attrape-ongles, attrape-guêpes, séchoir à raisins secs, nettoyant pour pinceaux, polisseuse de sein, rasoir instantané, détecteur de diamants, collecteur de fromage ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Qu'est-ce que c'est ? ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "collecteur de crottes de chien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce brevet de 1998 est censé être un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "collecteur de crottes de chien, collecteur de crottes de chien, collecteur de crottes de chien, collecteur de crottes de chien, collecteur de merde de chien, sac de crottes de chien ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588902_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "588925_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais j'ai peur que Rover l'aime pour toutes les mauvaises raisons. ",
+      "t": "A",
+      "v": "588900_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une autre preuve de génie parmi nous, ce brevet de 1998 est censé être un <BLANK>. ",
+      "t": "A",
+      "v": "588897_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

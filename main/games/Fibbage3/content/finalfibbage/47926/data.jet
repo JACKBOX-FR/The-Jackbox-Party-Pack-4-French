@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cyclisme | intimidateurs, course à pied | parpaings, volley-ball | bombes, lutte | vieillards, jonglerie | couteaux, natation | requins, flirt | danger, pompes | feu, kickboxing | ours, danse | talons cassés, surf | dragons de komodo, tambours | retenue, marche | un œuf soigneusement équilibré, danse burlesque | votre chien, ballet | chat remarques, boxe | Gary Busey, escalade | un pique-nique, karaté | bière ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "routine d'entraînement ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "yoga|chèvres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous voulez pimenter votre routine d’entraînement ? Inscrivez-vous à un cours avec Lainey Morse. Elle enseigne <BLANK> avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous voulez pimenter votre routine d'entraînement ? Inscrivez-vous à un cours avec Lainey Morse. Elle enseigne <BLANK> avec <BLANK>. ",
+      "t": "A",
+      "v": "672471_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

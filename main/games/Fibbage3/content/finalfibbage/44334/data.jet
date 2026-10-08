@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "quitter|travail, gifler|mégots,honte|chiens,jeter|fromage,brûler|langues,boire|eau de toilette,brûler|maisons,manger de toutes|figues,changer|noms,échanger|conjoints,donner|argent,boucher|oreilles,crier sur|enfants,malédiction|ancêtres,lécher|pieds,percer|mamelons,tournoyer|moustaches,odeur|pain ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Deuil de chat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "raser|sourcils ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu’un chat de compagnie mourait dans l’Égypte ancienne, ses propriétaires avaient une étrange façon de faire leur deuil. Ils feraient <VIERGE> leur <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "rasé|sourcils,enlevé|sourcils,rasé|sourcils,raser|sourcils,enlever|sourcils ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suis presque sûr que c'est pour cela que la folle aux chats d'à côté l'attire toujours. ",
+      "t": "A",
+      "v": "585305_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsqu'un chat de compagnie mourait dans l'Égypte ancienne, ses propriétaires avaient une étrange façon de faire leur deuil. Ils feraient <BLANK> leur <BLANK>. ",
+      "t": "A",
+      "v": "585302_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "jeter du caca, monter sur un petit tricycle, boire de la bière, Drew Barrymore, écrire son nom, des chaussures compensées, voler des portefeuilles, des lunettes de soleil, porter des chaussures minuscules, des anneaux de nez, du café, Dippin' Dots, Les Simpsons, sa propre mortalité, manger de la pizza, cheveux roses, poker, musique rap ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Obsession ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un zoo de Moscou s'est inquiété lorsque Thomas le raton laveur a développé une soudaine obsession pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "seins, seins, mammaires, seins, seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh, il a juste cet âge. ",
+      "t": "A",
+      "v": "571030_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un zoo de Moscou s'est inquiété lorsque Thomas le raton laveur a développé une soudaine obsession pour <BLANK>. ",
+      "t": "A",
+      "v": "571027_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

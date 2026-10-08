@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "obturateur de canalisation, attrape-mouches, bouchon d'oreille flexible, chewing-gum, scellant pour pneus, gel pour cheveux, porte-crayons, presse-papier, polisseuse à balles, portefeuille flexible, alternative à la sauce épaisse, aide-mémoire, substitut de pudding, détartreur de poisson, épilateur, gomme à stylo, aide digestive, substitut de fromage ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Polyvalent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nettoyant pour papier peint ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant d'être transformé en jouet pour enfants, Play-Doh a été conçu comme un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nettoyant pour papier peint, nettoyant pour papier peint ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et ici, j'ai passé toutes ces années à nettoyer MON papier peint avec Nickelodeon GAK. ",
+      "t": "A",
+      "v": "608773_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant d'être transformé en jouet pour enfants, Play-Doh a été conçu comme un <VIERGE>. ",
+      "t": "A",
+      "v": "608770_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

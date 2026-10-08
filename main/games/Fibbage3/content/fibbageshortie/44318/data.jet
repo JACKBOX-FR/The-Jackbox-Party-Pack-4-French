@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mauvaise haleine, personnalité ennuyeuse, habitudes alimentaires, nageoires laides, opinions politiques, grandes dents, petit évent, vision triste de la vie, accumulation de balanes, yeux globuleux, nageoire de forme étrange, style de nage, convivialité avec les humains, comportement agressif, dépendance aux crevettes, refus de s'engager, amour de faire des bulles, incapacité de sauter hors de l'eau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Baleine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mauvais chant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 1989, les scientifiques traquent « la baleine la plus solitaire du monde » qui, selon eux, est si seule à cause de son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chant, chant faux, mauvaise voix chantée, voix chantée, voix ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Son chant de baleine est si aigu qu'il ne correspond à aucune espèce connue. Tout comme moi dans une chorale swing... ",
+      "t": "A",
+      "v": "584795_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis 1989, les scientifiques traquent « la baleine la plus solitaire du monde » qui, selon eux, est si seule à cause de son <BLANK>. ",
+      "t": "A",
+      "v": "584792_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

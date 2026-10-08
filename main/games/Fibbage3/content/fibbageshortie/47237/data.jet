@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "imiter un éléphant, lire de la poésie, enfiler une tenue de dame lion, faire la macarena, parler de politique, allumer un feu, réfléchir la lumière d'un iPad, cracher de l'eau, relâcher un autre puma, parler de son podcast, lui lancer des nachos, raconter une histoire de fantôme effrayant, jouer des cuillères, refuser d'y croire, manger sa propre chaussette, mettre une chemise No Fear, se cacher derrière un passant ours, chantant des airs de spectacle ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Clôture des appels ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enlever ses lunettes de soleil ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mai 2017, un randonneur dans les montagnes Catalina en Arizona a empêché un lion de montagne agressif d'attaquer simplement par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "enlevant ses lunettes de soleil,établissant un contact visuel,le regardant dans les yeux,le regardant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les lions des montagnes peuvent être effrayés en établissant un contact visuel. Un peu comme moi à un rendez-vous. ",
+      "t": "A",
+      "v": "655049_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mai 2017, un randonneur dans les montagnes Catalina en Arizona a empêché un lion de montagne agressif d'attaquer simplement par <VIERGE>. ",
+      "t": "A",
+      "v": "655046_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

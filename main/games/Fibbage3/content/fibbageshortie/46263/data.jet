@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "meurtre, se marier, sculpter, farce, cloner, déjeuner avec, se transformer en, proposer de, rétrécir, imiter, lécher, sentir, renommer, humilier, faire un roadtrip avec, high five, manger, geler ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Georges Washington ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ressusciter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "William Thornton était un éminent médecin et architecte américain, mais sa contribution la plus étrange à l'histoire fut probablement son plan détaillé destiné à <BLANK> George Washington. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "zombifier, réanimer, ramener d'entre les morts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et comme personne ne l'a laissé jouer avec le cadavre, nous ne le saurons jamais vraiment. ",
+      "t": "A",
+      "v": "639840_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]William Thornton était un éminent médecin et architecte américain, mais sa contribution la plus étrange à l'histoire était probablement son plan détaillé pour <VIERGE> George Washington. ",
+      "t": "A",
+      "v": "639837_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

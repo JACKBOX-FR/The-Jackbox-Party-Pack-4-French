@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bu | des bières, crié | des mots maudits, largué | des écureuils morts, brûlé | des paires de sous-vêtements, léché | des timbres, fumé | des cigares, attendu | des heures, signé | des autographes, sauté à la corde | cinq|représentants,parlé à|des enfants,regardé|des vidéos YouTube à plein volume,tricoté|couvertures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dissidence civique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "libéré|punaises de lit ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 2 juin 2017, un homme d'Augusta, dans le Maine, voulait protester contre le gouvernement de sa ville. Donc, il <VIERGE> cent <VIERGE> à l'intérieur de l'hôtel de ville. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "laisser|punaises de lit,déchaîné|punaises de lit,libéré|punaises de lit,laisser|punaises de lit,déchaîné|punaises de lit ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 2 juin 2017, un homme d'Augusta, dans le Maine, voulait protester contre le gouvernement de sa ville. Donc, il <BLANK> cent <BLANK> à l'intérieur de l'hôtel de ville. ",
+      "t": "A",
+      "v": "673922_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

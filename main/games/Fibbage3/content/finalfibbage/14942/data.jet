@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Fritos|oranges,huile de voiture|caoutchouc,vanille|Old Spice,champagne|fromage, draps propres|citrouille,chien mouillé|febreeze,essence|citrons,cèdre|sauce pour pâtes,chocolat|saucisse, fumée de bois|bacon, lavande|toile de jute, fromage nacho|menthe, popcorn|Axe Body Spray,odeur de voiture neuve|cumin,curry|herbe,herbe coupée|popcorn,roses|nouveau livres,zeste d'orange|menthe poivrée ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Parfums sexy ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "concombre|réglisse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Smell and Taste Treatment and Research Foundation a conclu que le parfum le plus excitant sexuellement pour les femmes est une combinaison de <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "réglisse|concombre,concombres|réglisse,réglisse|concombres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Pourtant, lorsque je m'applique du jus de cornichon et des Twizzlers fondus sur mon cou, je n'ai que des regards étranges. ",
+      "t": "A",
+      "v": "330921_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La Smell and Taste Treatment and Research Foundation a conclu que le parfum le plus excitant sexuellement pour les femmes est une combinaison de <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "330918_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

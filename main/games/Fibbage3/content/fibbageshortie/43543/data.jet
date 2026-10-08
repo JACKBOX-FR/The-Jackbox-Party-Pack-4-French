@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "photo de profil, ronflement, nouveau petit ami, danse, Instagram, cuisine, capacité de conduite, compétences en jeux vidéo, note de rupture, capacités d'élevage d'abeilles, garde-robe, compétences en tir à l'arc, poésie, arbre généalogique, messages texte, compétences de survie en milieu sauvage, liste de lecture Spotify, compétences en tenue de main ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "notes de petite amie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lettre d'excuses ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nick Lutz, étudiant à l'Université de Stetson, a fait la une des journaux après avoir publiquement noté <BLANK> de son ex-petite amie. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "note d'excuses, excuses ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle a eu un D-. ",
+      "t": "A",
+      "v": "564846_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Nick Lutz, étudiant à l'Université de Stetson, a fait la une des journaux après avoir publiquement noté <VIERGE> de son ex-petite amie. ",
+      "t": "A",
+      "v": "564843_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

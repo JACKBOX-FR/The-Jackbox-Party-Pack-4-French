@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "whisky, drogues dures, sacs hyperventilants, crumpets, armes à feu, billets d'avion, zoloft, jeux vidéo, armures de chevalier, boucliers, kleenex, Guinness, bibles, fish and chips, appareils d'enregistrement, faux passeports, sacs de boxe, porno ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "l'atout de la science ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "balles anti-stress ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après l’entrée en fonction du président Trump, les scientifiques du Research Councils UK ont décidé d’envoyer leurs collègues américains <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "balles à presser, anti-stress ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils allaient acheter le leur, mais cela aurait épuisé leur budget. ",
+      "t": "A",
+      "v": "565046_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après l'entrée en fonction du président Trump, les scientifiques du Research Councils UK ont décidé d'envoyer leurs collègues américains <BLANK>. ",
+      "t": "A",
+      "v": "565043_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

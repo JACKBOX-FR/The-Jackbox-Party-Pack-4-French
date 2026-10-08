@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dégueulasse, ça sent la liberté, JK, MDR, Miam !, Oh non !, Un insecte bizarre que j'ai vu, Kow, Moo, je veux, Tilda, Johnny, Tellement arrogant, j'adore les chiens !, Mignon, j'ai vu mieux, Le lait est bon à boire, il s'appelle Mootha Stewart ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Commentaire bovin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "L ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Martha Stewart a tweeté une photo d'une vache et a écrit : \"<BLANK>\". ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "10h06<br />5 mai 2014 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@MarthaStewart ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "je ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "643592_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si vous n'obtenez pas Martha, c'est votre faute. ",
+      "t": "A",
+      "v": "643590_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En mai 2014, Martha Stewart a tweeté une photo d'une vache et a écrit : <BLANK>. ",
+      "t": "A",
+      "v": "643587_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

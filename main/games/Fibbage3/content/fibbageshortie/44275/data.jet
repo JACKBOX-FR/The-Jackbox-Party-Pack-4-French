@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "appareils dentaires, tatouages ​​de flammes, mixtapes, palmes qui brillent dans le noir, médaillons dorés, casques sonar, noms de stars du porno, espoir, billets pour Sea World, cloches d'avertissement, une conférence sévère, des dents plus douces, une peur des humains, des maux de tête, des déjeuners gratuits, des gilets lourds, des casquettes de baseball, des colliers électriques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Problèmes de requin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "accès à Twitter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le but de réduire les attaques de requins, des chercheurs du gouvernement australien ont donné à plus de 300 requins <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Twitter, comptes Twitter ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les requins tweetent automatiquement leur emplacement. Et beaucoup de jeux de mots sur le poisson à @midnight. ",
+      "t": "A",
+      "v": "583475_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pour tenter de réduire les attaques de requins, des chercheurs du gouvernement australien ont donné à plus de 300 requins <VIERGE>. ",
+      "t": "A",
+      "v": "583472_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

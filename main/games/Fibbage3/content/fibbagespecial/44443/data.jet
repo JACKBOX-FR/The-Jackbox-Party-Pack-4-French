@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Gâteau, Cuir, une perruque, une rancune, Poulet, Fritos, Une mauvaise journée, Un passé sombre, Un chiot, Une maman aimante, Une petite amie, Mon parfum, Baume à lèvres, Tortues, la rage, les cheveux dans le dos, les enfants, un nombril outie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Kim K. ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Cavités ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kim Kardashian a tweeté qu'elle avait un talent particulier. \"Je peux sentir quand quelqu'un a <BLANK>.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "14h29<br />13 août 2009 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@KimKardashian ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Cavités ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588428_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle a vraiment raté sa vocation. ",
+      "t": "A",
+      "v": "588426_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Kim Kardashian a tweeté le 13 août 2009 qu'elle avait un talent particulier. \"Je peux sentir quand quelqu'un a <BLANK>\" ",
+      "t": "A",
+      "v": "588423_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

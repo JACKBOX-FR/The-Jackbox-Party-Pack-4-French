@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une première ébauche de la Constitution, une salle de sexe secrète, des plans pour une machine à voyager dans le temps, des lettres de 3 princesses différentes, la partition d'une comédie musicale sur les chats, une peinture du chien de James Madison, un dessin pour les lunettes à trois foyers, des notes pour une nouvelle religion, une collection de sous-vêtements pour femmes, un crocodile de zoo en fuite, des adolescents en train de s'embrasser, un sans-abri, du vin d'une valeur de plus d'un milliard de dollars, un robot de Thomas Jefferson, quatre pièces de Shakespeare perdues, des centaines de cerfs-volants, un beau bois dur étages, un g-g-g-fantôme ! ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Résultats de Franklin ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "15 corps ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors d’une rénovation de la maison londonienne de Ben Franklin en 1998, les historiens ont été surpris de découvrir <BLANK> dans le sous-sol du père fondateur. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Restes humains, squelettes, corps, corps humains, os humains, quinze corps ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les restes provenaient probablement d'une école d'anatomie qui partageait le bâtiment... probablement. ",
+      "t": "A",
+      "v": "687022_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors d'une rénovation de la maison londonienne de Ben Franklin en 1998, les historiens ont été surpris de découvrir <BLANK> dans le sous-sol du père fondateur. ",
+      "t": "A",
+      "v": "687019_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

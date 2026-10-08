@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "écrire des scénarios, utiliser des mots à la mode, comme des rayures, échanger des actions, comme de l'argent, comme des montres en or, aller dans les toilettes, rythmer, se coiffer, ennuyer leurs amis, regarder des films d'horreur, leur griffer le visage, entendre des voix, résoudre des énigmes, courir jusqu'à la mort, piloter des hélicoptères, crier dans leur sommeil, se détester ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Statistiques sur les rats ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "profiter du jazz ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, des chercheurs de l'Albany Medical College ont découvert que les rats ayant reçu de la cocaïne étaient plus susceptibles de <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Comme le jazz, écoute du jazz, du jazz, comme Miles Davis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils pensaient également que Ryan Gosling était un bon danseur. Vous voyez ce que les médicaments feront ? ",
+      "t": "A",
+      "v": "589560_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, des chercheurs de l'Albany Medical College ont découvert que les rats ayant reçu de la cocaïne étaient plus susceptibles de <VIERGE>. ",
+      "t": "A",
+      "v": "589557_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

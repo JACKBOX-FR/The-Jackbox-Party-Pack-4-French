@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "musique jazz, saleté, spécialisation en arts libéraux, misère, zombies du cannabis, créativité, médiocrité hollandaise, horreurs, frère mauvais payeur de l'artiste, mégots, païens, invention, gendres, imbéciles, pères mauvais payeurs, médiocrité, mecs, tristesse ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chambres ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Génie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette estampe de Thomas Rowlandson de 1806 est appelée à juste titre « La Chambre de <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "604496_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "604519_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jetez une affiche de Bob Marley là-dedans, et vous regarderiez à peu près mon dortoir de première année. ",
+      "t": "A",
+      "v": "604494_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette estampe de Thomas Rowlandson de 1806 s'appelle à juste titre « La Chambre de <BLANK> ». ",
+      "t": "A",
+      "v": "604491_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

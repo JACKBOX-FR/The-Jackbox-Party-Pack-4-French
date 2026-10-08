@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger|une pizza profonde,gagner|un concours de dégustation de hot-dogs,sculpter|une statue, retirer|un éclat, écrire|un scénario, jouer|un homme-orchestre, sauter sur|un trampoline, cuire|un gâteau, gagner|un orthographe, un faux|tour de magie, improviser|un spectacle de femme, terminer|un puzzle sudoku, taper|un papier sur des abeilles, griller|un gosse, envelopper parfaitement|un burrito aux haricots, boire|un gallon de lait, liste | matelas sur Craigslist, changement | pneu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Espace Espace Espace ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "courir|marathon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 16 avril 2007, l'astronaute Sunita Williams est devenue la première personne à <BLANK> un <BLANK> dans l'espace. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "terminer|marathon,terminer|marathon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est pourquoi la navette spatiale porte un symbole odieux « 26,2 ». ",
+      "t": "A",
+      "v": "673895_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 16 avril 2007, l'astronaute Sunita Williams est devenue la première personne à <BLANK> un <BLANK> dans l'espace. ",
+      "t": "A",
+      "v": "673892_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

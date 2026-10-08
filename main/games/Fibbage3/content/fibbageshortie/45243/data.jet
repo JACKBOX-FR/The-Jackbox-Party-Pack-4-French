@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lécher une pomme, boire du lait de chien, s'asseoir dans du jus de tomate, se faire tatouer, jeter un quart dans un puits, monter à cheval nu, faire pipi sur une pierre chaude, cracher sur une clôture électrique, mélanger son sang avec de l'essence, se couper un doigt, voir si tu flottes dans le vin, boire du kérosène, frotter ton ventre sur un châtaignier, voir si tes cheveux frisent la nuit, vérifier les poils des orteils, vérifier la présence d'elfes sous ton lit, te faire cracher un chameau, manger une livre de farine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Faire des bébés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "injecter de l'urine à une grenouille ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le scientifique britannique Lancelot Hogben est l'inventeur d'un étrange test de grossesse. Pour savoir si vous attendiez un bébé, il vous suffisait de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tuer une grenouille, injecter de l'urine à une grenouille, injecter de l'urine à une grenouille ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le scientifique britannique Lancelot Hogben est l'inventeur d'un étrange test de grossesse. Pour savoir si vous attendiez un bébé, il vous suffisait de <VIERGE>. ",
+      "t": "A",
+      "v": "609366_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

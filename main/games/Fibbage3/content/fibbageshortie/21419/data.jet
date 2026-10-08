@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une tasse à café, une sculpture de nu, une bougie, la Statue de la Liberté, une peinture surréaliste, un pouf, un bac à litière, un bac à sable pour enfant, un anneau de nez, un vitrail, des carillons éoliens, une mangeoire à colibris, une boucle de ceinture, son corps, un soutien-gorge, un iPod Touch, un Etch-a-Sketch, un sablier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cendres en cendres ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un jouet sexuel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le designer Mark Sturkenboom souhaite vous aider à vous souvenir d'un être cher décédé en plaçant 21 grammes de ses cendres à l'intérieur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un gode, des jouets sexuels, des godes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est un moyen idéal pour se souvenir d'une personne nommée Buzz. ",
+      "t": "A",
+      "v": "404998_1f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le designer Mark Sturkenboom souhaite vous aider à vous souvenir d'un être cher décédé en plaçant 21 grammes de ses cendres à l'intérieur de <BLANK>. ",
+      "t": "A",
+      "v": "404995_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

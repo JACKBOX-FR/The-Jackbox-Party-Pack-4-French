@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les gens, les girafes, les éléphants, les ours, les cerfs, les tigres, les chimpanzés, les Allemands, les bisons, les paresseux, les pandas, les chimpanzés, les vaches, les robots, les cochons, les golfeurs, les chats, les lions ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Aides miniatures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chevaux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2011, la définition d'un « animal d'assistance » a été mise à jour dans l'Americans With Disabilities Act. Comme alternative aux chiens, la loi autorise désormais les <BLANK> miniatures. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cheval, poney, poneys ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui semble injuste, car ils ont déjà un travail à temps plein pour avoir l'air adorable. ",
+      "t": "A",
+      "v": "349497_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2011, la définition d'un « animal d'assistance » a été mise à jour dans l'Americans With Disabilities Act. Comme alternative aux chiens, la loi autorise désormais les <BLANK> miniatures. ",
+      "t": "A",
+      "v": "349494_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

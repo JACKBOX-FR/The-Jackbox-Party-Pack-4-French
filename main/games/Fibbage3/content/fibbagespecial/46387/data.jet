@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cheveux, timing comique, grand-père, sous-chef, mini-golfeur, voleur de scène, cosplayer, cracker aux articulations, lanceur de tomates, joueur de poker, pets, mangeur de piment, appeleur de canard, calligraphie, donneur de direction, fumeur de cigare, joueur de monopole, conteur de blagues sales ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le plus grand ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cadran de fesses ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zach Braff a tweeté à propos de son collègue acteur Jeffrey Tambor : « Le meilleur <BLANK> de tous les temps. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11h05<br />23 février 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@zachbraff ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mais composez, cadran de poche, numérotation accidentelle, appel bout à bout ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "643652_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En février 2017, Zach Braff a tweeté à propos de son collègue acteur Jeffrey Tambor : « Le meilleur <BLANK> de tous les temps. » ",
+      "t": "A",
+      "v": "643647_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

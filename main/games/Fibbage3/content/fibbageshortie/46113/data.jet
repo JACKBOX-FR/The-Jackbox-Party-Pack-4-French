@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "éloigner les chats errants, empêcher les invasions extraterrestres, dissuader les immigrants illégaux, éloigner les prostituées, la réception de la télévision, le tourisme, empêcher les gens de s'éloigner, avec leur surplus de dôme géant, garder l'odeur de la nouvelle ville, décourager le parachutisme, les matchs de baseball pluvieux, augmenter les arcs-en-ciel, les astronomes, les personnes âgées sortent davantage, les écrits de Stephen King, les arbres fruitiers, préserver les monuments historiques, les feux d'artifice ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dômes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "factures de chauffage réduites ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1979, Winooski, dans le Vermont, a proposé de construire un dôme de protection qui couvrirait toute la ville. Ils pensaient que cela aiderait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "réduire les factures de chauffage,diminuer les factures de chauffage,diminuer les coûts de chauffage,réduire les coûts de chauffage,diminuer les coûts de chauffage,diminuer les coûts de chauffage,diminuer les coûts de chauffage,réduire les coûts de chauffage,diminuer les factures de chauffage,diminuer les factures de chauffage,réduire les factures de chauffage,diminuer les factures de chauffage de la ville,réduire les factures de chauffage de la ville,diminuer les factures de chauffage de la ville ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et en bonus : tous les oiseaux morts que vous pourriez manger ! ",
+      "t": "A",
+      "v": "635316_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1979, Winooski, dans le Vermont, a proposé de construire un dôme de protection qui couvrirait toute la ville. Ils pensaient que cela aiderait <BLANK>. ",
+      "t": "A",
+      "v": "635313_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

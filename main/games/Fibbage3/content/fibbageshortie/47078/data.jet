@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "DY-NO-MITE, vaisseau spatial, Où est le bœuf ?, selfie, restaurant, citrouille, calzone, relish, Clint Eastwood, mercure, président, spaghetti, pumpernickel, ornithorynque, Coca Cola, tambourin, Floride, Bologne ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fautes d'orthographe ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Wookiee ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le <i>The Dallas Morning News</i> s'est excusé pour une faute d'orthographe commise 40 ans plus tôt. En 1977, le journal a mal orthographié « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Wookiee, Wokiee, Wookie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est comme on dit : Que le Fjord soit un Noël de sorcière ",
+      "t": "A",
+      "v": "652953_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le <i>The Dallas Morning News</i> s'est excusé pour une faute d'orthographe commise quarante ans plus tôt. En 1977, le journal a mal orthographié <VIERGE>. ",
+      "t": "A",
+      "v": "652950_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

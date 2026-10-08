@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Alimentation compétitive, breakdance, déclarations d'impôts, musique punk, jonglerie, trains miniatures, tir à l'arc, couture, réparation automobile, voix off, bandes dessinées, rénovation de la maison, pêche, bowling, anecdotes, nettoyage, dentisterie, chimie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "plié plié ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'instructrice de yoga allemande Jhula enseigne un cours inhabituel qui combine le yoga traditionnel avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "alcool, boire de la bière, boire de l'alcool, de l'alcool, boire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La position la plus populaire est celle de l'ivrogne face vers le bas. ",
+      "t": "A",
+      "v": "559573_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jhula, professeur de yoga allemand, enseigne un cours inhabituel qui combine le yoga traditionnel avec <BLANK>. ",
+      "t": "A",
+      "v": "559570_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

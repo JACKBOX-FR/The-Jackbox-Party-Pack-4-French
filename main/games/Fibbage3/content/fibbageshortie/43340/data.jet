@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un retour vers le futur, des cigarettes, un lance-roquettes, leur signe, leurs doigts, des conseils de rencontres, leurs numéros de téléphone, du jambon en conserve, leurs nécrologies, leurs dents, des billets pour Beyoncé, un morceau de chewing-gum, un Freaky Friday, un briquet, leurs plus grandes peurs, le vaisseau spatial du président, leurs adresses, le meilleur endroit pour les couper ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Plus de questions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fromage en tranches ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les employés d'une pharmacie CVS en Virginie se sont enfermés dans une arrière-boutique et ont appelé la police après qu'un client ait demandé <BLANK> à l'un d'eux. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fromage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Normalement, je pourrais vous donner un petit contexte pour expliquer pourquoi cela s'est produit, mais honnêtement, je n'en ai aucune idée. ",
+      "t": "A",
+      "v": "560763_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les employés d'une pharmacie CVS en Virginie se sont enfermés dans une arrière-boutique et ont appelé la police après qu'un client ait demandé <BLANK> à l'un d'eux. ",
+      "t": "A",
+      "v": "560760_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

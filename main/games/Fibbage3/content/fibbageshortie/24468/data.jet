@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire des farces à leur professeur, sauter l'école, ne plus donner de wedgies, se moquer du soumis, faire des combats de nourriture, donner des nurples violets, passer des tests standardisés, organiser une semaine spirituelle, mettre des nerds dans des casiers, aller à l'université, faire des impressions de Borat, porter des pantalons amples, écrire en cursive, imprimer leurs papiers, chanter des paroles offensantes, faire des bruits de pet avec leurs aisselles, reconnaître Manhattan comme faisant partie des États-Unis, poursuivre leurs parents en justice ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Débat ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "manger leur poisson de compagnie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après un long débat éthique, les collégiens d'Ella Baker, une école publique de Manhattan, ont officiellement décidé de ne pas <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faire griller leur poisson de compagnie, faire griller leur poisson de classe, manger leur poisson de classe, manger un poisson, manger leur animal de compagnie, manger leur poisson ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ouais, ça valait vraiment les prix des frais de scolarité à Manhattan. ",
+      "t": "A",
+      "v": "423788_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après un long débat éthique, les collégiens d'Ella Baker, une école publique de Manhattan, ont officiellement décidé de ne pas <VIDE>. ",
+      "t": "A",
+      "v": "423785_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

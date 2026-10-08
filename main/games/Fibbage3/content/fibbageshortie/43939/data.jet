@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une épée, George Washington, Thomas Jefferson, une publicité, une femme, jaune, bacon, violence, tabac, Amérindiens, animaux, latin, un banjo, la faune, un cœur, un serpent, des fusils, des rayures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Marqué ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nudité ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Virginie est le seul État américain dont le drapeau comporte <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nudité, nue, nudité, une femme nue, une femme seins nus, seins, tétons, seins, seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je vais vous donner une seconde pour rechercher sur Google... c'est parti. ",
+      "t": "A",
+      "v": "573604_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La Virginie est le seul État américain dont le drapeau comporte <BLANK>. ",
+      "t": "A",
+      "v": "573601_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

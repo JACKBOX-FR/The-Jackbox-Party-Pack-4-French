@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cocaïne, or autrichien, fausse monnaie, poux, grenouilles, le premier ministre du Canada, diamants, compote de pommes, manteaux de fourrure, son demi-frère, un espion français, des feux d'artifice illégaux, la Déclaration d'indépendance, du rhum cubain, un buffle, Babe Ruth, des bandes dessinées de Superman, un tableau de Picasso ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Scandale présidentiel ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un sapin de Noël ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1902, Archie, le fils de Teddy Roosevelt, avait un grand secret : il avait introduit clandestinement <BLANK> à la Maison Blanche. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Roosevelt n'était pas fan de la tradition, mais son fils lui a appris le vrai sens de Noël : tuer des arbres. ",
+      "t": "A",
+      "v": "562312_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1902, Archie, le fils de Teddy Roosevelt, avait un grand secret : il avait introduit clandestinement <BLANK> à la Maison Blanche. ",
+      "t": "A",
+      "v": "562309_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

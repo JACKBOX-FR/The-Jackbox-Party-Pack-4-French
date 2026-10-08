@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un serpent, une lime à ongles, une décoration de Noël, une carte à jouer Ty Cobb, un Rubik's cube, un rasoir droit, un pistolet, une petite bouteille de gin, une épingle Calvin Coolidge, une boîte à tabac, un couteau à fromage, sa patte de lapin porte-bonheur, une bague de fiançailles, sa clé de casier, une paire de ciseaux, un tube de pommade, des crics en métal, une boîte de suppositoires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "blessures aux fesses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ses fausses dents ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1923, Clarence Blethen, joueur des Red Sox de Boston, s'est ouvert la fesse lorsqu'il s'est glissé en deuxième position avec <BLANK> dans sa poche. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fausses dents, prothèses dentaires, son dentier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne dirai pas que ça lui a vraiment mordu le cul, mais... eh bien, trop tard. ",
+      "t": "A",
+      "v": "565908_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Parlez d'une blessure étrange : en 1923, le joueur des Red Sox de Boston, Clarence Blethen, s'est ouvert la fesse alors qu'il glissait en deuxième position avec <BLANK> dans sa poche. ",
+      "t": "A",
+      "v": "565905_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

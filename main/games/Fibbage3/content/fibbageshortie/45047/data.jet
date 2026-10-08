@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sent les nerds, tu es seul, ils sont à l'envers, tu es riche, à l'intérieur, tu as des frères et sœurs, tu sens les rats, ils sont à côté du tabouret, tu as les yeux bandés, tu sens avec tes oreilles, tu viens de regarder Full House, on te dit qu'ils sentent bon, il y a de la musique de banjo, tu ne sais pas que ce sont des roses, elles sont coupées en morceaux, elles sont appelées par un autre nom, tu connais ton QI, les chats les lèchent en premier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Roses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "dans l'espace ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1998, une société de parfumerie, International Flavors & Fragrances, a financé une étude qui a révélé que les roses avaient une odeur différente lorsque <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "en apesanteur, il n'y a pas de gravité, tu es dans l'espace ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Il s'avère que la gravité affecte l'odeur. ",
+      "t": "A",
+      "v": "603469_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1998, une société de parfumerie, International Flavors & Fragrances, a financé une étude qui a découvert que les roses avaient une odeur différente lorsque <BLANK>. ",
+      "t": "A",
+      "v": "603466_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

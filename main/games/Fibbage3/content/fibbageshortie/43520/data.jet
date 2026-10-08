@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nerds, sirènes, personnes nommées Stephen, repêchage, joueurs de la NBA, fans de My Little Pony, écrivains du magazine MAD, kickboxers, Wayne Gretzky, intelligence artificielle, maires à la retraite, vie extraterrestre, ennemis de Neil DeGrasse Tyson, joueurs, employés de Papa John, végétariens, résidents d'une communauté de retraite, fans de Wings ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fête de Stephen Hawking ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voyageurs du temps ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 28 juin 2009, le physicien Stephen Hawking a organisé une fête ouverte uniquement à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voyage dans le temps, personnes capables de voyager dans le temps, voyageurs dans le temps, voyageurs dans le temps, voyageurs dans le temps ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui est bien, c'est que si vous l'avez ignoré, vous pouvez toujours changer d'avis. ",
+      "t": "A",
+      "v": "564287_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 28 juin 2009, le physicien Stephen Hawking a organisé une fête ouverte uniquement à <BLANK>. ",
+      "t": "A",
+      "v": "564284_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

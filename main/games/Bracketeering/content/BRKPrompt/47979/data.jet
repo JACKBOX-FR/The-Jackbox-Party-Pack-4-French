@@ -1,0 +1,126 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Testé enfant approuvé par la mère !!! ",
+      "t": "A",
+      "v": "674165_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Le petit déjeuner battu !!! ",
+      "t": "A",
+      "v": "674167_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Nutritif !!! ",
+      "t": "A",
+      "v": "674166_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est LA céréale du petit-déjeuner qui sera celle que les gens seront autorisés à manger à partir de maintenant ?! ",
+      "t": "A",
+      "v": "674163_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "je prépare mon lait ",
+      "t": "A",
+      "v": "674156_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Céréales pour petit-déjeuner qui méritent d'être les seules céréales que les gens sont autorisés à manger, selon la loi. ",
+      "t": "A",
+      "v": "674149_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Délicieux !!! ",
+      "t": "A",
+      "v": "674164_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

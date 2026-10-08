@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger un ours, se faire passer pour Gandalf, se lier d'amitié avec des émeus, hiberner, manger son propre pied, construire un planeur avec des bâtons, manger des champignons vénéneux, manger de la terre, lécher la mousse des arbres, rationner un seul Red Bull, tuer un morse avec ses mains, ne manger que des vers, faire du feu avec un tampon, devenir sauvage, faire de la soupe de roche, attraper des mouches avec du miel, fabriquer un pistolet avec des brindilles, cannibalisme ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Survie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire son propre lait maternel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après s'être perdue dans la nature sauvage de la vallée d'Orongorongo, une Néo-Zélandaise de 29 ans a survécu à <BLANK> ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "boire du lait maternel,boire son propre lait,lait maternel,allaiter,s'allaiter elle-même ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et il y a probablement encore un connard qui est en colère contre le fait qu'elle ait allaité en public. ",
+      "t": "A",
+      "v": "408307_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après s'être perdue dans la nature sauvage de la vallée d'Orongorongo, une Néo-Zélandaise de 29 ans a survécu à <BLANK> ",
+      "t": "A",
+      "v": "408304_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

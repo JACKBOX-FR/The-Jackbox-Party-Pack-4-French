@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nez prothétiques, voitures, fossiles de dinosaures, poupées en porcelaine, lits superposés, dosettes de café, nuggets de poulet, chapeaux, lits à eau, nations insulaires, DVD Seinfeld, bouteilles d'énergie de 5 heures, canettes de RC Cola, bébés bonnets, boîtes de thon, oursons gommeux, tubes de rouleaux de croissant, lunettes de soleil ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Johnny Depp ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boules de coton ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Commentant ses finances personnelles, Johnny Depp a déclaré : « Si je veux acheter 15 000 <BLANK> par jour, c'est mon truc. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "boules de coton, coton ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je veux dire, il a beaucoup de bracelets à polir. ",
+      "t": "A",
+      "v": "639780_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Commentant ses finances personnelles, Johnny Depp a déclaré : « Si je veux acheter 15 000 <BLANK> par jour, c'est mon truc. » ",
+      "t": "A",
+      "v": "639777_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

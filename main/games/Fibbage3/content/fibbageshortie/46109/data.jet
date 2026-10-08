@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ivre, paresseux, lent, mouillé, poilu, triste, cadavre, bébé, yo-yo, perruque, personne âgée, dirigeable, mauvais, échecs, LSD, calcul, bébé koala, insulte ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "acrobates ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tony Gemignani est 12 fois champion dans le sport inhabituel des acrobaties <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "lancer de pizza, lancer de pizza ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les candidats sont notés sur une échelle de 1 à mama mia ! ",
+      "t": "A",
+      "v": "635196_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tony Gemignani est 12 fois champion dans le sport inhabituel des acrobaties <BLANK>. ",
+      "t": "A",
+      "v": "635193_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

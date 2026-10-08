@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sacs en plastique, tout-petits, personnes nommées Trent, bananes surdimensionnées, shorts courts, sacs banane, Donald Trump, Coors Light, Bruno Mars, vodka étrangère, gel capillaire, paquets qui font tic-tac, hommes avec de fausses moustaches, jeux Nintendo, Jethro Tull, cuillères en plastique, tire d'eau salée, apiculteurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Interdictions judicieuses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steven Seagal ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans l'intérêt de la sécurité nationale, l'Ukraine a institué en mai 2017 une interdiction à <BLANK> d'entrer dans le pays. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Steve Seagal, Steve Segal, Seven Segal, Stephen Seagal, Stephen Segal, Steven Seagull ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Certains disent que c'est à cause des associations de Seagal avec la Russie, mais je parie qu'ils ont finalement vu \"The Glimmer Man\". ",
+      "t": "A",
+      "v": "654443_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans l'intérêt de la sécurité nationale, l'Ukraine a institué en mai 2017 une interdiction à <BLANK> d'entrer dans le pays. ",
+      "t": "A",
+      "v": "654440_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

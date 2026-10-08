@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "SSN, situation des cheveux dans le dos, numéro d'identification, nom de la femme, plat de maïs préféré, citation préférée des Simpsons, taille de la bague, saveur Dorito, bon vieux deal, il est temps de faire caca, nom du chien, saveur de Jolly Ranchers, taille du pantalon, marque de lotion, marque de savon, variété Mt Dew, condiment préféré, tour de magie. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "curieuse Nicki Minaj ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "taille de la balle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Nicki Minaj a tweeté : « ok les garçons, quel est votre <BLANK> ? ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "00h55<br />28 avril 2013 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@NICKIMINAJ ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "taille des testicules ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Cela vient d'Hollywood... ",
+      "t": "A",
+      "v": "564212_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et avec cela, Twitter a enfin atteint son véritable potentiel. ",
+      "t": "A",
+      "v": "564210_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En avril 2013, NICKI MINAJ a tweeté : « ok les garçons, quel est votre <BLANK> ? » ",
+      "t": "A",
+      "v": "564207_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

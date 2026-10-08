@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pizza, égoïste, garçon-fille, ennuyeux, Gatsby, J'AIME LES HUNKS, mentir, Jésus était un extraterrestre, pantalon, extraterrestre, karaté, punch ivre, Nintendo, caca, crotte de nez, boogie woogie, ketchup ou catsup, nourriture pour chat ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fêtes difficiles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "détritus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une Écossaise, Sally Cogley, a remporté un siège lors de ses élections locales en tant que membre du parti <BLANK> au nom inhabituel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La Rubbish Party est en fait une fête individuelle... tout comme toutes mes fêtes d'anniversaire entre 8 et 37 ans. ",
+      "t": "A",
+      "v": "610148_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une Écossaise, Sally Cogley, a remporté un siège lors de ses élections locales en tant que membre du parti <BLANK> au nom inhabituel. ",
+      "t": "A",
+      "v": "610145_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

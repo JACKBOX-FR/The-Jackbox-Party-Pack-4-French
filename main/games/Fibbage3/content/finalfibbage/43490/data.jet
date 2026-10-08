@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des toilettes|une télé,un bébé|un ouvre-boîte,un gode|une épée jouet, une PS4|un tire-lait, une grenade|une Nintendo DS,un chiot|un poisson rouge,un poney|un serpent,une couche sale|un livre du Dr Seuss,une voiture|un vélo,une dinde frite|un livre de cuisine végétarien,une gravure d'un croquis|un ipad,une canne à pêche|un laxatif, des comprimés de cyanure|des bonbons gélifiés de Flinstone,un DVD de Titanic|whisky,soutiens-gorge|chaussettes,un fût de bière|une balançoire sexuelle,de la dynamite|play-doh,un suppositoire|une cuillère en bois ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Erreurs honnêtes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un fusil d'assaut|un avion jouet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la période des fêtes de 2016, UPS a surpris un couple new-yorkais lorsqu'ils ont accidentellement livré <BLANK> au lieu de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une arme à feu|un jouet,une arme à feu|un avion jouet,un fusil|un avion jouet,un fusil|un jouet,un pistolet|avion jouet ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][DOUBLE BLANK] Oupsie. Pendant la période des fêtes de 2016, UPS a surpris un couple new-yorkais lorsqu'ils ont accidentellement livré <BLANK> au lieu de <BLANK>. ",
+      "t": "A",
+      "v": "563630_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

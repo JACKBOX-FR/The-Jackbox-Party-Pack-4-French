@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Glaces|Slushees,Coke|Pepsi,chiens|chats,Deep Impact|Armageddon,Les Beatles|Les Stones,se mordre la langue|se mordre la joue,hommes|femmes,jus d'orange|dentifrice,mars|vénus,idiots|nerds,bébés|personnes âgées,livres|films,Les Simpsons|Family Guy,puits|conduites d'eau,Académie de police|Avion !,Bill Pullman|Bill Paxton, le mont. Rosée|Mello Yello,Mario|Wario ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Comparaisons ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pommes|oranges ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le chercheur de la NASA, Scott A. Sandford, a publié en 1995 une étude ironique comparant <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "des oranges|pommes,pomme|orange,orange|pomme,une pomme|une orange,une orange|une pomme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Qui a dit que les astrophysiciens ne pouvaient pas être hilarants ? ",
+      "t": "A",
+      "v": "603379_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le chercheur de la NASA, Scott A. Sandford, a publié en 1995 une étude ironique comparant <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "603376_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

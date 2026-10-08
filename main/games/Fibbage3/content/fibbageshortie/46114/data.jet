@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des écuries, un Wendy's, des bennes à ordures, une décharge, un Best Western, un parking, un meilleur état, une maison de retraite, la maison de ta grand-mère, tes défauts, un bureau de poste, une ruelle, un Ikea abandonné, la maison de Joyce DeWitt, une colonie de fourmis géantes, le dernier Radio Shack, une école dentaire, toutes les règles de sécurité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Indianapolis ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "trafic ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tom Battista est le cerveau derrière un prochain parc pittoresque à Indianapolis. Ce qui est étrange, c'est qu'il est conçu pour ignorer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "trafic routier, trafic interétatique, voitures ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est en fait un site magnifique car vous pouvez voir des gens quitter Indianopolis. ",
+      "t": "A",
+      "v": "635346_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tom Battista est le cerveau derrière un prochain parc pittoresque à Indianapolis. Ce qui est étrange, c'est qu'il est conçu pour ignorer <BLANK>. ",
+      "t": "A",
+      "v": "635343_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

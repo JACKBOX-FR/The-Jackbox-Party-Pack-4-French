@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préparer du vin, prendre une douce gorgée d'eau de toilette, déboucher vos toilettes, déguiser votre voix, faire de la musique, récupérer quelque chose que vous avez tiré la chasse, communiquer secrètement, apprendre la propreté à votre enfant, faire pipi par la bouche, vomir sans tirer la chasse, se gargariser avec un budget limité, remplir l'aquarium, ressembler à un idiot, attirer les serpents des toilettes, se regarder attentivement, fumer dans la maison, tirer la chasse d'eau des toilettes cassées, se ressaisir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trucs de toilette ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "respirer pendant un incendie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette invention de William O. Holmes a été conçue pour être utilisée lorsque vous avez besoin de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "respirer, survivre à un incendie, survivre à un incendie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "662413_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "662436_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'air emprisonné dans vos toilettes pourrait vous sauver la vie. Mais est-ce vraiment vivre ? ",
+      "t": "A",
+      "v": "662411_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette invention de William O. Holmes a été conçue pour être utilisée lorsque vous avez besoin de <BLANK>. ",
+      "t": "A",
+      "v": "662408_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

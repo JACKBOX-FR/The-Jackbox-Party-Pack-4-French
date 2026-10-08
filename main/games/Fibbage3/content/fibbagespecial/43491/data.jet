@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vraiment excitée, regretter leurs choix de vie, allumer la bête, le mettre en colère, s'engager dans les préliminaires, faire un monstre, faire les corvées du vendredi, sur le point de le manger, bonnes sœurs, des gens intéressants, frotter un taureau, en retard dans le loyer, agir étrangement, sorcières folles, invoquer Lucifer, triste pour lui, faire un ménage de printemps, juste s'en occuper ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "vraiment excitée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le polir ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette étrange œuvre d’art est <i>Ils sont <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Le polir ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Ok, vous pouvez regarder ça, mais n'y touchez pas... ",
+      "t": "A",
+      "v": "563660_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570660_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et c’est ainsi que le taureau Elmer’s Glue a fait ses débuts. ",
+      "t": "A",
+      "v": "563658_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE Q] Bien sûr, le titre de cette étrange œuvre d'art est <i>Ils sont <BLANK></i>. ",
+      "t": "A",
+      "v": "563655_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

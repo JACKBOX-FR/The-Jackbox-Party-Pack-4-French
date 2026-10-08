@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préservatifs usagés, leur propre vomi, un pénis de baleine, une gueule de requin, des déchets nucléaires, des cages à homards, de la pornographie jetée, des restes humains, des dauphins morts, des détritus, des évents de volcan, des glaciers gelés, de vieilles toilettes, des châteaux de sable, des poissons perlés plus gros, des intestins de dauphin, des tuyaux d'égout, des machines à Slurpee. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Immobilier Mer ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les fesses d'un concombre de mer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "De nombreux poissons-perles ont élu domicile à l'intérieur de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le cul d'un concombre de mer, le cul d'un concombre de mer, le cul d'un concombre de mer, le cul d'un concombre de mer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le pire ? Il n'y a qu'une seule salle de bain. ",
+      "t": "A",
+      "v": "561263_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous pensez que votre appartement est nul ? De nombreux poissons-perles ont élu domicile à l'intérieur de <BLANK>. ",
+      "t": "A",
+      "v": "561260_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

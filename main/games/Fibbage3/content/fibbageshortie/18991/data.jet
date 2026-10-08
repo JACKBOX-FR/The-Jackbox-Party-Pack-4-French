@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ninjas costumés, soldats des opérations spéciales américaines, flics en repos, pom-pom girls, moines, anciens détenus, nonnes, athlètes olympiques, stagiaires en garde de sécurité, combattants de MMA, cosplayers, geishas, mimes, samouraïs, nudistes, chefs de sushi, chiens policiers, représentants du gouvernement ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cambriolage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lutteurs de sumo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 2006, un homme tentant de cambrioler près d'un temple à Osaka, au Japon, a été choqué d'être appréhendé par 20 <VIERGES> qui se trouvaient dans le bâtiment. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sumo,sumos,lutteurs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mars 2006, un homme tentant de cambrioler près d'un temple à Osaka, au Japon, a été choqué d'être appréhendé par vingt <BLANK> qui se trouvaient dans le bâtiment. ",
+      "t": "A",
+      "v": "381281_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

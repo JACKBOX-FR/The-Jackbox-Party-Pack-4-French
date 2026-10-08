@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ordinateur portable, micro-ondes, volant, sieste, Slim Jim, courtier, corps de papa, tapette à mouches, spatule, fesses, opossum, beignet, oiseau Dodo, Fiesta, caca, dingleberry, double rendez-vous, nombril ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mots ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Snickerdoodle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Chris Pratt a demandé : \"Pourquoi ça s'appelle <BLANK> ? Et qui est la personne qui a trouvé ce nom ? Je parie que c'était un vrai connard.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "21h11<br />9 octobre 2014 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@prattprattpratt ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "snikerdoodle, snicker doodle, sniker doodle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "589292_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]CELEBRITY TWEET : En octobre 2014, Chris Pratt a demandé : \"Pourquoi ça s'appelle un <BLANK> ? Et qui est la personne qui a trouvé ce nom ? Je parie que c'était un vrai connard.\" ",
+      "t": "A",
+      "v": "589287_0f ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vomit, vous poursuit, commence le beatboxing, demande de l'argent, touche la zone de votre maillot de bain, vous montre leur marionnette, vous envoie un script, vous pose des questions sur vos petits-enfants, vous traite de « spoopy », continue de toucher leurs cheveux, vous passe des notes dans la salle d'étude, vous empoisonne, grandit d'un mètre, dit que vous êtes rauque, vous met au défi de retourner une tasse, vous propose un chewing-gum, se frotte le nez, dit que votre chien est le le plus mignon ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Signaux mixtes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "commence à aimer vos photos ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ryan Seacrest a publié un sondage qui demandait : « Si quelqu'un <BLANK> après que vous l'ayez rencontré, est-ce qu'il flirte avec vous ? » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "10h10<br />17 mai 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@RyanSeacrest ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "aime vos photos, commence à aimer les photos ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "667550_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai aimé DEUX photos, Ryan ! ",
+      "t": "A",
+      "v": "667548_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En mai 2017, Ryan Seacrest a publié un sondage qui demandait « Si quelqu'un <VIDE> après que vous l'ayez rencontré, est-ce qu'il flirte avec vous ? » ",
+      "t": "A",
+      "v": "667545_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

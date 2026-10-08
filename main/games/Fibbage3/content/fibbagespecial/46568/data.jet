@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Porte-épis de maïs sacré, cure-dents de Jésus, punaise sacrée, épingle à cheveux sacrée, copain de cour de Kenny Rogers, le dernier sipper, bouton de manchette du Christ, cravate bolo biblique, épouvantail d'église, poteau de clôture sacrée, épingle du pape, résurrection de l'air de trois jours, spiraliseur Bethle-HAM, thermomètre de dinde sacrée, voleur dans la veilleuse, dénoyauteur de cerises sacrées, éplucheur de mangue biblique, marque-page sacré ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Louange ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "arroseur d'eau bénite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce dessin concerne l'invention de Brandon Sparks, le <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Arroseur « eau bénite », arroseur de pelouse à l'eau bénite, arroseur d'eau bénite ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "646904_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646927_2 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Votre pelouse peut désormais célébrer le père, le fils et le saint robinet. ",
+      "t": "A",
+      "v": "646902_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Je suis sûr que c'est évident, mais ce dessin est destiné à l'invention de Brandon Sparks, le <BLANK>. ",
+      "t": "A",
+      "v": "646899_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

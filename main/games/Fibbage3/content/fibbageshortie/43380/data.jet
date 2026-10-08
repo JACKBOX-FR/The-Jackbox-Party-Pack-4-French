@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "buffet d'écureuils, champ de marijuana, penny arcade, garderie, école de joutes, temple satanique, cours de yoga, décharge, Arby's, Starbucks, station de radio de droite, centre d'accueil des ovnis, école de cuisine érotique, service de taxidermie, stand de paintball, salon de bronzage, musée Bigfoot, cimetière privé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Lâchez mes écureuils ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "club échangiste ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Squirrel Creek Wildlife Rescue, dans le Colorado, a été fermé en 2016. Le propriétaire affirme que c'était parce que les autorités n'aimaient pas le <BLANK> qu'il dirigeait sur la même propriété. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "club échangiste,club pour échangistes,club échangiste,club échangiste,club échangiste,sex club,bordel ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh, qu'est-ce que ces écureuils ont vu... ",
+      "t": "A",
+      "v": "561728_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Squirrel Creek Wildlife Rescue, dans le Colorado, a été fermé en 2016. Le propriétaire affirme que c'était parce que les autorités n'aimaient pas le <BLANK> qu'il dirige sur la même propriété. ",
+      "t": "A",
+      "v": "561725_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

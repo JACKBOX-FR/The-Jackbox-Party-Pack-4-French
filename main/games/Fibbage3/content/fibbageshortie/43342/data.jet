@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "son sperme, des versets bibliques, son gros orteil, du poison, un bâton de dynamite, des couteaux, un bébé pygargue à tête blanche, de l'argent en chocolat, un tableau volé, de l'argent du Monopoly, de l'or contrefait, de la marijuana, des plans pour Fort Knox, des montres volées, du plutonium, de fausses lunettes de soleil, la Magna Carta, des armes à feu. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pour votre problème ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un Valium ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un client du Sands Casino en Pennsylvanie a été arrêté après avoir donné un pourboire à un employé. C’est parce qu’au lieu d’argent ou de jetons, il a distribué <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "du valium, une pilule de valium, une pilule de valium, son valium, du valium ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]En parlant de ça, j'accepte également les pourboires si quelqu'un a... ",
+      "t": "A",
+      "v": "560813_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un client du Sands Casino en Pennsylvanie a été arrêté après avoir donné un pourboire à un employé. C’est parce qu’au lieu d’argent ou de jetons, il a distribué <BLANK>. ",
+      "t": "A",
+      "v": "560810_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

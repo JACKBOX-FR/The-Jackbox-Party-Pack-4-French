@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrassé|enfants,imité|sirènes de police,volé|banques,volé|chaussettes,fait caca sur|bijoux,accouplé avec|boîtes aux lettres,envolé|mégots,attaqué|chats,bu|bière,moqué|maire,rongé|télévision par câble,utilisé|cartes de crédit,séduit|jeunes hommes,exaucé|souhaits,corrigé|grammaire,interrompu|émissions de télévision,pris sur|les esprits, hypnotisés|serpents ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Problèmes de perroquet ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mangé|opium ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, les habitants de Chittorgarh, en Inde, ont été confrontés à un grave problème. Selon les habitants, des perroquets sont arrivés et <BLANK> leur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mangé|de l'herbe,volé|de l'opium,volé|de l'herbe,mangé|des coquelicots,mangé|des coquelicots,volé|des coquelicots,volé|des coquelicots ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Polly veut un correctif. ",
+      "t": "A",
+      "v": "574203_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, les habitants de Chittorgarh, en Inde, ont été confrontés à un gros problème. Selon les habitants, des perroquets sont arrivés et <BLANK> leur <BLANK>. ",
+      "t": "A",
+      "v": "574200_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

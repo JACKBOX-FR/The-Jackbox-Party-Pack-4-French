@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se passer de sous-vêtements, manger un jambon entier en six minutes, embrasser leur sœur, attraper une balle avec leurs dents, prendre une leçon de guitare, lire les livres du Seigneur des Anneaux, se faire passer pour Christopher Walken, arrêter de boire pendant une semaine, passer une nuit dans une maison hantée, se raser les poils, adopter un enfant, adopter deux chats, apprendre le portugais, assister au mariage d'un étranger, rendre son âme, laisser le gouvernement lui mettre une puce dans la tête, faire pipi dedans devant un clown, se pavanant nue dans un parc public ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "petits caractères ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire 1000 heures de travaux d'intérêt général ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, les personnes qui se sont connectées au Purple Wi-Fi en Angleterre ont, sans le savoir, accepté une clause juridiquement contraignante stipulant qu'elles doivent <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "effectuer des travaux d'intérêt général,effectuer des travaux d'intérêt général,effectuer des heures de travaux d'intérêt général,effectuer des travaux d'intérêt général,effectuer 1 000 heures de travaux d'intérêt général ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous devriez toujours lire les petits caractères. En 2017, les personnes qui se sont connectées au wifi Purple en Angleterre ont accepté sans le savoir une clause juridiquement contraignante qui stipule qu'elles doivent <VIERGE>. ",
+      "t": "A",
+      "v": "682533_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

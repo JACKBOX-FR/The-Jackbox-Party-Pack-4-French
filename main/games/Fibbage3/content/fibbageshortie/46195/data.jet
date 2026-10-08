@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tirer sur des cochons, boire de la bière au Liberty Bell, aller à Coachella, déclarer la loi martiale, embrasser des bébés chimpanzés, sauter par les fenêtres, jouer au ping-pong, gifler des grenouilles, jouer sur des combats de chiens, faire du fudge, faire tomber le gouvernement, organiser un match de boxe, remercier les Britanniques, se déshabiller, honorer le roi, inventer l'électricité, jouer de la confiture de bluegrass, se raser la tête ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Premières au Congrès ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ne se présente pas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque la toute première session du Congrès des États-Unis a commencé en 1789, la plupart des membres ont étrangement choisi de marquer l'occasion par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ne pas être là, être absent, ne pas y assister, le sauter, le sauter, l'oublier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Personne n'a vérifié le courrier électronique envoyé en masse par George Washington. ",
+      "t": "A",
+      "v": "637799_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque la toute première session du Congrès des États-Unis a commencé en 1789, la plupart des membres ont étrangement choisi de marquer l'occasion par <BLANK>. ",
+      "t": "A",
+      "v": "637796_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

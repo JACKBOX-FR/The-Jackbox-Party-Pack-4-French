@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Big Mac à moitié mangés, crabes vivants, sous-vêtements de politiciens, autographes, crânes d'enfants vedettes, vidéos de tricks de skate, smokings de chimpanzés vintage, fromages qui coulent, sièges de toilettes anciens, virus informatiques, rayons X « objets étranges dans les fesses », soldats de plomb, chérubins en céramique, photos d'OVNIS, bouteilles de ketchup vert, jouets rappelés, décorations de Noël NSFW, photos d'identité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Grandes collections ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "caca fossilisé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "George Frandsen, de Floride, a récemment obtenu un record mondial Guinness pour la plus grande collection de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "merde fossilisée, merde fossilisée, caca fossilisé, excréments fossilisés, coprolites ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]George Frandsen, de Floride, a récemment obtenu un record du monde Guinness pour la plus grande collection de <BLANK>. ",
+      "t": "A",
+      "v": "644757_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

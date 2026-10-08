@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Page Myspace, aéroglisseur, drapeau, grande roue, snack-bar, gamme de chaussettes, baby-foot, majordome, DJ, robot, voiturier, site de rencontres, jeans de créateurs, machine à café, bar et grill, Sega Genesis, fête d'Halloween, parcours de mini-golf ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "L’argent des impôts au travail ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chanson thème ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La Federal Aviation Administration est la seule agence gouvernementale américaine à posséder son propre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chanson, thème ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je vais juste supposer que c'est le thème de \"Wings\". ",
+      "t": "A",
+      "v": "559963_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La Federal Aviation Administration est la seule agence gouvernementale américaine à posséder son propre <BLANK>. ",
+      "t": "A",
+      "v": "559960_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

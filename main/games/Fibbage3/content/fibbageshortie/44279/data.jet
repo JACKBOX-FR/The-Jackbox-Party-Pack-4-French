@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pointer du doigt, regarder dans les yeux de, cuillère, partager des frites avec, danser lentement avec, se métamorphoser, se faire passer pour, contrôler l'esprit, crier dessus, envoyer des lettres commerciales à, jouer de la musique pour, offrir un cadeau à, rêver, cuisiner, décevoir, peindre, poursuivre en justice, dîner avec ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Légalisez-le ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ennuyer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bien qu'il s'agisse d'un crime depuis 38 ans, en 2014, Grand Rapids a officiellement légalisé le fait de <VIER> une autre personne. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "déranger, bug ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'ancienne loi a été déclarée inconstitutionnelle dans l'affaire Grand Rapids c. Je sais que vous l'êtes, mais que suis-je. ",
+      "t": "A",
+      "v": "583595_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bien qu'il s'agisse d'un crime depuis 38 ans, en 2014, Grand Rapids a officiellement légalisé le fait de <VIERGE> une autre personne. ",
+      "t": "A",
+      "v": "583592_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

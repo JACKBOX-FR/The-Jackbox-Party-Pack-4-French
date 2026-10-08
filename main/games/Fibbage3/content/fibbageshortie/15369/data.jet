@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ours en peluche, tantes, bonbons, représentants du gouvernement, tasses à café, divorcées récentes, rideaux de douche, fromage, lunettes, un patron, des enfants, une âme, des soutiens-gorge, des nez, des brosses à dents, des poissons rouges, des chats, un souvenir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Locations japonaises ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vieillards ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Chez Ossan Rental, un endroit étrange au Japon, vous pouvez louer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "hommes, hommes d'âge moyen, hommes d'âge moyen, personnes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Personnellement, je recommande de passer à un modèle plus jeune. ",
+      "t": "A",
+      "v": "339775_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Chez l'étrange Ossan Rental du Japon, vous pouvez louer <BLANK>. ",
+      "t": "A",
+      "v": "339772_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

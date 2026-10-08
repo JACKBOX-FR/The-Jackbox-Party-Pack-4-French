@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "de superbes cheveux, son nom de famille, pas de chemise, un accent australien, des petits chiens, trois tétons, la rougeole, un tatouage Star Wars, une supraclusion, des dents de cerf, un crédit IMDB, des poils excessifs sur le nez, des talons hauts, aucun regret, des tatouages sur le visage, un millier d'abonnés sur Twitter, un dos poilu, une superbe voix chantante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Remises spéciales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "des enfants bien élevés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Antonio Ferrari possède un bar à vins dans la ville italienne de Padoue où il offre une réduction aux personnes atteintes de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "enfants bien élevés, enfants bien élevés, enfants bien élevés, enfants qui se comportent bien, enfants bien élevés ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]D'après mon expérience, bon comportement et vin vont de pair. ",
+      "t": "A",
+      "v": "564396_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Antonio Ferrari possède un bar à vin dans la ville italienne de Padoue où il offre une réduction aux personnes atteintes de <BLANK>. ",
+      "t": "A",
+      "v": "564393_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

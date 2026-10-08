@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Boule de poils de 3 livres, peinture d'un meurtre, éponge loufa, portail dimensionnel, robinet de forme obscène, dessin d'aquaman, âne de pierre, requin savon, éponge de chat, tache de sang vieille de 100 ans, épée Game of Thrones, porte pour chien, robot Terminator, cobra roi, trône du roi, panier de basket, bâton de hockey, mini-bar ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "trouvailles de douche ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fresque murale de Mandy Moore ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu'un groupe de New-Yorkais a emménagé dans leur appartement du Queens en 2017, ils ont découvert que leur nouvelle douche comprenait un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mandy Moore, Mandi Moore, Mandy Plus, peinture de Mandy Moore, mosaïque de Mandy Moore ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsqu'un groupe de New-Yorkais a emménagé dans leur appartement du Queens en 2017, ils ont découvert que leur nouvelle douche comprenait un <BLANK>. ",
+      "t": "A",
+      "v": "559345_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

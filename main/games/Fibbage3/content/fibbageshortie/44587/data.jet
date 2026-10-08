@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le tonneau, un puits, la chaussure de Satan, une benne à ordures, l'océan, les fesses d'un cheval, le pouvoir, mon cœur, ma patience, l'enfer, la rivière, un casier de gym, une tasse à café, le tiroir à chaussettes, le monde, un sac de chips, une pizza, une crêpe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bas parfumés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le sac à main de maman ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Fabricant de bougies du Missouri 5B&Co. vend une bougie de soja parfumée portant le nom « The Bottom of <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Un sac à main, le sac à main de ta mère ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mmm... grattez les copeaux de billets et l'alcool de grain... je suppose. ",
+      "t": "A",
+      "v": "591767_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bougeoir du Missouri 5B&Co. vend une bougie de soja parfumée portant le nom « The Bottom of <BLANK> ». ",
+      "t": "A",
+      "v": "591764_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

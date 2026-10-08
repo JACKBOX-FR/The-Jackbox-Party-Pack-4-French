@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "beatbox, détruire le Daily Planet, traiter Batman de \"crétin\", manger le soleil, oublier son nom, déménager au Brésil, penser qu'il est une vache, rejoindre le cirque, avoir peur de voler, porter du denim, épouser Lois Lane, détruire sa cote de crédit, révéler son identité secrète, quitter le Daily Planet, retourner à l'université, écrire une chanson rock à succès, se raser la tête, porter une robe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Transe de Superman ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire une sextape ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les <i>Action Comics</i> #592 et #593 sont remarquables car un méchant doté de pouvoirs psychiques force Superman à <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faire un porno, être une star du porno, être dans un porno, avoir des relations sexuelles, avoir des relations sexuelles sur cassette, avoir des relations sexuelles sur film ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et dans une petite bulle de pensée, il pense : « Pensez simplement à l'explosion de Krypton, pensez simplement à l'explosion de Krypton. » ",
+      "t": "A",
+      "v": "387734_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les Action Comics #592 et 593 sont remarquables car un méchant doté de pouvoirs psychiques force Superman à <VIER>. ",
+      "t": "A",
+      "v": "387731_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

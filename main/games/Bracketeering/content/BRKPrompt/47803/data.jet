@@ -1,0 +1,127 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "Bow wow WOW !!! ",
+      "t": "A",
+      "v": "668351_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Séances photos de chiens ! Scores de photos de chiens !!! ",
+      "t": "A",
+      "v": "668353_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Oh mon CHIEN !!! ",
+      "t": "A",
+      "v": "668352_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quel est LE meilleur accessoire à apporter à une séance photo coûteuse pour un chien ?! ",
+      "t": "A",
+      "v": "668349_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Ces séances photo peuvent coûter cher, vous devez donc en avoir pour votre argent ! ",
+      "t": "A",
+      "v": "668342_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "Meilleur accessoire à apporter à une séance photo coûteuse pour un chien ",
+      "t": "A",
+      "v": "668335_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Qui est une bonne réponse ? VOUS ÊTES une bonne réponse ! Oui tu es! ",
+      "t": "A",
+      "v": "668350_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "Ces photos seraient ADORABLES ! ",
+      "t": "A",
+      "v": "668354_0f",
+      "n": "Win4Audio"
+    }
+  ]
+}

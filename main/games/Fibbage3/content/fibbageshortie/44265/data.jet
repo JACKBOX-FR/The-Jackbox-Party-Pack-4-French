@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "anguilles, café infusé froid, chapeaux flashy, autographes de James Spader, boissons énergisantes, stylos fantaisie pour les enfants, soupe périmée, ailes de poulet désossées, retweets, Pepsi lors des manifestations, réponses aux tests, espoir, hot-dogs, rochers aux yeux écarquillés, Mountain Dew bootleg, dentisterie sans licence, leur histoire de vie, billets pour un spectacle de marionnettes scalpées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Finlande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pizza pas chère ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, la police finlandaise a lancé une étrange campagne sur les réseaux sociaux demandant au public de signaler toute personne vendant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pizza ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La campagne était censée lutter contre l'évasion fiscale, mais tout le monde sait que les mouchards n'obtiennent pas de part. ",
+      "t": "A",
+      "v": "583175_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2015, la police finlandaise a lancé une étrange campagne sur les réseaux sociaux demandant au public de signaler toute personne vendant <BLANK>. ",
+      "t": "A",
+      "v": "583172_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

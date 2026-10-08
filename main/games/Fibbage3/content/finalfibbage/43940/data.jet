@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "dieu|le diable,son amie imaginaire|Betty White,sa mère|sa belle-mère,Selena Gomez|Hot Pockets,son coach|l'ex de son coach,arbres|rochers,son entraîneur|le tueur de sa femme,George Bush|George W. Bush,son chien|son chat,chocolat|vanille,son cerveau|ses fesses,le vent|la pluie,son père|Thor,McDonald's|Burger Roi, Superman | Batman, beurre | margarine, Abbott | Costello, Smith | Wesson ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "rendre grâce ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sa femme|sa petite amie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une interview d'après-match, la star du football ghanéen Mohammed Anas a fait tourner les têtes en remerciant à la fois <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "femme|petite amie,petite amie|femme,sa petite amie|sa femme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'espère qu'il a pensé à remercier son avocat spécialisé en divorce... ",
+      "t": "A",
+      "v": "573634_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][DOUBLE BLANK] Dans une interview d'après-match, la star du football ghanéen Mohammed Anas a fait tourner les têtes en remerciant à la fois <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "573631_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

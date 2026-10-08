@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Sauver des sphères, Sports, Beckham Blaster, Autres types de football, Pliez-le comme Bagdad, Aidez les enfants irakiens, C'est du football, pas du football, Pour les enfants, Kickin It, Game Time, Air Bud, Le jeu, Mr Kick, Mia Hamm, Dumbo Drop, Noir et blanc, Hooligan, Freedom Goal ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "missions humanitaires ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ballon de football ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2004, des militaires américains ont offert des ballons de football aux Irakiens dans le cadre d’une mission humanitaire portant le nom de code choquant Opération <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ballons de football ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oui, c'est parfois la réponse la plus évidente. ",
+      "t": "A",
+      "v": "562187_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2004, des militaires américains ont offert des ballons de football aux Irakiens dans le cadre d'une mission humanitaire portant le nom de code choquant Opération <BLANK>. ",
+      "t": "A",
+      "v": "562184_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

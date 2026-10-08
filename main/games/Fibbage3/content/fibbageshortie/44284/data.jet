@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ours de cirque, poupée gonflable, squelette, dinde, porte moustiquaire, table de ping-pong, panier de basket, trampoline, bébé éléphant, danseuse du ventre, ballet, périscope kaléidoscope, alambic à whisky, palmier, lit de bronzage, phonographe, boule disco, dauphin de compagnie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Plongez ! Plonger! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "renne",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant la Seconde Guerre mondiale, un amiral russe a offert un cadeau inattendu à l'équipage britannique du HMS Trident. Il leur a offert un <BLANK> pour leur sous-marin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "renne de compagnie, renne de pluie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le renne était apparemment très à l'aise dans le sous-marin : il avait même suffisamment d'espace pour caracoler, galoper et Trotsky. ",
+      "t": "A",
+      "v": "583775_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant la Seconde Guerre mondiale, un amiral russe a offert un cadeau inattendu à l'équipage britannique du HMS Trident. Il leur a offert un <VIERGE> pour leur sous-marin. ",
+      "t": "A",
+      "v": "583772_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

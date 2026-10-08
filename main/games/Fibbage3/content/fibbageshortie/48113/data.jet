@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "parler des extraterrestres, vendre leurs histoires de vie, plaisanter sur la France, démarrer une nouvelle entreprise, utiliser un iPhone, manger des fruits de mer, escalader une montagne, avoir plus d'enfants, participer à la loterie, fabriquer leur propre pâte à pizza, vivre en dehors des États-Unis, regarder CBS, se désabonner de la newsletter de la CIA, se remarier, faire du snowboard, jouer à Batman dans un film, expérimenter la joie, regarder Family Matters ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Inconvénients présidentiels ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "conduire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En février 2014, le vice-président Joe Biden a déclaré qu’il y avait « une raison majeure de ne pas se présenter à la présidence ». Il faisait référence au fait que, pour le reste de leur vie, les présidents américains ne sont pas autorisés à <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "conduire des voitures, conduire sur des routes, conduire sur la voie publique, conduire une voiture ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](à la « Merci Obama) MERCI JFK. ",
+      "t": "A",
+      "v": "677569_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En février 2014, le vice-président Joe Biden a déclaré qu’il y avait « une raison impérieuse de ne pas se présenter à la présidence ». Il faisait référence au fait que, pour le reste de leur vie, les présidents américains ne sont pas autorisés à <VIER>. ",
+      "t": "A",
+      "v": "677566_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

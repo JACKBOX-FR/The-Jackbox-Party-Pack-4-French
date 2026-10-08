@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sexe tantrique, asphyxie érotique, calendriers page par jour, ventriloquie, step dance irlandaise, agriculture, lait, poils du corps, port de kakis, cornichons biologiques, facebooking, forage pétrolier, collection de timbres, Millard Fillmore, combats à l'épée, tueurs en série, bras de fer, ruban bleu Pabst ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Filking ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "science-fiction ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 1986, les fans de « filking » assistent à l’Ohio Valley Filk Fest pour célébrer leur amour combiné de la musique folk et de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "science-fiction, extraterrestres, robots, science-fiction, sifi, syfy ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis 1986, les fans de « filking » assistent à l'Ohio Valley Filk Fest pour célébrer leur amour combiné pour la musique folk et <BLANK>. ",
+      "t": "A",
+      "v": "562805_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

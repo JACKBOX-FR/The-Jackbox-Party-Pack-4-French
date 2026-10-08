@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire une démonstration de retournement, faire de la poterie, montrer son physique, se laver les mains, prier pour la bonne fortune, essayer de guérir la calvitie, devenir aveugle, apprendre à cuisiner, pas doué pour poser pour des photos, modeler des vêtements, espérer être chatouillé, se sentir impertinent, donner du sang, s'amuser lors des fêtes, surfer, prêt pour le week-end, faire la pire pyramide humaine, se moquer du roi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Poses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire de la bière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette figure datant d'environ 2100 avant JC représente un homme qui est <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "brasser de la bière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "652751_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "652774_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette figurine datant d'environ 2100 avant JC représente un homme qui est <VIDE>. ",
+      "t": "A",
+      "v": "652746_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "camion à benne basculante, jeu télévisé, vache, grande pizza, rouleau de papier bulle, volcan, grande photo de Boris Johnson, train hanté, château blanc, vaisseau spatial, chantier de construction, défi, jet ski, année bissextile, toit de cabane à pizza, ligne de faille active, dinosaure, webcam ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mariage gratuit ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mégabus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous avez raté votre chance de participer au concours « Marry Me on a <BLANK> » 2017. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "méga bus, bus ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'étage supérieur des mariages. ",
+      "t": "A",
+      "v": "562608_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Désolé, mais vous avez raté votre chance de participer au tirage au sort « Marry Me on a <BLANK> » 2017. ",
+      "t": "A",
+      "v": "562605_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

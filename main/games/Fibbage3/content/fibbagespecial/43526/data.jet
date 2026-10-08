@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des gens laids, un serpent, des roturiers, un souvenir, un gros ours poilu, ta main, ta propre grand-mère, du chou bouilli, une méchante sorcière, une mauvaise vodka, un connard, une tempête de neige, un squelette, une paire de sous-vêtements, le diable, de la boue, un épouvantail, un bonhomme de neige ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "L'amour est le mal",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une chèvre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La traduction littérale russe de l’expression « L’amour est aveugle » est « L’amour est mauvais ; vous aimerez même <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chèvre, chèvres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "564423_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hé, ne le frappe pas avant de l'avoir essayé. ",
+      "t": "A",
+      "v": "564421_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La traduction littérale en russe de l'expression « L'amour est aveugle » est « L'amour est mauvais ; vous aimerez même <BLANK> ». ",
+      "t": "A",
+      "v": "564418_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

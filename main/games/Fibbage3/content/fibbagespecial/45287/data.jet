@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "crachats de tabac, ketchup, âmes de grands-parents, pogs, insultes tout usage, sous-vêtements usagés, sauce barbecue, cendres d'animaux, serpents, huiles de bronzage, encre de seiche, parapluies, levure à pain, rêves, fixins de sandwich, vin, démons, couteaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Espace de stockage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "grillons ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cet artefact chinois de la dynastie Qing était utilisé pour stocker <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "610720_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610743_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cette chose pourrait probablement utiliser quelques trous d'air... ",
+      "t": "A",
+      "v": "610718_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cet artefact chinois de la dynastie Qing était utilisé pour stocker <BLANK>. ",
+      "t": "A",
+      "v": "610715_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

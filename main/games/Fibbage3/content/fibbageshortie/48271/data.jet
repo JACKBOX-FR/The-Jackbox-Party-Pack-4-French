@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "litière pour chat, sandales de plage, ruban adhésif, rasoirs pour les jambes, lait au chocolat, kits de réparation de pneus, shampoing pour tapis, jambières, shakes de perte de poids, vitamines à croquer Flintstones, ballons de football en mousse, appeaux de canard, chaises de pelouse, pêches en conserve, nettoyant pour le corps, sacs Ziploc de la taille d'un gallon, désodorisant Febreze, stylos bon marché ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "préparation aux ouragans ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pop-Tarts aux fraises ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque Walmart a commencé à étudier les tendances de consommation, ils ont découvert qu'avant un ouragan, les gens achetaient sept fois la quantité normale de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Pop-Tarts, Poptarts aux fraises, Pop Tarts, Pop Tarts aux fraises ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque Walmart a commencé à étudier les tendances de consommation, ils ont découvert qu'avant un ouragan, les gens achetaient sept fois la quantité normale de <BLANK>. ",
+      "t": "A",
+      "v": "682407_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

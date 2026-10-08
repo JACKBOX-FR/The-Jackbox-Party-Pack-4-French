@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se masturber, utiliser la soie dentaire, une balle de raquette, sudoku, être nu, un spectacle de strip-tease, faire caca, manger un Oreo, me moucher, manger de la soupe, Breaking Bad, Internet, vol à l'étalage, sexe en colère, nudité française, beignets frais, café froid, poisson frit ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Joyeux Howard ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nettoyer mes oreilles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Howard Stern a tweeté : « <BLANK> est l’un des plaisirs simples de la vie #Forwhatitsworth. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "05h46<br />14 septembre 2016 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@HowardStern ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nettoyage des oreilles,nettoyer ses oreilles,nettoyer les oreilles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "593698_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il voulait probablement dire en se curant le nez, mais son sens légendaire du décorum a prévalu. ",
+      "t": "A",
+      "v": "593696_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En septembre 2016, Howard Stern a tweeté : « <BLANK> est l’un des plaisirs simples de la vie #Forwhatitsworth. » ",
+      "t": "A",
+      "v": "593693_0f",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voiture, confiance, nœud papillon, notes, bain à remous, photo signée de Carl Sagan, chien robot, machine sous vide, chopes de bière, pornographie, collection de timbres, hélicoptère RC, train miniature, collection de films vintage, tasses à café, laboratoire à domicile, ballons météo, cartes des étoiles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bill Nye, le gars du contentieux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jardin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2007, Bill Nye a déposé une ordonnance de non-communication contre son ex-épouse après qu'elle ait tenté de détruire son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "plantes, légumes, fleurs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bizarre. On pourrait penser qu’il aurait une meilleure alchimie avec les gens. ",
+      "t": "A",
+      "v": "562758_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous n'apprendrez pas cela dans une émission pour enfants : en 2007, Bill Nye a déposé une ordonnance de non-communication contre son ex-épouse après qu'elle ait tenté de détruire son <BLANK>. ",
+      "t": "A",
+      "v": "562755_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

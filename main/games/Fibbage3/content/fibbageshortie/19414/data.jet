@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pas de dents, trois bras, super intelligence, vingt doigts, langues super courtes, oreilles de chauve-souris, queues préhensiles, pieds fourchus, dents de sabre, vision nocturne, vision thermique, cheveux violets, odeur de mouffette, yeux oranges, pouces de neuf pouces, capacités psychiques, cheveux vraiment soignés, coudes en arrière ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Consanguinité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "peau bleue ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pensée comme le résultat de la consanguinité, la famille Fugate de Troublesome Creek, KY, partageait toutes le trait de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "être bleu, bleu, bleuté ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Jusqu'à ce que la suite d'Avatar sorte, ils sont la meilleure chose à faire. ",
+      "t": "A",
+      "v": "385256_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Considérée comme le résultat de la consanguinité, la famille Fugate de Troublesome Creek, Kentucky partageait toutes le trait de <BLANK>. ",
+      "t": "A",
+      "v": "385253_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "volant, âme, barbe, toupet, désodorisant, cassette ABBA, testament, fille de hula dansante, Code Red Mt Dew, livre audio du DaVinci Code, siège enfant, couteau, recette de biscuit familial, idée de film, rêves, solo de guitare aérienne, recette de méthamphétamine, deuxième prénom ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Violences en Floride ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "harmonicas ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un homme de 52 ans du comté de Manatee, en Floride, a été arrêté après avoir poignardé le passager de sa voiture pour avoir prétendument volé son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "harmonica, harpe à bouche ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un homme de 52 ans du comté de Manatee, en Floride, a été arrêté après avoir poignardé le passager dans sa voiture pour avoir prétendument volé son <VIERGE>. ",
+      "t": "A",
+      "v": "372689_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enfants|petits loups,mauvaises informations|la brigade des mœurs,fumier|le maire,bonbons|femmes du coin,doigts|chatons,pain d'épices|loups-garous,bretzels|vampires,cupcakes|gobelins,pain rassis|pompiers,gâteau moisi|profs d'école,champignons|gens ivres,chiots|dragons,chaussures du peuple|un monstre marin,peintures locales|un griffon,vieux beurre|squelettes,compliments|personnes âgées,viande pourrie|agriculteurs,canards vivants|hommes endormis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Loisirs de sorcière ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avoine|pénis volés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1486, le pasteur allemand Heinrich Kramer a publié un livre affirmant que les sorcières nourrissaient, entre autres choses, <BLANK> à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "maïs|pénis volés,avoine et maïs|pénis volés,maïs et avoine|pénis volés,avoine|pénis,maïs|pénis,avoine et maïs|pénis,maïs et avoine|pénis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Euh oh. Étais-je censé nourrir le mien ? ",
+      "t": "A",
+      "v": "683678_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1486, le pasteur allemand Heinrich Kramer a publié un livre affirmant que les sorcières nourrissaient, entre autres choses, <BLANK> à <BLANK>. ",
+      "t": "A",
+      "v": "683675_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

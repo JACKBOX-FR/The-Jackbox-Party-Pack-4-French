@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "du sang|rêves,budweiser|haggis,une horloge fondue|sable,œufs de poisson|mayonnaise,salive de porc|un bandage usagé,yeux de singe|moutarde piquante,parfum|une coquille d'avocat,un collier de diamants|une jolie femme,chien|chat,un jeu de cartes|un faux sentiment d'espoir,encre de poulpe|guimauves,bacon|anti-bacon,coton|plastique, pain dégrillé|le secret de la vie, du papier recyclé | de l'eau de Javel, un nickel | des peluches de poche, un pigeon | un secret, une bouteille de colle | un esprit ouvert ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Juste une pincée ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tequila|cerveau d'agneau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Salvador Dali a écrit un livre de cuisine vraiment bizarre intitulé <i>Les Diners de Gala</i>. Dans ce document, il a inclus une recette de toasts à l'avocat qui demandait <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tequila|cerveau d'agneau,tequilla|cerveau d'agneau,tequila|cerveau d'agneau,tequila|cerveau d'agneau,cerveau d'agneau|tequila,cerveau d'agneau|tequila,cerveau d'agneau|tequila,cerveau d'agneau|tequila ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et si vous pensez que c'est une recette folle, alors vous n'avez clairement jamais regardé Chopped. ",
+      "t": "A",
+      "v": "588660_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][Double Blank] Salvador Dali a écrit un livre de cuisine vraiment bizarre intitulé <i>Les Diners de Gala</i>. Dans ce document, il a inclus une recette de toasts à l'avocat qui demandait <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "588657_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

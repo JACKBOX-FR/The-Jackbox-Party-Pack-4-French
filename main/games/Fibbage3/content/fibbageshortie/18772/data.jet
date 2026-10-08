@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "roter l'alphabet, avoir un orgasme en moins d'une minute, vomir, résoudre des problèmes de physique, lire l'espagnol, trouver Bigfoot, faire une lasagne, péter, faire une roue, parler allemand, réciter des citations de films, répondre à des questions d'histoire de base, caca, faire des impressions de célébrités, expliquer leurs régimes d'assurance maladie, écrire des haïkus, chanter de l'opéra, faire le grand écart ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "défi porno ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pleurer à la demande ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le site pour adultes WoodRocket.com a tourné une vidéo promotionnelle en 2015 dans laquelle des acteurs pornographiques tentaient de <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pleurer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parce qu'en regardant du porno, vous ne devriez pas avoir à pleurer seul. ",
+      "t": "A",
+      "v": "379619_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le site pour adultes WoodRocket.com a tourné une vidéo promotionnelle en 2015 dans laquelle des acteurs pornographiques tentaient de <VIER>. ",
+      "t": "A",
+      "v": "379616_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

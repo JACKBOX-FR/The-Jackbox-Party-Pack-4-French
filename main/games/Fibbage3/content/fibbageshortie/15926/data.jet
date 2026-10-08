@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rhum, crème solaire, lubrifiant, clair de lune, shampoing, faux spray de bronzage, bourbon, quartiers, rouge à lèvres, blanchisseur de dents, vin, laxatif, paillettes, ketchup, solution de contact, sueur de George Clooney, huile d'olive, Red Bull ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cadeaux Oscar ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Windex ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les nominés aux Oscars 2013 ont reçu un sac cadeau comprenant un coffret lifting de 5 000 $, un forfait vacances de 3 300 $ et une bouteille de <BLANK> à 4 $. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nettoyant pour vitres, nettoyant ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Célébrités : elles sont comme nous ! ",
+      "t": "A",
+      "v": "352406_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les nominés aux Oscars 2013 ont reçu un sac cadeau comprenant un ensemble de lifting de cinq mille dollars, un forfait vacances de trente trois cents dollars et une bouteille de quatre dollars de <BLANK>. ",
+      "t": "A",
+      "v": "352403_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

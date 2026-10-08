@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des guitares, une banque, des soutiens-gorge de fans, un épouvantail, un seau de râteaux, une école, de l'argent, la rivière, le mur de Berlin, le bus des Rolling Stones, des bratwursts, une bière, des statues, Ringo, des enfants, des saucisses, une église abandonnée, sa propre photo ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crimes des Beatles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un préservatif ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1960, le rockeur Paul McCartney a été arrêté à Hambourg, en Allemagne, pour avoir allumé le feu à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "préservatifs ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suppose qu'il croyait vraiment que l'argent ne pouvait pas acheter l'amour. ",
+      "t": "A",
+      "v": "355850_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1960, le rockeur Paul McCartney a été arrêté à Hambourg, en Allemagne, pour avoir allumé le feu à <BLANK>. ",
+      "t": "A",
+      "v": "355847_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

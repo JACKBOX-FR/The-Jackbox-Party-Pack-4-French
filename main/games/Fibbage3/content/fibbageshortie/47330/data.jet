@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Paul Simon, du pudding, de la glace, des tremblements de terre, des ondes sonores, une bouteille de coca, des récifs de corail, des corgis, les hauts et les bas de la vie, la grand-mère du créateur, la soie dentaire, du beurre de cacahuète crémeux, des champignons, des pailles folles, des queues de kangourou, d'autres bâtiments prétentieux, la gorge humaine, cette girafe. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gratte-ciel ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bizarrement, le design sinueux et ondulé de la Premier Tower, un gratte-ciel de 741 pieds en construction à Melbourne, a été inspiré par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Beyoncé,Beyoncé Giselle Knowles-Carter,Beyoncé Knowles-Carter,Beyoncé Knowles,Beyonce Giselle Knowles-Carter,Beyonce Knowles-Carter,Beyonce Knowles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bizarrement, le design sinueux et ondulé de la Premier Tower, un gratte-ciel de 741 pieds en construction à Melbourne, a été inspiré par <BLANK>. ",
+      "t": "A",
+      "v": "657356_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

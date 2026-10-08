@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "idiot, barman, bébé, femme de ménage, espion, pêcheur, producteur laitier, laveur de toilettes, écolière, facteur, prisonnier, pilote, employé de cafétéria, agriculteur, veuve, porcher, cadavre, batteur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Hoo Dahzent Noh Thet? ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "coiffeur ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu'ils décrivent un secret mal gardé, les Russes utilisent une expression qui se traduit par « Tout le monde <BLANK> le sait. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coiffeur, coupe-cheveux, coupe-lièvre, coupe-cheveux, coupe-lièvre, styliste ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "564137_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le seul secret que connaît mon coiffeur est mon eczéma invalidant. ",
+      "t": "A",
+      "v": "564135_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pour décrire un secret mal gardé, les Russes utilisent une expression qui se traduit par « Tout le monde <BLANK> le sait. » ",
+      "t": "A",
+      "v": "564132_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

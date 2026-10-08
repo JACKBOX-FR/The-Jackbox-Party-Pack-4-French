@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "créatures chaudes, Fuego Freddies, lance-flammes, Stinging Boyfriends, punaises de feu, mordants mcbiteface, déchets chauds, fourmis de la liberté, fourmis méchantes, pires fourmis officielles, Li'l Devils, petits visiteurs, cerises effrayantes, meilleur ami de l'homme, Hell Babies, micro chiens, Atomic Crawleroos, tout-petits savoureux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "pétitions importantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "garçons épicés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous souhaitez l'aider à atteindre son objectif de 150 000 signatures, connectez-vous à change.org et signez la pétition intitulée « Renommez Fire Ants en <BLANK> !!! » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "garçons épicés, garçon épicé, boyz épicé, boyz épicé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ensemble, nous pouvons faire la différence. ",
+      "t": "A",
+      "v": "561818_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous souhaitez l'aider à atteindre son objectif de 150 000 signatures, connectez-vous à change.org et signez la pétition intitulée « Renommez Fire Ants en <BLANK> !!! » ",
+      "t": "A",
+      "v": "561815_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "balançoires, la voie réservée aux VOM, leurs cerveaux, les tondeuses à gazon électriques, les barbecues au charbon de bois, les gants sans doigts, Google, les voitures à énergie solaire, la salsa non texane, les nouveaux iPhones, le vrai sucre, la bibliothèque, leurs vrais noms, le tapis roulant, les lits à eau, les vieux billets d'un dollar, les fausses moustaches, les mouches à boutons ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Exhortations du public ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Emojis du drapeau chilien ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le législateur de l'État du Texas, Tom Oliverson, a exhorté les gens à ne pas utiliser <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le drapeau chilien ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les gens confondaient l'emoji avec le drapeau du Texas. ",
+      "t": "A",
+      "v": "597141_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le législateur de l'État du Texas, Tom Oliverson, a exhorté les gens à ne pas utiliser <BLANK>. ",
+      "t": "A",
+      "v": "597138_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

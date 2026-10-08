@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "j'ai menti à propos d'un enterrement, j'ai fait semblant que mon téléphone était tombé dans un lac, j'ai dit que j'avais des cours de flûte mais je ne jouais pas de la flûte, j'ai dit que j'avais une intoxication alimentaire, j'ai fait semblant d'être à Cleveland, j'ai inventé une fausse fiancée, j'ai dit que mon enfant avait mangé un bâton lumineux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "Quelle est l’excuse la plus stupide que vous ayez utilisée pour vous retirer de quelque chose que vous ne vouliez pas faire ? ",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'excuse la plus stupide que <PLAYER> a utilisée pour se sortir de quelque chose était <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'excuse la plus stupide que <PLAYER> a utilisée pour se sortir de quelque chose était <BLANK>. ",
+      "t": "A",
+      "v": "615761_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

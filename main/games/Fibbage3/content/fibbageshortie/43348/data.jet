@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "s'étouffer avec des bonbons, boire trop de thé, jouer au golf, tomber dans une bouche d'égout, chanter « joyeux anniversaire », franchir une petite cascade, faire du vélo, essayer d'attraper une flèche, se frapper, secouer un distributeur automatique, manger une noix, lécher un crapaud, avaler une bille, manger de la viande périmée, se faire empaler par un glaçon, porter un pantalon trop serré, dormir trop, s'enfermer dans sa voiture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "mort d'un cascadeur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "trébucher sur une peau d'orange ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bobby Leach, la deuxième personne à avoir survécu à un voyage au-dessus des chutes du Niagara, a finalement connu sa disparition d'une manière beaucoup moins excitante : il est décédé après <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "trébucher sur une orange, tomber sur une peau d'orange, trébucher sur une peau d'orange, trébucher, glisser, glisser sur une peau d'orange ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La peau de banane aurait été encore plus drôle, mais je la prends. ",
+      "t": "A",
+      "v": "560988_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bobby Leach, la deuxième personne à avoir survécu à un voyage au-dessus des chutes du Niagara, a finalement connu sa disparition d'une manière beaucoup moins excitante : il est décédé après <VIDE>. ",
+      "t": "A",
+      "v": "560985_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

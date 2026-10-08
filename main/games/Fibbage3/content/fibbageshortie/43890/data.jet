@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lutte professionnelle, Blue's Clues, Diff'rent Strokes, Larry King, The Love Boat, Conan O'Brien, Dan Rather, Les Simpsons, émissions de cuisine, Dora l'exploratrice, Martha Stewart, Breaking Bad, The Home Shopping Network, The Real Housewives, curling, Full House, les Kardashian, les Yankees de New York ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "S'il vous plaît Belize ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les Cubs de Chicago ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis qu'elle a reçu une transmission télévisée par satellite piratée en 1981, la quasi-totalité de la nation du Belize est devenue de fidèles fans de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les Cubs, les Chicago Cubs, les Cubs, les Cubbies, les cubbys ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis qu'il a reçu un flux télévisé par satellite piraté en 1981, presque tout le pays du Belize est devenu un fan fidèle de <BLANK>. ",
+      "t": "A",
+      "v": "572391_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

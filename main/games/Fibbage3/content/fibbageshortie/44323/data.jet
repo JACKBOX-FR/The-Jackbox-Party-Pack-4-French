@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "journaux, sagesse, viande séchée de mammouth, miches de pain, noix de maïs, pop-corn, café, disques AOL, horoscopes, gomme de réglisse, lézards, diplômes de médecine, bougies, insecticides, lait, billets de train, nourriture de lama, romans de Stephen King ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Changement exact ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "eau bénite ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le premier distributeur automatique au monde a distribué <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a été installé dans un temple grec au premier siècle. Et si vous essayiez de le renverser, vous seriez probablement frappé… frappé… frappé ? ",
+      "t": "A",
+      "v": "584945_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le premier distributeur automatique au monde a distribué <BLANK>. ",
+      "t": "A",
+      "v": "584942_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

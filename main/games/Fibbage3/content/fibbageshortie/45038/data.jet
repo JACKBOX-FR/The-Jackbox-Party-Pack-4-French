@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une mesa majestueuse, un substitut humain, une ferme abandonnée, pas de sommeil, du fumier de cheval, un train lent, du bois de chauffage, des champis, un terrain de football, deux bureaux rapprochés, beaucoup de caféine, un tapis usagé, de l'ambiance, une table d'autopose, un trampoline, du journal recyclé, des roseaux de bambou, du gravier en vrac ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chirurgie du cheval ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un lit à eau ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Besoin de faire une opération chirurgicale au cheval ? Cela peut paraître étrange, mais de nombreux manuels vétérinaires recommandent de coucher le cheval sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "lits à eau,un lit à eau,lits à eau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Parce que toute opération chirurgicale sur le cheval doit toujours commencer... par la séduction. ",
+      "t": "A",
+      "v": "603199_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Besoin de faire une chirurgie du cheval ? Cela peut paraître étrange, mais de nombreux manuels vétérinaires recommandent de coucher le cheval sur <VIERGE>. ",
+      "t": "A",
+      "v": "603196_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

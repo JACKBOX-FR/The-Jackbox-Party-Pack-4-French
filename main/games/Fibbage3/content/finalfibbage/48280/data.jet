@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poils de chien | poils de chat, épaulettes | coussinets de fesses, herbe tondue | poils de vache, laine d'acier | fil de fer, glaçons | scotch, peaux de loup | rubans de fête, chaussettes de marathon usagées | bandeaux, maillots | pantalons des Yankees de 65, peaux mortes | poils de jambes, vieux parachutes | sacs de couchage, draps d'hôpital | réglisse, drapeaux américains | jeans bleus, documents du Watergate | journaux, bonbons emballages|dossiers médicaux,dauphins morts|baskets usagées,papier toilette|morve séchée,serviettes de plage|canettes de bière,bandes de cire usagées|autocollants smiley ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Frank Zappa ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "soutiens-gorge|culottes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au début des années 1980, le musicien expérimental Frank Zappa lui commande une courtepointe inhabituelle. Il était entièrement composé de <BLANK> et de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "culottes|soutiens-gorge,soutiens-gorge|sous-vêtements,sous-vêtements|soutiens-gorge,sous-vêtements|plus de sous-vêtements ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout comme la façon dont grand-mère les fabriquait. ",
+      "t": "A",
+      "v": "682696_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au début des années 1980, le musicien expérimental Frank Zappa a commandé une courtepointe inhabituelle. Il était entièrement composé de <BLANK> et de <BLANK>. ",
+      "t": "A",
+      "v": "682693_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

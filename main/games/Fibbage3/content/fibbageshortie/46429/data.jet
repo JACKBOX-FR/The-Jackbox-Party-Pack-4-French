@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nu, dormir, fumer des cigarettes, jouer au poker, donner du sang, faire des speed dating, crier après des adolescents, se faire tatouer, extraire du charbon, passer une coloscopie, regarder King of Queens, faire du yoga, brasser de la bière, accoucher, se faire épiler le bikini, se faire LASIK, utiliser la salle de bain, faire tester son audition ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Expositions d'art ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouer au flipper ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le musée d'art d'Elmhurst, dans l'Illinois, a lancé en 2017 une exposition intitulée « Rois et reines » qui vous permet de profiter de l'art tout en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "jouer au flipper ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout comme les artistes l'avaient prévu. ",
+      "t": "A",
+      "v": "644310_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le musée d'art d'Elmhurst, dans l'Illinois, a lancé en 2017 une exposition intitulée « Rois et reines » qui vous permet de profiter de l'art tout en <BLANK>. ",
+      "t": "A",
+      "v": "644307_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "préliminaires, fabrication de bougies, consommation excessive de nourriture, plages nudistes, danse salsa, chasse aux humains pour le sport, karaté, vapotage, faux dinosaures, yoga chaud, clubs de strip-tease, blagues à toc, le meilleur burger de pub, la Terre étant plate, cartes de tarot, Twinkies, lycéens, sirènes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "bouledogue britannique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "extraterrestres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Winston Churchill a écrit un essai inhabituel et inédit en 1939 sur le thème de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "vie extraterrestre, vie extraterrestre, extraterrestres, ovnis, ovnis, ovnis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voici quelque chose qu'on ne vous apprend pas en cours d'histoire : Winston Churchill a écrit un essai inhabituel et inédit en 1939 sur le thème de <BLANK>. ",
+      "t": "A",
+      "v": "564968_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

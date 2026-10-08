@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Jamais né, Mort avant le début de la guerre, Un chien, Une femme déguisée, 102 ans, 8 ans, Anémique, un nazi déclaré, peur des armes, Un anarchiste, Planifiant une révolte américaine, complètement paralysé, en Autriche pendant la guerre, ignorant que la guerre se déroulait, Un membre du Klu Klux Klan, Un cheval, en fait deux enfants dans un trench-coat, un comique stand-up ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Coeurs violets",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le neveu d'Hitler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "William Patrick Stuart-Houston a reçu un Purple Heart pendant la Seconde Guerre mondiale, ce qui est incroyable étant donné qu'il était <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Neveu d'Hitler, neveu d'Hitler, neveu d'Adolph Hitler, lié à Hitler ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a changé son nom de famille. Pour une raison quelconque. ",
+      "t": "A",
+      "v": "628617_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]William Patrick Stuart-Houston a reçu un Purple Heart pendant la Seconde Guerre mondiale, ce qui est incroyable étant donné qu'il était <VIDE>. ",
+      "t": "A",
+      "v": "628614_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

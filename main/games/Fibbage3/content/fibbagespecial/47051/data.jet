@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la diversité, la gentillesse, le plateau, l'addiction, le capitalisme, la maternité, comment oses-tu,ici les yeux,trop de promesses,une autre nuit seule,l'espoir,The Jailer Man & Sailor Sam,Ce que je pense de Diane,ça est sorti de moi,commune extraterrestre,nous ne faisons qu'un,les aristocrates,conformité ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "titres étranges ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Dieu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette œuvre d'art est <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "652606_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "652629_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ce n'est pas ce que j'aurais deviné, mais le titre de cette œuvre d'art est <BLANK>. ",
+      "t": "A",
+      "v": "652601_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

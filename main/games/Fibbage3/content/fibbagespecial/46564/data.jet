@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "oursin, tête d'épingle, anti-chatouillement, labourage du jardin, piqûre d'abeille, coller à tout, repousser les chiens, éplucher les pommes de terre, jouter, araignée, porc-épic humain, grattage de peinture, nettoyage de cheminée, coupe de cheveux punk rock, attraper des insectes, shish kabob, sécurité du métro, Metallica mosh pit ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Costumes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "protecteur de requin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il s’agit de la combinaison brevetée <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "requin, protection des requins, anti-requin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "646832_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646855_2 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Comment cela protège-t-il le requin ? ",
+      "t": "A",
+      "v": "646830_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette déclaration de mode audacieuse est la combinaison brevetée <BLANK>. ",
+      "t": "A",
+      "v": "646827_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

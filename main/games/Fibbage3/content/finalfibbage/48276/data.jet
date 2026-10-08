@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bonbons à la gelée|ours en peluche, couvertures|oreillers, peinture|pinceaux, encre d'imprimante|chou frisé, pommes|pain, stylos bon marché|stylos coûteux, lampes de poche|piles, distributeurs automatiques|cacahuètes, boomerangs|balles de jonglage, ciseaux|ciseaux de sécurité,jambon|fromage,outils électriques|taies d'oreiller,trenchcoats|romans romantiques,barbecue grills|grille-pain, lunettes de soleil|gel capillaire, chopes|leiderhosen, jeux vidéo|boissons gazeuses, tronçonneuses|trousses de premiers secours ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Volkswagen ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "saucisses|ketchup ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Volkswagen n’est pas seulement un constructeur automobile. Curieusement, ils vendent également <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ketchup|saucisses,bratwurst|ketchup,ketchup|bratwurst,ketchup|currywurst,currywurst|ketchup,castup|saucisses,bratwurst|castup,castup|bratwurst,bratwurst|castup,catsup|currywurst,currywurst|castup ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les saucisses se vendent régulièrement mieux que les voitures ET elles ont de meilleures émissions. (effet : rimshot) ",
+      "t": "A",
+      "v": "682568_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Volkswagen n'est pas seulement un constructeur automobile. Curieusement, ils vendent également <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "682565_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

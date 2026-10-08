@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une guitare | Basstown, une machine à pop-corn | une salle de cinéma, un chien | une usine de conditionnement de viande, un vélo cool | une ville branchée, une espèce rare de poisson | l'océan, une meute d'écureuils | un magasin de noix, une franchise McDonald's | un Whole Foods, atterrir sur la lune | le cratère le plus cool, vos erreurs | vos ennemis, une étoile | Pluton, un kit de crochetage | une bijouterie, une librairie | un entrepôt Amazon, des meubles IKEA | un gaz une cuisinière, des vêtements blancs | un terrain de paintball, un singe araignée | une garderie, une DeLorean | un scientifique fou, un réfrigérateur | votre lit, un morceau de la statue de la liberté | la torche ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dépenses annuelles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un stand de hot-dogs|Zoo de Central Park ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon un article du <i>New York Times</i> de septembre 2013, vous devrez payer près de 300 000 $ par an si vous souhaitez posséder <BLANK> près de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un chariot de nourriture|Zoo de Central Park,un chariot de nourriture|Central Park,un stand de hot-dogs|Central Park,un chariot de hot-dogs|Central Park,un chariot de hot-dogs|Zoo de Central Park ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon un article du New York Times de septembre 2013, vous devrez payer près de trois cents kay par an si vous souhaitez posséder <BLANK> près de <BLANK>. ",
+      "t": "A",
+      "v": "669776_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

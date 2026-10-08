@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avions de combat, Mission Impossible 3, harnais de cascade, exosquelettes, billets pour Oprah, gel pour les cheveux, Lamborghinis, vaisseaux spatiaux, aspirine maison, collants blancs, compter les cartes, réincarnation, invasion extraterrestre, mélanger des boissons avec enthousiasme, volley-ball torse nu, crime futur, montrer l'argent, sauter sur des canapés ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crimes de Tom Cruise ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "échographies sans licence ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le projet de loi californien AB2360, surnommé « The Tom Cruise Bill », est unique en ce sens qu'il interdit <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "échographie, échographie à domicile, échographies à domicile, échographies, sonagrammes, échographies personnelles, échographie sans licence ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a acheté son propre appareil à ultrasons pour voir si Katie Holmes avait un petit ailier ou une petite ailière. ",
+      "t": "A",
+      "v": "385856_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le projet de loi californien AB2360, surnommé « The Tom Cruise Bill », est unique en ce sens qu'il interdit <BLANK>. ",
+      "t": "A",
+      "v": "385853_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

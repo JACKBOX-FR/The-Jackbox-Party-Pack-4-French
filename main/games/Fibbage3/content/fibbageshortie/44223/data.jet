@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sa femme, les poignées des toilettes, de la bière bon marché, un collier maudit, le crâne d'Abe Lincoln, une planche ouija, son visage, les mains des gens, la viande cuite, ses pieds, les gens ordinaires, des stylos à encre, des pièces de monnaie, sa tortue de compagnie, des couches usagées, des vêtements sales, des poignées de porte, les dents de George Washington ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Inaction des dirigeants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "interrupteurs d'éclairage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Durant son mandat de président des États-Unis, Benjamin Harrison a refusé de toucher <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les interrupteurs, les lumières, les interrupteurs électriques, les interrupteurs électriques ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il avait peur d'être électrocuté, ce qui en 1891 arrivait la PLUPART du temps où vous utilisiez l'électricité. ",
+      "t": "A",
+      "v": "581820_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant son mandat de président américain, Benjamin Harrison a refusé de toucher <BLANK>. ",
+      "t": "A",
+      "v": "581817_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

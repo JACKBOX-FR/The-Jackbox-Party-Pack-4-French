@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Banque, McDonald's Fry Cook, comptable, pompier, professeur d'école primaire, fabricant d'armes à feu, cascadeur, bûcheron, apiculteur, boucher, cow-boy, couvreurs, pilotes, pêcheur, ouvrier du bâtiment, chauffeur de camion, ventes, stagiaire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Travail dangereux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Président ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Statistiquement, le travail le plus dangereux en Amérique est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le président, la présidence des États-Unis Président, président des États-Unis, commandant en chef ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Environ 18 % d'entre eux sont morts au travail, plus que dans toute autre profession. ",
+      "t": "A",
+      "v": "607507_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Statistiquement, le travail le plus dangereux en Amérique est <BLANK>. ",
+      "t": "A",
+      "v": "607504_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

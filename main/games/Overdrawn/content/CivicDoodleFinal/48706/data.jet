@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroductionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasDescriptionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Visage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Beauregard VanderDoodle ",
+      "n": "DisplayText"
+    },
+    {
+      "t": "S",
+      "v": "Femme ",
+      "n": "Gender"
+    },
+    {
+      "s": "reaction audio",
+      "t": "A",
+      "n": "ReactionAudio"
+    },
+    {
+      "s": "description audio",
+      "t": "A",
+      "n": "DescriptionAudio"
+    },
+    {
+      "s": "introduction audio",
+      "t": "A",
+      "n": "IntroductionAudio"
+    }
+  ]
+}

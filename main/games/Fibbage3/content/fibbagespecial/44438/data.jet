@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sourd, moins de six pieds de haut, républicains, vivant avec leurs parents, nommé Sarah, triste, riche, de Floride, en colère contre la vie, décrocheurs universitaires, amateurs de poisson, collectionneurs de pièces de monnaie, les pires, très fatigués, travailleurs de la restauration rapide, d'accord, trolls, rednecks ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ventilateurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "célibataire",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En réponse à un tweet sur ses fans, le chanteur James Blunt a répondu : « La plupart d’entre eux sont <BLANK>.» ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "15h05<br />8 décembre 2013 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@JamesBlunt ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "588350_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Eh bien, au moins il est honnête. ",
+      "t": "A",
+      "v": "588348_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En réponse à un tweet sur ses fans, le chanteur James Blunt a répondu en décembre 2013 : « La plupart d’entre eux sont <BLANK>.» ",
+      "t": "A",
+      "v": "588345_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

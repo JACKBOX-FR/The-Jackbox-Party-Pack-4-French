@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "huile d'olive, eau touchée par Ghandi, shampoing, jus d'orange périmé, moutarde, air frais, gel capillaire, oxygène pur, eau de Cologne bon marché, glace fondue, New Coke, eau de Cologne de Jim Carrey, restes d'eau de Kanye West, anti-vampire, air de l'espace, parfum de Dana Carvey, lait cru, bons moments ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Forte demande ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Sauce Big Mac ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En janvier 2017, eBay a connu une activité étrange. Les vendeurs demandaient jusqu'à 50 000 $ pour des bouteilles de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sauce pour Big Mac,sauce Big Mac's,sauce McDonald's,sauce Big Mac McDonald's ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est au moins deux mille dollars de plus que ce que je paierais. ",
+      "t": "A",
+      "v": "561563_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En janvier 2017, eBay a constaté une activité étrange. Les vendeurs demandaient jusqu'à 50 000 $ pour des bouteilles de <BLANK>. ",
+      "t": "A",
+      "v": "561560_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire un spectacle de marionnettes, se raser, s'épiler le dos, manger des spaghettis, les yeux bandés, jouer à Mario Kart, manger de la pizza, dans un autre état, s'arracher une dent, construire un canoë, regarder Le Parrain, déguisé en clown, griller des steaks, manipuler des serpents, se curer le nez, dormir, jongler, repousser un voleur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Images de fichiers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire du hoverboard ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En fouillant le téléphone d'un dentiste d'Alaska en avril 2017, les procureurs ont trouvé une vidéo de lui travaillant sur un patient sous sédation alors qu'il <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "il montait sur un hoverboard, montait sur un hoverboard, montait sur un hoverboard, montait sur un hoverboard ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En fouillant le téléphone d'un dentiste d'Alaska en avril 2017, les procureurs ont trouvé une vidéo de lui travaillant sur un patient sous sédation alors qu'il était <VIDE>. ",
+      "t": "A",
+      "v": "606551_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

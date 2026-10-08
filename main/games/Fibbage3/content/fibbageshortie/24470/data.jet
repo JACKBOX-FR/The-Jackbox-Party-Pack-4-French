@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voir, prédire l'avenir, danser la salsa, sentir la drogue, s'évader de prison, faire du bobsleigh, aimer, jouer au hockey, éviter le trafic, trouver du pétrole, sortir des menottes, programmer des jeux vidéo, manipuler des feux d'artifice, tricoter des pulls, sentir les couleurs, prédire la météo, l'éviter, construire des bateaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Leçons utiles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tirer avec des armes à feu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, Warren Wethington a fait une déclaration bizarre au <i>Des Moines Register</i>, déclarant qu'il pouvait enseigner aux aveugles comment <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tirer avec une arme à feu, utiliser une arme à feu, utiliser une arme à feu, utiliser des armes à feu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est un shérif donc il sait ce qu'il fait. Avec un peu de chance. ",
+      "t": "A",
+      "v": "423838_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, Warren Wethington a fait une déclaration bizarre au <i>Des Moines Register</i>, déclarant qu'il pouvait enseigner aux aveugles comment <VIER>. ",
+      "t": "A",
+      "v": "423835_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

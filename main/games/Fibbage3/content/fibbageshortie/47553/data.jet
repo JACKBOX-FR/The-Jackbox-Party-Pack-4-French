@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la mort de l'ours polaire, le monde et fondre avec vous, les Hummers qui démarrent, la Terre qui tourne, la glace qui fond, les gens qui se plaignent, le soleil qui brille, les voitures rapides qui sont si cool, l'huile qui brûle, les insectes super intelligents, les baby-boomers qui jettent des détritus, les météores avec des lasers, le maléfique Looten Plunder, l'habitude de cigare de votre oncle, les fêtes en polystyrène, les barges poubelles qui quittent le port, le carbone des hippies pleurnichards existants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Passer au vert ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rots de vache ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "DSM, une entreprise néerlandaise, a inventé un nouveau produit qui pourrait contribuer à préserver l'environnement en arrêtant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "vaches qui rotent, vaches qui rotent, vaches ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le médicament réduit de 30 % les gaz à effet de serre provenant des rots des vaches. ",
+      "t": "A",
+      "v": "662441_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]DSM, une entreprise néerlandaise, a inventé un nouveau produit qui pourrait contribuer à préserver l'environnement en arrêtant <BLANK>. ",
+      "t": "A",
+      "v": "662438_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

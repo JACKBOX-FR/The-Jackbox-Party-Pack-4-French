@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mégots, les singes, douleur, sucettes, homards, Thor, lutins, saucisses, marijuana, Lisa, chaussettes, fromage, Larry, meurtre, urine, acide, rats, chaînes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Uranus ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Georges ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsqu’Uranus a été découverte pour la première fois, on lui a donné un nom latin qui se traduit par « La planète de <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Roi George, Georges, George ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il doit son nom au roi George III. Et son anus. ",
+      "t": "A",
+      "v": "572634_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Quand Uranus a été découverte pour la première fois, on lui a donné un nom latin qui se traduisait par « La planète de <BLANK> ». ",
+      "t": "A",
+      "v": "572631_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

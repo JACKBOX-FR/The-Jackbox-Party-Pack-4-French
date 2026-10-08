@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lavements, césariennes, chirurgie plastique, service d'épilation, scalpels, chirurgie cérébrale, nettoyage des dents, liposuccion, examens de la prostate, service de mammographie, technique de nettoyage des oreilles, coloscopies, service d'élimination des cicatrices, nouveau médecin canadien, service d'amputation extra-digitale, traitements au botox, nouveau médecin qui ressemblait à Hugh Jackman, acupuncture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le concert parallèle de Wolverine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "service de circoncision ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, une clinique aux Philippines a utilisé le Wolverine des X-Men comme mascotte pour annoncer son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "circoncision, service de circoncision ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Note à moi-même... ne faites jamais accoucher d'enfant de sexe masculin aux Philippines. ",
+      "t": "A",
+      "v": "639810_0f",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, une clinique aux Philippines a utilisé le Wolverine des X-Men comme mascotte pour annoncer son <BLANK>. ",
+      "t": "A",
+      "v": "639807_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

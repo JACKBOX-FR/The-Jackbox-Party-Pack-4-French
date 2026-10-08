@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la lune, Lord Voldemort, un requin, un extraterrestre, une boule de bowling, une poignée de porte, un pamplemousse, son jeune lui, du couscous, un Muppet, une gomme à crayon, Jason du vendredi 13, Vincent Van Gogh, un crâne sans peau, une loutre, mon voisin Gregor, un serpent, Nosferatu ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Amusez-vous avec la chirurgie ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un perroquet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ted Richards de Bristol, en Angleterre, est un perfectionniste. Il s'est fait tatouer le visage et les globes oculaires, et ses oreilles ont été enlevées afin de ressembler à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ses perroquets, son perroquet, un oiseau ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Ted Richards de Bristol, en Angleterre, est un perfectionniste. Il s'est fait tatouer le visage et les globes oculaires, et ses oreilles ont été enlevées afin de ressembler à <BLANK>. ",
+      "t": "A",
+      "v": "666354_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

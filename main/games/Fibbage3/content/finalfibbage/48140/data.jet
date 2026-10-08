@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "scène de croisement de jambes | Attraction fatale, centrale nucléaire | Les Simpsons, atterrissage secret sur la lune | 1947, inondation | Bible, recette de bière | Beowulf, lycée | Sauvé par le gong, fembots | Austin Powers, scène de bal | Carrie, Twister | Twister, rivière de chocolat | Willy Wonka, home run | Le naturel, scène de combat | Kung Fu Panda, Étoile de la mort | Retour du Jedi,ville|C'est une vie merveilleuse,Grande citrouille|Charlie Brown,gant de receveur|Catcher in the Rye,appartement|Laverne et Shirley,requin|Mâchoires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Récréations fidèles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "terrains de tennis|Wimbledon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Vous envisagez un voyage à Charles City, IA ? Assurez-vous de voir la ferme de Mark Kuhn où il a fidèlement recréé le <BLANK> de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "court de tennis|Wimbledon,courts|Wimbledon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous envisagez un voyage à Charles City, IA ? Assurez-vous de voir la ferme de Mark Kuhn où il a fidèlement recréé le <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "678471_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

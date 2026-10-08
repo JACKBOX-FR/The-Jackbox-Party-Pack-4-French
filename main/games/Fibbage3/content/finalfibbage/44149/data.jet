@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "républicain|démocrate,un astronaute|un cosmonaute,végétarien|un carnivore,trop chaud|trop froid,jeune|vieux,un grand-père|une grand-mère,un cow-boy|un indien,un vice-président américain|un espion britannique,Time Person of the Year|un espion soviétique,ambidextre|manque les deux mains,toujours heureux|toujours en pleurs,un dictateur|un poète,un enseignant|trop cool pour école, mal habillé | trop habillé, maire élu | banni de Hardy's, né dans l'Ohio | né en Alaska, sous-estimé | surpayé, un amateur de gâteaux | un mangeur de gâteaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "personnes complexes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un nain|un géant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Adam Rainer est le seul homme dans l'histoire à être à la fois <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un géant|un nain,un nain|géant,un géant|un nain ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il mesurait 4'8\" à 19 ans, puis il a atteint 7'1\" dans la trentaine en raison d'un trouble hormonal. ",
+      "t": "A",
+      "v": "579996_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Adam Rainer est le seul homme dans l'histoire enregistrée à être à la fois <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "579993_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "petit déjeuner,HBO,fenêtres,visites conjugales,gardiens,une mascotte officielle,des canons,des repas traiteur,télévisions,couvertures et oreillers,chiots,cours d'art,climatisation,thérapie de groupe,internet,une bibliothèque,punaises de lit,toilettes extérieures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Caractéristiques des prisons",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "douches chaudes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pendant son ouverture, Alcatraz était la seule prison fédérale à avoir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "eau chaude ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était avant que QUELQU'UN accapare toute l'eau chaude. Je vous parle, bloc C. ",
+      "t": "A",
+      "v": "319871_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pendant son ouverture, Alcatraz était la seule prison fédérale dotée de <VIERGE>. ",
+      "t": "A",
+      "v": "319868_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

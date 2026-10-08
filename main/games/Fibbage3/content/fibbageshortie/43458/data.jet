@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Elmo, Mary Poppins, Sonic, Super Mario, Tony le tigre, Homer Simpson, Alexa, L'incroyable Hulk, Google Maps, Sherlock Holmes, Tante Jemima, Bugs Bunny, Bob le bricoleur, Siri, Cailou, Jurassic Park, Spider-Man, Ronald McDonald ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Danny Friggin' DeVito ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Pikachu ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Malgré une campagne en ligne de la part des fans, Danny DeVito a déclaré en 2017 qu'il ne serait pas la nouvelle voix de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pickachu, pikachew, pikachew ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sa réponse : \"Qu'est-ce que le F, c'est un Pokémon ?\" ",
+      "t": "A",
+      "v": "562708_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Malgré une campagne en ligne de la part des fans, Danny DeVito a déclaré en 2017 qu'il ne serait pas la nouvelle voix de <BLANK>. ",
+      "t": "A",
+      "v": "562705_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

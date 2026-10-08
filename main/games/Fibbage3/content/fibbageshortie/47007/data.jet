@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "mollets musclés chauds, films d'horreur, mouvements de ballet, dirtbike, tatouage sublime, Barbies vintage, œil de verre, remède secret contre la gueule de bois, collection de cheveux d'ex, recette de pudding, impression de Leonard Nimoy, Air Jordans rares, troisième et quatrième tétons, carnet de poésie, placard plein de fedoras, robot fait maison, furet obèse, éruption cutanée étrange ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Histoires de célébrités ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "collection de bogues ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lors de l'émission <i>The Late Late Show with James Corden</i> en 2015, l'actrice Anna Faris a révélé qu'elle était tombée amoureuse de Chris Pratt lorsqu'il lui a montré son <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "collection de bogues morts, bogues, bogues morts, collection d'insectes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je suis sorti une fois avec quelqu'un avec une collection de bogues. Des milliers de grillons vivaient dans son appartement. ",
+      "t": "A",
+      "v": "651974_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lors de l'émission <i>The Late Late Show with James Corden</i> en 2015, l'actrice Anna Faris a révélé qu'elle était tombée amoureuse de Chris Pratt lorsqu'il lui a montré son <BLANK>. ",
+      "t": "A",
+      "v": "651971_0f ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

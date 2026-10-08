@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "du houmous, du sang humain, des pièces d'or, du venin de serpent, du rhum, des pétards, un cocktail de crevettes, des centaines de vers, du whisky écossais, du vomi, de la toxine nerveuse, du sperme d'étoile de mer, de la cervelle de crabe, des crottes de singe, du pipi de lézard, un estomac de poisson, M. Pibb, Tylenol ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les Philippines ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un canard à naître ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La prochaine fois que vous ferez la fête un peu trop fort, essayez « balut ». Il s’agit d’un remède traditionnel contre la gueule de bois des Philippines qui consiste en un œuf rempli de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un embryon,un embryon de canard,un fœtus de canard,canard,un canard,un fœtus,fœtus ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](snob, indigné) Personnellement, je préférerais que ce canard naisse et grandisse dans une cage jusqu'à ce que je le mange, merci beaucoup. ",
+      "t": "A",
+      "v": "592073_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La prochaine fois que vous faites la fête un peu trop fort, essayez « balut ». Il s’agit d’un remède traditionnel contre la gueule de bois des Philippines qui consiste en un œuf rempli de <BLANK>. ",
+      "t": "A",
+      "v": "592070_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

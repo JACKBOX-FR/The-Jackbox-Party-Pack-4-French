@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chien, pied, canette en aluminium, Mario Kart, broyeur à déchets, le jimmy, bâton de selfie, cannelure, coup d'amadou, expresso, yoga, Twitter, pied, cheeto, malodorant, idiot stupide, Jésus, quinoa ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ne touchez pas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "avocat ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mai 2017, l'Association britannique des chirurgiens plasticiens, reconstructeurs et esthétiques a signalé avoir constaté une augmentation du nombre de patients aux urgences en raison d'une affection que certains appellent « <BLANK> Main ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]N'essayez pas de trancher un avocat avant d'avoir regardé les 37 000 didacticiels YouTube sur le sujet. ",
+      "t": "A",
+      "v": "646860_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mai 2017, l'Association britannique des chirurgiens plasticiens, reconstructeurs et esthétiques a signalé avoir constaté une augmentation du nombre de patients aux urgences en raison d'une affection que certains appellent « <BLANK> Main ». ",
+      "t": "A",
+      "v": "646857_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

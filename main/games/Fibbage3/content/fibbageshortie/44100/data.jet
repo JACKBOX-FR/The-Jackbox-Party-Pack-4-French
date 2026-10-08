@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pensé à sa mère, entendu de la musique a capella, yodel, se souvenait du soleil, mangeait des hot-dogs, parlait français, était témoin du tricot, regardait de mauvais films, ronflait, entendait des enfants rire, regardait les Simpsons, faisait voler un cerf-volant, perdait un pari, prononçait ses noms à l'envers, enfilait ses chaussures, tondait la pelouse, prenait une douche, faisait des gaufres ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Saisies déraisonnables ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fait du Sudoku ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En décembre 2015, des chercheurs de l'Université de Munich ont rapporté le cas étrange d'un étudiant qui avait des convulsions à chaque fois qu'il <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "résolu un sudoku,sudoku,fait un puzzle sudoku,fait des puzzles sudoku,résolu un sodoku,sodoku,fait du sodoku,fait un puzzle sodoku,fait des puzzles sodoku ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je comprends : mon nez saigne à chaque fois que j'essaie de faire des mots croisés. ",
+      "t": "A",
+      "v": "578437_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En décembre 2015, des chercheurs de l'Université de Munich ont rapporté le cas étrange d'un étudiant qui avait des convulsions à chaque fois qu'il <VIDE>. ",
+      "t": "A",
+      "v": "578434_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

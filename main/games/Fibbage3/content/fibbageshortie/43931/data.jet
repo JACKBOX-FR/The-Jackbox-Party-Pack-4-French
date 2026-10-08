@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Boire du lait périmé, Manger du chocolat, Manger de la viande, Danser, Se tenir la main en public, Posséder des chiens, Chanter faux, Porter des chapeaux hauts, Beurrer leur pain, claquer des doigts, porter des chaussettes de différentes couleurs, peindre leurs murs en « coquille d'œuf », se regarder dans les miroirs, applaudir en public, séparer leurs cheveux vers la droite, dormir sur le côté, voir des magiciens en direct, posséder des fourchettes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Papes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire du café ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au XVIIe siècle, le pape Clément VIII s'est opposé à ses conseillers et a déclaré qu'il était acceptable pour les catholiques de <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "prendre un café, préparer du café ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Euh, comment pensez-vous qu'ils ont fait de nouveaux catholiques ? ",
+      "t": "A",
+      "v": "573368_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au 17ème siècle, le pape Clément VIII s'est opposé à ses conseillers et a déclaré qu'il était acceptable pour les catholiques de <VIDE>. ",
+      "t": "A",
+      "v": "573361_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

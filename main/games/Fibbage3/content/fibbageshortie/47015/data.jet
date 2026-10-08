@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "raser leurs chats, faire la publicité de son restaurant, dessiner des moustaches sur leurs photos, regarder leurs films personnels, faire des biscuits, voler des cravates, faire une descente dans le réfrigérateur, changer leur moutarde et leur ketchup, laisser fondre la glace, écrire de la poésie sur les murs, laisser des corbeaux morts, remplir le sucrier de fourmis, remplir la baignoire de viande pour le déjeuner, utiliser leur téléphone pour faire des farces, jouer des chansons parodiques au ukulélé, vérifier le compteur d'eau, terminer leurs mots croisés, s'excuser d'avoir cassé dans ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Effractions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se couper les cheveux pendant leur sommeil ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1942, la ville de Pascaboula, dans le Mississippi, a été terrorisée par un homme qui est entré par effraction dans les maisons juste pour faire une chose étrange : <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "couper leurs cheveux, couper les cheveux des gens, couper les cheveux, leur faire des coupes de cheveux, leur faire des coupes de cheveux pendant leur sommeil, leur couper les cheveux pendant qu'ils dorment ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Pire encore, il a donné à tout le monde The Rachel. ",
+      "t": "A",
+      "v": "652244_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1942, la ville de Pascaboula, dans le Mississippi, a été terrorisée par un homme qui s'est introduit par effraction dans les maisons juste pour faire une chose étrange : <VIDE>. ",
+      "t": "A",
+      "v": "652241_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

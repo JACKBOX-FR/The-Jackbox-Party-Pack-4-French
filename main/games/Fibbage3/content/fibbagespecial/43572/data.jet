@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un tank, son corps de bébé, son propre corps, Kelly Ripa, le juge Ito, un poisson rouge, Aquaman, une cuvette de toilettes, un serpent, un vampire, une licorne, une étoile de mer, les fesses d'un hippopotame, la lune, l'Empire State Building, un dauphin, Elsa de Frozen, une bouteille de vodka ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "50 Sens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Superman ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "50 Cent a écrit la légende : \"Humeur : je suis sur ma merde, alors reste en dehors de mon chemin. Le plus drôle, c'est que tu penses que je joue. #EFFENVODKA #FRIGO.\" Cela faisait référence à une photo de son visage photoshopée sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "14 juillet 2016 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@50cents ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Super homme ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Asseyez-vous une seconde, je dois vérifier mon flux... ",
+      "t": "A",
+      "v": "565525_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]INSTAGRAM DE CÉLÉBRITÉ ! En juillet 2016, 50 Cent a écrit la légende : \"Humeur : je suis sur ma merde, alors reste en dehors de mon chemin. Le plus drôle, c'est que tu penses que je joue. #EFFENVODKA #FRIGO. \"C'était en référence à une photo de son visage photoshopée sur <BLANK>. ",
+      "t": "A",
+      "v": "565520_0f ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

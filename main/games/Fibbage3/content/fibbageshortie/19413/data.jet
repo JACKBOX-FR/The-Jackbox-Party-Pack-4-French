@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "lance-flammes, épée de samouraï, baguette de magicien, Gameboy, yo-yo, boomerang, seau de bonbons, acolyte robot, panneau « Hug Me », gant de receveur, pointeur laser, machette, partenaire fantôme, rouleau de quartiers, Super Soaker, amulette magique, ceinture utilitaire, missile sol-air ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Équipement de police ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mannequin de ventriloque ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le policier de San Francisco, Bob Geary, a dû obtenir une autorisation spéciale des électeurs de la ville pour porter un <BLANK> pendant son service. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mannequin, marionnette, figure de vent, mannequin ventriloque, mannequin ventriloque ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il pourrait vous lire vos droits Miranda et ne jamais bouger les lèvres ",
+      "t": "A",
+      "v": "385232_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le policier de San Francisco, Bob Geary, a dû obtenir une autorisation spéciale des électeurs de la ville pour porter un <BLANK> pendant son service. ",
+      "t": "A",
+      "v": "385229_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

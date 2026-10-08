@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "réciter Pi, descendre d'un tapis roulant, calculer un pourboire, tweeter, boire du Pepsi Max, éteindre mon robot tueur, battre des œufs, faire un double essieu, dénoncer des inexactitudes scientifiques dans les films, faire une rime, faire tourner un globe, attraper une balle molle, éplucher des raisins, lancer des fléchettes, répondre à la porte, attraper mon chien, éteindre le rapport de la ferme, bourdonner en danger ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tysonismes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "enlève mon pantalon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'astrophysicien Neil deGrasse Tyson a tweeté : \"Non. J'ai un assez bon équilibre pour ma taille. Mais je suis tombé en essayant de <BLANK> rapidement.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "7h31<br />10 mai 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@neiltyson ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "enlève mon pantalon, enlève mon pantalon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "618894_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La science PEUT être amusante ! ",
+      "t": "A",
+      "v": "618892_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En mai 2017, l’astrophysicien Neil deGrasse Tyson a tweeté : « Non. J'ai un assez bon équilibre pour ma taille. Mais je suis tombé en essayant de <BLANK> rapidement. ",
+      "t": "A",
+      "v": "618889_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

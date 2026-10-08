@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "loups-garous, Jay Leno, The Backstreet Boys, fesses, intestins, scènes de Pulp Fiction, opérations chirurgicales bâclées, tueurs en série, toilettes, moustaches, le casting de Friends, extraterrestres, Albert Einstein, hommes des cavernes, ongles, asticots, bébés cochons, clowns fantômes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gommeux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tué sur la route ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2005, après avoir reçu de nombreuses plaintes, Kraft Foods a décidé de ne plus fabriquer de bonbons gommeux en forme de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mort sur la route, animaux morts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Oooh. Le gommeux le plus rare de tous (référence Simpsons) ",
+      "t": "A",
+      "v": "677319_1 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2005, après avoir reçu de nombreuses plaintes, Kraft Foods a décidé de ne plus fabriquer de bonbons gommeux en forme de <BLANK>. ",
+      "t": "A",
+      "v": "677312_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Muffin, gros gars dans un petit manteau, garçon mince, critique gastronomique, professeur noisette, grand deux tonnes, Bull Boy, Moon Man, grand homme, cauchemar de tailleur, étalon, homme à femmes, homme bébé, gros papa, tailleur, critique culinaire, Gut Buster, aristocrate ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Petite Bretagne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Grande citrouille ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cette gravure coloriée à la main de 1806 est intitulée « Dan Lambert le merveilleux <BLANK> de Little Brittain ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Citrouille ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "604316_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "604339_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cette image, bien sûr, représente la fière tradition du body shaming du XVIIe siècle. ",
+      "t": "A",
+      "v": "604314_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cette gravure coloriée à la main de 1806 est intitulée « Dan Lambert le merveilleux <BLANK> de Little Brittain ». ",
+      "t": "A",
+      "v": "604311_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

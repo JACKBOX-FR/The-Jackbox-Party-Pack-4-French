@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tête de lapin | sanglier, patch | sac à main homme, ruban | tunique, dent de requin | chapeau, étiquette | paire de sous-vêtements, avertissement | enfant malade, gaine de poignard | corsage, perruque | cuir chevelu d'homme, saucisse | bouclier, chaton | chapeau, robe | jolie robe, paysan | noble, plume | chien, roue à fromage | pis de vache, corne | tête de cheval, morceau de armure|taureau,perruque|cochon,cape|paire de sous-vêtements ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Accords médiévaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cochon|poulet ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Inventé au Moyen Âge, un « cockentryce » est un <BLANK> cousu sur un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "poulet|cochon,cochon|dinde,dinde|cochon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous êtes censé le recouvrir de pâte et le manger. De nos jours, nous mangeons des choses dignes, comme la pizza au hot-dog ",
+      "t": "A",
+      "v": "581010_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Inventé au Moyen Âge, un « cockentryce » est un <BLANK> cousu sur un <BLANK>. ",
+      "t": "A",
+      "v": "581007_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les chiens se tiennent sur leurs pattes arrière, les dindes à la main, les gens écoutent vos opinions, les colliers de macaronis, les mitaines, le sens du monde, les courtepointes, les napperons, la poterie, les pulls pour chiens, les marionnettes faites maison, la quiche, les bonbons à l'érable, les biscuits au sucre de sa mère, les bougies parfumées à la rose, le pudding à la vanille, la tire d'eau salée, un mix-tape ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "délicat orwell ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une bonne tasse de thé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1946, l'auteur de <i>Animal Farm</i> George Orwell a découvert son côté le plus sensible dans un essai qu'il a écrit pour le <i>Evening Standard</i> qui expliquait comment créer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une tasse de thé, du thé, des tasses de thé ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1946, l'auteur de <i>Animal Farm</i> George Orwell a découvert son côté le plus sensible dans un essai qu'il a écrit pour le <i>Evening Standard</i> qui expliquait comment créer <BLANK>. ",
+      "t": "A",
+      "v": "562209_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

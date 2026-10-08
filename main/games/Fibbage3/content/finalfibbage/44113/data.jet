@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "embrasser | un banc, faire caca | un plateau repas, sauter | des poubelles, prier | un yak mort, sauter | des poubelles, bronzer | un centre commercial abandonné, chanter | planches à roulettes, skier | montagne de boue, vomir | stagiaires, se battre | une décharge, tirer au skeet | un sous-marin, griller des hamburgers | un moteur de voiture en marche, lancer des fléchettes | patins à glace, se saouler | un jeu télévisé, crier des obscénités | une école bus, lire de la poésie|La tombe de Lénine,faire du vin|un réacteur nucléaire abandonné,flex|un ours mort ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "traditions des astronautes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi|un pneu de bus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les astronautes quittant le cosmodrome de Baïkonour au Kazakhstan ont un étrange rituel. Avant d'embarquer, ils <BLANK> sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi|un pneu,uriner|un pneu de bus,uriner|un pneu,faire pipi|un pneu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les astronautes quittant le cosmodrome de Baïkonour au Kazakhstan ont un étrange rituel. Avant d'embarquer, ils <BLANK> sur <BLANK>. ",
+      "t": "A",
+      "v": "578824_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "frappé|un elfe, s'en est pris au diable, avalé|un loup, kidnappé|un troll, matraqué|un ogre,cuisiné|une sorcière,étouffé|un serpent, mangé|une araignée,giflé|un yéti,piétiné|renne,effrayé|un fantôme, trompé|un sorcier,volé|un monstre,chatouillé|un cinglé,picoré|un corbeau,poignardé|une série tueur, encerclé|une buse, étreint|des morts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vêtements de Noël ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mangé|un chat ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le jour de Noël en Islande, les enfants laissent une offrande de vêtements afin qu'ils ne soient pas <BLANK> par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mangé|chat,mangé|chats ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il s'appelle le Chat de Noël, et si cela signifie éviter le matin de Noël chez ma tante, Chat de Noël, emmène-moi maintenant. ",
+      "t": "A",
+      "v": "573304_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le jour de Noël en Islande, les enfants laissent une offrande de vêtements afin qu'ils ne soient pas <BLANK> par <BLANK>. ",
+      "t": "A",
+      "v": "573301_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

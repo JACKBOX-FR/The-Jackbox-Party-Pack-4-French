@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "toilettes publiques, dortoirs d'université, oreilles de personnes âgées, cuisines de restaurant, buffets de clubs de strip-tease, sous-vêtements de vide-greniers, vestiaires pour femmes, vestiaires, nez de carnaval, parties intimes de stars du porno, mains de médecins, fesses de chiens, nez de tortue, bacs à litière, piscines de riches, épiceries rurales, Nouvelle-Orléans, couches pour bébés usagées ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bactéries insaisissables ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les fesses des surfeurs ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pour obtenir des informations sur les bactéries résistantes aux médicaments, des chercheurs de l’Université d’Exeter en Angleterre ont prélevé des échantillons plutôt dégoûtants sur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "cul de surfeur, fesses de surfeur, fesses de surfeur, cul de surfeurs, fesses de surfeurs, fesses de surfeurs, trou du cul de surfeur, anus de surfeur, fesses, culs de surfeurs, fesses des gens, culs des gens, connards ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bien sûr, ils utilisent le terme technique pour désigner les fesses d'un surfeur : un cowabunghole. ",
+      "t": "A",
+      "v": "420690_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Pour obtenir des informations sur les bactéries résistantes aux médicaments, des chercheurs de l'Université d'Exeter en Angleterre ont prélevé des échantillons plutôt dégoûtants sur <BLANK>. ",
+      "t": "A",
+      "v": "420687_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

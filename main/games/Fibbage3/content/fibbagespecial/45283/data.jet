@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Prendre de mauvaises décisions, Avant que la guerre n'éclate, Boire du poison, Ignorer les vampires, Après avoir assassiné un cheval, Être idiot, Célébrer un mari mort, Manger des pâtes, Après être sorti de prison, Éviter leurs familles, Planifier leur vengeance, Plein de vie, Échapper à la guerre, Après la fermeture Exaspérer le propriétaire, Célébrer des gressins illimités, Ne sont-ils pas amusants ?, Jeter, En colère contre la vie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Activités de restauration ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Regardé par Cupidon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette œuvre d'art amusante est <i>Trois femmes dansantes dans un restaurant <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "avec Cupidon ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "610600_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "610623_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de cette œuvre d'art amusante est <i>Trois femmes dansant dans un restaurant <BLANK></i>. ",
+      "t": "A",
+      "v": "610595_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

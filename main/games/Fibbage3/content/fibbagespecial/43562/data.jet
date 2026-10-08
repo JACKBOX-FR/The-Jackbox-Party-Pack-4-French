@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chanter, dire l'alphabet, se baigner, cueillir des marguerites, se gargariser, guérir le cancer, voler, payer des impôts, sourire, sucer des citrons, parler, murmurer, embrasser, faire une gueule de canard, lécher le sel, polir le laiton, vendre une vache, se faire gercer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Salut Hohnay ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire du miel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si quelque chose semble trop beau pour être vrai pour un Russe, il pourrait répondre par un dicton qui se traduit par « J'aimerais <VIER> avec vos lèvres ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mange du miel, bois ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Hé, peu de gens le savent, mais Fibbage était basé sur un vieux jeu de société russe. Revenons à nos racines... ",
+      "t": "A",
+      "v": "565291_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tu sais quoi ? J'utiliserai mes propres lèvres, merci beaucoup. ",
+      "t": "A",
+      "v": "565289_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si quelque chose semble trop beau pour être vrai pour un Russe, il peut répondre par un dicton qui se traduit par « J'aimerais <VIER> avec vos lèvres ». ",
+      "t": "A",
+      "v": "565286_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

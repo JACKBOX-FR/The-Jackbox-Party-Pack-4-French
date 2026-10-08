@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "étaient coupés en cubes, criaient, étaient orange, produisaient du monoxyde de carbone, saignaient, étaient des crânes de singe, pouvaient éclore, avaient des visages, étaient faits d'uranium, sentaient le soufre, étaient venimeux, attiraient les abeilles, étaient invisibles, avaient un goût terrible, pesaient dix livres, fondaient, étaient fabriqués par des orphelins, valaient 1 000 $ chacun ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Billard ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "a explosé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jouer au billard au début du 20e siècle avait une caractéristique particulièrement alarmante : les billes blanches <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "exploserait, pourrait exploser, était explosif, exploserait ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Après avoir arrêté d'utiliser l'ivoire pour fabriquer des boules blanches, le premier plastique qu'ils ont essayé était hautement combustible. ",
+      "t": "A",
+      "v": "609040_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jouer au billard au début du 20e siècle avait une caractéristique particulièrement alarmante : les boules blanches <BLANK>. ",
+      "t": "A",
+      "v": "609037_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

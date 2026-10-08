@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Vendez son piano, Apprenez à Capone à jouer, Apprenez un nouvel instrument, Introduisez-les dans un club de jazz, Dansez avec eux, Jouez de la musique classique, buvez de l'alcool, Rejoignez leur gang, Parlez espagnol, S'habillez en travesti, Vendez ses vêtements, Prenez une photo, Signez un autographe, Faites « Free Bird », Détendez-vous, rencontrez son fils, Soutenez-le pour la mairie, Prêtez-lui cinq dollars ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Al et graisses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "venir à sa fête d'anniversaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les sbires d’Al Capone ont autrefois tenu Fats Waller sous la menace d’une arme parce qu’ils voulaient que le musicien de jazz <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jouer à la fête d'anniversaire de Capone, Jouer à sa fête d'anniversaire, Aller à sa fête, venir à son anniversaire, venir à sa fête, faire la fête avec lui, faire la fête avec Capone ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh Al, quand apprendras-tu que tu n'as pas besoin d'armes pour te faire des amis. Soyez simplement vous-même ! ",
+      "t": "A",
+      "v": "572753_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les sbires d'Al Capone ont autrefois tenu Fats Waller sous la menace d'une arme parce qu'ils voulaient que le musicien de jazz <VIDE>. ",
+      "t": "A",
+      "v": "572750_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

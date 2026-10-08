@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trempé dans le lait, Ivre, Coup de poing au visage, roulé dans les escaliers, Éveillé pendant 24 heures, Hurlé par les invités, moqué par les enfants, séparé pendant une semaine, Jeté dans un puits, servi de l'agneau pourri, totalement rasé, poussé d'une falaise, incendié, sermonné par une marionnette, battu avec des chaussettes, enterré dans du linge frais, soumis à un simulacre de procès, piqué par des épingles à chapeau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Essais de mariage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "couvert de bave ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une vieille tradition de mariage écossaise veut que, afin de préparer le couple aux épreuves du mariage, ils doivent être <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "slimed, arrosé de slime, noirci, recouvert de glu ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le « slime » est un mélange de mélasse, d'œufs et à peu près tout ce que la ville peut trouver de dégoûtant. ",
+      "t": "A",
+      "v": "623098_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une vieille tradition de mariage écossaise veut que, afin de préparer le couple aux épreuves du mariage, ils doivent être <VIDE>. ",
+      "t": "A",
+      "v": "623095_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

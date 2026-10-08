@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la peine de mort, l'eugénisme, les rapports sexuels protégés, l'énurésie nocturne, le divorce, l'incontinence, le mariage interracial, l'étiquette d'essuyage, l'allaitement maternel, le curage du nez, les MST, l'immigration illégale, l'avortement, l'utilisation de stéroïdes, le suicide assisté, le SSPT, la dépression clinique, les premiers furries ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Histoire de Disney ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "périodes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1946, Walt Disney Pictures fut chargé de produire un court métrage d'animation de dix minutes sur le sujet quelque peu tabou de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "menstruation, menstruation, cycles menstraux, le cycle menstral ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela s'appelait « L'histoire de la menstruation ». Certains le considèrent comme le tout premier drame d’époque. ",
+      "t": "A",
+      "v": "399806_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1946, Walt Disney Pictures a été chargé de produire un court métrage d'animation de dix minutes sur le sujet quelque peu tabou de <BLANK>. ",
+      "t": "A",
+      "v": "399803_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

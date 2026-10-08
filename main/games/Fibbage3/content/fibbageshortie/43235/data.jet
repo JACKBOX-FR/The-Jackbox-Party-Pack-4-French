@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "été malade, pris l'avion, allé en Californie, fait des blagues, mangé des aliments transformés, pris des auto-stoppeurs, joué à des jeux vidéo, pleuré, conduit une voiture, menti sur son âge, mis de la nourriture au micro-ondes, mangé des céréales sucrées, s'est réveillé après 7 heures du matin, a demandé à un homme de sortir, a porté des pantalons de survêtement, s'est moqué des pauvres, a trempé un ballon de basket, a fait un don à une œuvre caritative ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Martha Stewart ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "été frappé par la foudre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, Martha Stewart a fait un aveu surprenant selon lequel elle avait <BLANK> trois fois. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "été frappé par la foudre, été frappé par la foudre, été frappé par la foudre, été frappé par la foudre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et ses cheveux sont restés PARFAITS. ",
+      "t": "A",
+      "v": "558923_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, Martha Stewart a fait la confession surprenante qu'elle avait <BLANK> trois fois. ",
+      "t": "A",
+      "v": "558920_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

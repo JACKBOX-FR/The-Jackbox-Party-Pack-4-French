@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sang | chèvres, lait | un gorille, urine | leur grand-mère, pluie | ouragans, sueur | papas, huile | une vieille voiture, larmes | un clown, venin | anacondas, eau | toilettes locales, vin | les morts, jus | une banane pourrie, crachat | le maire, shampoing | leur sœur, soupe | Pain Panera, le vin | Boone's Farm, bouillon | couche ragoût,bière|ancêtres,morve|leurs chiens ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Boire ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "sperme|jeunes hommes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le cadre de leur voyage vers l'âge adulte, les garçons de la tribu Sambia de Papouasie-Nouvelle-Guinée sont censés boire le <BLANK> de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sperme|jeunes hommes,sperme|garçons,sperme|garçons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Donc, votre histoire typique de passage à l'âge adulte... ",
+      "t": "A",
+      "v": "571385_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le cadre de leur voyage vers l'âge adulte, les garçons de la tribu Sambia de Papouasie-Nouvelle-Guinée sont censés boire le <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "571382_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

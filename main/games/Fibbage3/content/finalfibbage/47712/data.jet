@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "livres|chocolat,DVD d'Halloween|Halloween II,meubles|un travail,une trempette amusante|cigarettes,chambre|pension,crème glacée Moose Tracks|aide informatique,frais de scolarité|paiements de voiture,un paquet de gomme|conseils d'investissement,une épilation|une manucure,un œuf dur|un verre d'eau,des chaussures|une robe,un jeu de cartes|un peu de magie,gel pour cheveux|un vieux téléphone portable,un pistolet|une machine à voyager dans le temps,une voiture batterie|trois serpents vivants,une photo|une note d'amour, du soufre|des os humains, des produits frais|un nouveau presse-agrumes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Demandes professionnelles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "60$|nachos ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En novembre 2016, une femme de l'Ohio qui a placé une annonce sur Backpage.com a été arrêtée pour avoir proposé des relations sexuelles en échange de <BLANK> et <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "argent|nachos,espèces|nachos,50$|nachos,nachos|argent,nachos|60$,nachos|50$,chips|argent,chips|60$,chips|50$,argent|chips,argent|chips,50$|chips ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hé, tu sais quoi, Ohio, il n'y a rien de mal à savoir ce que tu veux. ",
+      "t": "A",
+      "v": "666417_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En novembre 2016, une femme de l'Ohio qui a placé une annonce sur Backpage.com a été arrêtée pour avoir proposé des relations sexuelles en échange de <BLANK> et <BLANK>. ",
+      "t": "A",
+      "v": "666414_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manger | courir, rouler fort | mouillé, se garer | relâcher, gémir | gémir, frapper | quitter, cliquer dessus | lécher, descendre | dormir, glisser | exploser, le coincer | l'enfoncer, s'accroupir | prendre chaud, conduire | frotter, s'écraser | devenir mou, arrière | courir, sourire | supporter, retirer | prier, flash | s'écraser, se faufiler | jeter un coup d'oeil, claquez vos freins | étouffe votre accélérateur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Dakota du Sud sexy ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Secousse | Conduire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Dakota du Sud a dû annuler une campagne de sécurité publique parce que les gens la considéraient comme un euphémisme sexuel. Le message était « Ne faites pas <VIDE> et <VIDE>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Dakota du Sud a dû annuler une campagne de sécurité publique parce que les gens la considéraient comme un euphémisme sexuel. Le message était « Ne faites pas <VIDE> et <VIDE>. » ",
+      "t": "A",
+      "v": "383495_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

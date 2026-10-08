@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais garçons, voyageurs du temps, batteurs de métal, amateurs de yaourt, survivants de l'an 2000, futurs fantômes, fans de Josh Groban, vampires, citoyens indifférents, amateurs de Donkey Kong, accueillants d'extraterrestres, noms de comètes, mangeurs de soupe, attrapeurs d'étoiles, coureurs de tortues, plongeurs maigres, surfeurs de canapé, respirateurs buccaux ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fondateurs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Personnes mortes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lal Bihari, originaire de l'Uttar Pradesh, en Inde, est à la fois le fondateur et membre de l'association inhabituelle de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Hommes morts, les morts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est un groupe de personnes qui ont été déclarées mortes à tort par le gouvernement. ",
+      "t": "A",
+      "v": "595941_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lal Bihari, de l'Uttar Pradesh, en Inde, est à la fois le fondateur et membre de l'association inhabituelle de <BLANK>. ",
+      "t": "A",
+      "v": "595938_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

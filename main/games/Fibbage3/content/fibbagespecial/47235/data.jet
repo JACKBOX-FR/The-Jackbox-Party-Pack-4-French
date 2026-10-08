@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "regarde maintenant, chatouille grand-mère, regarde-moi dans les yeux, réfléchis trop fort à ça, parle au gnome, marchande avec une sorcière, endors-toi, sous-estime-moi, touche ça, moque-toi de tes aînés, jette-la, rends ça bizarre, gâche ça pour moi, ris, bloque la sortie de secours, nourris les trolls, dessine à 3 heures du matin, admets tes fautes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Ne le faites pas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "crie, stupide ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre étrange de cette pièce espagnole est <i>Don't <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "crier stupide, crier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "654991_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "655014_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ouais, stupide. ",
+      "t": "A",
+      "v": "654989_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre étrange de cet article espagnol est <i>Don't <BLANK></i>. ",
+      "t": "A",
+      "v": "654986_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

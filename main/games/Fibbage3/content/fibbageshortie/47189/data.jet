@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bâtons à selfie, cordes E pour guitares, bustes de présidents américains, bouteilles de moutarde, chaussettes simples, pommes de terre crues, adoucisseur de barbe, aspirateurs robots, faux permis de conduire, téléviseurs 4K, élastiques à cheveux, baskets usagées, sauce, entonnoirs, casques VR, les biens d'un homme, des M&M en vrac, des fortunes insultantes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Distributeurs automatiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "voitures de luxe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En décembre 2016, un distributeur automatique a été installé à Singapour et, étrangement, ne vend que <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voitures chères, voitures, voitures de luxe, voiture, voitures chères ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce qui est ennuyeux, c'est lorsque votre Lexus se coince dans la machine et que vous devez en acheter une autre pour la faire tomber. ",
+      "t": "A",
+      "v": "654371_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En décembre 2016, un distributeur automatique a été installé à Singapour qui, étrangement, ne vend que <BLANK>. ",
+      "t": "A",
+      "v": "654368_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

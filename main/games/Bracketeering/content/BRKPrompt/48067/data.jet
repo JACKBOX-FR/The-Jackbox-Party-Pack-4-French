@@ -1,0 +1,156 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasTwist0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist2Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "Meilleur animal pour mettre une peinture sur velours au-dessus de votre lit ",
+      "t": "A",
+      "v": "676383_0f",
+      "n": "Twist0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Fait pour le velours !! ",
+      "t": "A",
+      "v": "676396_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle EST la meilleure peinture sur velours animalière à mettre au-dessus de votre lit ?!! ",
+      "t": "A",
+      "v": "676393_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Enfin un support qui correspond parfaitement à mes propres intérêts ",
+      "t": "A",
+      "v": "676386_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist1Audio"
+    },
+    {
+      "s": "Nommez un animal plus grand que vous ",
+      "t": "A",
+      "n": "Win4Audio"
+    },
+    {
+      "s": "Animaliste !! ",
+      "t": "A",
+      "v": "676395_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Nommez un animal plus grand que vous ",
+      "t": "A",
+      "v": "676379_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Twist2Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Je vais mettre ça sur mon lit maintenant !! ",
+      "t": "A",
+      "v": "676394_0f",
+      "n": "Win0Audio"
+    }
+  ]
+}

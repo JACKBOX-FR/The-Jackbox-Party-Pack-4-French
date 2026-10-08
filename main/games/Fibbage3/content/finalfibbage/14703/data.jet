@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Amasser|dettes,câlins|enfants,Prendre|dumps,grill|hamburgers,Hacher|salades,lait|vaches,Élever|enfants,surfer|vagues,Combattre|loups,tirer|arnaques,apprivoiser|mégots,manger|portions,échapper|combats,résoudre|mystères,pop|boutons,boucher|trous,rétrécir|pieds,gagner|au blackjack ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bon conseil ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Éviter|Navires ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "John W. Trimer est l'auteur du livre de 1982 <i>How To <BLANK> Huge <BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Première étape, mettre ce navire au régime ",
+      "t": "A",
+      "v": "326167_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]John W. Trimer est l'auteur du livre de 1982 <i>How To <BLANK> Huge <BLANK></i>. ",
+      "t": "A",
+      "v": "326164_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un tapis roulant de chargement de téléphone, la machine Fortune Teller de BIG, un Cinnabon à énergie solaire, des cours de pilotage, une très belle poubelle de recyclage, des câlins gratuits, un petit réacteur nucléaire, un Tommy Bahama, des peintures d'Al Gore, une chirurgie plastique gratuite, des éviers fonctionnels, Craig T. Nelson, un groupe animatronique, la météo réelle, un mime, la sécurité Android, un robot JFK, de la vraie argenterie ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rénovations ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une ferme de pommes de terre ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2015, JetBlue est devenue la première compagnie aérienne à avoir <BLANK> dans son terminal JFK. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une ferme, une ferme d'herbes aromatiques, des pommes de terre ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais si vous y allez pour le déjeuner, préparez-vous aux retards. ",
+      "t": "A",
+      "v": "651758_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cela a pris des années, mais en 2015, JetBlue est devenue la première compagnie aérienne à avoir <BLANK> dans son terminal JFK. ",
+      "t": "A",
+      "v": "651755_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

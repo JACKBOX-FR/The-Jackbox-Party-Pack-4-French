@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "en surpoids | bacon, déprimé | rencontres en ligne, excité | sexe au téléphone, descendu | Gengis Khan, dix minutes | une dépression nerveuse, bouleversé | un événement sportif, fatigué | faire la fête, assis sur une chaise | Chine, caché | vue, intelligent | aller à l'école, malade | manger des hamburgers, 100 ans | mort, heureux | juste vivre la vie homme, penser aux extraterrestres | espace extra-atmosphérique, Jenny | le bloc, Luka | le deuxième étage, enchanté | voir un théâtre en direct, occupé | 14h à 16h ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "90 pour cent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "15 minutes|un Walmart ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon un article d'octobre 2016 sur CNBC.com, environ 90 % des Américains sont <BLANK> de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "15 minutes|un Wal-Mart,Quinze minutes|un Wal-Mart,Quinze minutes|un WalMart,15 minutes|Wal-Mart,Quinze minutes|Wal-Mart,Quinze minutes|WalMart,15 minutes|un Wal-Mart,Quinze minutes|un Wal-Mart,Quinze minutes|un WalMart,15 minutes|Wal-Mart,Quinze minutes loin|Wal-Mart,à quinze minutes|WalMart ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon un article d'octobre 2016 sur CNBC.com, environ 90 % des Américains sont <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "673756_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

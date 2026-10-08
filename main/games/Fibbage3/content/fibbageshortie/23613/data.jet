@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un chapeau, des robes royales, une tente, des serviettes de bain, un livre, un tapis, des manteaux pour son armée, un drapeau, une couverture, des bretelles, des élastiques, une paire de bottes, une toile à peindre, une nappe, un linceul, des cordes de violon, du chewing-gum, une carte au trésor ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "PEAU ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tambours ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le général tchèque Jan Zizka a donné l'ordre à ses troupes avant de mourir qu'il voulait que sa peau soit enlevée et utilisée pour fabriquer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tambour de guerre, tambour de guerre, un tambour, un tambour de guerre, tambour ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Non, mais il avait la peau fine ",
+      "t": "A",
+      "v": "567853_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Hé, nous devrions tous marcher au rythme de notre peau. ",
+      "t": "A",
+      "v": "415090_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le général tchèque Jan Zizka a donné l'ordre à ses troupes avant de mourir qu'il voulait que sa peau soit enlevée et utilisée pour fabriquer <BLANK>. ",
+      "t": "A",
+      "v": "415087_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

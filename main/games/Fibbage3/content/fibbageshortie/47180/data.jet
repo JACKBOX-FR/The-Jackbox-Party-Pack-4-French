@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bénédiction du Père, Données du Père, Eucharistie 4 U, Martin Luther 2.0, Communion informatique, Calculatrice de communion, Deacon IT, Pasteur 2.0, iPastor, Holy Hannah, Electro-Salvation, P.R.I.E.S.T., Carte mère du père, Atom, OrthoBot, John the Botist, Machine de prédication électrifiée, Auto*Faith ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Inventions protestantes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "BénisU-2 ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En l'honneur du 500e anniversaire de la Réforme protestante, des inventeurs allemands ont créé un prêtre robot nommé <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bénis U-2, bénis U2, bénis U2 ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En l'honneur du 500e anniversaire de la Réforme protestante, des inventeurs allemands ont créé un prêtre robot nommé <BLANK>. ",
+      "t": "A",
+      "v": "654266_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

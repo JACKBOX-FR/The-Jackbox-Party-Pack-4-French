@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vodka infusée à l'huile, eau du fleuve Mississippi, shampoing au plomb, bébés pandas, larmes de Nic Cage, urine de cheval, Michigan pur, cerveaux de raton laveur, courage liquide, savoir-faire américain, huile du Texas, New Coke, sang Bigfoot, morve de Nic Cage, eau de Narnia, liberté liquéfiée, pattes d'écureuil, rires d'enfants ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Chine ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "l'air britannique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'entrepreneur Leo De Watts a gagné une grosse somme en vendant des bouteilles de <BLANK> pour 115 $ en Chine. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "air d'Angleterre,air du Royaume-Uni,air du Royaume-Uni,Royaume-Uni air, air britannique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](reniflant profondément) Ah, vous pouvez vraiment sentir la terrible nourriture qui est cuite. ",
+      "t": "A",
+      "v": "597111_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'entrepreneur Leo De Watts a gagné une grosse somme en vendant des bouteilles de <BLANK> pour 115 $ en Chine. ",
+      "t": "A",
+      "v": "597108_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

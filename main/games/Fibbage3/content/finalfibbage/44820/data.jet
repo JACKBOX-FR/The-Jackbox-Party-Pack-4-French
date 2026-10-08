@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Madonna|Britney Spears,Elvis Presley|John Lennon,Leonard Nimoy|Le lapin de Pâques,Mario|Wario,Jeanne d'Arc|Mary Magdelene,Judas|Jésus,Bill Clinton|George Bush,Père Noël|Satan,Steve Coogan|Rob Brydon,Quentin Tarantino|Cthulhu,Houdini|Richard Nixon,Le Ghostbusters|Beetlejuice,Tony Robbins|une petite orange,Katy Perry|Abraham Lincoln,Beyonce|Becky,Taylor Swift|Steven Spielberg,Eminem|Andy Warhol,Sting|le gars de Big Bang Theory ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Anime ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jésus|Bouddha ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "A-1 Pictures a produit un film de 2013 basé sur un manga japonais populaire dans lequel <BLANK> et <BLANK> vivent ensemble en colocataires à Tokyo. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Bouddha|Jésus,Jésus|Budda,Budda|Jésus,Buda|Jésus ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce ne sont que quelques gars sauvages et saints ! ",
+      "t": "A",
+      "v": "598213_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]A-1 Pictures a produit un film de 2013 basé sur un manga japonais populaire qui présente le couple improbable de <BLANK> et <BLANK> vivant ensemble en colocataires à Tokyo. ",
+      "t": "A",
+      "v": "598210_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ESP, une série de clins d'œil, des attouchements érotiques, parler, agiter, crier, changer de couleur, nager en rond, mourir, rouler des yeux, éructer, faire pipi, dilater les narines, sarcasme, perdre des écailles, s'enflammer spontanément, se lécher les lèvres, langage des signes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Excellent hareng ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "péter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Voyageant en grands bancs, on pense que les harengs communiquent instantanément par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pets, flatulences, gaz qui passent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les oiseaux qui se ressemblent s'assemblent, tandis que les poissons pètent. ",
+      "t": "A",
+      "v": "385112_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Voyagant en grands bancs, on pense que les harengs communiquent instantanément par <BLANK>. ",
+      "t": "A",
+      "v": "385109_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

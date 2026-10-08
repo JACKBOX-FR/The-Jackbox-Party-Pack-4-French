@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poupées, copies du Coran, vibrateurs, membres prothétiques, enfants, sacs de colostomie, animaux domestiques, ordinateurs portables, iPhones, sous-vêtements, biscuits, préservatifs, jouets, soutiens-gorge, iguanes, crucifix, peintures de Picasso, œufs de poule ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le blues des contrebandiers ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fausses bananes",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En mars 2017, la police a arrêté deux hommes en Espagne pour avoir tenté de faire passer 15 livres de cocaïne en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "bananes, banane, banane, bananes, fausses bananes, fausse banane, fausse banane, fausses bananes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En mars 2017, la police a arrêté deux hommes en Espagne pour avoir tenté de faire passer 15 livres de cocaïne en <BLANK>. ",
+      "t": "A",
+      "v": "574595_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

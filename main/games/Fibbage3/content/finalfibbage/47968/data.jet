@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "promettre|un baiser,pot|miel,sac|pièces,regard|leurs fesses,indice|danger,aperçu|l'avenir,garantie|célébrité,vision|dieu,rappel|leur enfance,panier|chocolat,goût|célébrité,sac|viande,idée|le temps impliqué,offre|immortalité,grand verre|bière de racine,visite fantomatique|Dickensien proportion, poignée | dix sous, plein d'oreilles | lancinant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Utilité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "parfum|pain frais ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une étude étrange, des chercheurs de l’Université de Bretagne Sud ont découvert que les gens sont plus susceptibles d’aider un étranger s’ils obtiennent d’abord un <VIERGE> de <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "parfum|pain cuit,odeur|pain cuit,parfum|produits de boulangerie,odeur|pain cuit,odeur|produits de boulangerie,odeur|pain frais cuit,odeur|produits de boulangerie frais,odeur|pain frais,odeur|pain frais,odeur|pain frais,odeur|pain frais,parfum|produits de boulangerie frais,odeur|pain frais,odeur|pain frais,odeur|pain frais ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une étude étrange, des chercheurs de l'Université de Bretagne Sud ont découvert que les gens sont plus susceptibles d'aider un étranger s'ils obtiennent d'abord un <BLANK> de <BLANK>. ",
+      "t": "A",
+      "v": "673798_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

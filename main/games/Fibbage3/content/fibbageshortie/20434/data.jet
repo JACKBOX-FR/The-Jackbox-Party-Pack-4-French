@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sécher les vêtements, nourrir les porcs, faire du fromage, attraper un voleur, incuber les œufs de poule, se laver, secouer la peinture, répandre des graines, le réveiller, mettre des sous-vêtements, manger plus vite, se brosser les dents, endormir son bébé, effrayer les ratons laveurs, lancer des couteaux, lever le drapeau, nettoyer les roches, faire du jus d'orange ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "tapis roulant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "punir les prisonniers",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Sir William Cubitt a inventé le premier tapis roulant en 1818, non pas pour faire de l'exercice, mais comme moyen de <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "punir les criminels ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Sir William Cubitt a inventé le premier tapis roulant en 1818, non pas pour faire de l'exercice, mais comme moyen de <VIDE>. ",
+      "t": "A",
+      "v": "397448_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

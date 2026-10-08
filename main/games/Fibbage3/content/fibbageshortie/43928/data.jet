@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "J'ai peint la porte d'entrée en rouge, je lui ai préparé un repas, j'ai planté un arbre, j'ai laissé leur hache dehors, je lui ai envoyé du cirage de hache, j'ai éteint les lumières, j'ai allumé une seule bougie, j'ai déverrouillé les portes, je me suis défendu, je m'appelais Steve, j'étais vieux, j'avais un tapis de bienvenue, je laissais des fleurs dehors, j'avais l'air fatigué, je sentais la sardine, j'avais un jardin, j'ai fait de lui un ouragan, j'avais une tarte sur le rebord de la fenêtre. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La Nouvelle-Orléans ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "joué du jazz ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le 19 mars 1919, le mystérieux Axeman de la Nouvelle-Orléans a écrit dans un journal local promettant de ne pas assassiner quiconque <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "joué du jazz,joue du jazz,joue du jazz,écoute du jazz,écouté du jazz ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et pourquoi ne lui ferais-tu pas confiance ? ",
+      "t": "A",
+      "v": "573274_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le 19 mars 1919, le mystérieux Axeman de la Nouvelle-Orléans a écrit dans un journal local promettant de ne pas assassiner quiconque <VIDE>. ",
+      "t": "A",
+      "v": "573271_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

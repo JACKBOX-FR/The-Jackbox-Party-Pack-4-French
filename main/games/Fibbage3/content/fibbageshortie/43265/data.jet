@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un petit chat, un tableau noir, un parapluie, une table basse, le lieutenant-gouverneur, une lampe, un ouvre-bouteille, un aspirateur, une bombe à retardement, un tourne-disque, un chien, une horloge, un républicain, mille pièces, un ouvre-boîte, leur avocat, un génie, un canard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "recherche « importante » ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un téléphone ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans une étrange expérience de 1929, deux chercheurs de Princeton ont réussi à transformer un chat en <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un téléphone, un téléphone, un téléphone ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le premier appel provenait de PETA. ",
+      "t": "A",
+      "v": "559673_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans une étrange expérience de 1929, deux chercheurs de Princeton ont réussi à transformer un chat en <BLANK>. ",
+      "t": "A",
+      "v": "559670_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

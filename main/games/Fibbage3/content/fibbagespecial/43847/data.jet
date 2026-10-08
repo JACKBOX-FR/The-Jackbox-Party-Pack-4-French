@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "le lit, la douche, le paradis, une cabine téléphonique, le lit de ta mère, des disputes, des égratignures hilarantes, la carcasse de cheval, le ring de boxe, le bain à remous, le casier à viande, le marais, la clinique de fertilité, des caleçons, un bac à sable, Yale, une boîte de nuit, la prison ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Regardez le Mowth ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le four ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous êtes un jeune punk qui essaie de dire à vos aînés quoi faire, vous pourriez être réprimandé avec une phrase russe qui se traduit par « N'essayez pas d'entrer dans <BLANK> avant votre père ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "four,fours,enfer ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "571216_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tu sais quoi, n'entre pas après non plus. Juste... donne à papa du temps seul. ",
+      "t": "A",
+      "v": "571214_0",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous êtes un jeune punk qui essaie de dire à ses aînés quoi faire, vous pourriez être réprimandé avec une phrase russe qui se traduit par « N'essayez pas d'entrer dans <BLANK> avant votre père ». ",
+      "t": "A",
+      "v": "571211_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

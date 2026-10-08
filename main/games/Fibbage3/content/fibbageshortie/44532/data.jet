@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "être un scientifique, The Queen, The Fonz, Ryan Reynolds, faire du skateboard, danser en ligne, Martha Stewart, porter son chapeau à l'envers, porter des jeggings, danser le swing, être papa, musique country, dire « cool », observer les oiseaux, Sesame Street, prendre des cours de cuisine, rester à l'école, jouer d'un instrument ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Fraîcheur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Steve Buscemi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2012, deux chercheurs ont mené une enquête quantitative sur la fraîcheur afin de déterminer si <BLANK> était cool. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Oh, je n'ai pas besoin d'une étude pour me donner la réponse à cette question. ",
+      "t": "A",
+      "v": "590386_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'article suggère que la fraîcheur est différente du fait d'être populaire et sympathique, ce que diraient certains chercheurs sympathiques populaires. ",
+      "t": "A",
+      "v": "590382_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2012, deux chercheurs ont mené une enquête quantitative sur la fraîcheur afin de déterminer si <BLANK> était cool. ",
+      "t": "A",
+      "v": "590379_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tatouage, cicatrice, unibrow, anneau de nez, arbalète, corps moulé, signe de gang, morceau de morue, maillot de bain, paire de lunettes de soleil, nœud papillon, masque de vache, tasse de café, fourche, mohawk, chapeau haut de forme, pistolet, coupe au bol ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Crucifié ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "barbe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Prague, n'oubliez pas de visiter la chapelle Notre-Dame des Douleurs, qui représente une femme crucifiée portant un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'espère que son âme a été rasée. ",
+      "t": "A",
+      "v": "388601_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À Prague, n'oubliez pas de visiter la chapelle Notre-Dame des Douleurs, qui présente une femme crucifiée arborant un <BLANK>. ",
+      "t": "A",
+      "v": "388598_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

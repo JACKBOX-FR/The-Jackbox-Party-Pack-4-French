@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "regrets sexuels, fugues, constipation, le feront-ils ou non, le meurtre, en colère contre Susan, largué, la puberté, où est passée grand-mère ?, la maladie de Lyme, soudainement orphelins, fauché, envisageant la prostitution, papa est ivre, en enfer, araignées, Iowa, « Encore cette histoire ? ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Très simple ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "La misère humaine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le titre de cette lithographie française est simplement <i><BLANK></i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "612250_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "636847_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'ai ceci au format portefeuille. ",
+      "t": "A",
+      "v": "612248_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le titre de cette lithographie française est simplement <i><BLANK>.</i> ",
+      "t": "A",
+      "v": "612245_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

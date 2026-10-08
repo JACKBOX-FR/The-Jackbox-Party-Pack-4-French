@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sourit | laitier, cria | voisin, siffla | mécanicien, aboya | chien, fit la révérence | fermier, fit un signe de la main | bébé, fit des bisous | mari, balança | shérif, fit un signe de la main | maire, jura | pasteur, fronça les sourcils | docteur, regarda | miroir, rot | allée des céréales, tira une flèche | mari, bâilla | étagères des concurrents, traita un vache|église,campé|usine,a jeté du maïs|gouverneur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Flocons de maïs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "clin d'oeil|épicier ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1907, Kellogg's organisait une promotion offrant aux femmes une boîte gratuite de Corn Flakes si elles <VIERGE> à leur <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "clin d'oeil|épicier ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1907, Kellogg's a organisé une promotion offrant aux femmes une boîte gratuite de Corn Flakes si elles <VIDE> dans leur <VIDE>. ",
+      "t": "A",
+      "v": "330872_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

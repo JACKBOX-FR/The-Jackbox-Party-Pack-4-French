@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "allaiter|bébé,dormir avec|patron,emballer|des cadeaux,trouver|l'enfant intérieur,grill|chat,faire|faire pousser|propre cochons,faire|des pantalons,construire|propre machine à voyager dans le temps,nettoyer|baignoire,trouver|génie,amour|côlon,écrire|opéra rock,parfait|crêpes,fonds|porno,éviter|gouvernement,arnaque|grands-parents,meurtre|animal spirituel,cuire|brownies ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Auteurs Jazzy ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "train de pot|chat",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La légende du jazz Charles Mingus a écrit un guide sur la façon de <BLANK> votre <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "train|chat ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Appelez-moi quand il pourra leur demander de poser le siège par la suite. ",
+      "t": "A",
+      "v": "570760_4 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Assez curieusement, la légende du jazz Charles Mingus a écrit un guide expliquant comment <VIDE> votre <VIDE>. ",
+      "t": "A",
+      "v": "570757_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

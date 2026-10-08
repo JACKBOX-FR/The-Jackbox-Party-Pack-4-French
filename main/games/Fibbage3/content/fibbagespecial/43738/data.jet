@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "œuf frais, serpent, nappe, tarte au porc, œuf, miche de pain, bébé, basket-ball, taxi, fosse à pêches, vannier, pièce maîtresse décorative, morceau de gâteau, pissenlit, côtelette de porc, tête de panier, montgolfière, poitrine ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Git Een Thedr ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "champignon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il y a un dicton russe qui dit qu’il faut terminer ce qu’on commence. Cela se traduit par « Si vous vous appelez <BLANK>, entrez dans le panier ! » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "champignon de lait,champignon de lait,champignons ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "568866_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est juste. ",
+      "t": "A",
+      "v": "568864_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il y a un dicton russe selon lequel il faut terminer ce que l'on commence. Cela se traduit par « Si vous vous appelez <BLANK>, entrez dans le panier ! » ",
+      "t": "A",
+      "v": "568861_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

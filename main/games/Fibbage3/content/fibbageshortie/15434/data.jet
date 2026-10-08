@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "bâiller, maudire, éternuer, donner des coups de pied, s'endormir, hoqueter, rire, cracher, rots, trébucher, pleurer, parler en langues, saigner, parler avec un accent français, avoir des migraines, baver, voir des fantômes, se lécher la main ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "chirurgie d'opéra ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "péter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La chanteuse d'opéra Amy Herbst affirme qu'elle a perdu son emploi à l'Opéra de Nashville après une opération chirurgicale parce qu'elle ne peut plus arrêter <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "passer du gaz, briser le vent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La chanteuse d'opéra Amy Herbst affirme qu'elle a perdu son emploi à l'Opéra de Nashville après une opération chirurgicale parce qu'elle ne peut plus arrêter <BLANK>. ",
+      "t": "A",
+      "v": "341334_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

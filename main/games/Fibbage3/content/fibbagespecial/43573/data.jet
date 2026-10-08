@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Paul Blart Mall Cop, une danoise framboise, elle-même, une copie VHS de Maid in Manhattan, une banane, sa mère, une boîte de kleenex, le soleil, une gerbille, un bouquet d'œillets, des talons aiguilles, une bouteille d'Evian, un tube de rouge à lèvres, Matt Damon, son chat, une marche politique, Madonna, un ours en peluche ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tout simplement le meilleur ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une salade ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Britney Spears a posté la légende \"Tout simplement le meilleur de tous les temps !!!!!!!\" sous une image de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "15 octobre 2016 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@britneyspears ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "salade ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Il est temps de prendre des nouvelles de mes collègues célébrités... ",
+      "t": "A",
+      "v": "565550_1 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]INSTAGRAM DE CÉLÉBRITÉ ! En octobre 2016, Britney Spears a posté la légende « Tout simplement le meilleur de tous les temps !!!!!!! » sous une image de <BLANK>. ",
+      "t": "A",
+      "v": "565545_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

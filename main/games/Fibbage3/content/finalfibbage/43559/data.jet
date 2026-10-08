@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "boxers|slips,confiture|conserves,bière|alcool,souris|rats,advil|ibuprofène,brosses à dents|dentifrice,pudding|Jell-O,quarts|dollars,armes|balles, DVD Terminator|DVD T2,chou|laitue,glace à la vanille|glace à la fraise,chats|chiens,missles|missle lanceurs, stylos | plumes, soutiens-gorge | culottes, fossiles | marteaux à roche, ketchup | catsup ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Règle de courrier ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "scorpions|araignées ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2013, le bureau de poste de San Diego a dû rappeler aux gens la loi publique 108, qui stipule que vous pouvez envoyer <BLANK> mais pas <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2013, le bureau de poste de San Diego a dû rappeler aux gens la loi publique 108, qui stipule que vous pouvez envoyer <BLANK> mais pas <BLANK>. ",
+      "t": "A",
+      "v": "565211_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Al K. Pone, Brad, le professeur Horatio Huffnagel, Prescott Livington, frère Wright, Ascot McHero, Carmichael Bicycle, Sebastian Turner, The Contraptionator, The Misanthrope, Billy Q. Awesome, The Gentleman, T.C. Nology, Sir Flyingman, H.G. Baleines, The Hipster, Dum Dum Dugan, Orville Wrong ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gadgets de méchants ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Turner D. Siècle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il y a un méchant de Marvel Comics qui porte des vêtements des années 1900 et monte un vélo tandem volant avec un mannequin féminin habillé de la même manière. Son nom, bien sûr, est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Turner D Siècle ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]À Brooklyn, il s'intègre parfaitement. ",
+      "t": "A",
+      "v": "561338_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Il y a un méchant de Marvel Comics qui porte des vêtements des années 1900 et monte un vélo tandem volant avec un mannequin féminin habillé de la même manière. Son nom, bien sûr, est <BLANK>. ",
+      "t": "A",
+      "v": "561335_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

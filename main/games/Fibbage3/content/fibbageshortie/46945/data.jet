@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "en travail, conduire un tank, dans un bar, en prison, ivre, habillé en Père Noël, se marier, faire du vélo, dans le coma, dans une voiture de police, légalement aveugle, se high five constamment, fantasmer sur la vie en dehors du Texas, crier \"COUREZ LES VARMINTS!\", prendre des médicaments sur ordonnance, rechercher le porc qui a tué votre famille, enseigner au collège, voter ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "porcs sauvages ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "en montgolfière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, les législateurs texans ont rendu légal la chasse aux porcs sauvages et aux coyotes en <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "monter en montgolfière,en montgolfière,en montgolfière,monter en montgolfière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est le moyen idéal pour se défouler après le refus de votre demande en mariage. ",
+      "t": "A",
+      "v": "651146_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Excellente nouvelle, Texans ! En 2017, vos législateurs ont rendu légal la chasse aux porcs sauvages et aux coyotes lorsque vous <VIDE>. ",
+      "t": "A",
+      "v": "651143_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

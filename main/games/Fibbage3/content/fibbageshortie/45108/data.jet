@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire éclater du papier bulle, visualiser sa forme physique, jouer au ping-pong, yodeler, pincer sa graisse, manger du jambon, courir après des poulets, ne pas manger, rire, se faire des câlins, faire des biscuits, se peigner les cheveux, boire du lait entier au gallon, faire des coupes de cheveux, raconter des histoires de vacances, jouer à la marelle, crier, faire des sculptures de glace ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Formez-vous ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "endormi ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les clubs David Lloyd ont dévoilé un nouveau cours de fitness en 2017 dans leur site de Sidcup, à Londres. Pour se mettre en forme, les gens ont passé 45 minutes <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "dormir, au lit, somnoler, faire une sieste ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les clubs David Lloyd ont dévoilé un nouveau cours de fitness en 2017 dans leur site de Sidcup, à Londres. Pour se mettre en forme, les gens ont passé 45 minutes <BLANK>. ",
+      "t": "A",
+      "v": "606037_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

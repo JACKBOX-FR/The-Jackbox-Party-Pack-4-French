@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ballon, bateau, panier, chauve-souris, haricot, oignon, écorce, castor, taureau, betterave, sein, goutte, abeille, haricot, bécher, ballonnement, pingouin, fesses ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "McNuggets ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "démarrer ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les McNuggets McDonald's se présentent officiellement sous quatre formes : os, boule, cloche, <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les robots ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais il peut y avoir au moins 16 formes différentes qui peuvent sortir de vous. ",
+      "t": "A",
+      "v": "354060_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les McNuggets de McDonald's se présentent officiellement sous quatre formes : os, boule, cloche, <VIERGE>. ",
+      "t": "A",
+      "v": "354057_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

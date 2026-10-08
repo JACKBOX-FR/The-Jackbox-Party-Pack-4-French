@@ -1,0 +1,49 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntroductionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasDescriptionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Visage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Murry Bruin ",
+      "n": "DisplayText"
+    },
+    {
+      "t": "S",
+      "v": "Femme ",
+      "n": "Gender"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "ReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "DescriptionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "IntroductionAudio"
+    }
+  ]
+}

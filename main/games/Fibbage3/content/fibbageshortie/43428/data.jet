@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enseigner aux gens l'espace, embêter les étrangers, effrayer les enfants, interférer avec l'électronique, confondre les fans, célébrer Hanoukka, mettre leurs parents en colère, attirer les fabricants de jouets, se moquer d'Elton John, améliorer les ondes sonores, faire la publicité des tailleurs locaux, agir comme des parachutes, refléter les lumières de la scène, les faire sauter plus haut, signaler aux espions britanniques, promouvoir la recherche sur les ovnis, servir de pyjama, mettre fin à la pauvreté ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Tenue ABBA ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "baisser leurs impôts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon les superstars des années 70, ABBA, leurs costumes scandaleux n’étaient pas qu’une simple déclaration de mode. Ils étaient également destinés à <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "réduire leurs impôts, réduire leur facture fiscale, réduire leurs paiements d'impôts, réduire leurs impôts dus, diminuer leur obligation fiscale, diminuer leurs impôts, leur faire économiser de l'argent, économiser de l'argent ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]La loi fiscale suédoise stipulait qu'ils ne pouvaient déduire que les costumes trop fous pour être portés comme des vêtements ordinaires. Apparemment, ils ont pris cela comme un défi. ",
+      "t": "A",
+      "v": "562342_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon les superstars des années 70 ABBA, leurs costumes scandaleux n'étaient pas seulement une déclaration de mode. Ils étaient également destinés à <VIDE>. ",
+      "t": "A",
+      "v": "562339_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

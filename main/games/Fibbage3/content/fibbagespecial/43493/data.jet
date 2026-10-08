@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pape, poulpe, humain, tentacule, loup-garou, cauchemar, présidentiel, cri, meilleur achat, terrible, yogi, assez qualifié, démon, notre meilleur, chef de bureau, mon petit, ami, quelqu'un a vu le ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Demandes d'emploi ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ange ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le nom de ce tableau de l'artiste allemand Paul Klee est <i><BLANK> Demandeur</i>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Vous aimez l'art ? Bien sûr que oui. ",
+      "t": "A",
+      "v": "563710_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570625_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne pense pas qu'elle ait obtenu le poste. ",
+      "t": "A",
+      "v": "563708_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE QUESTION] Évidemment, le nom de ce tableau de l'artiste allemand Paul Klee est <i><BLANK> Demandeur</i>. ",
+      "t": "A",
+      "v": "563705_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

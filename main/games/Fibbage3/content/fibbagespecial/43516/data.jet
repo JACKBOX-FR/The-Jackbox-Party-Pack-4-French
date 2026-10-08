@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rap, fromage, porter de la viande, synchronisation labiale, féminisme, Trump, tresses, fondue, déodorant, teinture pour les cheveux, aller à l'école, dessiner avec des crayons, bandes blanchissantes, plaid, se gargariser, porter des perruques, coups d'État militaires, Noël ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Requêtes Spears ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le réchauffement climatique ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Britney Spears a tweeté : \"Est-ce que quelqu'un pense que <BLANK> est une bonne chose ? J'adore Lady Gaga. Je pense que c'est une artiste vraiment intéressante.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "12h31<br />10 février 2011 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@britneyspears ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "changement climatique ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Hé, c'est l'heure des médias sociaux des célébrités ! ",
+      "t": "A",
+      "v": "564237_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ouais, je ne sais pas. ",
+      "t": "A",
+      "v": "564235_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En février 2011, Britney Spears a tweeté : \"Est-ce que quelqu'un pense que <BLANK> est une bonne chose ? J'adore Lady Gaga. Je pense que c'est une artiste vraiment intéressante.\" ",
+      "t": "A",
+      "v": "564232_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

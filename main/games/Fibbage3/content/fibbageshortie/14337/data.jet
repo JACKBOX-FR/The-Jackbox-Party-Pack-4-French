@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "essence, lait musculaire, yoga, bière, danse carrée, crème glacée, hip-hop, médecine du rhume, neige, glace radioactive, rencontres, cartes de baseball, citrouilles, chiens bien élevés, carburéacteur, couches usagées, pièces de tondeuse à gazon, poulets ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Pouvoirs du super-vilain ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cocaïne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Snowflame est un super-vilain de l'univers DC qui tire ses pouvoirs de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coke, coup, crack, trop de cocaïne, trop de coke ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Et oui, il a été créé dans les années 80. ",
+      "t": "A",
+      "v": "318708_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Snowflame est un super-vilain de l'univers DC qui tire ses pouvoirs de <BLANK>. ",
+      "t": "A",
+      "v": "318705_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

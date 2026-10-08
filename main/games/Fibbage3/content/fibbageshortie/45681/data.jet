@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Courir avec des ciseaux, Péter, Éternuer, Allumer des bougies à l'intérieur, Allumer des cierges magiques, Sauter sur un trampoline, Rincer les tampons, Roter, Nourriture au micro-ondes, transpirer, rire, clin d'œil, sexter, se curer le nez, s'écailler la peau, pleurer au cinéma, tomber amoureux, avoir un bon souvenir ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gaz dangereux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Faire pipi dans la piscine ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le chlorure de cyanogène est un produit chimique dangereux ayant des effets similaires à ceux des gaz lacrymogènes, et il est produit lorsque des personnes <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi dans une piscine,uriner dans une piscine,faire pipi dans une piscine ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il faudrait que des millions de personnes fassent pipi en même temps pour faire vraiment du mal. Mais quand même, une nouvelle chose dont il faut s’inquiéter ! ",
+      "t": "A",
+      "v": "623220_3 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le chlorure de cyanogène est un produit chimique dangereux ayant des effets similaires à ceux des gaz lacrymogènes, et il est produit lorsque des personnes <VIDE>. ",
+      "t": "A",
+      "v": "623217_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

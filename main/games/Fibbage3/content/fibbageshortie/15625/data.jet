@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "fée des dents, escroc, monstre, collectionneur de timbres, robot, tueur en série, boogey man, grade a doofus, dragon, strip-teaseuse, démon, espion, chien, membre d'Imagine Dragons, clown, néo-zélandais, éléphant de guerre, asgardien ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Déclarations officielles ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "extraterrestre reptile ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "John Key, l'ancien Premier ministre néo-zélandais, a fait une déclaration officielle en 2014 dans laquelle il a confirmé qu'il n'était pas un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "reptile, lézard, personne lézard, extraterrestre lézard, extraterrestre reptile, homme lézard, homme reptile ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Sagement, il a fait cette déclaration sous sa forme humaine. ",
+      "t": "A",
+      "v": "345702_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]John Key, l'ancien Premier ministre néo-zélandais, a fait une déclaration officielle en 2014 dans laquelle il a confirmé qu'il n'était pas un <BLANK>. ",
+      "t": "A",
+      "v": "345699_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

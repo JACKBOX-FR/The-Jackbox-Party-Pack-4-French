@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Enfant, projet, film d'horreur, monstre, liasse de chewing-gum, Bob, modèle réduit d'avion, navet, cadeau de Noël, hamburger, tas de boue, sculpture, cracker dans la boîte, meule de fromage, idée, nouilles, coupe de cheveux, glob, tas d'ordures ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Yuri ne sait pas cuisiner ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "crêpe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un dicton russe selon lequel les choses ne fonctionnent pas toujours du premier coup se traduit par « Le premier <BLANK> est toujours une goutte ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "blinis, blinis, crêpes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Fait amusant : Fibbage est basé sur un vieux jeu-questionnaire russe. Tu as acheté ça ? Eh bien, de toute façon... ",
+      "t": "A",
+      "v": "568835_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Quand je cuisine, c'est la première crêpe, le premier steak, la première casserole d'eau... [trail off] ",
+      "t": "A",
+      "v": "568833_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un dicton russe sur les choses qui ne fonctionnent pas toujours du premier coup se traduit par « Le premier <BLANK> est toujours une goutte ». ",
+      "t": "A",
+      "v": "568830_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

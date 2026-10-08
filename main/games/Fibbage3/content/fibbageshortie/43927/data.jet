@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Bigfoot, vampire, grizzly, rat géant, yéti, bonhomme de neige, loup-garou, faucon, républicain, joueur de basket-ball, nounou, nain de jardin, chien, vendeur, facteur, mormon, enfant, mannequin ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Vandalisme ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Homme Lézard ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans les années 80 et 90, plusieurs habitants du comté de Lee, en Caroline du Sud, ont affirmé que leurs voitures avaient été attaquées et démolies par un <BLANK> de sept pieds de haut. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Homme-lézard, lézard, créature lézard, moitié homme, moitié lézard ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans les années 80 et 90, plusieurs habitants du comté de Lee, en Caroline du Sud, ont affirmé que leurs voitures avaient été attaquées et démolies par un <BLANK> de sept pieds de haut. ",
+      "t": "A",
+      "v": "573241_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

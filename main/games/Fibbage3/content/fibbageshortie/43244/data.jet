@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pilote de ligne commerciale, arboriculteur, avocat spécialisé en droits de propriété, nettoyage d'appartements haut de gamme, sénateur d'État, défenseur des moisissures et des spores, laitière, alchimiste, berger, créateur de YouTube, chuchoteur de guitare, astronome, réparateur de monocycles, acheteur professionnel, télévendeur, cuisinier de frites, conseiller pour les enfants en fuite, accordeur de piano ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cherie sur le dessus ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "artiste à la tronçonneuse ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cherie Currie, chanteuse principale du groupe de filles emblématique The Runaways, enregistre et joue toujours, mais son « travail quotidien » actuel est <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "artiste de scie à chaîne, tronçonneuse, artiste du bois, sculpteur à la tronçonneuse, sculpteur sur bois ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] Ne dites jamais qu'elle ne peut pas réussir en tant qu'artiste... [SFX : tronçonneuse] Vous voyez, je vous ai dit que nous utiliserions ce truc au moins une fois. Ça vaut vraiment le coup de virer Arnie pour payer ça. ",
+      "t": "A",
+      "v": "559148_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cherie Currie, chanteuse principale du groupe de filles emblématique The Runaways, enregistre et joue toujours, mais son « travail quotidien » actuel est <BLANK>. ",
+      "t": "A",
+      "v": "559145_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

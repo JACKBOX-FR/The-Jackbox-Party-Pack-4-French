@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "faire pipi dans l'océan, déprimer en plongée en apnée, transpirer trop, se lier d'amitié avec les dauphins, avoir des tatouages, rire trop fort, utiliser des perches à selfie, partir sans payer son déjeuner, vapoter sous l'eau, nager pendant la grossesse, parler fort et lentement aux locaux, crier après le corail, être stressé, porter des chemises collantes, ne pas se brosser les dents, essayer de retrouver son rythme, s'asseoir dans la rangée de sortie lors de l'avion, avoir la barbe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Récifs coralliens ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "porter de la crème solaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une étude de 2015 publiée dans <i>Environmental Contamination and Toxicology</i> a révélé que les récifs coralliens pourraient être endommagés par les touristes qui <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "utiliser un écran solaire,porter un écran solaire,utiliser un écran solaire,utiliser un écran solaire,porter un écran solaire,utiliser un écran solaire,porter un écran solaire,porter un écran solaire,porter un écran solaire,porter un écran solaire,porter un écran solaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une étude de 2015 publiée dans <i>Environmental Contamination and Toxicology</i> a révélé que les récifs coralliens pouvaient être endommagés par les touristes qui <VIDE>. ",
+      "t": "A",
+      "v": "651845_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "algues, anguille, scorpion, serpent, saké, haricot azuki, poireau, sésame et chagrin, carpe, rayonnement, macaroni, angoisse adolescente, sushi, sauce, Godzilla, aphte, stupide, tournesol ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mange-le ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "guêpe ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les Jibachi senbei sont une étrange collation japonaise également connue sous le nom de crackers <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "guêpe fouisseuse, guêpes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Oh ouais... J'ai entendu parler de ça. ",
+      "t": "A",
+      "v": "575666_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Jibachi senbei est une étrange collation japonaise également connue sous le nom de crackers <BLANK>. ",
+      "t": "A",
+      "v": "575663_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

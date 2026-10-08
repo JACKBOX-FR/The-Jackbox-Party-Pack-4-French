@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la mort, être répertorié comme délinquant sexuel, un kegger jeté en votre honneur, être le majordome du chef de la police, le waterboarding, un marathon de Shia LaBeouf, se faire nourrir de force une oie entière, payer les notes de bar des flics, une épilation du trou du cul, 10 ans dans les mines de sel, conduire des taxis bénévolement, se faire tatouer « Je suis stupide », manger du maïs sucré, être jeté aux chiens de la police, faire du baby-sitting Gretchen, une nurple violette, se fait poignarder une fois, un regard désapprobateur ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cruel et inhabituel ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "j'écoute Nickelback ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le service de police de la ville canadienne de Kensington s'est excusé publiquement pour son annonce en 2016 selon laquelle la nouvelle sanction pour conduite en état d'ébriété serait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Nickelback ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils se sont excusés car une référence musicale plus actuelle aurait été The Chainsmokers. ",
+      "t": "A",
+      "v": "648830_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le service de police de la ville canadienne de Kensington s'est excusé publiquement pour son annonce en 2016 selon laquelle la nouvelle sanction pour conduite en état d'ébriété serait <VIERGE>. ",
+      "t": "A",
+      "v": "648827_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

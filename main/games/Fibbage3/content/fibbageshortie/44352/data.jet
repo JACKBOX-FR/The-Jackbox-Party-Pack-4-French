@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cristaux, démonistes, buffles, loups, draps, fruits, le Sphynx, voitures, mannequins, avatars, Sims, porno, pirates, bouches d'incendie, canteloupes, licornes, centaures, extraterrestres ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Amour ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Fantômes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Une femme britannique du nom d'Amethyst Realm a publiquement renoncé aux hommes et préfère désormais les relations amoureuses avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les esprits, les morts, les morts ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je me considère comme un homme dans la rue, un fantôme dans les draps... haha... attends. ",
+      "t": "A",
+      "v": "585844_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Une Britannique du nom d'Amethyst Realm a publiquement renoncé aux hommes et préfère désormais les relations amoureuses avec <BLANK>. ",
+      "t": "A",
+      "v": "585841_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

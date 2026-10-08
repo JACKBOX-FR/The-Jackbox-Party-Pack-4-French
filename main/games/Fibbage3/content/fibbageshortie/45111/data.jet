@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "odeurs de pet, millennials, ongles incarnés, peau de pudding, fantômes, bœuf séché, Curly's Gold, pourquoi les gens aiment les années 90, le réflexe nauséeux humain, la grossesse Bigfoot, la popularité des IPA, le meurtre des Wright Bros., la télépathie des écureuils, pourquoi les oignons vous font pleurer, les quinze premières années, les shorts cargo, la disparition de Des Moines, les crop circles érotiques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mystérieux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "vagins de dauphin ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dara Orbach, de l'Université Dalhousie, a consacré sa vie à un domaine d'étude intéressant : résoudre le mystère de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "vagins des dauphins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Elle est l’une des rares scientifiques marines à posséder cette spécialité particulière. ",
+      "t": "A",
+      "v": "606375_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dara Orbach de l'Université Dalhousie a consacré sa vie à un domaine d'étude intéressant : résoudre le mystère de <BLANK>. ",
+      "t": "A",
+      "v": "606372_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

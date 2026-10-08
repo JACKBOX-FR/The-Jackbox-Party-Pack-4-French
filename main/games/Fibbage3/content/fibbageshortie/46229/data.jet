@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "France, la maison de Warren G. Harding, la salle de bain du bureau ovale, un Quizno, une école dans la campagne du Montana, au milieu du désert, des toilettes pour femmes, le studio de cinéma de Charlie Chaplin, la chambre de Lincoln, un bunker nucléaire, le fond d'une carrière, une grotte sous-marine, derrière un grand arbre, l'arrière d'une camionnette, l'ambassade du Canada, l'arrière-cour de Joseph Pulitzer, une piscine publique, l'intérieur d'un volcan ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Rotonde du Capitole ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le sous-sol ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1921, une statue commémorant le droit de vote des femmes a été dévoilée dans la rotonde du Capitole des États-Unis. Le lendemain, le Congrès a pris la décision étrange de le déplacer vers <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "la crypte,un sous-sol,souterrain,un placard à balais,le placard à balais ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils l'ont finalement remis en exposition. 75 ans plus tard. Et probablement sous un plafond de verre. ",
+      "t": "A",
+      "v": "638819_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1921, une statue commémorant le droit de vote des femmes a été dévoilée dans la rotonde du Capitole des États-Unis. Le lendemain, le Congrès a pris la décision étrange de le déplacer vers <VIERGE>. ",
+      "t": "A",
+      "v": "638816_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

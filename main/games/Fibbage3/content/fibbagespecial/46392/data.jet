@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Respire, ouvre les yeux, voit droit, tweete, danse, se tient debout, regarde Netflix, dort, s'arrête, chante, crie, réfléchit, va chez McDonald's, bois du café, prépare un smoothie, mange du chou frisé, mange un cupcake, trouve mon bon téléphone ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Somnolent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Péter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Katy Perry a tweeté : « tellement fatiguée que je ne peux même pas <BLANK>. » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "01h54<br />12 avril 2017 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@katyperry ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Farrt ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "643802_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne peux même pas imaginer être aussi fatigué. ",
+      "t": "A",
+      "v": "643800_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! Katy Perry a tweeté en avril 2017 : « tellement fatiguée que je ne peux même pas <BLANK>. » ",
+      "t": "A",
+      "v": "643797_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

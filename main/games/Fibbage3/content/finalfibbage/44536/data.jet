@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "robot|pipi,taureau|mangé du steak,enfant|vivait en France,fantôme|seuls les enfants pouvaient voir,cactus|était mort,camion|appartenait à Chuck Norris,enfant|avait l'air vieux,fermier|écrivait des romans d'amour,espion|était d'Argentine,cow-boy|était en prison,oiseau|ne pouvait pas voler,épouvantail|était dans une benne à ordures,cowboy|avait peur des vaches,héros de guerre|jamais existait, Républicain|était aussi démocrate,cadavre|n'a jamais été enterré,calmar|portait une cravate,vampire|était aussi un loup-garou ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La politique du Texas ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chèvre|a bu de la bière ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À la fin des années 1980, la petite ville de Lajitas, au Texas, a élu Clay Henry comme maire. Henry était unique en ce sens qu'il était un <VIERGE> qui <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "chèvre|adorait la bière ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]J'aurais aimé qu'il se présente à la présidence. ",
+      "t": "A",
+      "v": "590502_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À la fin des années 1980, la petite ville de Lajitas, au Texas, a élu Clay Henry comme maire. Henry était unique en ce sens qu'il était un <BLANK> qui <BLANK>. ",
+      "t": "A",
+      "v": "590499_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

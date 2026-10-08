@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un radeau de sauvetage à sangle, un collecteur de soupe renversée, un cache-barbe, un tampon à main en papier essuie-tout, un jockstrap fin et simple, un antitussif, un couvercle de tasse à café en tissu, une serviette hygiénique pour homme, un beignet hémorroïde adhésif, un traîneau gonflable, un protège-langue, un collier sans chaîne, un désodorisant pour pet, un cache-œil confortable, un coussin de coude, un faux ventre de femme enceinte pour chat, une pochette à bière secrète, quelque chose de dégoûtant ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "attachez-le ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "une couche string ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Il s'agit d'un brevet pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "une couche-culotte,une couche-culotte,la couche-culotte,une-couche-string,la couche-culotte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "646802_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "646825_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est ce que Sisqo portera probablement dans une vingtaine d'années. ",
+      "t": "A",
+      "v": "646800_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Je suis sûr que je n'ai pas besoin de vous dire qu'il s'agit d'un brevet pour <BLANK>. ",
+      "t": "A",
+      "v": "646797_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

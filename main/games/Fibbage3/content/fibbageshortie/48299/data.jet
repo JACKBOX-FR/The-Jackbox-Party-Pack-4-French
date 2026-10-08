@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "enfant, sommeil, drogue, sexe, obésité, comédie, pet, sport, bière, Mario Kart, bœuf séché, parfum, douche, cornichon, cheeseburger, actualités, musique, torture ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "gousses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "mari ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans le but d'attirer les clients, le Global Harbor Mall de Shanghai a installé des « pods <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "stockage de mari, repos de mari, petit ami, stockage de petit ami, repos de petit ami ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Chaque module est équipé d'une chaise, d'une console de jeu et d'une vie d'embarras. ",
+      "t": "A",
+      "v": "683272_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans le but d'attirer les clients, le Global Harbor Mall de Shanghai a installé des « pods <BLANK> ». ",
+      "t": "A",
+      "v": "683269_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

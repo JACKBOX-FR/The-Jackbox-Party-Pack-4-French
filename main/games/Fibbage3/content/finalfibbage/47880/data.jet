@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "grenouille|vêtements pour femmes,fourchette|un morceau de gâteau,monstre|votre placard,coiffure fantaisie|paris,chèvre|une petite robe,robot|vêtements de pluie,dinosaure|un fort d'oreillers,souris|une chemise en flanelle,une vraie douleur|le cou,graisseur|une veste en cuir,un chignon de porc|un bouillon salé,un homme riche|une couche,une pierre rare|un volcan,un chien|lunettes rigolotes,bougie|une triangulaire bol, clé à douille|sauce piquante,diable|une robe rouge,loup|vêtements de mouton ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "kappa ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boule magique|ton anus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans la mythologie japonaise, il existe des monstres appelés Kappa qui tentent toujours de voler le « shirikodama », qui est un <VIERGE> dans <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "boule magique | ton cul, boule magique | tes fesses, boule magique | ton rectum, boule magique | ton ventre, boule magique | ton trou du cul, boule magique | le cul d'une personne, boule magique | les fesses d'une personne, boule magique | le rectum d'une personne, boule magique | l'estomac d'une personne, boule magique | le trou du cul d'une personne, la balle | ton anus, la balle | ton cul, la balle | tes fesses, la balle | ton rectum, balle | ton ventre, balle | ton trou du cul ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est donc ce que j'en ai retiré ! ",
+      "t": "A",
+      "v": "671035_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans la mythologie japonaise, il y a des monstres appelés Kappa qui essaient toujours de voler le « shirikodama », qui est un <BLANK> dans <BLANK>. ",
+      "t": "A",
+      "v": "671032_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

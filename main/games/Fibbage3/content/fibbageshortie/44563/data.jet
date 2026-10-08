@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Trappe de secours, alimentation, Chiot, Couronne, Gode, Barre de chocolat, Pierre rare, Squelette de coq, recette de tarte, fantôme, Peinture Da Vinci, guide de conseils sexuels, clé de la maison, Corset, Cigarette, Revolver, carte au trésor, patte de singe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Secrets de maman ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Bébé ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque les scientifiques ont scanné le cercueil de l'évêque Peder Winstrup du XVIIe siècle, ils ont été choqués de découvrir un <BLANK> caché. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Fœtus,Enfant,Fedus,Fetis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'évêque avait un fœtus caché près de ses pieds et personne ne sait pourquoi. ",
+      "t": "A",
+      "v": "591287_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque les scientifiques ont scanné le cercueil de l'évêque Peder Winstrup du XVIIe siècle, ils ont été choqués de découvrir un <VIERGE> caché. ",
+      "t": "A",
+      "v": "591284_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

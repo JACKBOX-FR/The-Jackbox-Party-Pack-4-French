@@ -1,0 +1,126 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasFinalReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin0Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak0Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin2Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptReactionAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasTwist"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin1Audio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasWin4Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRoundBreak1Audio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasWin3Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak0Audio"
+    },
+    {
+      "s": "C'est dégoûtant !!! ",
+      "t": "A",
+      "v": "682394_0f",
+      "n": "Win1Audio"
+    },
+    {
+      "s": "Il y a de fortes chances que je commence à vomir !!! ",
+      "t": "A",
+      "v": "682396_0f",
+      "n": "Win3Audio"
+    },
+    {
+      "s": "Je n'aime pas tout ça !! ",
+      "t": "A",
+      "v": "682395_0f",
+      "n": "Win2Audio"
+    },
+    {
+      "s": "Quelle est LA chose la plus dégoûtante qu’un humain puisse cracher ?!! ",
+      "t": "A",
+      "v": "682392_0f",
+      "n": "FinalReactionAudio"
+    },
+    {
+      "s": "Apparemment, nous visons vraiment le facteur dégueulasse avec celui-ci. ",
+      "t": "A",
+      "v": "682385_0f",
+      "n": "PromptReactionAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak2Audio"
+    },
+    {
+      "s": "La chose la plus grossière qu'un humain puisse cracher ",
+      "t": "A",
+      "v": "682378_0f",
+      "n": "PromptAudio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RoundBreak1Audio"
+    },
+    {
+      "s": "Méchant !!! ",
+      "t": "A",
+      "v": "682393_0f",
+      "n": "Win0Audio"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Win4Audio"
+    }
+  ]
+}

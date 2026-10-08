@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se faire serrer par un serpent, utiliser une machine à écrire, regarder la météo, dormir, s'habiller comme un poisson, s'asseoir dans un véhicule en mouvement, entendre un coup de feu, se faire examiner par un médecin, s'allonger dans un cercueil, prendre une douche, caresser un cheval, manger beaucoup de sucre, se faire couper les cheveux, être dans l'obscurité totale, avoir le hoquet, faire de l'exercice, organiser des dossiers, être en colère ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Gratification ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tomber dans les escaliers ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avez-vous déjà entendu parler de « climatophilie » ? C’est quand vous ne pouvez être gratifié sexuellement que lorsque vous <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tomber dans les escaliers, je tombe dans les escaliers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je ne comprends tout simplement pastttttt (SFX : tomber dans les escaliers) Aïe, aïe ! Oh! Ouissss! Ok, je comprends maintenant. ",
+      "t": "A",
+      "v": "565264_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host] Avez-vous déjà entendu parler de « climatophilie » ? C’est quand vous ne pouvez être gratifié sexuellement que lorsque vous <VIDE>. ",
+      "t": "A",
+      "v": "565261_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

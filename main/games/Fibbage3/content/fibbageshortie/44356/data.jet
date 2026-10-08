@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Crier en allemand, rire sans arrêt, allumer des incendies, dénoncer Dieu, s'autoflageller, trembler pendant six jours consécutifs, dormir en marchant, breakdance, s'embrasser, porter des robes plus courtes, cuire des pierres, arrêter de cligner des yeux, murmurer, pleurer pendant des mois, entrer dans le showbiz, rejoindre l'armée, devenir végétalien, construire des nids. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Problème de nonne ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Miaou comme des chats ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au Moyen Âge, une mystérieuse affliction a frappé un couvent français, provoquant le <VIDE> de toutes les religieuses. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Miaou, Mew, j'agis comme des chats, je pense que c'étaient des chats ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Au nom du Père, du Fils et du Saint Chat. Miaou. ",
+      "t": "A",
+      "v": "585964_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au Moyen Âge, une mystérieuse affliction a frappé un couvent français, provoquant le <VIDE> de toutes les religieuses. ",
+      "t": "A",
+      "v": "585961_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

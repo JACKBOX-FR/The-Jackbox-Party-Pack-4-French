@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Harvard, je ne vais pas en cours, les pouces, la laitue, la décoration intérieure utilisant uniquement du liège, les monocycles, les films Transformers, Chow Yun Fat, David Duchovny, Mystery Science Theater 3000, les pigeons, la nourriture périmée, le rythme et la rime, le cuir, les films de Bruce Lee, Titanfall 2, Cowboy Bebop, les germes ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Yale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Papa John's Pizza ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, Carolina Williams a été acceptée à Yale après avoir écrit un essai inhabituel de 200 mots sur son amour pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pizza papa johns, papa johns, papa john's, pizza papa jons, pizza papa jon, pizza ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, Carolina Williams a été acceptée à Yale après avoir écrit un essai inhabituel de 200 mots sur son amour pour <BLANK>. ",
+      "t": "A",
+      "v": "665399_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

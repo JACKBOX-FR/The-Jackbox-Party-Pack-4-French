@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pogs, profils Tinder imprimés, préservatifs, DVD Big Bang Theory, vodka, pailles, affiches de la famille, pointeurs laser, étoiles ninja, Bibles, magazines pour adultes, bière sans alcool, balles, bébés poulets, chatons, yaourt, lingots d'or, ses annuaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "forfaits de soins ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poubelle ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Terri Cox n'est pas une mère typique. Elle a envoyé à son fils, un étudiant, un colis de soins rempli de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Poubelles, sacs poubelles, refuser ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'était sa poubelle et c'était pour lui donner une leçon. La leçon était que sa mère est bizarre. ",
+      "t": "A",
+      "v": "564896_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Terri Cox n'est pas une mère typique, comme en témoigne le moment où elle a envoyé à son fils, un étudiant, un colis de soins rempli de <BLANK>. ",
+      "t": "A",
+      "v": "564893_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

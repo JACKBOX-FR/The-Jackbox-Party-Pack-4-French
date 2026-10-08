@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pénicilline, loups, une sorcière, des gladiateurs, un cochon mort, des faucons, des bougies, des femmes enceintes, un cheval qui fait caca, des gens ayant des relations sexuelles, leurs parents nus, un cul, des licornes érotiques, des pieds, un homme des cavernes, un bébé tenant une lance, Zeus en érection, un gigot d'agneau ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Amulettes taille enfant ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "pénis volants ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Afin d’éloigner les maladies, les enfants de la Rome antique devaient porter des « fascinum », qui étaient des amulettes en forme de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pénis, pénis, bites volantes, bites, bites volantes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Afin d'éloigner les maladies, les enfants de la Rome antique devaient porter du fascinum, qui était une amulette en forme de <BLANK>. ",
+      "t": "A",
+      "v": "561635_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

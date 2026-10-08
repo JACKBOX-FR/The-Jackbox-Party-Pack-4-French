@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un nom de famille, des codes-barres cachés, un relooking, la culpabilité d'avoir été contrefait, un numéro de sécurité sociale, des prix plus bas, des questions de sécurité auxquelles répondre, de mauvaises critiques sur Yelp, des armes à feu, une conférence sévère, un téléphone portable pour appeler la police, des cadres à détection de mouvement, un permis d'arme dissimulé, des lèvres humaines, un cœur battant qui saigne, une histoire riche, des trous pour les yeux découpés, des détails difficiles à dessiner ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sciences des arts ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ADN ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Tagsmart est une entreprise qui a trouvé une nouvelle façon de mettre fin à la contrefaçon d'œuvres d'art : en offrant des peintures <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ADN synthétique, ADN, faux ADN ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est également un moyen utile de savoir quelles peintures sont des tueurs en série. ",
+      "t": "A",
+      "v": "644040_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tagsmart est une entreprise qui a trouvé une nouvelle façon de mettre fin à la contrefaçon d'œuvres d'art : en donnant des peintures <VIERGE>. ",
+      "t": "A",
+      "v": "644037_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

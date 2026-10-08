@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Le scrotum de Brigham Young, Frank's Place, le mont. Casque,Les grands gars,Mt. Poussée, The Scary Place, Boobie Butte, Mt. Mormon, le point G, Karl's Malone, le pénis de Pike, le Jazz Palace, Intercourse Hill, Peak Peak, Lubed Peak, Makeout Summit, Testicle Tower, le mont. Mort ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sale, sale ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le mamelon de Mollie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au moins sept sommets différents de l'Utah partagent le nom étrange « <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Mamelon Mollies, Mamelons Mollies, Mamelon de Molly, Mamelon Mollys, Mamelons Mollys, Mamelons de Molly, Molly, Mollie ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ils grandissent en hiver. ",
+      "t": "A",
+      "v": "560863_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au moins sept sommets différents de l'Utah portent le nom étrange « <BLANK> ». ",
+      "t": "A",
+      "v": "560860_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

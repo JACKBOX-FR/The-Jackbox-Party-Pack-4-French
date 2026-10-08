@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "des mosh pits, des rats, des punks, des prix élevés de l'alcool, des comédies d'improvisation, de la fausse cocaïne, des abeilles en fuite, un singe qui boit, Madonna, des barmans impolis, M. T, orgies surprises, chlamydia, vodka aromatisée, gens avec des cannes-épées, entourage d'Eddie Murphy, ninjas, vestes en jean ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "flics infiltrés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "André le Géant ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Au milieu des années 1980, la police de New York a envoyé un policier infiltré spécial dans les bars locaux pour protéger les gens de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il pesait plus de 500 livres et avait la réputation de tomber accidentellement sur les gens lorsqu'il était ivre. ",
+      "t": "A",
+      "v": "558623_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Au milieu des années 1980, la police de New York a envoyé un policier infiltré spécial dans les bars locaux pour protéger les gens de <BLANK>. ",
+      "t": "A",
+      "v": "558620_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

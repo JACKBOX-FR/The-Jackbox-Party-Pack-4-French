@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "écouter du smooth jazz, porter des lunettes de soleil, du fromage nacho, des Mad Libs, des huiles essentielles, caresser des chiens robots, un bon coup dans la tête, dire « Beetlejuice », des massages, des blagues sur les pets, de l'alcool bon marché, manger des Cheetos, regarder du football, se mettre nu, se lécher la main, voir un chiot, se faire couper les cheveux, jongler ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Mauvais souvenirs ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "jouer à Tetris ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des chercheurs de l'Université d'Oxford et de l'Institut Karolinska en Suède ont fait la découverte surprenante que les souvenirs traumatiques peuvent être bloqués par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Tétris ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]À moins bien sûr que votre famille ne soit décédée dans un accident de brique qui tombe lentement. ",
+      "t": "A",
+      "v": "608921_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Des chercheurs de l'Université d'Oxford et de l'Institut Karolinska en Suède ont fait la découverte surprenante que les souvenirs traumatiques peuvent être bloqués par <BLANK>. ",
+      "t": "A",
+      "v": "608918_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "pantalons affaissés, machines à voyager dans le temps, camions monstres, chiens possédant des chats, trois-roues, mimes en public, lanceurs de pommes de terre, comédie d'improvisation, singes comme animaux de compagnie, bouteilles d'eau importées, appels téléphoniques publics bruyants, rock and roll, jaywalking, baskets, manger plus d'une banane par jour, soda fait maison, stands de limonade, clowns amateurs ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "légaliser ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "coupes de cheveux à domicile ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le sénateur de l’État du Tennessee, Lee Harris, a proposé début 2017 un projet de loi qui légaliserait <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coupes de cheveux à domicile,coupes de cheveux à domicile,coupes de cheveux à domicile,coupes de cheveux à domicile,coupes de cheveux à domicile ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si vous vous faites couper les cheveux à domicile, vous n'êtes pas un criminel. Vous êtes la victime. ",
+      "t": "A",
+      "v": "564371_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Parlons de priorités étranges : le sénateur de l'État du Tennessee, Lee Harris, a proposé début 2017 un projet de loi qui légaliserait <BLANK>. ",
+      "t": "A",
+      "v": "564368_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

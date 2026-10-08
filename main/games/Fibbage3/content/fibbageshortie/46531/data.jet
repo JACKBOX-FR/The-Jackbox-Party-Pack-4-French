@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "capturer des âmes, produire des images animées, donner vie aux filtres Snapchat, prendre des photos décentes en basse lumière pour une fois, voir si les gens sont mauvais, voir les maladies, prendre des photos du futur, détecter des couleurs inconnues, photographier des fantômes, dire à quel point vos vêtements sont sales, arrêter le temps, reproduire des odeurs, enregistrer des souvenirs, entourer toute personne nommée Chad dans les photos de groupe, soustraire 10 livres, vous montrer qui vous allez épouser, lever les malédictions, aider le gars de Memento ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Super caméras ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "lire des livres fermés ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Cela peut sembler impossible, mais des chercheurs du MIT et de Georgia Tech ont développé une « caméra térahertz » spéciale qui peut réellement <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "voir à l'intérieur des livres, lire des livres sans les ouvrir ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je préfère un livre audio fermé. ",
+      "t": "A",
+      "v": "645792_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Cela peut sembler impossible, mais des chercheurs du MIT et de Georgia Tech ont développé une « caméra térahertz » spéciale qui peut réellement <VIERGE>. ",
+      "t": "A",
+      "v": "645789_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

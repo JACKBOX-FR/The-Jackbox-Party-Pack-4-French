@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "poussière de lune, âme, recette de biscuits, DVD X-Files, bouteilles en verre recyclé, Tang, pointeur laser, casquette de baseball préférée, tamia domestique, glace déshydratée, stylo, collection de timbres, photo de Nixon, combinaison spatiale, voix, bougies parfumées, figurines Hummel, patte de singe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Combinaisons spatiales ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "cheveux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Neil Armstrong a un jour menacé de poursuivre un homme s’il ne rendait pas le <BLANK> de l’astronaute. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coupures de cheveux, cheveux coupés, coupes de cheveux, mèches de cheveux ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Le barbier d'Armstrong a vendu ses coupes de cheveux sans autorisation pour 3 000 $. Ce qui veut probablement dire que ces cheveux de lune que j'ai achetés pour 10 000 $ sont faux... ",
+      "t": "A",
+      "v": "583895_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Neil Armstrong a un jour menacé de poursuivre un homme en justice s'il ne rendait pas le <BLANK> de l'astronaute. ",
+      "t": "A",
+      "v": "583892_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

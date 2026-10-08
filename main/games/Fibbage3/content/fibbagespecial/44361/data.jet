@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tapis persans, cuir, chaises, chérubins, Picasso, ma musique, moi-même, lunettes de soleil, vestes de créateurs, Will Ferrell, thésauriseurs, nuggets de poulet, Will Smith, les tortues Ninja, vers gommeux, Big Bang Theory, bébés dauphins, bâtonnets de poisson ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Émotions ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Polices ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kanye West a tweeté : \"Parfois, je suis ému à cause de <BLANK>.\" ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "11h55<br />17 août 2010 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@kanyewest ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "586115_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nous pleurons tous devant une bonne Helvetica. ",
+      "t": "A",
+      "v": "586113_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ : En août 2010, Kanye West a tweeté : \"Parfois, je suis ému à cause de <BLANK>.\" ",
+      "t": "A",
+      "v": "586110_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

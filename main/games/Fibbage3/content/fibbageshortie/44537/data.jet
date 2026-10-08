@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se réveiller, s'ennuyer, voir Dieu, nettoyer la maison, il lui manque, remettre en question son pouvoir, avoir peur du noir, avoir faim, oublier son visage, manquer de collations, manquer de lait, prêt pour le mariage, commencer Breaking Bad, sur le point de faire pipi, près d'un oiseau qui lui ressemblait, utiliser le Wi-Fi, penser à le tuer, essayer de s'échapper ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Cultes ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "ovuler ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Goel Ratzon était un bizarre chef de secte israélien qui distribuait des téléphones portables à ses adeptes pour qu'ils puissent lui envoyer des SMS lorsqu'ils étaient <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "ovale, fertile ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Heureusement, nous avons désormais des applications iPhone pour cela. ",
+      "t": "A",
+      "v": "590531_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Goel Ratzon était un bizarre chef de secte israélien qui distribuait des téléphones portables à ses adeptes pour qu'ils puissent lui envoyer des SMS lorsqu'ils étaient <VIDE>. ",
+      "t": "A",
+      "v": "590528_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

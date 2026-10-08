@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la maternité, Thanksgiving, oublier où tu mets ton pantalon, les dimanches paresseux, les seins, la kryptonite, les Yankees arrogants, un chiot mignon, le droit de vote des femmes, le derby du Kentucky, le dernier bison, l'état de l'Oklahoma, Thomas Jefferson, Oliver Cromwell, ton cousin plutôt sexy, l'indépendance canadienne, les hot-dogs, le badminton ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "dames nues ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "la ruée vers l'or en Californie ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'artiste a voulu que cette dame nue vous fasse penser à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Ruée vers l'or en Californie, la ruée vers l'or, l'or, la Californie, l'exploitation minière, l'orpaillage ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "652666_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "652689_1 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Personnellement, je ne comprends pas, mais l'artiste voulait que cette femme nue vous fasse penser à <BLANK>. ",
+      "t": "A",
+      "v": "652661_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

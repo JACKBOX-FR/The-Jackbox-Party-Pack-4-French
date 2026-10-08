@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les blancs, un faible taux de sucre dans le sang, des fantômes, ses médicaments sur ordonnance, son rédacteur de discours, le climatiseur en panne, le directeur adjoint, ISIS, le président Obama, le réchauffement climatique, être ivre, avoir mal à la tête, des œufs pourris, sa mère, ses chiens, être fatigués, Italiens, nazis ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "directeurs de mauvaise qualité ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "le diable ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après avoir fait un commentaire raciste lors d'une remise de diplômes d'études secondaires en 2015, un directeur de Géorgie s'est excusé mais a imputé l'incident à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "diable ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après avoir fait un commentaire raciste lors d'une remise de diplômes au lycée en 2015, un directeur de Géorgie s'est excusé mais a imputé l'incident à <BLANK>. ",
+      "t": "A",
+      "v": "408400_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

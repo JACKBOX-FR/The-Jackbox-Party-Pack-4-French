@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "feux d'artifice, shorts coupés, hot-dogs cuits, citoyens canadiens, la couleur orange, soutiens-gorge, drapeaux brandissants, Ronald Reagan, rituels païens, frisbees, acclamations, moutarde raffinée, son voisin ennuyeux, enfants, Harrison Ford, croustilles bleues, son ex-femme, Jeff Goldblum ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Quatrième juillet ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les garçons de la plage ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le secrétaire à l’Intérieur James Watt a indigné les Américains lorsqu’il a interdit <BLANK> des célébrations du 4 juillet à Washington en 1983. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "garçons de plage, garçons de plage, rock, groupes de rock, musique rock, rock and roll, rock'n roll, rock & roll ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a dit que tous les groupes de rock attiraient « le mauvais élément », et si les mamans éméchées que j'ai vues aux concerts des Beach Boys en sont une indication, il avait raison. ",
+      "t": "A",
+      "v": "608891_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le secrétaire à l'Intérieur James Watt a indigné les Américains lorsqu'il a interdit <BLANK> des célébrations du 4 juillet 1983 à Washington. ",
+      "t": "A",
+      "v": "608888_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

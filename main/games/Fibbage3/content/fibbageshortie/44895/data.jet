@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un regard venu ici, assez d'argent, un pet, de l'aspartame, le canal d'apprentissage, des photos de sa mère, un homme en costume d'alligator, du fard à paupières, une mouffette fraîchement tuée, de la poésie, des températures glaciales, des airs de spectacle, de la cire chaude, du beurre de cacahuète, une marionnette, James Earl Jones ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Notes de musique ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un tuba ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La vie était plus simple en 2007. Nous avons eu suffisamment de temps libre pour découvrir que vous pouvez éveiller un alligator avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "si bémol, tuba, a si bémol, le tuba ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Un si bémol joué sur un tuba pour être exact. Fonctionne pour moi aussi. (SFX : tuba) Oooooh ça y est. ",
+      "t": "A",
+      "v": "600281_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La vie était plus simple en 2007. Apparemment, nous avions suffisamment de temps libre pour découvrir que vous pouvez éveiller un alligator avec <BLANK>. ",
+      "t": "A",
+      "v": "600278_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

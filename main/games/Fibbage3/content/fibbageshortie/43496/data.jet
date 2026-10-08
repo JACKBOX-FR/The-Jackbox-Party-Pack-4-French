@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "avoir des relations sexuelles, se faire des tatouages temporaires, du breakdance, boire du gin, falsifier des cadavres, jouer, allumer des feux d'artifice, faire de la comédie d'improvisation, péter, vendre de la bière, avoir des batailles de rap, chasser les fantômes, faire de la luge, se déshabiller, faire du roller, jouer avec les morts, jouer à des jeux de rôle, chanter ABBA ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "griefs en deuil ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "prendre des selfies ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Les directeurs de funérailles du Québec sont confrontés à un étrange défi : ils tentent d'empêcher les gens de <BLANK> pendant les services. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "prendre des selfies funéraires,prendre des photos d'eux-mêmes,prendre des photos,prendre des photos ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Si cette journée ne vous concerne pas, je ne sais pas ce que c'est. ",
+      "t": "A",
+      "v": "563783_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Les directeurs de pompes funèbres du Québec sont confrontés à un étrange défi : ils tentent d'empêcher les gens de <BLANK> pendant les services. ",
+      "t": "A",
+      "v": "563780_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

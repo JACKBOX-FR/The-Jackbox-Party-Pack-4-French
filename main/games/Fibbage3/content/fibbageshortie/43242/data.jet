@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se raser, se masturber, faire pipi, nu, chanter, faire l'amour, danser, prendre son petit-déjeuner, boire, lever le drapeau, courir, jouer du clairon, ramper, recharger, se recroqueviller de peur, finir une lettre, dormir, se poignarder ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "ne tire pas ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "faire caca ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon l'historien de la guerre civile Alfred Jay Bollet, il existait un code non écrit parmi les soldats selon lequel ils ne se tireraient pas dessus en <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "déféquer, aller à la selle, chier, aller au pot ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Nous avons besoin de cette règle pour le bureau Jackbox. ",
+      "t": "A",
+      "v": "559098_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon l'historien de la guerre civile Alfred Jay Bollet, il existait un code non écrit parmi les soldats selon lequel ils ne se tireraient pas dessus en <VIDE>. ",
+      "t": "A",
+      "v": "559095_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

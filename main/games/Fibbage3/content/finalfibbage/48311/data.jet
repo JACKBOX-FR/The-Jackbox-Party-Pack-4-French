@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sexe | sont ivres, diarrhée | envoient des SMS, accidents | prennent des selfies, disputes | sont fatigués, liaisons | sont célibataires, applications | sont mariés, confiance | ont tort, charisme | rires, repas gras | sont tristes, amusants | ne se soucient pas de ce que les gens pensent, gaz | sont à l'église, activité cérébrale | éternuements, culpabilité | négliger leurs animaux de compagnie, déchets inutiles | avoir un garage, salade | commencez simplement à sortir avec quelqu'un quelqu'un, regrette | vit à Reno, cheveux en arrière | se lave avec un luffa, jambon | pense qu'il est seul ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le plus ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "amis|ont 25 ans ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Des chercheurs des universités d'Aalto et d'Oxford ont étudié les relevés téléphoniques de plus de 3,2 millions d'Européens et ont découvert que les gens ont le plus de <VIERGE> lorsqu'ils <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "amis|ont 25 ans,amis|ont 25 ans,amis|ont dans la vingtaine,amis|ont dans la vingtaine,amis|ont la vingtaine ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est fou, j'ai eu le même nombre d'amis toute ma vie. Il y a ma mère, mes chats... euh... et les autres... centaines. ",
+      "t": "A",
+      "v": "683574_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Des chercheurs des universités d'Aalto et d'Oxford ont étudié les relevés téléphoniques de plus de 3,2 millions d'Européens et ont découvert que les gens ont le plus de <BLANK> lorsqu'ils <VIDE>. ",
+      "t": "A",
+      "v": "683571_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

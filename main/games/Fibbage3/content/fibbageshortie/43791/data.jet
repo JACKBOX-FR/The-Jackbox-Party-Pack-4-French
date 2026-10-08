@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les globe-trotters de Harlem, Riverdance, nsync, les inventeurs des pogs, les raisins secs de Californie, les Muppets, le casting de Friends, les dauphins qui ont échappé à Sea World, les sept nains, les animaux de Homeword Bound, Mark McGwire et Sammy Sosa, les Orioles de Baltimore de 1974, les Simpsons, Mary Kate et Ashley Olsen, KISS, les créateurs de Zima, Pearl Jam, Mr et Mme MC Hammer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Les héros de Mandela ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les Spice Girls ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1997, Nelson Mandela disait : « Ce sont mes héros ». Étonnamment, il parlait de rencontrer <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "filles aux épices ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est bien qu'il ait obtenu ce qu'il voulait vraiment. ",
+      "t": "A",
+      "v": "569552_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1997, Nelson Mandela a déclaré : « Ce sont mes héros. » Étonnamment, il parlait de rencontrer <BLANK>. ",
+      "t": "A",
+      "v": "569549_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

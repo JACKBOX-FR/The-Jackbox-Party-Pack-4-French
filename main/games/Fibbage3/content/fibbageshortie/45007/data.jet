@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nez, kangourou, alligator, poupée, saucisse, canapé, zombie, aspirateur, oncle, hipster, astronaute, ange, émotionnel, jetpack, sous l'eau, sauce, homme des cavernes, clown ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Sports allemands ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "doigt ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Dans la ville allemande de Lenggries, plus de 100 hommes se rassemblent pour participer au championnat annuel de lutte <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est comme « Over the Top », mais avec juste des conseils. ",
+      "t": "A",
+      "v": "602221_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Dans la ville allemande de Lenggries, plus d'une centaine d'hommes se rassemblent pour participer au championnat de lutte annuel <BLANK>. ",
+      "t": "A",
+      "v": "602218_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

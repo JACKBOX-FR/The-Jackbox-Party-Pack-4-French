@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "manoir, cinéma drive-in, casino, piste d'atterrissage d'OVNI, parc à thème, piscine à balles, club de strip-tease, Hard Rock Café, lave-auto, système de métro, studio de danse, maison hantée, réplique de la Tour Eiffel, spectacle de feux d'artifice, iceberg, station balnéaire, usine de biscuits, voilier ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "louange le toit ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "montagne ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Zhang Biqing, un résident excentrique de Pékin, a décidé qu'il manquait quelque chose à son immeuble, alors naturellement il a construit un <BLANK> sur le toit. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il est toujours plus facile d'accès que la plupart des bars sur les toits. ",
+      "t": "A",
+      "v": "561088_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Zhang Biqing, un résident excentrique de Pékin, a décidé qu'il manquait quelque chose dans son immeuble, alors naturellement il a construit un <VIERGE> sur le toit. ",
+      "t": "A",
+      "v": "561085_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

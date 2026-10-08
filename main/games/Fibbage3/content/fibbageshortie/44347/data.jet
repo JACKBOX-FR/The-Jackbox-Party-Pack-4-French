@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "rhinocéros hérissés, billets de loterie, roombas armés, robots féminins, gymnastes, Big Mac, girafes cyborg, boomerangs, lettres, bandes dessinées, autruches, gorilles d'attaque, bébés, papas en colère, voitures autonomes, anguilles électriques, billes, missiles à la recherche de braconniers ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Braconnage ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "chiens de parachutisme ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En plus des mesures traditionnelles d'application de la loi, l'Afrique du Sud a commencé à lutter contre les braconniers avec plus de 200 <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "parachutistes pour chiens,chiens en parachute ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les braconniers pensent simplement que les chiens sautent en parachute pour s'amuser... jusqu'à ce qu'il soit TROP TARD. ",
+      "t": "A",
+      "v": "585694_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En plus des mesures traditionnelles d'application de la loi, l'Afrique du Sud a commencé à lutter contre les braconniers avec plus de 200 <BLANK>. ",
+      "t": "A",
+      "v": "585691_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

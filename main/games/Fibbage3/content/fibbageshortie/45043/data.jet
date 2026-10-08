@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "musicien, octogénaire, menuisier professionnel, stupide, sourd, extraterrestre, poète slam, ordinateur, mannequin, chat, clown, sept pieds, imaginaire, enrobé de chocolat, enceinte, star de télé-réalité, intolérant au lactose, millénaire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "NASA ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "poulet en caoutchouc ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Camilla Corona, qui a effectué cinq missions aux confins de l’espace, a été la première astronaute <BLANK> de la NASA. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Tout cela faisait partie d'une mission farfelue visant à poser des lunettes Groucho géantes sur la lune. ",
+      "t": "A",
+      "v": "603349_2 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Camilla Corona, qui a effectué cinq missions aux confins de l'espace, a été la première astronaute <BLANK> de la NASA. ",
+      "t": "A",
+      "v": "603346_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

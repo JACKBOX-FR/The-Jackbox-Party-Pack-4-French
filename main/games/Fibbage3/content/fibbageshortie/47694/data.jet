@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "brosse à cheveux, cockpit de vaisseau spatial, sushi à queue jaune, boîte de cure-dents haut de gamme, pot de compote de pommes, boîte en carton, crayon, ballon de plage, bol de nourriture pour chien, jeu de cartes, sucette, chien robot, arbre à chat, laisse de porc-épic, morceau de gomme, billet de 100 $, masque de Batman, jeu de crocs de vampire ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trop d'argent ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "coupe glacée ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Pensez à fréquenter Serendipity 3 à New York, où vous pouvez acheter un <BLANK> de 1 000 $. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coupe glacée, glace, glace du dimanche ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ou vous pourriez donner 1 000 $ à une œuvre caritative... bien sûr, je plaisante. ",
+      "t": "A",
+      "v": "665949_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Vous avez un peu d'argent à dépenser ? Eh bien, pensez à fréquenter Serendipity 3 à New York, où vous pouvez acheter mille dollars <BLANK>. ",
+      "t": "A",
+      "v": "665946_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

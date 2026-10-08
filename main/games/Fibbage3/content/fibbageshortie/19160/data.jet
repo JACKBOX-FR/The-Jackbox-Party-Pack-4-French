@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "IHOP, Tennis Monthly, French Toast Crunch, Denny's, la Ligue nationale de football, Batteurs à œufs, bacon Oscar Mayer, jus d'orange Tropicana, Folgers, Tante Jemima, Spatula City, Land O' Lakes, Eggo, Bisquick, Hungry Jack, Thomas English Muffins, Eggland's Best, Jimmy Dean ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Argent de golf ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Maison de gaufres ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La golfeuse professionnelle Brooke Pancake a haussé les sourcils lorsqu'elle a signé un accord de parrainage avec <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Gaufres ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Dans le cadre de l'accord, elle ne peut utiliser qu'un gaufrier. ",
+      "t": "A",
+      "v": "382274_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]La golfeuse professionnelle Brooke Pancake a haussé les sourcils lorsqu'elle a signé un accord de parrainage avec <BLANK>. ",
+      "t": "A",
+      "v": "382271_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

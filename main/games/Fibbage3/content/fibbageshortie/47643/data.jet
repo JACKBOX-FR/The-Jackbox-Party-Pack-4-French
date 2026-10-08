@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "ongles, vêtements, dents, poils du dos, moustaches, sang, enfants, inhibitions, paupières, cerveaux, troisième œil, verrues, créanciers, petit déjeuner, iPhones, balançoires, horloges et montres, produits capillaires ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Traitements expérimentaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "intestins ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Bayard Holmes et Henry Cotton avaient une méthode inhabituelle pour traiter la schizophrénie chez leurs patients : se débarrasser de leur <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "organes, tripes, intestin, côlon, côlon, intestin ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Est-ce que ça a fonctionné ? Si par travail vous entendez tuer beaucoup de patients, alors oui, c'est le cas. ",
+      "t": "A",
+      "v": "664653_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Bayard Holmes et Henry Cotton avaient une méthode inhabituelle pour traiter la schizophrénie chez leurs patients : se débarrasser de leur <VIERGE>. ",
+      "t": "A",
+      "v": "664650_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

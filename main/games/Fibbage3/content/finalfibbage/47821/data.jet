@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "un bol à salade | un bol de céréales, son couteau | un coupe-ongles, sa pelle | une arme, une cuillère | une clé pour sa porte d'entrée, une basse | une guitare, du papier sulfurisé | du papier toilette, une théière | une cafetière, une tondeuse à gazon | une méthode de coupe de cheveux, je ne peux pas croire que ce n'est pas du beurre | du beurre, un rock cool | de l'argent, une dinde | un partenaire d'entraînement, de la salive de porc | un lubrifiant personnel, un cimeterre|un cure-dent,ses fesses|un arrêt de porte,un livre de poésie|une façon d'impressionner les dames,un ours brun|un sac de couchage,de l'humour|un bouclier émotionnel,ses dents|un attaquant de match ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Erreurs historiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un os de baleine|un cathéter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le père fondateur des États-Unis, le Gouverneur Morris, a connu une mort inhabituelle. Il est décédé peu de temps après avoir essayé d'utiliser <BLANK> comme <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un os|un cathéter,os|cathéter,os|un cathéter,os de baleine|un cathéter,un os de baleine|un cathétar,un os de baleine|un cathater,un os de baleine|un cathatar ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Il a essayé de corriger un blocage des voies urinaires en prenant un morceau d'os et en l'enfonçant dans son... (de douleur) D'accord, je dois aller m'allonger... ",
+      "t": "A",
+      "v": "668813_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]États-Unis Le père fondateur Gouverneur Morris a connu un décès inhabituel. Il est décédé peu de temps après avoir essayé d'utiliser <BLANK> comme <BLANK>. ",
+      "t": "A",
+      "v": "668810_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

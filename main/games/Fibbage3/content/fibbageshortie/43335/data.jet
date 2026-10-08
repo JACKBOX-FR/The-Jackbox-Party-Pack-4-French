@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "tuer une licorne, meurtre, masturbation, posséder un poisson rouge, poignarder une ombre, viande, violence dans les jeux vidéo, divorce, piétiner un insecte, jeter des détritus, manger du yaourt, avoir une conversation téléphonique bruyante, voyager dans le temps, envoyer des SMS en conduisant, chasser les fantômes, aller à un rendez-vous Tinder, débrancher un robot, prendre des photos pour un brunch ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Le meurtre que nous avons écrit ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "tuer Bigfoot ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2017, le neuropsychologue Dr Samuel Webb Sentell a soulevé la question importante « Est-ce que <BLANK> est un meurtre ? » ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "tirer sur Bigfoot, tuer Big Foot, tirer sur Big Foot, tirer sur des yétis, tuer des yétis ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]Fibbage n'est peut-être pas le bon lieu pour ce débat. ",
+      "t": "A",
+      "v": "569679_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Malheureusement, nous n'avons pas de réponse à YETI. ",
+      "t": "A",
+      "v": "560638_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2017, le neuropsychologue Dr Samuel Webb Sentell a soulevé la question importante « Est-ce que <BLANK> est un meurtre ? » ",
+      "t": "A",
+      "v": "560635_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

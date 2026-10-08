@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Exposition de peinture au doigt, festival de glace, reconstitutions de la guerre civile, tournoi d'échecs, zoo pour enfants, défilé de la paix, magasin de crème glacée, concert d'accordéon, parc à thème, Hackathon, ciné-parc, Enchantment Under the Sea Dance, piscine, Bake Off, hippodrome, foire de l'hygiène, musée d'art, défilé de mode ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Prison angolaise ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "rodéo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Chaque dimanche d'octobre, au pénitencier de l'État de Louisiane, les enfants âgés de deux ans ou moins bénéficient d'une entrée gratuite à la prison d'Angola <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Heureusement, ils doivent être accompagnés d'un adulte. ",
+      "t": "A",
+      "v": "563033_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Tous les dimanches d'octobre, au pénitencier de l'État de Louisiane, les enfants âgés de deux ans ou moins bénéficient d'une entrée gratuite à la prison d'Angola <BLANK>. ",
+      "t": "A",
+      "v": "563030_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

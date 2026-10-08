@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "abattoir, prison, morgue, club de gentleman, studio d'acupuncture, franchise SeaWorld, atelier clandestin, aéroport, militaire, force de sécurité, cafétéria, comité de discipline, cirque, bar et grill, club de comédie, bateau pirate, monarchie, station spatiale ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Arts libéraux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "réacteur nucléaire ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Le Reed College, dans l'Oregon, est le seul collège d'arts libéraux au monde doté d'un <BLANK> géré par les étudiants. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Réacteur, arme nucléaire, centrale électrique, centrale nucléaire, réacteur nucléaire, centrale nucléaire ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Vous avez la garantie d'un C tant que vous ne provoquez pas de Godzilla. ",
+      "t": "A",
+      "v": "603925_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Le Reed College dans l'Oregon est le seul collège d'arts libéraux au monde doté d'un <BLANK> géré par les étudiants. ",
+      "t": "A",
+      "v": "603922_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

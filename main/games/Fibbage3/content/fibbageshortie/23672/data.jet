@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Pompiers, agents des services secrets, femmes de ménage, FBI, majordomes, bérets verts, garde-côtes, Navy SEALS, professeurs d'école à domicile, équipes SWAT, instructeurs de golf, négociateurs d'otages, sages-femmes, acteurs, bibliothécaires, fleuristes, lutteurs, cadres de télévision. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "JOEY ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Ambulanciers ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Après l'annulation de l'émission dérivée de courte durée <i>Friends</i> <i>Joey</i>, le décor du salon a été transformé en simulateur d'entraînement pour <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Médecins ambulanciers, personnel ambulancier, paramédicaux, médecins, hôpitaux, ambulanciers, ambulanciers ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela doit expliquer pourquoi ils traitent autant de cas de nausées. ",
+      "t": "A",
+      "v": "416565_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Après l'annulation de l'émission dérivée de courte durée <i>Friends</i> <i>Joey</i>, le décor du salon a été transformé en simulateur d'entraînement pour <BLANK>. ",
+      "t": "A",
+      "v": "416562_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

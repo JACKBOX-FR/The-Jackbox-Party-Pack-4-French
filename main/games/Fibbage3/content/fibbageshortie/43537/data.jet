@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Les cendres de cigarette d'Humphrey Bogart, le soutien-gorge de Joan Crawford, les bas de Marilyn Monroe, la pipe d'Albert Einstein, le premier joueur de Betamax, le petit livre noir de JFK, les toilettes d'Alcatraz, la première fermeture éclair, le premier orgasme enregistré, une fausse Mona Lisa, un billet de trois dollars américains, un « jackalope » en peluche, le journal vide de Charlie Chaplin, une poupée Barbie anatomiquement correcte, un fossilisé Une crotte de T-Rex, une mauvaise équation pour la fission atomique, une serviette dédicacée par Martin Luther King, la première bouteille d'eau en plastique ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Trésor des enchères ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Le pénis de Napoléon ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 1977, John J. Lattimer a assisté à une vente aux enchères et a acheté un étrange morceau d'histoire. Ce jour-là, il est devenu l'heureux propriétaire de <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "le pénis de Napoléon, le pénis de Napoléon Bonaparte ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ce n'est en fait pas aussi court qu'on pourrait le penser. ",
+      "t": "A",
+      "v": "564696_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 1977, John J. Lattimer a assisté à une vente aux enchères et a acheté un étrange morceau d'histoire. Ce jour-là, il est devenu l'heureux propriétaire de <BLANK>. ",
+      "t": "A",
+      "v": "564693_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

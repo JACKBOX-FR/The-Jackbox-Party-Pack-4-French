@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sauté sur un canapé, chanté, crié, dit quelque chose de sarcastique, pleuré, serré dans ses bras, branché, étaient « en pause », se moquaient de Ross, portaient des vêtements amples, allaient au travail, prononçaient des mots mal, déclenchaient une guerre, mentionnaient Saddam Hussein, voyageaient dans le temps, utilisaient Internet, prononçaient le mot « mégots », oubliaient leurs répliques ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Amis ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "bu du café ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Kit Lovelace a mené des recherches importantes. Elle a regardé les 236 épisodes de <i>Friends</i> et a suivi la fréquence à laquelle ils <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "prendre un café, boire du café, prendre un café, commander du café, siroter un café, prendre un café ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Phoebe était la première buveuse de café, totalisant 227 tasses. ",
+      "t": "A",
+      "v": "675625_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Kit Lovelace a mené des recherches importantes. Elle a regardé les 236 épisodes de <i>Friends</i> et a suivi la fréquence à laquelle ils <BLANK>. ",
+      "t": "A",
+      "v": "675622_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

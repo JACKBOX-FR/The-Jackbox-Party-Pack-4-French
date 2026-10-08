@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Corgis, Phil Donahue, Richard Simmons, Garfield, Dilbert, Oprah, Stone Phillips, Madea, eux-mêmes, la Cour suprême des États-Unis de 1968, des nuggets de poulet dinosaure, des sandwichs au jambon, la légende de la WNBA Lisa Leslie, Tom de MySpace, le premier Burger King, Frosty le bonhomme de neige, Bono, le batteur de Bon Jovi ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Appréciation des fans ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Jar Jar Binks ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'Altoona Curve, une équipe de baseball de ligue mineure, a organisé une soirée promotionnelle vraiment étrange pour les fans en 2016. Leurs joueurs portaient des maillots avec des photos de <BLANK> dessus. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "pot pot binks, pot pot, jarjar binks, jarjar ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'Altoona Curve, une équipe de baseball de ligue mineure, a organisé une soirée promotionnelle vraiment étrange pour les fans en 2016. Leurs joueurs portaient des maillots avec des photos de <BLANK> dessus. ",
+      "t": "A",
+      "v": "669130_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

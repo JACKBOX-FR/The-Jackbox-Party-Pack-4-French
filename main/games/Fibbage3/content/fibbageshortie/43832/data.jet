@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "cocon, KISS, ncis, Harry Potter, jours de nos vies, Jurassic Park, métamucil, Ronald Reagan, Demolition Man, Retour vers le futur, Twilight Zone, Ayn Rand, NASA, Oregon Trail, I Love Lucy, Alamo, Andy Griffith, Cats: The Musical ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Maisons de retraite thématiques ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Margaritaville ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2018, les communautés Minto ouvriront une maison de retraite sur le thème <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Jimmy Buffett, Margarita Ville ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]C'est le thème de CHAQUE maison de retraite à la seconde où les petits-enfants partent. ",
+      "t": "A",
+      "v": "570116_0 ",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est sympa au début, mais il y a une grave pénurie de salières ",
+      "t": "A",
+      "v": "570112_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Envie de garder un peu de piquant dans la vie, même à un âge avancé ? En 2018, les communautés Minto ouvriront une maison de retraite sur le thème <BLANK>. ",
+      "t": "A",
+      "v": "570109_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

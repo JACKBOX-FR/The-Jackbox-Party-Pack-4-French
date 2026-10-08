@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "chatbots, imitateurs de Julian Assange, robots, chaînes de restauration rapide, chiens qui parlent, milliardaires, personnages de dessins animés, téléphones portables, jongleurs, matelas, écureuils, plants de café, voyageurs du temps, les sans-abri, la lune, les surfeurs, les licornes, les moustaches ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Égalité des droits ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "naturel ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2008, l'Équateur est devenu le premier pays à accorder des droits égaux à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "mère nature,arbres,environnement,environnement ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]L'écosystème peut légalement être défendeur dans un procès. ",
+      "t": "A",
+      "v": "601253_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2008, l'Équateur est devenu le premier pays à accorder l'égalité des droits à <BLANK>. ",
+      "t": "A",
+      "v": "601250_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

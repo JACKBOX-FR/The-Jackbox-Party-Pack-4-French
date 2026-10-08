@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "confiture de fraises, œufs durs, règles, clés, branches, céréales, Bluray, araignées, bière, reggae, gomme, splenda, air comprimé, poupées en porcelaine, doublons espagnols, acteur Walter Brennan, chaussettes en sueur, feuilles de menthe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Avertissements médicaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "nids de guêpes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Répondant à un mythe sur les bienfaits supposés pour la santé, le Dr Jen Gunter a publié un avertissement en mai 2017 exhortant les femmes à ne pas mettre <BLANK> dans leur vagin. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "nids de guêpes, nid de guêpes, nids de guêpes, ruche de guêpes, ruches de guêpes, nid de guêpes, filles de chêne, galles de guêpes, galles ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Cela SEMBLE être une très bonne idée. Allez comprendre. ",
+      "t": "A",
+      "v": "665342_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En réponse à un mythe sur les bienfaits supposés pour la santé, le Dr Jen Gunter a publié un avertissement en mai 2017 exhortant les femmes à ne pas mettre <BLANK> dans leur vagin. ",
+      "t": "A",
+      "v": "665339_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

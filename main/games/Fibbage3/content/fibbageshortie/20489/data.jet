@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "voler moins, détester la musique, trouver la lumière moins intéressante, être attiré par les miroirs, vomir plus, être meilleur dans la résolution de problèmes, mourir de faim, faire l'amour avec les cheveux, laisser les humains tranquilles, halluciner, voir plus de couleurs, dormir moins, voler sans arrêt, migrer vers le sud, se frotter à la végétation, s'en prendre à leurs enfants, attirer les prédateurs, devenir plus facile à tuer ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Bogues frustrés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "boire plus ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Un rapport révolutionnaire publié dans le magazine <i>Science</i> en 2012 affirmait que les mouches sexuellement frustrées avaient tendance à <VIER>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "boire de l'alcool, consommer plus d'alcool, consommer de l'alcool, boire plus d'alcool ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Mais vous pouvez vraiment savoir quand ils commencent à arracher l'étiquette de leurs bières. ",
+      "t": "A",
+      "v": "398774_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Un rapport révolutionnaire publié dans le magazine <i>Science</i> en 2012 affirmait que les mouches sexuellement frustrées avaient tendance à <BLANK>. ",
+      "t": "A",
+      "v": "398771_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Cheveux, dents, vêtements de bébé, coudes, chaussettes, livres à colorier, photo préférée, Jack-In-The-Box, Bible, billes, main gauche, soldats de plomb, espoirs et rêves, Etch-A-Sketch, jouet le plus cool, signature, sceau officiel, jeu d'échecs. ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "La vie grecque ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Yo-Yo ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Lorsque les enfants de la Grèce antique atteignaient l'âge adulte, ils devaient plaire aux dieux en plaçant leur <BLANK> sur un autel. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "yo-yos, yoyo, yo yo, yoe yoe, yoe-yoe ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les Grecs ont inventé le Yo-Yo. Ce n’est pas un euphhamisme. ",
+      "t": "A",
+      "v": "591047_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Lorsque les enfants de la Grèce antique atteignaient l'âge adulte, ils devaient plaire aux dieux en plaçant leur <BLANK> sur un autel. ",
+      "t": "A",
+      "v": "591044_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

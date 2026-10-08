@@ -1,0 +1,106 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "la majesté d'une baleine, un brunch, des buffets, des gaufres belges, des fanfares, du café pas cher, des sodas faits maison, des références des Simpsons, The Hunger Games, des tatouages de fesses, Lenny Kravitz, Batman, des chaussettes, des jus de fruits, Dora l'exploratrice, des nains de jardin, des livres à colorier, des quilles ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "José Canseco ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "seins latéraux ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Dis quoi ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Jose Canseco a tweeté : « dépassé par <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "18h52<br />24 février 2013 ",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "@JoseCanseco ",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "sideboob, côté seins, côté seins ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "586296_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Veuillez suivre Jose Canseco sur Twitter. ",
+      "t": "A",
+      "v": "586294_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]TWEET DE CÉLÉBRITÉ ! En février 2013, Jose Canseco a tweeté : « dépassé par <BLANK> ». ",
+      "t": "A",
+      "v": "586291_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

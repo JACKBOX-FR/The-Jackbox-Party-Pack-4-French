@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "couteaux à steak, soutiens-gorge, cartes de visite, parfums, sacs à main, ordinateurs portables, motos, spray au poivre, chips de pomme de terre, vin, faux ongles, poing américain, tongs, pâtés, pistolets, viagra, déodorant, dents en or ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Produits pour bébés ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "talons hauts ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Michele Holbrook a mis en colère de nombreux parents lorsqu'elle a fondé une entreprise qui vend du <BLANK> pour bébés. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "talons, escarpins, talons aiguilles, stylet, guérit ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Bien sûr, ils ne pourront peut-être pas marcher dedans, mais mon Dieu, est-ce que ça donne à leurs mollets un aspect fantastique. ",
+      "t": "A",
+      "v": "406314_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Michele Holbrook a mis en colère de nombreux parents lorsqu'elle a fondé une entreprise qui vend des <BLANK> pour bébés. ",
+      "t": "A",
+      "v": "406311_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les adolescents, les célébrités, les insectes géants, la poste, les musiciens, les scientifiques, les citoyens étrangers, la superstition, la classe ouvrière, le hasard, les animaux, les astrologues, les boulangers, les médias, les voyageurs dans le temps, les professeurs d'université, les bibliothécaires, un bébé ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Direction ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les pires personnes possibles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Inventé en 1829, « kakistocratie » est le mot désignant une société gouvernée par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "les gens qui sont les pires, les pires, les pires d'entre nous, les pires personnes, les mauvaises personnes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]En temps opportun ? Vous décidez. ",
+      "t": "A",
+      "v": "580800_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Inventé en 1829, « kakistocratie » est le mot désignant une société gouvernée par <BLANK>. ",
+      "t": "A",
+      "v": "580797_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

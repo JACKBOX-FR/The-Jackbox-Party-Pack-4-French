@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "se baigner, assister à des retraites de travail, poser les sièges de toilettes, voter, arriver tôt au travail, rester en dehors de Twitter, retirer leurs écouteurs, prendre des notes lors de réunions, balancer des collègues, prendre un verre après le travail, manger de la nourriture au bureau, engager une petite conversation, travailler 80 heures par semaine, sourire, se raser, acheter des biscuits pour les éclaireuses, porter des jupes, jouer dans l'équipe de softball ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Loi du Missouri ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se faire implanter une puce d'identification ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "La loi 285.035.1 du Missouri stipule qu'aucun employeur ne peut forcer ses employés à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "obtenir une puce d'identification, se faire opérer d'une puce d'identification, se faire implanter une puce, un implant d'identification ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Quelles gens sympas ! La loi du Missouri deux quatre-vingt-cinq, trente-cinq, dit qu'aucun employeur ne peut forcer ses employés à <VIERGE>. ",
+      "t": "A",
+      "v": "564618_0",
+      "n": "QuestionAudio"
+    }
+  ]
+}

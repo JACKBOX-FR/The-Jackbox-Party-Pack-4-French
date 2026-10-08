@@ -1,0 +1,104 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "nettoyer la salle de bain, laver les instruments, habiller les cadavres, divertir les invités, prendre un café, creuser des tombes, avertir la famille de la victime, faire les livres, chanter Edith Piaf, prendre des photos, faire des pancartes de bureau, commander de la nourriture, entretenir le site Web, construire des meubles, garder les cadavres, concevoir des logiciels, gérer la réception, conduire un corbillard ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Danny DeVito ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "coiffer les cheveux des femmes mortes ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Avant de devenir un acteur à succès, Danny DeVito travaillait dans une morgue, où son travail consistait à <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "coiffer, coiffer les femmes, couper les cheveux des femmes, couper les cheveux des femmes mortes, coiffer les cheveux du cadavre, coiffer, coiffer le cadavre, coiffer, être esthéticienne ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Avant de devenir un acteur à succès, Danny DeVito travaillait dans une morgue, où son travail consistait à <BLANK>. ",
+      "t": "A",
+      "v": "377888_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

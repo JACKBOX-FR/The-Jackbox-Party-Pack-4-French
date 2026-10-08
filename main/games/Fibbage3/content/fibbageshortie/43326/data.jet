@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "une quinte de toux, une nouvelle table livrée, une crampe aux jambes, sa lecture de fortune, un déjà vu, un appel téléphonique du passé, un dysfonctionnement de l'inhalateur, son sang a circulé, 50 McNuggets, son 90e anniversaire, ses amygdales retirées, sa cécité temporaire, sa voiture volée, la même chose s'est produite la veille, une sieste de 20 heures, des cours de surf, une affaire White Castle Crave entière, un appel en colère avec Comcast ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Aïe, ma fierté ! ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "un cauchemar sur les araignées ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "L'ancien joueur de la Ligue majeure Glenallen Hill s'est blessé un jour en tombant à travers une table en verre. Il était désorienté parce qu’il venait d’avoir <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "un cauchemar,un cauchemar,un rêve,un mauvais rêve,un mauvais rêve,un rêve effrayant,des rêves effrayants,un rêve sur les araignées ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Ses coéquipiers ont commencé à l'appeler Spider-Man. Tu sais, parce que Peter Parker tombe toujours à travers les tables. ",
+      "t": "A",
+      "v": "560363_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]L'ancien joueur de la Ligue majeure Glenallen Hill s'est blessé un jour en tombant à travers une table en verre. Mais pour sa défense, il était désorienté parce qu’il venait d’avoir <BLANK>. ",
+      "t": "A",
+      "v": "560360_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

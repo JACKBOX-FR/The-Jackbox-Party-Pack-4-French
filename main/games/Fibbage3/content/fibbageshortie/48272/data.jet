@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "aux toilettes, cuisiner une pizza surgelée, tondre la pelouse, désherber le jardin, faire semblant d'être mort, gagner un concours de hot-dog, épouser sa sœur, s'évader de prison, se faire épiler le dos, se faire une coloscopie, vomir après avoir bu, juger un concours de t-shirts mouillés, jongler avec le saumon, se faire tirer dessus par un canon, chasser le canard, frapper l'éboueur, stries, soulever des poids ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Romance ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "se faire arrêter ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Brandon Thompson est un romantique non traditionnel. Il a proposé à sa petite amie alors que <VIDE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "être arrêté,être arrêté,être arrêté,être arrêté,être menotté,être menotté ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host](vraiment content pour eux) Et elle a dit oui ! ",
+      "t": "A",
+      "v": "682440_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Brandon Thompson est un romantique non traditionnel. Besoin d'une preuve ? Il a proposé à sa petite amie alors que <VIDE>. ",
+      "t": "A",
+      "v": "682437_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

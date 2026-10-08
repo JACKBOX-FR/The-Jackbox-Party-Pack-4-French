@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "hamburger|côté de frites,bateau|jeu de roues,personne|troisième bras,pantalon|bande velcro au lieu d'une fermeture éclair,guitare|son vraiment funky,épouse qui appelle sa propre|araignée de compagnie,carte|boussole intégrée, paire de jumeaux|tendance au yodel,homme|main lente, douairière|secret sombre, fantôme|chercheur de fantômes fait maison,nickel qu'il a perdu|groupe de tournée en 2008,temple|lueur dans le noir crâne, policier à cheval | différence, café | connexion wifi fiable, maman | poignard hanté, serpent | triple tête, serveuse | attitude impertinente ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Objectifs de vie",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "canard|tête rose ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Depuis 2009, l'explorateur Richard Thorns a effectué six voyages au Myanmar à la recherche d'un <BLANK> avec un <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]C'est une espèce rare que l'on croit éteinte, mais... ATTENDEZ, IL Y EN A UNE ! (effet sonore : coin-coin) Oh. Non, c’est plutôt fuchsia. ",
+      "t": "A",
+      "v": "669403_0f ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Depuis 2009, l'explorateur Richard Thorns a effectué six voyages au Myanmar à la recherche d'un <BLANK> avec un <BLANK>. ",
+      "t": "A",
+      "v": "669400_1 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

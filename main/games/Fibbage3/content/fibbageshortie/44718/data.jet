@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Recettes de Julia Child, poèmes d'Emily Dickinson, paroles de Bob Dylan, gribouillages de Gary Larson, photos des pieds de Ben Franklin, plumes de pingouin, citations de Will Smith, plans pour la moto de Fonzie, jurons oubliés, odeurs de l'Utah, recettes Budweiser rejetées, couleurs qui ne sont pas tout à fait violettes, mots qui riment avec orange, répliques d'acteur de Spaceballs, échantillons de tapis, dessins de nus d'Adlai Stevenson, les partitions de bowling de Richard Nixon, les paroles de Kid Rock ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Brièvement noté ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Phyllis Diller blagues ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Début 2017, le Smithsonian a lancé un appel à volontaires pour aider à archiver plus de 50 000 fiches contenant <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "Phylis Diller blagues,Phyllis Diler blagues,Phyllis Diller gags ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Les gens qui fouillent dans ses tiroirs, c'est exactement ce qu'elle aurait voulu. ",
+      "t": "A",
+      "v": "595283_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Début 2017, le Smithsonian a lancé un appel à bénévoles pour aider à archiver plus de 50 000 fiches contenant <BLANK>. ",
+      "t": "A",
+      "v": "595280_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

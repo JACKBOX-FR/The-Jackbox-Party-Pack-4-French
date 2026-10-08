@@ -1,0 +1,107 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "sourire, douleur, point de beauté, oreille d'elfe, amour, bouche de serpent, favoris, alimentation compétitive, blush, nouveau visage, prothèses dentaires, sourire tordu, bouton, voix grave, sous-morsure, bonne haleine, menton carré, morsure puissante ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "inventions obscures ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "fossette ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Photos",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Ce brevet américain, déposé en 1923 par Evangeline I. Gilbert, était destiné au fabricant révolutionnaire <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "fossettes ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]Maintenant, pointez vos yeux vers cette chose... ",
+      "t": "A",
+      "v": "563235_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "v": "570521_2 ",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Même en 1923, tout le monde voulait ressembler à Mario Lopez. ",
+      "t": "A",
+      "v": "563233_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host][PICTURE QUESTION] Ce brevet américain, déposé en 1923 par Evangeline I. Gilbert, était destiné au fabricant révolutionnaire <BLANK>. ",
+      "t": "A",
+      "v": "563230_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

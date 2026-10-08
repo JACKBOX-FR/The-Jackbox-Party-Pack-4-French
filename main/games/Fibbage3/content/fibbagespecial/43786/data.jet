@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "vengeance, chiens, pluie d'été, courriels en colère, lait chaud, crachat de chèvre, lave, chaussures, araignées mortes, oiseaux vicieux, pluie gelée, eau de gouttière, haleine de chien, lait aigre, flèches ennemies, vin en boîte, chagrin, sauce ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Neys Keetee ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "les larmes des souris ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "Russe ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Si vous vouliez utiliser la version russe de l’expression « Ce qui circule revient », vous diriez « Le chat finira par recevoir une averse de <BLANK> ». ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "larmes de souris, larmes de souris, larmes de souris, larmes de souris, larmes de souris, larmes de souris, larmes de souris, larmes de rat, larmes de rat, larmes de rat, larmes de rat ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "v": "569350_0 ",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Si vous vouliez utiliser la version russe de l'expression \"Ce qui se passe revient\", vous diriez \"Le chat finira par recevoir une averse de <BLANK>\". ",
+      "t": "A",
+      "v": "569345_2 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

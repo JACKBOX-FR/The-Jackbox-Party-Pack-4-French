@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "refuge pour sans-abri | épicerie, bibliothèque | salle d'urgence, collège | boulangerie, hôpital | stand de tir, magasin de bandes dessinées | taxidermiste, aquarium | orphelinat, cabinet d'avocats | garderie, terrain de golf | collège pour femmes, clinique de santé | bordel, décharge | country club, maison de retraite | grand magasin, cinéma | fourrière à chiens, magasin d'armes | magasin de fournitures de tricot, internat | lot de voitures d'occasion, buffet de pizza | voiture lavage,usine de traitement des eaux|microbrasserie,casino|centre anonyme des joueurs,atelier de carrosserie automobile|bureau du proctologue ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Deux grandes choses ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "club de strip-tease|église ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "À Guelph, en Ontario, vous trouverez peut-être ce dont vous avez besoin dans un établissement appelé The Manor, qui, depuis avril 2014, est à la fois un <VIERGE> et un <VIERGE>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "club de gentlemen|église,club de gentlemen|église,club de gentlemans|église,club de gentlemen|église,bar de strip-tease|église,joint de strip-tease|église,joint de strip-teaseuse|église,bar|église,taverne|église,pub|église,abreuvoir|église ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host] ",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Avant de faire des plans, sachez simplement que le club de strip-tease n'est pas ouvert le dimanche matin. ",
+      "t": "A",
+      "v": "679730_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]À Guelph, en Ontario, vous trouverez peut-être ce dont vous avez besoin dans un établissement appelé The Manor, qui, depuis avril 2014, est à la fois un <BLANK> et un <BLANK>. ",
+      "t": "A",
+      "v": "679727_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

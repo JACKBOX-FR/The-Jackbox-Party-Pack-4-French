@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "les singes, Tom Cruise et Brad Pitt, Eddie Murphy, Mike Myers, Ben Stiller et Owen WIlson, une troupe de cirque britannique, des marionnettes à doigts, Peter Jackson, des joueurs de rugby, les Jonas Bros., Mark et Donny Wahlberg, des cochons, des pingouins, des bonhommes de neige, les Muppets, les Schtroumpfs, les Simpsons, le gang des Peanuts ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Seigneur des Anneaux ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "Les Beatles ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "Selon le réalisateur Peter Jackson, avant la production de sa trilogie <i>Le Seigneur des Anneaux</i>, une autre version avait été tentée dans laquelle les personnages principaux auraient été joués par <BLANK>. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "John Lennon, Paul McCartney, Ringo Starr, George Harrison, les Beetles, Beatles, Beetles, les Fab Four ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[catégorie = hôte]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Je sais juste que Yoko aurait volé l'anneau du pouvoir. ",
+      "t": "A",
+      "v": "397523_1 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]Selon le réalisateur Peter Jackson, avant la production de sa trilogie <i>Le Seigneur des Anneaux</i>, une autre version avait été tentée dans laquelle les personnages principaux auraient été joués par <BLANK>. ",
+      "t": "A",
+      "v": "397520_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}

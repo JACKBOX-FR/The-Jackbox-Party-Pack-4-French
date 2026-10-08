@@ -1,0 +1,105 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasKeywordAudio"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasBumperType"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasCorrectAudio"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQuestionAudio"
+    },
+    {
+      "t": "S",
+      "v": "Je n'ai pas de cow-man, Où est le bœuf ?, Faites la fête avec les mecs !, Semper Fi, Embrasse mes grains, Cowabunga, Règles de Stifler, Gros gars en petit manteau, Ma femme !, De haut en haut, C'est ce qu'elle a dit, C'est chaud, C'est une boulette de viande épicée, Personne ne s'attend à l'Inquisition espagnole, Ta mère, Care Bear Stare, Bazinga, Yo Joe ",
+      "n": "Suggestions"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "PersonalQuestionText"
+    },
+    {
+      "t": "S",
+      "v": "Farces d'examen ",
+      "n": "Category"
+    },
+    {
+      "t": "S",
+      "v": "C'est Sparte ",
+      "n": "CorrectText"
+    },
+    {
+      "t": "S",
+      "v": "None ",
+      "n": "BumperType"
+    },
+    {
+      "t": "S",
+      "v": "En 2008, Kevin Xu et Jake Bryant ont mené avec succès une campagne en ligne encourageant leurs camarades du secondaire à écrire le slogan « <BLANK> » dans la section de dissertation de leurs examens AP. ",
+      "n": "QuestionText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaDate"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponse"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "SocialMediaName"
+    },
+    {
+      "t": "S",
+      "v": "C'est Sparte ! ",
+      "n": "AlternateSpellings"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[category=host]",
+      "t": "A",
+      "n": "BumperAudio"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    },
+    {
+      "s": "[category=host]Prouver que n'importe quel lycéen peut faire le travail de Zach Snyder. ",
+      "t": "A",
+      "v": "569522_0 ",
+      "n": "CorrectAudio"
+    },
+    {
+      "s": "[category=host]En 2008, Kevin Xu et Jake Bryant ont mené avec succès une campagne en ligne encourageant leurs camarades du secondaire à écrire le slogan <BLANK> dans la section de dissertation de leurs examens AP. ",
+      "t": "A",
+      "v": "569519_0 ",
+      "n": "QuestionAudio"
+    }
+  ]
+}
